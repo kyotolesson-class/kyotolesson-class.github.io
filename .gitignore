@@ -1,0 +1,14 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.vscode
+.history
+junior_coders/teacher_notes/upstream.code-workspace
+junior_coders/monday_pm/images/SnapNDrag Library.snapndraglibrary
+junior_coders/teacher_notes/default copy.html
+junior_coders/teacher_notes/drafts/
+junior_coders/lessons/Drafts/
+.DS_Store
+junior_coders/teacher_notes/lessonDrafts
+junior_coders/teacher_notes/webExperiments

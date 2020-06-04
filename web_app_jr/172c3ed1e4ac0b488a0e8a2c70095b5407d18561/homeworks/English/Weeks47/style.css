@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: block;
+    background: linear-gradient(40deg, rgb(33, 112, 231) -10%, rgb(236, 148, 89) 100%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+h2{
+    font-size: 3.5rem;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+.line{
+    border-top: white 2px solid;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 5vh;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.card{
+    margin: 5px;
+    padding: 20px 50px 20px 50px;
+    border: black 1px solid;
+    border-radius: 10px;
+    background-color: white;
+    opacity: 0.9;
+}
+
+.card h3{
+    color: rgb(236, 148, 89);
+}
+
+.card img{
+    height: 250px;
+}
+
+.box{
+    margin: 5px;
+    width: 35%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.content-text{
+    text-align: justify;
+    padding: 25px;
+}
+
+section{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
