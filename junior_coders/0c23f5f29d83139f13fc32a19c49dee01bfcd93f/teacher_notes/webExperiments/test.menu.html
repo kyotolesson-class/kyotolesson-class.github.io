@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" />
+
+
+    <link rel="shortcut icon" href="media/icon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="files/style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+
+            // hides submenus until clicked.
+            $(".tag-h3").toggle();
+            $(".tag-h2 a").mouseover(function() {
+                //alert("Handler for .click() called.");
+                $(this).parent().next().nextUntil(".tag-h2").toggle();
+
+                //nextUntil(".tag-h2").toggle(); nextUntil(".tag-h3").
+            });
+        });
+    </script>
+    <title>Your Title Here</title>
+
+    <style>
+        body {
+            background-color: ivory;
+            font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        }
+        
+        #banner {
+            right: 0%;
+            top: 140px;
+        }
+        
+        .ournav {
+            width: 100%;
+            background-color: beige;
+            padding: 0px 0px 0px 0px;
+            align-items: center;
+            margin: 10px 0 10px 0;
+        }
+        
+        #header1 h1.ournav {
+            background-color: #f8f9fa;
+        }
+        
+        .ournav-links {
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+            margin: 0px 0px;
+            padding: 0px 0px 0px 0px;
+        }
+        
+        .ournav-item {
+            padding: 5px 5px;
+            margin: 0px 0px;
+            /*border: 1px solid beige;*/
+        }
+        
+        .ournav-item a {
+            display: inline-block;
+            text-decoration: none;
+        }
+        
+        header {
+            padding-left: 0px;
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        header#header1 h1 {
+            width: 100%;
+            max-width: 646px;
+            border-radius: 10px;
+        }
+        
+        div#contentHeader h1 {
+            text-decoration: underline;
+            font-size: large;
+            text-align: center;
+            margin-top: 25px;
+            margin-bottom: 20px;
+        }
+        
+        h2 {
+            font-size: medium;
+            margin: 50px 20px 20px 20px;
+            /* border-left: 3px #3f72b2 solid;
+            border-top: 1px #3f72b2 solid;
+            padding: 0px 0px 0px 20px; */
+        }
+        
+        div#contentWrapper ul li ul {
+            padding: 0px 0px 0px 20px;
+            margin-bottom: 0px;
+        }
+        
+        a,
+        nav ul a {
+            color: #3399cc;
+        }
+        
+        nav ul {
+            padding-left: 0px;
+        }
+        
+        a:hover,
+        nav ul a:hover {
+            color: #3e71b2;
+            background-color: #ffec9f;
+            /* border: 1px solid blue; */
+        }
+        
+        nav ul .tag-h1 a:hover {
+            color: darkgreen;
+            /* background-color: lightblue;
+    border: none;*/
+        }
+        
+        .tag-h2 {
+            text-align: left;
+            /* border-left: 3px #3f72b2 solid; */
+            padding: 10px 0px 0px 0px;
+            margin-bottom: 0px;
+        }
+        
+        .tag-h2+.tag-h2 {
+            /* removes duplicate display */
+            display: none;
+        }
+        
+        .tag-h2 a {
+            font-weight: 900;
+            font-size: 14px;
+            border-left: 3px #3f72b2 solid;
+            padding: 0px 0px 0px 3px;
+        }
+        
+        .tag-h3 {
+            padding: 0px;
+        }
+        
+        @media print,
+        screen and (max-width: 720px) {}
+        
+        #banner {
+            top: 110px;
+        }
+        
+        nav {
+            overflow: auto;
+            padding: 5px;
+            max-height: calc(100% - 250px);
+            top: 190px;
+        }
+        /* fixes bad scrolling to anchors */
+        
+        html {
+            scroll-padding-top: 170px;
+        }
+        
+        body {
+            scroll-padding-top: 170px;
+        }
+        /* fixes bad scrolling on gallery */
+        
+        #contentWrapper {
+            overflow-x: auto;
+        }
+        /*
+@media print,
+screen and (max-width: 1060px) {
+    nav {
+        display: inline-block;
+        position: relative;
+        top: 200px;
+        margin-left: 0px;
+    }
+}
+
+
+@media print,
+screen and (max-width: 480px) {
+    section {
+        margin-top: 190px;
+    }
+}
+
+
+
+
+@media print,
+screen and (max-width: 720px) {
+    section {
+        margin-top: 190px;
+    }
+}
+
+*/
+        
+        li {
+            display: block;
+            transition-duration: 0.5s;
+            border: 1px solid blue;
+        }
+        
+        li:hover {
+            cursor: pointer;
+        }
+        
+        .shown {
+            display: block;
+        }
+        
+        .hideme {
+            display: none;
+        }
+        
+        .tag-h3 {
+            /* visibility: hidden;
+            opacity: 0;
+            position: relative;
+            transition: all 0.5s ease;
+            left: 0;;
+            display: none;*/
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li class="tag-h1 active">
+                <a href="#------------------------------------------------------------------------------------junior-coders----------------">
+						&nbsp; Junior Coders
+					</a>
+            </li>
+            <li class="tag-h1">
+                <a href="#getting-started-with-scratch-jr-monday-pm----------------">Getting Started with Scratch Jr. (Monday PM)
+					</a>
+            </li>
+            <li class="tag-h2"><a href="#may-11th">May 11th</a></li>
+            <li class="tag-h2"><a href="#may-11th">May 11th</a></li>
+            <li class="tag-h3">
+                <a href="#may-4th-homework-review">May 4th Homework Review</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#main-idea-control-buttons"
+						>Main Idea: Control Buttons</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#using-controls-race-to-the-finish"
+						>Using Controls: Race to the Finish</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#preview-for-may-18th-follow-the-maze-project"
+						>Preview for May 18th: Follow the Maze Project</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#may-11th-homework-finish-the-follow-the-maze"
+						>May 11th Homework: Finish the Follow the Maze</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#may-11th-zoom-issues">May 11th Zoom Issues</a>
+            </li>
+            <li class="tag-h2"><a href="#may-4th">May 4th</a></li>
+            <li class="tag-h2"><a href="#may-4th">May 4th</a></li>
+            <li class="tag-h3">
+                <a href="#animate-my-name">Animate My name</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#student-homework-notes">Student Homework Notes</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#homework-part-1-keep-working-on-alien-planet">Homework Part 1: Keep working on Alien Planet</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a
+						href="#homework-part-2-a-story-based-on-the-hare-and-tortoise"
+						>Homework Part 2: A Story Based on the Hare and
+						Tortoise</a
+					>
+				</li>
+				<li class="tag-h2"><a href="#april-27th">April 27th</a></li>
+            <li class="tag-h2"><a href="#april-27th">April 27th</a></li>
+            <li class="tag-h3">
+                <a href="#skills-review">Skills Review</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#teacher-says-with-zoom">Teacher Says with Zoom</a>
+            </li>
+            <li class="tag-h3"><a href="#alien-planet">Alien Planet</a></li>
+            <li class="tag-h3">
+                <a href="#how-to-send-projects">How to send projects</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#update-scratchjr">Update Scratchjr</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#april-27-homework">April 27 Homework</a>
+            </li>
+            <li class="tag-h3"><a href="#addenda">Addenda</a></li>
+            <li class="tag-h2"><a href="#april-20th">April 20th</a></li>
+            <li class="tag-h2"><a href="#april-20th">April 20th</a></li>
+            <li class="tag-h3">
+                <a href="#sending-messages-by-making-a-conversation">Sending Messages by Making a Conversation</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#continue-the-conversation"
+						>Continue the conversation</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#the-keys-to-messages">The KEYS to Messages</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#april-20-homework">April 20 Homework</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#going-to-a-different-screen">Going to a different Screen</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#the-dragon-maze-almost-solved"
+						>The Dragon Maze almost solved</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#zoom-problems">Zoom problems</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#next-class-review">Next Class: Review</a>
+            </li>
+            <li class="tag-h3"><a href="#feedback">Feedback</a></li>
+            <li class="tag-h2"><a href="#april-13th">April 13th</a></li>
+            <li class="tag-h2"><a href="#april-13th">April 13th</a></li>
+            <li class="tag-h3"><a href="#using-zoom">Using Zoom</a></li>
+            <li class="tag-h3"><a href="#game-black">Game: Black</a></li>
+            <li class="tag-h3">
+                <a href="#scratchjr-messages">ScratchJr: Messages</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#disappearing-dragons">Disappearing Dragons</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#april-13-homework">April 13 Homework</a>
+            </li>
+            <li class="tag-h2"><a href="#april-6th">April 6th</a></li>
+            <li class="tag-h2"><a href="#april-6th">April 6th</a></li>
+            <li class="tag-h3">
+                <a href="#postponing-the-homework">Postponing the Homework</a
+					>
+				</li>
+				<li class="tag-h3">
+					<a href="#discord-to-zoom">Discord to Zoom</a>
+            </li>
+            <li class="tag-h3">
+                <a href="#dragon-maze-demo">Dragon Maze Demo</a>
+            </li>
+            <li class="tag-h2"><a href="#march-30th">March 30th</a></li>
+            <li class="tag-h2"><a href="#march-30th">March 30th</a></li>
+            <li class="tag-h3">
+                <a href="#thank-you-discord">Thank you. Discord.</a>
+            </li>
+            <li class="tag-h2"><a href="#march-23rd">March 23rd</a></li>
+            <li class="tag-h2"><a href="#march-23rd">March 23rd</a></li>
+            <li class="tag-h3"><a href="#first-class">First Class</a></li>
+        </ul>
+    </nav>
+</body>
+
+</html>

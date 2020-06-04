@@ -1,0 +1,105 @@
+
+
+<style>
+/**
+  Advanced Checkbox Hack
+  
+  # What? #
+  The better Checkbox-Hack because it works for both iOS and Android. 
+
+  ## 1. Android <= 4.1.2
+  pseudo-class + general/adjacent sibling doesn't 
+  work on Android so we need a hack:
+
+  body { -webkit-animation: bugfix infinite 1s; }
+  @-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
+
+  ## 2. iOS < 6.0
+  Due to a bug on iOS it's not possible to click the label
+  to toggle the input (checkbox), so we add an empty 
+  onclick to the label:
+
+  <label for="button" onclick>click / touch</label>
+
+
+  # 2012 by Tim Pietrusky
+  # timpietrusky.com
+**/
+
+body { -webkit-animation: bugfix infinite 1s; }
+@-webkit-keyframes bugfix { from {padding:0;} to {padding:0;} }
+
+input[type=checkbox] {
+   position: absolute;
+   top: -9999px;
+   left: -9999px;
+}
+
+label { 
+  cursor: pointer;
+  user-select: none;
+}
+
+/* styling */
+body {
+  margin:.5em;
+  font: 1em sans-serif;
+}
+
+h1 {
+  position:fixed;
+  z-index:-1;
+  top:.25em;
+  left:8em;
+  font-size:1.3em;
+  width:14em;
+  color:#666;
+}
+
+label {
+    display:inline-block;
+    background:#ccc;
+    margin:0 0 .5em 0;
+    padding:1em 2em;
+}
+
+div {
+   background: hsla(24, 80%, 50%, .8);
+   width: 26em;
+   height: 10em;
+   line-height: 100px;
+   color: white;
+   text-align: center;
+}
+
+/* checked */
+input[type=checkbox]:checked ~ div {
+   background: hsla(120, 80%, 50%, .8);
+}
+
+input[type=checkbox]:checked ~ div span {
+  background: hsla(310, 60%, 50%, .8);
+  padding:1em;
+}
+
+input[type=checkbox]:checked ~ label {
+   background: hsla(220, 80%, 50%, .8);
+}
+
+
+</style>
+
+
+<h1>Advanced Checkbox Hack</h1>
+
+<input type="checkbox" id="button" />
+<label for="button" onclick>click / touch</label>
+
+<div>
+  Change my color!
+  <br>
+  <span>even mine :D</span>
+</div>
+
+
+
