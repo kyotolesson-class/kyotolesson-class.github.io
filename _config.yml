@@ -1,1 +1,19 @@
+plugins:
+  - jekyll-relative-links
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
 theme: jekyll-theme-leap-day
+markdown: kramdown
+kramdown:
+    parse_block_html: true
+    input: GFM 
+    hard_wrap: false
+github: [metadata] 
+encoding: UTF-8 
