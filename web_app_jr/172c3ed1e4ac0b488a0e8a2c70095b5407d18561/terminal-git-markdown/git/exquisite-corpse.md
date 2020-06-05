@@ -60,5 +60,5 @@ Realise a [Exquisite corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) wit
 - [Git workflow](http://blog.launchdarkly.com/wp-content/uploads/2016/07/Slide2.jpg)
 
 ## Next Step :
-- [Git: Training](00-terminal-git-markdown/git/practice.md)
-- [Markdown: Group work](00-terminal-git-markdown/markdown/group-work.md)
+- [Git: Training](./practice.md)
+- [Markdown: Group work](../markdown/group-work.md)

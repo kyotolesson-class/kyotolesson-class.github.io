@@ -16,7 +16,7 @@ sudo apt-get install git
 Then **You can use *Git* now.**
 
 ## Next Step:
-- [Git: Setup](00-terminal-git-markdown/git/setup.md)
-- [Git: Exercice of Exquisite Corpse](00-terminal-git-markdown/git/exquisite-corpse.md)
-- [Git: Training](00-terminal-git-markdown/git/practice.md)
-- [Markdown: Group work](00-terminal-git-markdown/markdown/group-work.md)
+- [Git: Setup](./setup.md)
+- [Git: Exercice of Exquisite Corpse](./exquisite-corpse.md)
+- [Git: Training](./practice.md)
+- [Markdown: Group work](../markdown/group-work.md)

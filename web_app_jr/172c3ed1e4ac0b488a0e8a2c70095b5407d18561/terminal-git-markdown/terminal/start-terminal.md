@@ -49,8 +49,8 @@ Can you list what command are missing?
 [online Terminal](https://web-terminal-e92cb.firebaseapp.com/)
 
 ## Next Step:
-- [Git: Linux installation](00-terminal-git-markdown/git/installation.md)
-- [Git: Setup](00-terminal-git-markdown/git/setup.md)
-- [Git: Exercice of Exquisite Corpse](00-terminal-git-markdown/git/exquisite-corpse.md)
-- [Git: Training](00-terminal-git-markdown/git/practice.md)
-- [Markdown: Group work](00-terminal-git-markdown/markdown/group-work.md)
+- [Git: Linux installation](../git/installation.md)
+- [Git: Setup](../git/setup.md)
+- [Git: Exercice of Exquisite Corpse](../git/exquisite-corpse.md)
+- [Git: Training](../git/practice.md)
+- [Markdown: Group work](../markdown/group-work.md)

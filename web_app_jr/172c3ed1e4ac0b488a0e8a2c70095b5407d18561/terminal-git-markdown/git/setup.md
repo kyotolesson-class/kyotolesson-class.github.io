@@ -82,7 +82,7 @@ This creates a new ssh key, using the provided email as a label.
 [create-pull-request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
 ### Next Step:
-- [Git: Exercice of Exquisite Corpse](00-terminal-git-markdown/git/exquisite-corpse.md)
-- [Git: Training](00-terminal-git-markdown/git/practice.md)
-- [Markdown: Group work](00-terminal-git-markdown/markdown/group-work.md)
+- [Git: Exercice of Exquisite Corpse](./exquisite-corpse.md)
+- [Git: Training](./practice.md)
+- [Markdown: Group work](../markdown/group-work.md)
 
