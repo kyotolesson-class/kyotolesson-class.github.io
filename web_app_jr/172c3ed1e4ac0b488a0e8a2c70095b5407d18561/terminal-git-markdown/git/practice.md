@@ -15,4 +15,4 @@ Time: 1 day
 
 ## Next Step :
 
-- [markdown group work](00-terminal-git-markdown/markdown/group-work.md)
+- [Markdown: Group work](00-terminal-git-markdown/markdown/group-work.md)
