@@ -91,10 +91,15 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 1st](#june-1st)
+  * [Message Mania Part 1](#message-mania-part-1)
+  * [May 25th Homework Review](#may-25th-homework-review)
+  * [3 Little Pigs in ScratchJr](#3-little-pigs-in-scratchjr)
+  * [June 1st homework](#june-1st-homework)
 * [May 25th](#may-25th)
   * [Homework Review](#homework-review)
-  * [Message Mania Part 1](#message-mania-part-1)
-    * [[UPDATE]](#update)
+  * [Message Mania Part 1](#message-mania-part-1-1)
+    * [[UPDATE to Message Mania Part 1]](#update-to-message-mania-part-1)
   * [May 25th Homework](#may-25th-homework)
   * [Also Coming Up on June 1st](#also-coming-up-on-june-1st)
 * [May 18th](#may-18th)
@@ -139,8 +144,43 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 </div>
 
-* Click [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+* Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
   
+
+<details>
+<summary>## June 1st
+</summary>
+
+## June 1st
+
+
+### Message Mania Part 1
+
+We watched the video about [Message Mania Part 1](#update-to-message-mania-part-1){: .innerlink}
+
+### May 25th Homework Review
+
+We reviewed the homework assignments the kids submitted. They were great and kids enjoy talking about their projects with the class. Kids worked together to fix some problems.
+
+### 3 Little Pigs in ScratchJr
+
+Some kids told their own version of the 3 Little Pigs. The assignment was to plan, on paper, without using ScratchJr, how they would tell the story. This included:
+
++ Designing the characters and houses
++ Plotting out the actions
++ Writing dialogue
+
+The purpose was to think about the project before actually starting to code it. I reviewed their plans, and when they were ready they started coding. Here is my example of what my plan and first screen look like. See [here](../lessons/3LittlePigsInScratchJr.html) for more information.
+
+### June 1st homework
+
+The homework is:
+
+1. Complete and submit their final project to me.
+
+2. (**DO NOT USE SCRATCHJR. PLANNING ONLY.**) Think about other stories you might want to tell in scratch. Be ready to tell the story in class! 
+
+</details>
 
 <details>
 <summary>## May 25th
@@ -184,7 +224,7 @@ The purpose of the project was:
 * Clicking a button can make several characters move at once.
 * Help some students use Messages instead of Wait buttons to control sequence and timing. 
 
-#### [UPDATE]
+#### [UPDATE to Message Mania Part 1]
 I could see that some kids were struggling with this so I called in the Big Dogs. Here is a video showing what to do. If you have any questions, let me know. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WA4_xoRt1r8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
