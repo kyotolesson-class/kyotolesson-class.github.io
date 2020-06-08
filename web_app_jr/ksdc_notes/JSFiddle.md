@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Teacher Notes
-title2: (Friday PM) 
+title: JSFiddle
+title2: (for Friday PM) 
 ---
 
 ### Div Playgrounds
