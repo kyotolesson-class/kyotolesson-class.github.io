@@ -91,6 +91,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 8th](#june-8th)
+  * [June 8th Homework Review](#june-8th-homework-review)
+  * [Individual stories](#individual-stories)
+  * [June 8th Homework](#june-8th-homework)
 * [June 1st](#june-1st)
   * [Message Mania Part 1](#message-mania-part-1)
   * [May 25th Homework Review](#may-25th-homework-review)
@@ -147,6 +151,27 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
   
 
+<details>
+<summary>## June 8th
+</summary>
+
+## June 8th
+
+### June 8th Homework Review
+
+Today we reviewed the 3 Little Pigs Project that students submitted. They were all very creative in their work. We had the chance to do some practice debugging as a group when one of the projects didn't work as expected. It was a great thinking exercise and I think the kids enjoyed it.
+
+### Individual stories
+
+I then gave the students the in class assignment, which was to tell a new story. This time it could be any story they wanted. First students worked with pen and paper outlining the story, then started in on ScratchJr. Some of them based it on stories they new, some made entirely original stories. As students were working I went around the room and helped them with problems or questions they had.
+
+
+### June 8th Homework
+
+This week's homework is to finish their Individual Story Project and email it to me. 
+
+
+</details>
 <details>
 <summary>## June 1st
 </summary>
