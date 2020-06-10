@@ -163,7 +163,7 @@ Today we reviewed the 3 Little Pigs Project that students submitted. They were a
 
 ### Individual stories
 
-I then gave the students the in class assignment, which was to tell a new story. This time it could be any story they wanted. First students worked with pen and paper outlining the story, then started in on ScratchJr. Some of them based it on stories they new, some made entirely original stories. As students were working I went around the room and helped them with problems or questions they had.
+I then gave the students the in class assignment, which was to tell a new story. This time it could be any story they wanted. First students worked with pen and paper outlining the story, then started in on ScratchJr. Some of them based it on stories they knew, some made entirely original stories. As students were working I went around the room and helped them with problems or questions they had.
 
 
 ### June 8th Homework
