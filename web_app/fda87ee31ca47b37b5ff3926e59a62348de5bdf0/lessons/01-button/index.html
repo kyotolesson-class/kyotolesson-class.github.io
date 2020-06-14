@@ -38,7 +38,7 @@
     <meta name="robots" content="index, follow">
 
     <!--favicon (used for icon on website's tab)-->
-    <link rel="shortcut icon" type="image/png" href="../../../img/00_Meta_favicon.png">
+    <link rel="shortcut icon" type="image/png" href="../../../../img/00_Meta_favicon.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -57,7 +57,7 @@
 <body>
     <h1>
         <a class="navbar-brand" href="https://kyotolesson.com">
-            <img src="../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
+            <img src="../../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
                 alt="Kyoto Lesson"></a>
     </h1>
 
@@ -65,12 +65,48 @@
     <div class="container-fluid">
         <div><a href="../">( back )</a></div><br>
         <div class="row" id="curriculum">
-            <h2>Web App Builders - Missions</h2>
+            <h2>Buttons: quick review of style elements</h2>
         </div>
         <div class="row">
-            <ul>
-                <li><a href="./01-button">button</a></li>
-            </ul>
+            <pre>
+                <code>
+
+                    /* Style your button here! */
+                    .mybutton{
+                        margin: 6px;                /* spaces in 4-directions outside button*/
+                        font-size: 30px;            /* text size*/
+                        background-color: grey;
+                        color: white;   /* text color*/
+                        border: 4px solid rgb(58, 76, 110);  /* size style color*/
+                        border-radius: 5px;         /* round aspect*/
+                        transition: 0.01s;          /* time to transition for hover and active*/
+                        height: 50px;
+                        width: 300px;
+                    }
+                    .mybutton p{
+                        padding-bottom: 6px;               /* spaces down inside paragraph*/
+                    }
+
+                    /* Use :hover to change your button's hover color */
+                    .mybutton:hover{
+                        font-size: 30px;
+                        background-color: white;
+                        color: grey;
+                        border: 4px solid black;
+                        border-radius: 100px;
+                        margin-left: 10px; 
+                     }                    
+
+                     /* Use :active to change your button's hover color */
+                     .mybutton:active{
+                         background-color: white;
+                         color: white;
+                         border: white;
+                     }
+                     
+
+                </code>
+            </pre>
         </div>
 
         <br><br>
