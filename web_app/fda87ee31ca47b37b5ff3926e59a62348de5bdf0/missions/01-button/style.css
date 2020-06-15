@@ -1,0 +1,55 @@
+/* Style your button here! */
+.mybutton{
+    margin: 6px;                /* spaces in 4-directions outside button*/
+    font-size: 30px;            /* text size*/
+    background-color: grey;
+    color: white;   /* text color*/
+    border: 4px solid rgb(58, 76, 110);  /* size style color*/
+    border-radius: 5px;         /* round aspect*/
+    transition: 0.01s;          /* time to transition for hover and active*/
+    height: 50px;
+    width: 300px;
+}
+.mybutton p{
+    padding-bottom: 6px;               /* spaces down inside paragraph*/
+}
+/* Use :hover to change your button's hover color */
+.mybutton:hover{
+    font-size: 30px;
+    background-color: white;
+    color: grey;
+    border: 4px solid black;
+    border-radius: 100px;
+    margin-left: 10px; 
+ }
+ 
+
+
+/* Use :active to change your button's hover color */
+.mybutton:active{
+    background-color: white;
+    color: white;
+    border: white;
+}
+
+
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+body {
+    margin: 5vh 25vw 0 25vw;
+}
+
+video {
+    border-style: dashed;
+    width: 300px;
+}
+
+.todo-list {
+    display: flex;
+    align-content: center;
+}
+
+.todo-list label {
+    margin-bottom: 0;
+    margin-left: 8px;
+}
