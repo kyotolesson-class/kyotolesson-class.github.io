@@ -1,0 +1,52 @@
+/* Style your navbar here! */
+/* The most important point here is that we use flex to evenly space the button */
+.nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+/* Style your button here! */
+button {
+    border: none;
+    border-radius: 5px;      /* makes your corners "rounded" */
+    padding: 10px;           /* padding = spaces in 4-directions outside button*/
+    width: 150px;
+    transition: .5s;
+}
+
+/* Use :hover to change your button's hover color */
+button:hover {
+    background: orange;
+}
+
+/* Here, we're using "active" as a class name to add style to one button per page */
+.active {
+    background: orange;
+}
+
+
+/*  *//*  *//*  *//*  *//*  *//*  *//*  */
+body {
+    margin: 5vh 25vw 0 25vw;
+}
+
+img {
+    margin: auto;
+}
+
+video {
+    border-style: dashed;
+    width: 50vw;
+}
+
+.todo-list {
+    display: flex;
+    align-content: center;
+}
+
+.todo-list label {
+    margin-bottom: 0;
+    margin-left: 8px;
+}
