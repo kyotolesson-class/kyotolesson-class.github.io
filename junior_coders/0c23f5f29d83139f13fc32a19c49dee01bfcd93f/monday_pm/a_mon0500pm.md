@@ -395,7 +395,7 @@ If you are motivated, you can go to the advanced version: **Message Mania for 6*
 At the end of the Follow the Maze Project, the cake appears when Cat enters the last square. I used a special trick to do that. It uses Controls in a special way. Can you figure it out? Click below  for a hint:
 
 <details>
- <summary>Click for Hint
+<summary>Click for Hint
 </summary>
 
 <!-- does not show -->
