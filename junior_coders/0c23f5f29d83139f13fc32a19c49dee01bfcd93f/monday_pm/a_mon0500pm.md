@@ -91,6 +91,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 22nd](#june-22nd)
+  * [Review Collaborative Project: "Teamwork 5000"](#review-collaborative-project-teamwork-5000)
+  * [Debugging Exercises for "A Day at the Beach"](#debugging-exercises-for-a-day-at-the-beach)
+  * [Storyboarding](#storyboarding)
+  * [June 22nd Homework](#june-22nd-homework)
 * [June 15th](#june-15th)
   * [Review Projects](#review-projects)
   * [Collaborative Project: "Teamwork 5000"](#collaborative-project-teamwork-5000)
@@ -127,7 +132,42 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
   
+<details>
+<summary>## June 22nd
+</summary>
 
+## June 22nd
+
+### Review Collaborative Project: "Teamwork 5000"
+
+First we reviewed student homeworks. 
+
+### Debugging Exercises for "A Day at the Beach"
+
+We did a reverse engineering project. I showed students teh  [A Day at the Beach Project](./scratchProjects/Y1R47AdayatthebeachMod.sjr) from BootUp ans students had to answer the following questions:
+
+1. Why does the car leave without Scratch Cat?
+
+2. Why do we have two Scratch Cats when the surfboard is left on the beach?
+
+Have students reverse engineer it. See [answers](#reverse-engineer-a-day-at-the-beach-answers).
+
+### Storyboarding
+
+Students then Storyboarded their own day at the beach story. Each student and I reviewed each student's project together to make sure it was complete, and they began to code it.
+
+### June 22nd Homework
+
+The homework is to finish the project and email it to me.
+
+Also, optionally, students can download  [A Day at the Beach Project](./scratchProjects/Y1R47AdayatthebeachMod.sjr)  project and try to debug these two other problems we didn't look at:
+
+1. Why don’t we switch to the third backdrop when Scratch Cat decides to surf?
+
+2. Why doesn’t the crab talk while moving on the screen?
+
+
+</details>
 <details>
 <summary>## June 15th
 </summary>
