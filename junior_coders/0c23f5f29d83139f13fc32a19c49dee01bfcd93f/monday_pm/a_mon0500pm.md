@@ -94,7 +94,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [June 22nd](#june-22nd)
   * [Review Collaborative Project: "Teamwork 5000"](#review-collaborative-project-teamwork-5000)
   * [Debugging Exercises for "A Day at the Beach"](#debugging-exercises-for-a-day-at-the-beach)
-    * [Reverse Engineer "A Day at the Beach" Answers](#reverse-engineer-a-day-at-the-beach-answers)
+    * [Answers for Debugging "A Day at the Beach"](#answers-for-debugging-a-day-at-the-beach)
   * [Storyboarding](#storyboarding)
   * [June 22nd Homework](#june-22nd-homework)
 * [June 15th](#june-15th)
@@ -154,10 +154,10 @@ We did a reverse engineering project. I showed students teh  [A Day at the Beach
 Have students reverse engineer it. Click below for answers.
 
 <details>
-<summary>#### Reverse Engineer "A Day at the Beach" Answers
+<summary>#### Answers for Debugging "A Day at the Beach"
 </summary>
 
-#### Reverse Engineer "A Day at the Beach" Answers
+#### Answers for Debugging "A Day at the Beach"
 
 1. We need to make Scratch Cat hide before the car drives away
 
