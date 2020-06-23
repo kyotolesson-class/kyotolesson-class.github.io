@@ -38,7 +38,7 @@
     <meta name="robots" content="index, follow">
 
     <!--favicon (used for icon on website's tab)-->
-    <link rel="shortcut icon" type="image/png" href="../../../img/00_Meta_favicon.png">
+    <link rel="shortcut icon" type="image/png" href="../../../../img/00_Meta_favicon.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -57,7 +57,7 @@
 <body>
     <h1>
         <a class="navbar-brand" href="https://kyotolesson.com">
-            <img src="../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
+            <img src="../../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
                 alt="Kyoto Lesson"></a>
     </h1>
 
@@ -65,15 +65,43 @@
     <div class="container-fluid">
         <div><a href="../">( back )</a></div><br>
         <div class="row" id="curriculum">
-            <h2>Web App Builders - Saturday Morning Class</h2>
+            <h2>Linked buttons: quick review of style elements</h2>
         </div>
         <div class="row">
-            <ul>
-                <li><a href="./02-linked-buttons">June 20, 2020</a></li>
-            </ul>
-            <ul>
-                <li><a href="./01-button">June 13, 2020</a></li>
-            </ul>
+            <pre>
+                <code>
+
+                    /* Style your navbar here! */
+                    /* The most important point here is that we use flex to evenly space the button */
+                    .nav {
+                        width: 100%;
+                        display: flex;
+                        justify-content: space-between;
+                        border-radius: 5px;
+                    }
+                    
+                    /* Style your button here! */
+                    button {
+                        border: none;
+                        border-radius: 5px; /* makes your corners "rounded" */
+                        padding: 10px; /* padding = spaces in 4-directions outside button*/
+                        width: 150px;
+                        transition: .5s;
+                    }
+                    
+                    /* Use :hover to change your button's hover color */
+                    button:hover {
+                        background: orange;
+                    }
+                    
+                    /* Here, we're using "active" as a class name to add style to one button per page */
+                    .active {
+                        background: orange;
+                    }
+                     
+
+                </code>
+            </pre>
         </div>
 
         <br><br>
