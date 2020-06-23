@@ -94,10 +94,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [June 22nd](#june-22nd)
   * [Review Collaborative Project: "Teamwork 5000"](#review-collaborative-project-teamwork-5000)
   * [Debugging Exercises for "A Day at the Beach"](#debugging-exercises-for-a-day-at-the-beach)
+    * [Reverse Engineer "A Day at the Beach" Answers](#reverse-engineer-a-day-at-the-beach-answers)
   * [Storyboarding](#storyboarding)
   * [June 22nd Homework](#june-22nd-homework)
-  * [June 22nd Appendix](#june-22nd-appendix)
-    * [Reverse Engineer "A Day at the Beach" Answers](#reverse-engineer-a-day-at-the-beach-answers)
 * [June 15th](#june-15th)
   * [Review Projects](#review-projects)
   * [Collaborative Project: "Teamwork 5000"](#collaborative-project-teamwork-5000)
@@ -152,7 +151,19 @@ We did a reverse engineering project. I showed students teh  [A Day at the Beach
 
 2. Why do we have two Scratch Cats when the surfboard is left on the beach?
 
-Have students reverse engineer it. See [answers](#reverse-engineer-a-day-at-the-beach-answers).
+Have students reverse engineer it. Click below for answers.
+
+<details>
+<summary>#### Reverse Engineer "A Day at the Beach" Answers
+</summary>
+
+#### Reverse Engineer "A Day at the Beach" Answers
+
+1. We need to make Scratch Cat hide before the car drives away
+
+2. We need to hide the Surfing cat sprite as soon as the “send red message” block is used, not after
+
+</details>
 
 ### Storyboarding
 
@@ -169,19 +180,6 @@ Also, optionally, students can download  [A Day at the Beach Project](./scratchP
 2. Why doesn’t the crab talk while moving on the screen?
 
 
-### June 22nd Appendix
-<details>
-<summary>#### Reverse Engineer "A Day at the Beach" Answers
-</summary>
-
-
-#### Reverse Engineer "A Day at the Beach" Answers
-
-1. We need to make Scratch Cat hide before the car drives away
-
-2. We need to hide the Surfing cat sprite as soon as the “send red message” block is used, not after
-
-</details>
 
 
 
