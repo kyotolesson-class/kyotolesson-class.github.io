@@ -145,7 +145,7 @@ First we reviewed student homeworks.
 
 ### Debugging Exercises for "A Day at the Beach"
 
-We did a reverse engineering project. I showed students teh  [A Day at the Beach Project](./scratchProjects/Y1R47AdayatthebeachMod.sjr) from BootUp ans students had to answer the following questions:
+We did a debugging project. I showed students the [A Day at the Beach Project](./scratchProjects/Y1R47AdayatthebeachMod.sjr) from BootUp ans students had to answer the following questions:
 
 1. Why does the car leave without Scratch Cat?
 
