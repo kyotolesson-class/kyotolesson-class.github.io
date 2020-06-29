@@ -6,7 +6,7 @@ title2: Instructions
 
 ## Preamble
 
-First add the following to your preamble, including the triple dashes:
+First add the following to your preamble, **including the triple dashes**:
 
 ```
 ---
@@ -15,10 +15,18 @@ title: (yout title)
 title2: (your subtitle)
 ---
 ```
+If needed, we can create different layouts for different classes. The method of use should be about the same.
+
 
 ## Markdown version
 
-The main text should be in the [kramdown](https://kramdown.gettalong.org/quickref.html) version of Markdown, which is the flavor used by [the jekyll processor](https://jekyllrb.com/docs/configuration/markdown/#kramdown). For most purposes this is the standard markdown.
+The main text should be in the [kramdown](https://kramdown.gettalong.org/quickref.html) version of Markdown, which is the flavor used by [the jekyll processor](https://jekyllrb.com/docs/configuration/markdown/#kramdown). For most purposes this is the same as standard markdown.
+
+<details>
+<summary>### tech specs
+</summary>
+
+### tech specs
 
 The following plugins and settings are used: 
 
@@ -32,7 +40,9 @@ kramdown:
 github: [metadata] 
 encoding: UTF-8 
 
-## Caveats
+</details>
+
+## Usage Instructions
 
 ### Your content headings
 
@@ -50,17 +60,17 @@ For example, a link like this in a Markdown file:
 [link to original md file](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.md)
 
 ```
-will render as a valid link on GitHub.com, but it will not be a valid link on Pages. Instead, this plugin converts that link to:
+will render as a valid link on GitHub.com, but it is not (supposed to be) a valid link on Pages. Instead, the "jekyll-relative-links" plugin should convert that link to:
 
-* [how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.md)
+* [how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.html)
 
-
-```
-[how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.md)
 
 ```
+[how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.html)
 
-The plugin above "jekyll-relative-links" should force it to happen automatically, but it is better if you code it right from the start.
+```
+
+However, it is better if you code it right from the start, or at least are aware that that is happening.
 
 ### Making expandable sections
 
@@ -91,7 +101,7 @@ your content, including headings, etc.
 </details>
 ```
 
-Note that you **MUST** to repeat the main heading (h1, h2, etc.) to make it appear correctly in the table of contents. 
+Note that you **MUST REPEAT** the main heading (h2, h3, etc.) to make it appear correctly in the table of contents. That repeated first heading in the content is erased via js/css, so if you omit it it may delete some of your lower-lying content...
 
 If you do this, it should properly handle clicks in the table of contents/sidebar.
 
