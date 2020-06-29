@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: junior_coders_default
 title: Saturday PM Class Notes
 title2: (3:30~5:30pm)
 ---

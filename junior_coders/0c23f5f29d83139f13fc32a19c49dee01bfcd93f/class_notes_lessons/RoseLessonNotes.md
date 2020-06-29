@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: junior_coders_default
 title: Getting Started with Scratch Jr.
 title2: Rose Class LATEST
 ---

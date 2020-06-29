@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: junior_coders_default
 title: Zoom
 ---
 * [Responding to Invitation](#responding-to-invitation)

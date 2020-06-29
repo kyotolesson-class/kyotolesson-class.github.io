@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: junior_coders_default
 title: "Game: Black"
 ---
 * [**Prep for Black**](#prep-for-black)

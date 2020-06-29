@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: junior_coders_default
 title: Lesson Topics
 ---
 * [Getting Started with Scratch Jr](#getting-started-with-scratch-jr)
