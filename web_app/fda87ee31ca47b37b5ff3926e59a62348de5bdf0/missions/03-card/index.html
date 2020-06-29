@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Boxes and Cards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Let's Make a Simple Card!</h1>
+
+        <video src="./media/card-video.mov" autoplay loop controls></video>
+
+        <h2>Your to-do list:</h2>
+
+        <div class="todo-list">
+            <input id="first" type="checkbox">
+            <label for="first">Create a <code>div</code> with the class <code>.card</code>.</label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="second" type="checkbox">
+            <label for="second">Style <code>.card</code>. Pay attention to the <strong>curves of the borders</strong> and the card's <strong>width</strong>.</label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="second2" type="checkbox">
+            <label for="second2">Create an <code>img</code> inside your card with the class <code>.card-image</code>. Pay attention to the image's <code>width</code>. Inside <code>src</code>, use the path of <code>hearts.jpg</code></label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="third" type="checkbox">
+            <label for="third">Create a <code>div</code> inside your card with the class <code>.card-body</code>.</label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="fourth" type="checkbox">
+            <label for="fourth">Style <code>.card-body</code>. Pay attention to the <strong>area between the border and the text</strong>.</label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="fifth" type="checkbox">
+            <label for="fifth">Create two <code>div</code>s within your card-body, one with class<code>.card-title</code> and one with class <code>.card-text</code>. Write whatever you want!</label>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="sixth" type="checkbox">
+            <label for="sixth">Create a <code>button</code> with the class <code>.button-card</code>. Style however you want!</label>
+        </div>
+
+        <br>
+
+        <h2>Make your card below:</h2>
+
+        <br>
+
+        <!-- Create your card below -->
+
+        <div class="card">
+            <img src="./media/hearts.jpg" alt="" class="card-image">
+            <div class="card-body">
+                <div class="card-title">Your great card title</div>
+                <div class="card-text">Write any description you want!</div>
+                <button class="button-card">Click me!</button>
+            </div>
+        </div>
+
+
+
+
+
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/gh/mathusummut/confetti.js/confetti.min.js"></script>
+    <script>
+        let checkedTrue = 0;
+        document.querySelectorAll("input").forEach((checkbox) => {
+            if (checkbox.checked === true) {
+                checkedTrue++;
+            }
+        })
+        if (checkedTrue === 7 ) {
+            document.querySelector('.button-card').addEventListener('click', (event) => {
+                confetti.start()
+            })
+        }
+    </script>
+</body>
+
+</html>

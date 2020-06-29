@@ -65,34 +65,52 @@
     <div class="container-fluid">
         <div><a href="../">( back )</a></div><br>
         <div class="row" id="curriculum">
-            <h2>Saturday June 27, 2020</h2>
+            <h2>Cards: quick review of style elements</h2>
         </div>
         <div class="row">
-            <p>
-                This week, we tried to do something a little more complex. <br>
-                Within just a couple hours, everyone in the class was able to make a very simple card like this:<br>
-                
-                <video src="../../missions/03-card/media/card-video.mov"></video>
+            <pre>
+                <code>
 
-                Here is a link to the <a href="../../missions/03-card/index.html">mission</a>. <br><br>
-                
-                While the card itself is simple, it actually requires a solid understanding of nesting HTML to be able to make accurately. <br><br>
+                    /* Style your card here! */
+                    
+                    .card {
+                        border: 1px solid grey;         */ This was the most challenging style today. Study this one! "border" requires a size, type, and color
+                        width: 300px;
+                        border-radius: 5px;
+                    }
+                    
+                    .card-image {
+                        width: 100%;                    */ Setting the width to 100% guarantees the image will match the size of the parent element
+                    }
+                    
+                    .card-body {
+                        padding: 15px;                  */ 'padding' is the area between an object and the object's border
+                    }
+                    
+                    .card-title {
+                        font-weight: bold;
+                        font-size: 20px;                */ 'font-size' changes the size of text!
+                    }
+                    
+                    .button-card {
+                        background-color: blue;
+                        color: white;
+                        padding: 10px;
+                        border: none;
+                        border-radius: 5px;
+                        font-size: 15px;
+                        margin-top: 10px;               */ 'margin' is the area between an object's border and everything else
+                    }
+                    
+                    .button-card:hover {
+                        background-color: lightblue;
+                        cursor: pointer;                */ you can change your cursor too when you hover. try it out!
+                        transition: .2s;
+                    }
+                     
 
-                After checking all the boxes in their to-do list and assigning the right class style to their button, I treated students with a JavaScript confetti animation. <br><br>
-
-                I was happy to see most students finish the main assignment quickly, however I challenge everyone to try to match the style and form of the example card. <br> <br>
-
-                Here is a summary of the <a href="../../lessons/03-card">key fields</a> we've studied.<br><br>
-
-                This week, students should redo the card exercise, following the to-do list in the mission. <br> They should try to mimic the example card as closely as possible before getting more creative.
-                <br>
-                <br>
-                We will continue building web 
-                components in this way, building off the skills we learned in the previous 
-                lesson. So, it's important to stay on track each week!<br><br>
-                
-                Have a great week, and see you next Saturday!            
-            </p>
+                </code>
+            </pre>
         </div>
 
         <br><br>
