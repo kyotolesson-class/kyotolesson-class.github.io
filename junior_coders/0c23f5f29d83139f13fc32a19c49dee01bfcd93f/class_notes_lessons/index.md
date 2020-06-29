@@ -10,6 +10,6 @@ levelsToTop: "../"
 * ### Monday Class [Latest](./a_mon0500pm.html)
 * ### Monday Class [Archives](./a_mon0500pm-Archives.html)
 
-* ### Rose (Friday) Class [Latest](./RoseLessonNotes.html)
+* ### Rose (Friday) Class [Latest](./RoseClassNotes.html)
 
 
