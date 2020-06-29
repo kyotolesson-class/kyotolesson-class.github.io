@@ -9,9 +9,10 @@ title2: Instructions
   * [tech specs](#tech-specs)
 * [Usage Instructions](#usage-instructions)
   * [Your content headings](#your-content-headings)
-  * [links to other markdown pages/jekyll-relative-links](#links-to-other-markdown-pagesjekyll-relative-links)
   * [Making expandable sections](#making-expandable-sections)
 * [your main heading](#your-main-heading)
+  * [links to other markdown pages/jekyll-relative-links](#links-to-other-markdown-pagesjekyll-relative-links)
+
 
 ## Preamble
 
@@ -24,7 +25,7 @@ title: (yout title)
 title2: (your subtitle)
 ---
 ```
-If needed, we can create different layouts for different classes. The method of use should be about the same.
+If needed, we can create different layouts for different classes. For example, the menu items at the top of this page are junior coder specific and don't work because we are in a different folder. I would need to create a new layout or modify the default to be more class-neutral. The method of use should be about the same. 
 
 
 ## Markdown version
@@ -57,36 +58,9 @@ encoding: UTF-8
 
 ### Your content headings
 
-You should start all your content headings with level 2 "##" headers. The level 1 header is reserved for the title.
-
-### links to other markdown pages/jekyll-relative-links
-
-links to other markdown pages should have their file extenstion modified from "md" to "html". 
-
-For example, a link like this in a Markdown file:
+You should start your top level content headings, such as "Preamble", "Markdown Version" and "Usage Instructions" above, with level 2 "##" headers. The level 1 header is reserved for the title.
 
 
-* [link to original md file](testlink.md)
-  
-
-
-```
-[link to original md file](testlink.md)
-
-```
-
-
-will render as a valid link on GitHub.com, but it is not (supposed to be) a valid link on Pages. Instead, the "jekyll-relative-links" plugin should convert that link to:
-
-* [how link should appear for pages](testlink.html)
-
-
-```
-[how link should appear for pages](testlink.html)
-
-```
-
-However, it is better if you code it right from the start, or at least are aware that that is happening.
 
 ### Making expandable sections
 
@@ -122,4 +96,27 @@ Note that you **MUST REPEAT** the main heading (h2, h3, etc.) to make it appear 
 If you do this, it should properly handle clicks in the table of contents/sidebar.
 
 
+### links to other markdown pages/jekyll-relative-links
 
+The "jekyll-relative-links" plugin should automagically convert direct links to markdown pages by changing their file extension in the output html from "md" to "html":
+
+
+* [link to original md file](testlink.md) 
+
+```
+[link to original md file](testlink.md) 
+
+```
+
+is rendered as: 
+
+
+* [how link should appear for pages](testlink.html)
+
+
+```
+[how link should appear for pages](testlink.html)
+
+```
+
+The reason is that the original link while it will render as a valid link on GitHub.com, but it is not (supposed to be) a valid link on Pages. With the plugin it should work now, but if something doesn't work, in some situations you may need to know this.
