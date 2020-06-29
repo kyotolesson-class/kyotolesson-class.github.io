@@ -1,4 +1,10 @@
-# Work Group Briefing
+---
+layout: web_app_jr_default
+title: Work Group Briefing
+title2: 
+---
+
+## Work Group Briefing
 
 ### Goals
 - learn the [markDown](https://guides.github.com/features/mastering-markdown/) and understand his utility
