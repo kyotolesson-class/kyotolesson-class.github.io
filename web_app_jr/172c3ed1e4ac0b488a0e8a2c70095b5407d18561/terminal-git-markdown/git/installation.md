@@ -22,7 +22,7 @@ sudo apt-get install git
 Then **You can use *Git* now.**
 
 ### Next Step:
-- [Git: Setup](./setup.md)
-- [Git: Exercice of Exquisite Corpse](./exquisite-corpse.md)
-- [Git: Training](./practice.md)
-- [Markdown: Group work](../markdown/group-work.md) 
+- [Git: Setup](./setup.html)
+- [Git: Exercice of Exquisite Corpse](./exquisite-corpse.html)
+- [Git: Training](./practice.html)
+- [Markdown: Group work](../markdown/group-work.html) 
