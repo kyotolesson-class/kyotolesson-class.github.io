@@ -4,10 +4,12 @@ title: Getting Started with Scratch Jr.
 title2: Rose Class LATEST
 ---
 
- <!-- 
+<!-- 
 - [ ] Proceed to [Archives](./a_mon0500pm-Archives.html) 》 
 - [ ] {: style="float: right;"}
-- [ ] --> <br clear="both">
+- [ ] --> 
+
+<br clear="both">
 
 <div id="toc">
 
