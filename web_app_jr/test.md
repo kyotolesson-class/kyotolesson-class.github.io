@@ -57,20 +57,23 @@ links to other markdown pages should have their file extenstion modified from "m
 For example, a link like this in a Markdown file:
 
 
-* [link to original md file](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.md)
+* [link to original md file](testlink.md)
+  
+
 
 ```
-[link to original md file](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.md)
+[link to original md file](testlink.md)
 
 ```
+
 
 will render as a valid link on GitHub.com, but it is not (supposed to be) a valid link on Pages. Instead, the "jekyll-relative-links" plugin should convert that link to:
 
-* [how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.html)
+* [how link should appear for pages](testlink.html)
 
 
 ```
-[how link should appear for pages](junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/monday_pm/a_mon0500pm.html)
+[how link should appear for pages](testlink.html)
 
 ```
 
