@@ -4,6 +4,15 @@ title: Using Markdown Across the site
 title2: Instructions
 ---
 
+* [Preamble](#preamble)
+* [Markdown version](#markdown-version)
+  * [tech specs](#tech-specs)
+* [Usage Instructions](#usage-instructions)
+  * [Your content headings](#your-content-headings)
+  * [links to other markdown pages/jekyll-relative-links](#links-to-other-markdown-pagesjekyll-relative-links)
+  * [Making expandable sections](#making-expandable-sections)
+* [your main heading](#your-main-heading)
+
 ## Preamble
 
 First add the following to your preamble, **including the triple dashes**:
