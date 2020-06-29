@@ -245,8 +245,12 @@
             color: #000;
         }
         
-        h2 {
+        summary h2 {
             font-size: medium;
+        }
+        
+        h2 {
+            /* font-size: medium; */
             margin: 50px 20px 20px 20px;
             /* border-left: 3px #3f72b2 solid;
             border-top: 1px #3f72b2 solid;
@@ -625,12 +629,12 @@
             <a class="button fork" href="#bottomSpacer"><b>˅Bottom</b></a>
         </div>
         <!-- necessary for nav section to appear-->
-                <!-- necessary for nav section to appear-->
+        <!-- necessary for nav section to appear-->
         <nav>
             <ul></ul>
 
         </nav>
-        
+
         <section id="mainsection" style="height:auto;">
             <header id="header1">
                 <h1 class="ournav">
@@ -647,15 +651,15 @@
                         <a href="{{ page.levelsToTop }}saturday_pm">Saturday PM Class Notes</a>
                     </li>
                     <li class="ournav-item" li="">
-                        <a href="{{ page.levelsToTop }}class_notes_lessons" >Monday PM Class Notes</a>
+                        <a href="{{ page.levelsToTop }}class_notes_lessons">Monday PM Class Notes</a>
                     </li>
                     <li class="ournav-item">
-                        <a href="{{ page.levelsToTop }}lessons" >Lesson Topics Index</a>
+                        <a href="{{ page.levelsToTop }}lessons">Lesson Topics Index</a>
                     </li>
                 </ul>
             </div>
 
-             <div id="contentHeader">
+            <div id="contentHeader">
                 <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
                 <div id="subtitle">
                     <p>{{ page.title2 }}</p>
