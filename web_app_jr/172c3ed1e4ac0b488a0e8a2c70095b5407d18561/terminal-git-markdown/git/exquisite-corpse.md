@@ -1,3 +1,9 @@
+---
+layout: web_app_jr_default
+title: Work Group Briefing
+levelsToTop: "../"
+---
+
 ## Goals
 
 - Improvements of your Markdown Skills
