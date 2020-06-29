@@ -19,4 +19,4 @@ Then **You can use *Git* now.**
 - [Git: Setup](./setup.md)
 - [Git: Exercice of Exquisite Corpse](./exquisite-corpse.md)
 - [Git: Training](./practice.md)
-- [Markdown: Group work](../markdown/group-work.md)
+- [Markdown: Group work](../markdown/group-work.md) 

@@ -1,7 +1,8 @@
 ---
 layout: web_app_jr_default
 title: Work Group Briefing
-title2: 
+levelsToTop: "../../"
+
 ---
 
 ## Work Group Briefing

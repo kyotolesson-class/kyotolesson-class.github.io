@@ -1,6 +1,8 @@
 ---
 layout: junior_coders_default
 title: Lesson Topics
+levelsToTop: "../"
+
 ---
 * [Getting Started with Scratch Jr](#getting-started-with-scratch-jr)
 

@@ -1,6 +1,8 @@
 ---
 layout: junior_coders_default
 title: "Dragon Maze Part 2"
+levelsToTop: "../"
+
 ---
 
 * [Imagine just one dragon and one cake](#imagine-just-one-dragon-and-one-cake)

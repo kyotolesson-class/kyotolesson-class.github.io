@@ -1,6 +1,8 @@
 ---
 layout: junior_coders_default
 title: Jokes for Bad Jokes
+levelsToTop: "../"
+
 ---
 
 Romantic Octopus

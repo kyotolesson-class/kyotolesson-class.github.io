@@ -1,6 +1,8 @@
 ---
 layout: junior_coders_default
 title: Zoom
+levelsToTop: "../"
+
 ---
 * [Responding to Invitation](#responding-to-invitation)
 * [Once in:](#once-in)

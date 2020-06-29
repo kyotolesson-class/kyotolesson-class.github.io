@@ -1,6 +1,8 @@
 ---
 layout: junior_coders_default
 title: "Game: Black"
+levelsToTop: "../"
+
 ---
 * [**Prep for Black**](#prep-for-black)
 * [**Black**](#black)

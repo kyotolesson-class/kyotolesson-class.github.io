@@ -1,6 +1,7 @@
 ---
 layout: junior_coders_default
 title: Teacher Says Rules
+levelsToTop: "../"
 
 ---
 

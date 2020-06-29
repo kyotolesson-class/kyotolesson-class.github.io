@@ -2,6 +2,7 @@
 layout: junior_coders_default
 title: ScratchJr Class Notes 
 title2: 
+levelsToTop: "../"
 ---
 
 ## Getting Started with Scratch Jr

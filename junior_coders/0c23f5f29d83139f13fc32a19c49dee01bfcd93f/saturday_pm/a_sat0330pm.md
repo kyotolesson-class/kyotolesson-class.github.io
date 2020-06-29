@@ -1,6 +1,7 @@
 ---
 layout: junior_coders_default
 title: Getting Started with Scratch Jr. (Saturday PM)
+levelsToTop: "../"
 ---
 * [Using Zoom](#using-zoom)
 * [Game: Black](#game-black)
