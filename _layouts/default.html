@@ -4,11 +4,6 @@
 <head>
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <title></title>
-</head>
-
-<body>
-    {% seo %}
     <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <script crossorigin="anonymous" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" src="https://code.jquery.com/jquery-3.3.0.min.js"></script>
@@ -615,32 +610,11 @@
         section#mainsection {
             height: fit-content!important;
         }
-        
-        a:empty:before {
-            content: "☞";
-            font-size: .93em;
-            vertical-align: super;
-            color: red;
-            font-weight: bold;
-        }
-        
-        a:empty:after {
-            content: "";
-        }
-        
-        a[title]:hover:after {
-            content: attr(title);
-            position: absolute;
-            background: beige;
-            border: 2px solid maroon;
-            border-radius: 10px;
-            padding: 10px;
-            color: navy;
-            display: block;
-            max-width: 50%;
-            z-index: 100;
-        }
     </style>
+    <title></title>
+</head>
+
+<body>
     <div id="banner">
         <a class="button fork" href="../../"><strong>Kyoto Lesson</strong></a>
     </div>

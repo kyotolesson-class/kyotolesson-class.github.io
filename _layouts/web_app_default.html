@@ -1,18 +1,22 @@
-<!doctype html>
-<html lang="{{ site.lang | default: " en-US " }}">
+<!DOCTYPE html>
+<html en-us="}}&quot;" lang="{{ site.lang | default:">
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> {% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <title></title>
+</head>
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<body>
+    {% seo %}
+    <meta content="width=device-width, initial-scale=1, user-scalable=no" name="viewport">
+    <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+    <script crossorigin="anonymous" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" src="https://code.jquery.com/jquery-3.3.0.min.js"></script>
+    <script src="{{%20'/assets/js/main.js'%20|%20relative_url%20}}"></script>
     <!--[if lt IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script>
         $(document).ready(function() {
@@ -134,7 +138,6 @@
             });
         });
     </script>
-
     <style>
         html {
             scroll-padding-top: 170px;
@@ -525,9 +528,9 @@
             scroll-behavior: smooth;
             -webkit-overflow-scrolling: touch;
             /*
-scroll-snap-points-x: repeat(300px);
-scroll-snap-type: mandatory;
-*/
+  scroll-snap-points-x: repeat(300px);
+  scroll-snap-type: mandatory;
+  */
         }
         
         .slides::-webkit-scrollbar {
@@ -613,74 +616,50 @@ scroll-snap-type: mandatory;
             height: fit-content!important;
         }
     </style>
-</head>
-
-<body>
-
-
-
     <div id="banner">
-        <a href="../../" class="button fork"><strong>Kyoto Lesson</strong></a>
+        <a class="button fork" href="../../"><strong>Kyoto Lesson</strong></a>
     </div>
     <!-- end banner -->
-
     <div class="wrapper">
         <div id="scrollButton">
-            <a href="#contentWrapper" class="button fork"><b>^Top</b></a>
-            <br>
-            <a href="#bottomSpacer" class="button fork"><b>˅Bottom</b></a>
-
+            <a class="button fork" href="#contentWrapper"><b>^Top</b></a><br>
+            <a class="button fork" href="#bottomSpacer"><b>˅Bottom</b></a>
         </div>
-
-
         <!-- necessary for nav section to appear-->
-        <nav>
-            <ul></ul>
-
-        </nav>
-
         <section id="mainsection" style="height:auto;">
-
             <header id="header1">
                 <h1 class="ournav">
-                    <a class="navbar-brand ournav-item" href="https://kyotolesson.com">
-                        <img src="/img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="200" alt="Kyoto Lesson" style="vertical-align: middle;"></a>
-                    &nbsp;
-                    <a class="ournav-item" href="../../">Junior Coders</a>
-                </h1>
-                <!--			<p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-				<h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>-->
+                    <a class="navbar-brand ournav-item" href="https://kyotolesson.com"><img alt="Kyoto Lesson" src="/img/01_Nav_stamp_namepacifio_blue_navbar1.png" style="vertical-align: middle;" width="200"></a> &nbsp; <a class="ournav-item" href="../../">Junior Coders</a></h1>
+                <!--                    <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+                                <h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>-->
             </header>
-
             <div class="ournav">
                 <ul class="ournav-links">
                     <li class="ournav-item">Junior Coders:</li>
-                    <li class="ournav-item"><a href="../saturday_pm">Saturday PM Class Notes</a></li>
-                    <li li class="ournav-item"><a href="../monday_pm">Monday PM Class Notes</a></li>
-                    <li class="ournav-item"><a href="../lessons">Lesson Topics index</a></li>
+                    <li class="ournav-item">
+                        <a href="../saturday_pm">Saturday PM Class Notes</a>
+                    </li>
+                    <li class="ournav-item" li="">
+                        <a href="../monday_pm">Monday PM Class Notes</a>
+                    </li>
+                    <li class="ournav-item">
+                        <a href="../lessons">Lesson Topics index</a>
+                    </li>
                 </ul>
             </div>
-
             <div id="contentHeader">
-                <h1>{{ page.title | default: site.title | default: site.github.repository_name }}
-                </h1>
+                <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
                 <div id="subtitle">
-
-                    <p>{{ page.title2 }}
-                        <p>
-
+                    <p>{{ page.title2 }}</p>
                 </div>
             </div>
-
             <div id="contentWrapper">
-
-
                 {{ content }}
             </div>
-
             <!-- spacer for inner links -->
-            <div id="bottomSpacer" class="bottomSpacer">&nbsp;</div>
-
+            <div class="bottomSpacer" id="bottomSpacer">
+                &nbsp;
+            </div>
         </section>
         <footer>
             <!-- {% if site.github.is_project_page %}
@@ -689,11 +668,8 @@ scroll-snap-type: mandatory;
             </p>
             {% endif %}
             <p><small>leap-year theme <a href="https://twitter.com/mattgraham">mattgraham</a></small></p> -->
-
         </footer>
-    </div>
-
-    {% if site.google_analytics %}
+    </div>{% if site.google_analytics %}
     <script>
         (function(i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -708,8 +684,7 @@ scroll-snap-type: mandatory;
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
-    </script>
-    {% endif %}
+    </script> {% endif %}
 </body>
 
 </html>
