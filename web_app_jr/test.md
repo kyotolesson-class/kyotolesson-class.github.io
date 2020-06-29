@@ -30,6 +30,7 @@ The main text should be in the [kramdown](https://kramdown.gettalong.org/quickre
 
 The following plugins and settings are used: 
 
+```
 plugins:
   - jekyll-relative-links
 theme: jekyll-theme-leap-day
@@ -40,6 +41,7 @@ kramdown:
 github: [metadata] 
 encoding: UTF-8 
 
+```
 </details>
 
 ## Usage Instructions
