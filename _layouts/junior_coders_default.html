@@ -625,6 +625,12 @@
             <a class="button fork" href="#bottomSpacer"><b>˅Bottom</b></a>
         </div>
         <!-- necessary for nav section to appear-->
+                <!-- necessary for nav section to appear-->
+        <nav>
+            <ul></ul>
+
+        </nav>
+        
         <section id="mainsection" style="height:auto;">
             <header id="header1">
                 <h1 class="ournav">
@@ -633,8 +639,22 @@
                                 <h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>-->
             </header>
 
-            {% include junior_coders_nav.html %}
-            
+            <!-- {% include junior_coders_nav.html %} -->
+            <div class="ournav">
+                <ul class="ournav-links">
+                    <li class="ournav-item">Junior Coders:</li>
+                    <li class="ournav-item">
+                        <a href="{{ page.levelsToTop }}saturday_pm">Saturday PM Class Notes</a>
+                    </li>
+                    <li class="ournav-item" li="">
+                        <a href="{{ page.levelsToTop }}class_notes_lessons" >Monday PM Class Notes</a>
+                    </li>
+                    <li class="ournav-item">
+                        <a href="{{ page.levelsToTop }}lessons" >Lesson Topics Index</a>
+                    </li>
+                </ul>
+            </div>
+
              <div id="contentHeader">
                 <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
                 <div id="subtitle">
