@@ -58,32 +58,7 @@ gicaption-11:
 
 ---
 
-<style> 
-    a:empty:before {
-        content: "☞";
-        font-size: .93em;
-        vertical-align: super;
-        color: red;
-        font-weight: bold;
-    }
 
-    a:empty:after {
-        content: "";
-    }
-
-    a[title]:hover:after {
-        content: attr(title);
-        position: absolute;
-        background: beige;
-        border: 2px solid maroon;
-        border-radius: 10px;
-        padding: 10px;
-        color: navy;
-        display: block;  
-        max-width:50%;
-        z-index: 100; 
-    } 
-</style> 
  
 Proceed to [Archives](./a_mon0500pm-Archives.html) 》 
 {: style="float: right;"}
