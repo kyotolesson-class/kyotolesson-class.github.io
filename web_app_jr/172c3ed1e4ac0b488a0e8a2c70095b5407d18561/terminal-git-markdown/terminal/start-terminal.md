@@ -1,8 +1,15 @@
-# Discover the terminal
+---
+layout: web_app_jr_default
+title: Start the Terminal
+levelsToTop: "../../"
+
+---
+
+## Discover the terminal
 
 It is the time to discover the terminal and to learn to use it to be able to make simple and commun manipulation.
 
-## Goals
+### Goals
 
 Try to dicover what is the command line that does :
 - know where we are?
@@ -18,13 +25,13 @@ Try to dicover what is the command line that does :
 if you do not know, it is time to ask your new best friend : Google !
 Right, with me, before to ask your neighboor, we asks first Google Sensei !
 
-## Exercices
+### Exercices
 
 Before to start your terminal, download a pictures of your best character on your desktop.
 
 **The following have to be done only with the terminal**
 
-### part 1:
+#### part 1:
 
 To practice, launch the terminal by pressing CTRL + ALT + T simultaneously.
 - Then go to the [Desktop] folder with the command that means "Change Directory".
@@ -43,12 +50,12 @@ To practice, launch the terminal by pressing CTRL + ALT + T simultaneously.
 - Navigate in your folders to find your picture you downloaded earlier.
 - Create the directory `kyotoLesson_projects` in which you will put all your development projects during your passage to kyotoLesson.
 
-### part 2:
+#### part 2:
 
 Can you list what command are missing?
 [online Terminal](https://web-terminal-e92cb.firebaseapp.com/)
 
-## Next Step:
+### Next Step:
 - [Git: Linux installation](../git/installation.md)
 - [Git: Setup](../git/setup.md)
 - [Git: Exercice of Exquisite Corpse](../git/exquisite-corpse.md)

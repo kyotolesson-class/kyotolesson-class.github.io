@@ -1,6 +1,13 @@
-# Git 
+---
+layout: web_app_jr_default
+title: Set Up Git
+levelsToTop: "../"
+---
 
-## What is Git?
+
+## Git 
+
+### What is Git?
 
 Git is a version control software. It is a unavoidable tool for all developer who want to stock, collaborate and know each details of any modifications of code from a team project.
 
@@ -15,11 +22,11 @@ Git is a little bit difficult to learn and use but do not worry we will have a l
 Complet Git  Tutorial : [https://try.githun.io](https://try.github.io)
 Register on GitHub: [https://github.com/join](https://github.com/join)
 
-### Github Profile
+#### Github Profile
 
 * Take the time to update your GitHub profile: [https://github.com/settings/profile](https://github.com/ettings/profile)
 
-### Use GitHub with **Linux** Terminal
+#### Use GitHub with **Linux** Terminal
 
 To log to your account GitHub you must have an SSH key, Here are the steps to create this key and send it to GitHub
 
@@ -41,7 +48,7 @@ When you're prompted to "Enter a file in which to save the key," press `Enter`. 
 1. copy the ssh key ( start with `ssh-rsa ......`)
 1. Follow this tutorial from  point 2 : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
  
-### Use gitHub with **Mac** Terminal
+#### Use gitHub with **Mac** Terminal
 
 To log to your GitHub account you need a SSH key, Here are the steps to create this key and send it to GitHub
 
@@ -56,7 +63,7 @@ This creates a new ssh key, using the provided email as a label.
 1. Copy/paste the key ( start with **ssh-rsa**...)
 1. the follow this tuto from Point 2 : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
-### Documentation
+#### Documentation
 
 * [Git - the Little Guide](http://rogerdudler.github.io/git-guide/)
 * [Codeschool - git](https://www.codeschool.com/learn/git)
@@ -73,15 +80,15 @@ This creates a new ssh key, using the provided email as a label.
 * [markdown-cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Become a git guru](https://fr.atlassian.com/git/tutorials)
 
-### Branch Conflict
+#### Branch Conflict
 
 * * If you have a _"This branch has conflicts that must be resolved"_ on the merge of a GitHub Pull-request, you can read that: [syncing-a-fork](https://help.github.com/articles/syncing-a-fork/) ! :uk:
 
-### Contribute to a repository without be a contributor
+#### Contribute to a repository without be a contributor
 
 [create-pull-request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
 
-### Next Step:
+#### Next Step:
 - [Git: Exercice of Exquisite Corpse](./exquisite-corpse.md)
 - [Git: Training](./practice.md)
 - [Markdown: Group work](../markdown/group-work.md)

@@ -1,3 +1,9 @@
+---
+layout: web_app_jr_default
+title: Git
+levelsToTop: "../"
+---
+
 ## Goals
 
 - improve your Git skills
