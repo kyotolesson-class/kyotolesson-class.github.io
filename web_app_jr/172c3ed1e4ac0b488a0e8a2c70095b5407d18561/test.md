@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: web_app_jr_default
 title: Using Markdown Across the site
 title2: Instructions
 ---

@@ -1,0 +1,715 @@
+<!doctype html>
+<html lang="{{ site.lang | default: " en-US " }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
+    <![endif]-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+
+            // TOC SECTION    
+            // if mainmenu item is clicked
+            // makes sure details is open before inner click is applied, so link works.
+            // Also toggle details but don't follow links on outermost links (for mobile)
+            // and throw error if state is unmatched
+            // RECENTLY FIXED BUGGY??: works for links to details within details
+            $("#toc ul li a").on("click", function(event) {
+
+                //if closed and inner link open main details first then trigger click
+                if (!$($(this).attr("href")).parents("details").last().prop("open") && $(this).is("ul li ul li a")) {
+                    // open main details for this
+                    $($(this).attr("href")).parents("details").last().children("summary").first().trigger("click");
+                    // trigger link only if not to a details tag, or if to a inner details tag (e.g. "details" details") and this details is not open
+                    if (!$($(this).attr("href")).parent().parent().is("details") || ($($(this).attr("href")).parent().parent().is("details") && !$($(this).attr("href")).parent().parent().prop("open"))) {
+                        $($(this).attr("href")).trigger("click");
+                    };
+                    return true;
+                };
+
+                //if open and inner link just trigger click 
+                if ($($(this).attr("href")).parents("details").last().prop("open") && $(this).is("ul li ul li a")) {
+                    // trigger link only if not to a details tag, or if to a inner details tag (e.g. "details" details") and this details is not open
+                    if (!$($(this).attr("href")).parent().parent().is("details") || ($($(this).attr("href")).parent().parent().is("details") && !$($(this).attr("href")).parent().parent().prop("open"))) {
+                        $($(this).attr("href")).trigger("click");
+                    };
+                    return true;
+                };
+
+
+                //if open and outer link close and don't follow link.
+                if ($($(this).attr("href")).parents("details").last().prop("open") && !$(this).is("ul li ul li a")) {
+                    // checks toggle state
+                    // toggled, then close and don't follow
+                    // else if not toggled, throw error
+                    if ($(this).parents("li").last().children("a").first().hasClass("toggled")) {
+                        $($(this).attr("href")).parents("details").last().removeAttr("open");
+                    } else {
+                        alert("This is a minor error (unintended menu state). Please notify webmaster.")
+                    }
+                    // don't follow link
+                    return false;
+                };
+
+                //if closed and outer link open details don't follow link (for mobile users)
+                if (!$($(this).attr("href")).parents("details").last().prop("open") && !$(this).is("ul li ul li a")) {
+                    //open without clicking
+                    $($(this).attr("href")).parents("details").last().attr("open", "open")
+                        // don't follow link
+                    return false;
+                };
+
+            });
+            // END TOC SECTION
+
+            // NAV SECTION
+
+            // on first run, hides nav submenus until clicked.
+            $("nav .tag-h3").toggle();
+
+            // if nav item is clicked, makes sure details is open before click
+            // is applied, so link works.
+            $("nav ul li a").on("click", function(event) {
+
+                //if closed and inner tag-h3 link open details first
+                if (!$($(this).attr("href")).parents("details").last().prop("open") && $(this).is("nav .tag-h3 a")) {
+                    $($(this).attr("href")).parents("details").last().children("summary").first().trigger("click");
+                };
+                $($(this).attr("href")).trigger("click");
+            });
+
+            // shows tag-h3 when tag-h2 is hovered
+            $("nav .tag-h2 a").mouseover(function() {
+
+                // shows contiguous tag-h3. Have to skip the extra tag-h2 created by details
+                // by finding next .tag-h3, then selecting contiguous
+                $(this).parent().nextUntil(".tag-h3").nextUntil(".tag-h2").toggle("slow", "swing");
+            });
+            // END NAV SECTION
+
+            // DETAILS SECTION
+
+            // open top details on first run
+            $("details").first().children("summary").first().trigger("click")
+
+            // This toggles details when border is clicked
+            $("details").click(function(e) {
+                if (e.offsetX <= parseInt($(this).css('borderLeftWidth'))) {
+                    // needed or parent of details details gets closed too.
+                    event.stopPropagation();
+                    $(this).children("summary").first().trigger("click");
+                };
+            });
+
+            // This toggles both menu elements when details state changes by finding links to detail h2 ids.
+            // only details with h2 ids do this. This may need a tweak.
+            $('details').on('toggle', function() {
+                var $elementToToggle = "[href='#" + $(this).children("h2").first().attr("id") + "']";
+                $($elementToToggle).toggleClass("toggled");
+            });
+
+            // .innerlink class allows links in one main details to open links within another main details even if that main details is closed.
+            $(".innerlink").on("click", function(event) {
+                //if closed and inner link open details first then trigger click
+                // TODO: Not checked for links to details within details
+                if (!$($(this).attr("href")).parents("details").last().prop("open")) {
+                    $($(this).attr("href")).parents("details").last().find("summary").trigger("click");
+                    $($(this).attr("href")).trigger("click");
+                };
+            });
+            // END DETAILS SECTION
+
+            // Don't follow empty links, like footnotes
+            $('a[href="#"]').on("click", function(event) {
+                return false;
+            });
+        });
+    </script>
+
+    <style>
+        html {
+            scroll-padding-top: 170px;
+        }
+        
+        body {
+            background-color: ivory;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            scroll-padding-top: 170px;
+        }
+        /* fixes bad scrolling on gallery */
+        
+        #banner {
+            right: 0%;
+            top: 110px;
+            border: none;
+        }
+        
+        #scrollButton {
+            position: fixed;
+            /* right: calc(50% - 295px); */
+            left: calc(50% - 0px);
+            top: 151px;
+            /* width: 24px; */
+            z-index: 500;
+            margin-left: -325px;
+            color: blue;
+            padding: 10px 12px;
+            padding: 4px 4px 4px 4px;
+            margin-top: 6px;
+            line-height: 16px;
+            font-size: 14px;
+            background-color: #ffcc00;
+            /* border: 1px solid #dba500; */
+            background: linear_gradient(#ffe788, #ffce38);
+            /* border-radius: 18px; */
+            /* border-radius: 10px 0px 0px 0px; */
+            /* box-shadow: 0px 3px 3px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1); */
+            box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+            border-top: none;
+        }
+        /* makes top button appear in "right" place for mobile */
+        
+        @media print,
+        screen and (max-width: 720px) {
+            #scrollButton {
+                /* this is a kludge to override theme stylesheet. Better formula needed.  */
+                margin-left: -50vw!important;
+                /* left: 134vw!important; 
+                top: 151px;*/
+            }
+        }
+        
+        .ournav {
+            width: 100%;
+            background-color: beige;
+            padding: 0px 0px 0px 0px;
+            align-items: center;
+            margin: 10px 0 10px 0;
+        }
+        
+        #header1 h1.ournav {
+            background-color: #f8f9fa;
+            ;
+        }
+        
+        .ournav-links {
+            list-style: none;
+            display: flex;
+            justify-content: space-around;
+            margin: 0px 0px;
+            padding: 0px 0px 0px 0px;
+        }
+        
+        .ournav-item {
+            padding: 5px 5px;
+            margin: 0px 0px;
+            /*border: 1px solid beige;*/
+        }
+        
+        .ournav-item a {
+            display: inline-block;
+            text-decoration: none;
+        }
+        
+        header {
+            padding-left: 0px;
+            display: flex;
+            justify-content: space-around;
+        }
+        
+        header#header1 h1 {
+            width: 100%;
+            max-width: 646px;
+            border-radius: 10px;
+        }
+        
+        div#contentHeader h1 {
+            text-decoration: underline;
+            font-size: large;
+            text-align: center;
+            margin-top: 25px;
+        }
+        
+        div#subtitle {
+            text-align: center;
+            margin-bottom: 20px;
+            margin-top: 0px;
+            font-size: larger;
+            color: #000;
+        }
+        
+        h2 {
+            font-size: medium;
+            margin: 50px 20px 20px 20px;
+            /* border-left: 3px #3f72b2 solid;
+            border-top: 1px #3f72b2 solid;
+            padding: 0px 0px 0px 20px; */
+        }
+        
+        a,
+        nav ul a {
+            color: #3399cc;
+        }
+        
+        nav ul {
+            padding-left: 0px;
+        }
+        
+        div#contentWrapper ul li ul {
+            padding: 0px 0px 0px 20px;
+            margin-bottom: 0px;
+        }
+        
+        div#contentWrapper #toc ul {
+            padding-left: 40px;
+        }
+        
+        div#contentWrapper #toc ul li ul {
+            padding-left: 0px;
+        }
+        
+        a:hover,
+        nav ul a:hover {
+            color: #3e71b2;
+            background-color: #ffec9f;
+            /* border: 1px solid blue; */
+        }
+        
+        a:empty:before {
+            content: "☞";
+            font-size: .93em;
+            vertical-align: super;
+            color: red;
+            font-weight: bold;
+        }
+        
+        a:empty:after {
+            content: "";
+        }
+        
+        a[title]:hover:after {
+            content: attr(title);
+            position: absolute;
+            background: beige;
+            border: 2px solid maroon;
+            border-radius: 10px;
+            padding: 10px;
+            color: navy;
+            display: block;
+            max-width: 50%;
+            z-index: 100;
+        }
+        
+        nav ul .tag-h1 a:hover {
+            color: darkgreen;
+            /* background-color: lightblue;
+            border: none; */
+        }
+        
+        .tag-h2 {
+            text-align: left;
+            /* border-left: 3px #3f72b2 solid; */
+            padding: 10px 0px 0px 0px;
+            margin-bottom: 0px;
+        }
+        
+        .tag-h2+.tag-h2 {
+            /* removes duplicate display */
+            display: none;
+        }
+        
+        .tag-h2 a {
+            font-weight: 900;
+            font-size: 14px;
+            border-left: 3px #3f72b2 solid;
+            padding: 0px 0px 0px 3px;
+        }
+        
+        .tag-h3 {
+            padding: 0px;
+        }
+        
+        nav {
+            overflow: auto;
+            padding: 5px;
+            max-height: calc(100% - 250px);
+            top: 190px;
+        }
+        /* fixes bad scrolling to anchors */
+        
+        #contentWrapper {
+            overflow-x: auto;
+            padding-left: 15px;
+        }
+        
+        .toggled {
+            border-left: 10px solid #3f72b2 !important;
+        }
+        
+        details {
+            width: 93%;
+            margin-bottom: 10px;
+            background-color: white;
+            border-radius: 10px 10px;
+            padding: 0px 1em 0px 1em;
+            margin-bottom: 10px;
+            /* margin: 10px; */
+            border-left: 10px solid #3399cc!important;
+            /* box-shadow: 3px 3px 4px black; */
+        }
+        
+        details[open] {
+            /* border-radius: 10px 10px;
+  background-color: pink;
+  padding: 2px 6px;
+  margin: 0;
+  box-shadow: 3px 3px 4px black; */
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-left: 9px solid #3399cc!important;
+            border-right: 1px solid #3399cc!important;
+            border-bottom: 1px solid #3399cc!important;
+        }
+        /* give subdetails different color */
+        
+        details details {
+            background-color: aliceblue;
+        }
+        
+        details>summary {
+            padding: 6px 6px 6px 6px;
+            width: calc(100% + 1em + 3px);
+            background-color: #ffeca0;
+            border: none;
+            cursor: pointer;
+            margin-top: -2px;
+            margin-left: -1em;
+            /* between bottom of summary and top of details content */
+            margin-bottom: 10px;
+            border-radius: 0px 10px 0 0;
+        }
+        
+        details>summary:focus {
+            outline: -webkit-focus-ring-color auto 0px;
+        }
+        /* The header-link in the summary is not recorded in the toc, so it is manually repeated in the text ( so it is recorded by the toc ), and this css removes the repeat ( next sibling of the summary ) from the output, so it doesn't appear twice. */
+        
+        details summary+* {
+            display: none;
+        }
+        
+        details details>p {
+            /* background-color: pink; */
+        }
+        /* makes summary content inline, to preserve links and remove extra space */
+        
+        summary p,
+        summary h2,
+        summary h3,
+        summary h4,
+        summary h5,
+        summary h6 {
+            display: inline;
+        }
+        
+        details[open] summary~* {
+            animation: sweepin 2s ease-in-out;
+        }
+        
+        @keyframes sweep {
+            0% {
+                opacity: 0;
+                margin-left: -10px
+            }
+            100% {
+                opacity: 1;
+                margin-left: 0px
+            }
+        }
+        
+        @keyframes sweepin {
+            0% {
+                opacity: 0;
+                margin-left: -10px
+            }
+            100% {
+                opacity: 1;
+                margin-left: 0px
+            }
+        }
+        
+        @keyframes sweepout {
+            0% {
+                opacity: 1;
+                margin-left: 0px
+            }
+            100% {
+                opacity: 0;
+                margin-left: -10px
+            }
+        }
+        
+        #toc>ul>li>a {
+            font-weight: bold;
+        }
+        
+        #toc>ul>li>a::before {
+            content: "> ";
+            font-weight: bold;
+        }
+        
+        #toc>ul>li>a.toggled::before {
+            content: "  ";
+        }
+        
+        #toc>ul>li:hover>a::before {
+            content: "^ ";
+            font-weight: bold;
+        }
+        
+        #toc>ul>li:hover {
+            background-color: #ffeca0;
+        }
+        
+        #toc li {
+            display: block;
+            transition-duration: 0.5s;
+        }
+        
+        #toc li:hover {
+            cursor: pointer;
+        }
+        
+        #toc ul li ul {
+            visibility: hidden;
+            opacity: 0;
+            position: relative;
+            transition: all 0.5s ease;
+            margin-left: 1rem;
+            left: 0;
+            display: none;
+            background-color: beige;
+        }
+        
+        #toc ul li:hover>ul,
+        #toc ul li:hover ul li ul {
+            visibility: visible;
+            opacity: 1;
+            display: block;
+        }
+        
+        #toc ul li ul li {
+            clear: both;
+            width: 100%;
+        }
+        
+        .slider {
+            width: 100%;
+            text-align: center;
+            overflow: hidden;
+        }
+        
+        .slides {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+            scroll-behavior: smooth;
+            -webkit-overflow-scrolling: touch;
+            /*
+scroll-snap-points-x: repeat(300px);
+scroll-snap-type: mandatory;
+*/
+        }
+        
+        .slides::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+        
+        .slides::-webkit-scrollbar-thumb {
+            background: black;
+            border-radius: 10px;
+        }
+        
+        .slides::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        
+        .slides p {
+            scroll-snap-align: start;
+            flex-shrink: 0;
+            width: 100%;
+            height: auto;
+            margin-right: 50px;
+            border-radius: 10px;
+            background: #eee;
+            transform-origin: center center;
+            transform: scale(1);
+            transition: transform 0.5s;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: calc(100% - 350px);
+            margin-top: calc(350px - 100%);
+        }
+        
+        .slides p:target {
+            /*   transform: scale(1); 
+    padding-top: calc(100% - 500px);
+    margin-top: 0px;*/
+        }
+        
+        .slides ul:target {
+            /*   transform: scale(1); */
+        }
+        
+        .slider>a {
+            display: inline-flex;
+            width: 1.5rem;
+            height: 1.5rem;
+            background: pink;
+            text-decoration: none;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin: 0 0 0.5rem 0;
+            position: relative;
+        }
+        
+        .slider>a:active {
+            top: 1px;
+            background-color: pink;
+        }
+        
+        .slider>a:focus {
+            background: #00c;
+            border: 2px solid red;
+        }
+        /* Don't need button navigation */
+        
+        @supports (scroll-snap-type) {
+            .slider>a {
+                display: none;
+            }
+        }
+        
+        .bottomSpacer {
+            /* padding-bottom: 80vh;
+            margin-bottom: 80vh;*/
+            background-color: aliceblue;
+        }
+        
+        section#mainsection {
+            height: fit-content!important;
+        }
+    </style>
+</head>
+
+<body>
+
+
+
+    <div id="banner">
+        <a href="../../" class="button fork"><strong>Kyoto Lesson</strong></a>
+    </div>
+    <!-- end banner -->
+
+    <div class="wrapper">
+        <div id="scrollButton">
+            <a href="#contentWrapper" class="button fork"><b>^Top</b></a>
+            <br>
+            <a href="#bottomSpacer" class="button fork"><b>˅Bottom</b></a>
+
+        </div>
+
+
+        <!-- necessary for nav section to appear-->
+        <nav>
+            <ul></ul>
+
+        </nav>
+
+        <section id="mainsection" style="height:auto;">
+
+            <header id="header1">
+                <h1 class="ournav">
+                    <a class="navbar-brand ournav-item" href="https://kyotolesson.com">
+                        <img src="/img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="200" alt="Kyoto Lesson" style="vertical-align: middle;"></a>
+                    &nbsp;
+                    <a class="ournav-item" href="../../">Junior Coders</a>
+                </h1>
+                <!--			<p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+				<h2>{{ page.title | default: site.title | default: site.github.repository_name }}</h2>-->
+            </header>
+
+            <div class="ournav">
+                <ul class="ournav-links">
+                    <li class="ournav-item">Junior Coders:</li>
+                    <li class="ournav-item"><a href="../saturday_pm">Saturday PM Class Notes</a></li>
+                    <li li class="ournav-item"><a href="../monday_pm">Monday PM Class Notes</a></li>
+                    <li class="ournav-item"><a href="../lessons">Lesson Topics index</a></li>
+                </ul>
+            </div>
+
+            <div id="contentHeader">
+                <h1>{{ page.title | default: site.title | default: site.github.repository_name }}
+                </h1>
+                <div id="subtitle">
+
+                    <p>{{ page.title2 }}
+                        <p>
+
+                </div>
+            </div>
+
+            <div id="contentWrapper">
+
+
+                {{ content }}
+            </div>
+
+            <!-- spacer for inner links -->
+            <div id="bottomSpacer" class="bottomSpacer">&nbsp;</div>
+
+        </section>
+        <footer>
+            <!-- {% if site.github.is_project_page %}
+            <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+                <small>theme rev. no: 9</small>
+            </p>
+            {% endif %}
+            <p><small>leap-year theme <a href="https://twitter.com/mattgraham">mattgraham</a></small></p> -->
+
+        </footer>
+    </div>
+
+    {% if site.google_analytics %}
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+    </script>
+    {% endif %}
+</body>
+
+</html>
