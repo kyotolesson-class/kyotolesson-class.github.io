@@ -1,6 +1,6 @@
 ---
 layout: web_app_jr_default
-title: Set Up Git
+title: "Git: Setup"
 levelsToTop: "../"
 ---
 

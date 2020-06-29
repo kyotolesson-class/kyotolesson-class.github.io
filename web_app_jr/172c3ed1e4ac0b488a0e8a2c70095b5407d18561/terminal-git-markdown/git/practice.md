@@ -1,6 +1,6 @@
 ---
 layout: web_app_jr_default
-title: Git
+title: "Git: Training"
 levelsToTop: "../"
 ---
 

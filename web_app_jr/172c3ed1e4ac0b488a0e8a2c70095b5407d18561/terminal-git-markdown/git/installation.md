@@ -1,6 +1,6 @@
 ---
 layout: web_app_jr_default
-title: Install Git
+title: "Git: Linux Installation"
 levelsToTop: "../"
 ---
 

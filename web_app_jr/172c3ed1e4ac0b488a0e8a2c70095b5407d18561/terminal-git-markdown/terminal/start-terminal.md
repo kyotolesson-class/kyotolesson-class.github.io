@@ -1,6 +1,6 @@
 ---
 layout: web_app_jr_default
-title: Start the Terminal
+title: "Terminal: Training"
 levelsToTop: "../../"
 
 ---

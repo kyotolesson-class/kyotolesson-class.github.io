@@ -1,6 +1,6 @@
 ---
 layout: web_app_jr_default
-title: Work Group Briefing
+title: "Markdown: Group work"
 levelsToTop: "../../"
 
 ---
