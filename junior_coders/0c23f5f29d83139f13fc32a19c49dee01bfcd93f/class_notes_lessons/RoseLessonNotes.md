@@ -59,7 +59,7 @@ Kids then spent some time experimenting with these. Kids shared their "discoveri
 
 We will review all these again next class.
 
-![scratchjrinterface](./jc_a_001_scratchjrinterface.jpg)
+![scratchjrinterface](./images/jc_a_001_scratchjrinterface.jpg)
 
 
 
