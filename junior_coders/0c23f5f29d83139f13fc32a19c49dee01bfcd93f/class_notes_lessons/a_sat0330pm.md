@@ -25,7 +25,7 @@ See [Topic: Game: Black](../lessons/gameBlack.html)
 ## ScratchJr Intro
 
 
-![scratchjrinterface](./jc_a_001_scratchjrinterface.jpg)
+![scratchjrinterface](./images/jc_a_001_scratchjrinterface.jpg)
 
 Reviewed:
 
