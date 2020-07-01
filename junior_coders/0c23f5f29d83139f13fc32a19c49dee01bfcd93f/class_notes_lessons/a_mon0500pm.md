@@ -71,7 +71,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Review Project: "A Day At the Beach"](#review-project-a-day-at-the-beach)
   * [Pass It On from BootUp](#pass-it-on-from-bootup)
   * [Hangman](#hangman)
-* [June 29th Homework](#june-29th-homework)
+  * [June 29th Homework](#june-29th-homework)
 * [June 22nd](#june-22nd)
   * [Review Collaborative Project: "Teamwork 5000"](#review-collaborative-project-teamwork-5000)
   * [Debugging Exercises for "A Day at the Beach"](#debugging-exercises-for-a-day-at-the-beach)
@@ -146,7 +146,7 @@ We were unable to download the file from the original site. You may be able to d
 
 As students worked on the project I demonstrated techniques to solve problems that came up, including a lot of spelling questions. This lead to a rousing game of Hangman. 
 
-## June 29th Homework
+### June 29th Homework
 
 Continue working on Pass It On, and send it to my by email. 
 
