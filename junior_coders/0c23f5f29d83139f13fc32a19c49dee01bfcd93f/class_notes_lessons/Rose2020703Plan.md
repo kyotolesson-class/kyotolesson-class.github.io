@@ -29,6 +29,10 @@ Uses repeat block to repat motion
 
 https://www.youtube.com/watch?v=ZPgbWqX4Nog&list=PLV4zluvZAlMrLDACXWRq7nBvMYY5EyxtI&index=10&t=0s
 
+
+https://drive.google.com/file/d/0B342uiaCLSS3MlBYS0JMTkh5MzA/view
+
+
 ### Repeat the Repeat
 
 1. Put some actions in a repeat block.
@@ -38,6 +42,10 @@ https://www.youtube.com/watch?v=ZPgbWqX4Nog&list=PLV4zluvZAlMrLDACXWRq7nBvMYY5Ey
 ## Starry Night
 
 Repeat Forever block
+
+visibility and invisibility
+
+
 
 create characters that repeat forever accross the screen. 
 
@@ -49,3 +57,17 @@ https://drive.google.com/file/d/0B342uiaCLSS3em5UNUdsZEpwMlE/view
 
 
 https://docs.google.com/document/d/1MzVJZaaabOdF4gjuQAJc2dEC9bH98KcUbYkmEt4THXg/edit
+
+
+## Under the Sea
+
+control speed
+
+control size and visibility before start is permanent.
+
+
+
+https://docs.google.com/document/d/17BibYTIwpDEybMa5XkBkIeuCuYTsbiMHVOB9Z_snNuc/edit#
+
+
+https://drive.google.com/file/d/0B342uiaCLSS3NkRHNTQwRExRQ3M/view
