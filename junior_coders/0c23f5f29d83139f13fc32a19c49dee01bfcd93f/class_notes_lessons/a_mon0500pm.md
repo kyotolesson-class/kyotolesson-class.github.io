@@ -163,11 +163,11 @@ We then watched a video describing out next project, "The Aliens Have Landed" fr
 
 #### Space Ship Problem: Diagonal movement
 
-In the beginning of the video the space ship  moves diagonally up and across the screen. I challenged the group to show me how to do it. Kids came up with some interesting suggestions, and eventually we got to (see Homework). The secret is having both actions take place at the same time in separate "threads".
+In the beginning of the video the space ship  moves diagonally up and across the screen. I challenged the group to show me how to do it. Kids came up with some interesting suggestions, and eventually we got to a solution (though there is a simpler one: see screen 1 of the Homework). The secret is having both actions take place at the same time in separate "threads".
 
 #### Space Ship Problem: Shrinking Cat
 
-However, in the video, the space ship also gets smaller. How do we do this? One suggestion was made , but the **Red Shrinking Cat** (see screen 2 of Homework) doesn't quite work. This is the homework challenge.
+However, in the video, the space ship also gets smaller. How do we do this? One suggestion was made, but the **Red Shrinking Cat** (screen 2 of Homework) doesn't quite work. This is the homework challenge (screen 3).
 
 ### Hangman
 
