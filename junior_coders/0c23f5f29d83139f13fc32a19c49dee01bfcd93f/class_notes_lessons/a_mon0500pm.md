@@ -74,12 +74,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
     * [Space Ship Problem: Diagonal movement](#space-ship-problem-diagonal-movement)
     * [Space Ship Problem: Shrinking Cat](#space-ship-problem-shrinking-cat)
   * [Hangman](#hangman)
-  * [June 29th Homework](#june-29th-homework)
+  * [July 7th Homework](#july-7th-homework)
 * [June 29th](#june-29th)
   * [Review Project: "A Day At the Beach"](#review-project-a-day-at-the-beach)
   * [Pass It On from BootUp](#pass-it-on-from-bootup)
   * [Hangman](#hangman-1)
-  * [June 29th Homework](#june-29th-homework-1)
+  * [June 29th Homework](#june-29th-homework)
 * [June 22nd](#june-22nd)
   * [Review Collaborative Project: "Teamwork 5000"](#review-collaborative-project-teamwork-5000)
   * [Debugging Exercises for "A Day at the Beach"](#debugging-exercises-for-a-day-at-the-beach)
@@ -173,11 +173,13 @@ However, in the video, the space ship also gets smaller. How do we do this? One 
 
 After cleanup we had enough time for a fun game of Hangman. 
 
-### June 29th Homework
+### July 7th Homework
 
 * Download [the Switching Costumes](./scratchProjects/20200706HidingDisappearing.sjr) project to ScratchJr. Do you understand it?
 
 * **Solve the Space Ship Problem** (in screens 3 and 4). [Here is a guide for you to download](./scratchProjects/20200706SpaceShipProblemHW.sjr). It has 4 screens:
+
+
    1. **Diagonal Movement** from class, and a simpler one without loops.
    2. **The Red Shrinking Cat** that didn't work. (has loops)
    3. Fix this **Red Cat** to make it not bump. Click the box for a hint.
