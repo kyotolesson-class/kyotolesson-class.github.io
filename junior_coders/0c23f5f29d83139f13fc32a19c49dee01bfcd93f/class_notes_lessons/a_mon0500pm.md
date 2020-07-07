@@ -179,7 +179,6 @@ After cleanup we had enough time for a fun game of Hangman.
 
 * **Solve the Space Ship Problem** (in screens 3 and 4). [Here is a guide for you to download](./scratchProjects/20200706SpaceShipProblemHW.sjr). It has 4 screens:
 
-
    1. **Diagonal Movement** from class, and a simpler one without loops.
    2. **The Red Shrinking Cat** that didn't work. (has loops)
    3. Fix this **Red Cat** to make it not bump. Click the box for a hint.

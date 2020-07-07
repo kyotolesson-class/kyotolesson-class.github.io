@@ -122,6 +122,11 @@
             color: #3399cc;
         }
         
+        ul ol {
+            list-style-image: url();
+        }
+        /* fixes sub-ordered lists having wrong style when indented */
+        
         nav ul {
             padding-left: 0px;
         }
