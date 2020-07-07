@@ -69,7 +69,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * [July 7th](#july-7th)
   * [Review Project: "Pass It On"](#review-project-pass-it-on)
-  * [Switching costumes](#switching-costumes)
+  * [Switching Costumes Project](#switching-costumes-project)
   * [The Aliens Have Landed Part 1: *The Space Ship Problem*](#the-aliens-have-landed-part-1-the-space-ship-problem)
     * [Space Ship Problem: Diagonal movement](#space-ship-problem-diagonal-movement)
     * [Space Ship Problem: Shrinking Cat](#space-ship-problem-shrinking-cat)
@@ -135,18 +135,18 @@ We reviewed homework projects. Students were very kind in giving out "Stars and 
 
 
 
-### Switching costumes
+### Switching Costumes Project
 
 Once common challenge in ScratchJr. is making a character suddenly change. We watched a video about [several ways to do that](https://www.youtube.com/watch?v=7jv5r9aafZA&feature=youtu.be). 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7jv5r9aafZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-We then walked through a project showing two ways to make a character change costumes using [this project](./scratchProjects/20200706HidingDisappearing.sjr)
+We then walked through a project showing two ways to make a character change costumes using the [Switching Costumes Project](./scratchProjects/20200706HidingDisappearing.sjr)
 
 1. Using a new screen
 
-If you place the character at the same place in both screens (at the end of one, and the beginning of the other) they will appear toe magically change.
+If you place the character at the same place in both screens (at the end of one, and the beginning of the other) they will appear to magically change.
 
 2. Using a message
 
@@ -174,6 +174,8 @@ However, in the video, the space ship also gets smaller. How do we do this? One 
 After cleanup we had enough time for a fun game of Hangman. 
 
 ### June 29th Homework
+
+* Download [the Switching Costumes](./scratchProjects/20200706HidingDisappearing.sjr) project to ScratchJr. Do you understand it?
 
 * **Solve the Space Ship Problem** (in screens 3 and 4). [Here is a guide for you to download](./scratchProjects/20200706SpaceShipProblemHW.sjr). It has 4 screens:
    1. **Diagonal Movement** from class, and a simpler one without loops.
