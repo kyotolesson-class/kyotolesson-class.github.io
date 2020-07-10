@@ -14,9 +14,18 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [July 10th](#july-10th)
+  * [Review the Under the Sea](#review-the-under-the-sea)
+  * [Initializiing a character](#initializiing-a-character)
+  * [Repeats](#repeats)
+    * [Repeat the Repeat](#repeat-the-repeat)
+  * [Drawing Backgrounds and characters](#drawing-backgrounds-and-characters)
+  * [Face Spinner](#face-spinner)
+  * [July 10th Hangman](#july-10th-hangman)
+  * [July 10 Homework: "Outer Space"](#july-10-homework-outer-space)
 * [July 3rd](#july-3rd)
   * [July 3rd Sharing Time](#july-3rd-sharing-time)
-  * [July 3rd Homework: Starry Night](#july-3rd-homework-starry-night)
+  * [July 3rd Homework: Under the Sea](#july-3rd-homework-under-the-sea)
 * [June 27th](#june-27th)
   * [Game: Black](#game-black)
   * [Game Teacher Says](#game-teacher-says)
@@ -26,6 +35,93 @@ levelsToTop: "../"
 </div>
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details>
+<summary>## July 10th
+</summary>
+
+## July 10th
+
+### Review the Under the Sea
+
+We reviewed the homework projects. The original Under teh Sea project can be [downloaded here](./scratchProjects/Y1Q15UndertheSea.sjr).
+
+
+### Initializiing a character
+
+To set the initial position, visibility, or size of a character:
+
+* **manually** change the position of the character. 
+
+![Initial Position](./images/2020-07-10/20200710InitialPosition.gif)
+  
+Note in the gif above, if I use a block to change the position, it returns when I press the return button. If I manually move it, it stays.
+
+* **manually** change the visibility 
+
+![Initial Position](./images/2020-07-10/20200710Invisble.gif)
+
+* **manually** change the size 
+
+![Size](./images/2020-07-10/20200710Size.gif)
+
+
+This is useful if you want a character to start off small, or in a certain position. 
+
+* Rotation **doesn't work**
+
+![Rotation](./images/2020-07-10/20200710Rotation.gif)
+
+
+### Repeats 
+
+#### Repeat the Repeat
+
+I briefly discussed repeats within repeats:
+
+1. Put some actions in a repeat block.
+2. Add something to that, and put that in a repeat block
+3. Repeat step 2
+
+Not so interesting at this point.
+
+
+### Drawing Backgrounds and characters
+
+We reviewed the Drawing Editor to:
+
+* Create circles, squares, and lines 
+* Use different thicknesses
+* Fill in drawings
+* Move drawings
+* Change the shape of blocks
+* Delete drawings
+
+### Face Spinner
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4r-WH7c5w0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download here](./scratchProjects/Y1R16Fidgetspinner.sjr)
+
+To practice using the editor, the kids reverse engineered the project above, but then, for fun, we put each other's pictures in the circles to make cool **Face Spinner**. 
+
+Then they made the spinner spin. As a challenge, I proposed making the spinner go fast at first and slower later. Most kids did it this way:
+
+![Rotation](./images/2020-07-10/20200710Fidget.png){: height~"200px"}
+
+### July 10th Hangman
+
+At the end we had a little time left and we played Hangman. For some kids it was their first time playing this classic children's spelling game!
+
+### July 10 Homework: "Outer Space"
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EQ8FqqIM_Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The homework is to try to make this project just from watching the video. The stars and sun are just like we did in class. The Green Cat is a little different and you might have to think about it. The Astronaut is a new trick we will learn next time! 
+
+</details>
+
 
 
 <details>
@@ -58,14 +154,19 @@ Uses repeat block to repeat motion
 [Download](./scratchProjects/Y1Q13DanceParty.sjr)
 
 
-### July 3rd Homework: Starry Night
+4. Starry Night; Putting it all together
 
-The homework was to create a project like the following. This includes making stars appear and disappear.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kxQGuTWfXx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Starry Night from Bootup](./scratchProjects/Y1Q14StarryNight.sjr)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kxQGuTWfXx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### July 3rd Homework: Under the Sea 
+
+The homework was to create a project like the following. 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/bleXofsQjzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 </details>
