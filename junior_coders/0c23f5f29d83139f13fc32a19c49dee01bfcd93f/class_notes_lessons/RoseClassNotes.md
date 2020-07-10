@@ -45,9 +45,6 @@ Children explored using the various motion blocks to create interesting dances. 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/XO9bv2Oz_68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=XO9bv2Oz_68&feature=youtu.be
-
-
 2. Can't Stop Dancing
 
 Uses repeat block to repeat motion
@@ -59,8 +56,6 @@ Uses repeat block to repeat motion
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YsS21mU9Nxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Download](./scratchProjects/Y1Q13DanceParty.sjr)
-
-https://www.youtube.com/watch?v=YsS21mU9Nxg&feature=youtu.be
 
 
 ### July 3rd Homework: Starry Night
