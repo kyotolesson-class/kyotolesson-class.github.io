@@ -15,8 +15,8 @@ levelsToTop: "../"
 <div id="toc">
 
 * [July 3rd](#july-3rd)
-* [July 3rd Sharing Time](#july-3rd-sharing-time)
-* [July 3rd Homework: Starry Night](#july-3rd-homework-starry-night)
+  * [July 3rd Sharing Time](#july-3rd-sharing-time)
+  * [July 3rd Homework: Starry Night](#july-3rd-homework-starry-night)
 * [June 27th](#june-27th)
   * [Game: Black](#game-black)
   * [Game Teacher Says](#game-teacher-says)
@@ -36,7 +36,7 @@ levelsToTop: "../"
 
 This week we continued working on learning basic ScratchJr Blocks.
 
-## July 3rd Sharing Time
+### July 3rd Sharing Time
 The kids shared the work they had done by themselves during the week. Kids learned a lot. 
 
 Children explored using the various motion blocks to create interesting dances. They created their own versions of projects similar to the following Bootup Projects:
@@ -63,7 +63,7 @@ Uses repeat block to repeat motion
 https://www.youtube.com/watch?v=YsS21mU9Nxg&feature=youtu.be
 
 
-## July 3rd Homework: Starry Night
+### July 3rd Homework: Starry Night
 
 The homework was to create a project like the following. This includes making stars appear and disappear.
 
