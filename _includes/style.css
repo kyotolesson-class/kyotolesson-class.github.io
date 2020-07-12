@@ -406,8 +406,6 @@ div.slider {
     width: 100%;
     text-align: center;
     overflow: hidden;
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
 }
 
 div.slides {
@@ -417,6 +415,8 @@ div.slides {
     scroll-behavior: smooth;
     -webkit-overflow-scrolling: touch;
     background-color: var(--ourdarkblue);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
     /*
   scroll-snap-points-x: repeat(300px);
   scroll-snap-type: mandatory;
