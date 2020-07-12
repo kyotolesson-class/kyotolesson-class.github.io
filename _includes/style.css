@@ -3,14 +3,14 @@ html {
 }
 
 html {
-    --scrollbarBG: #fee788;
+    --scrollbarBG: #ffec9f;
     --thumbBG: #bcdcef;
     --scrollheight: 30px;
     --ourorange: #ffcc01;
     --ourlightblue: aliceblue;
     --ourdarkblue: #4175b5;
     --menuBG: beige;
-    --linkhover: #ffec9f;
+    --linkhover: #fee788;
 }
 
 body {
@@ -79,10 +79,11 @@ nav ul a:hover {
 
 .ournav {
     width: 100%;
-    background-color: var(--ourlightblue);
+    background-color: var(--scrollbarBG);
     padding: 0px 0px 0px 0px;
     align-items: center;
     margin: 10px 0 10px 0;
+    border-radius: 12px;
 }
 
 .ournav-links {
