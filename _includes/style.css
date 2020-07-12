@@ -79,7 +79,7 @@ nav ul a:hover {
 
 .ournav {
     width: 100%;
-    background-color: var(--scrollbarBG);
+    background-color: var(--ourlightblue);
     padding: 0px 0px 0px 0px;
     align-items: center;
     margin: 10px 0 10px 0;
@@ -98,12 +98,6 @@ nav ul a:hover {
     padding: 5px 15px;
     margin: 0px 0px;
     /* border: 1px solid beige; */
-    border-right: 1px solid #ffcc00;
-    border-left: 1px solid #ffcc00;
-    border-top: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
-    background-color: var(--menuBG);
-    border-radius: 12px;
 }
 
 .ournav-item:first-child:hover {
@@ -135,12 +129,7 @@ nav ul a:hover {
 }
 
 #header1 a.ournav-item:hover {
-    border-right: 1px solid #ffcc00;
-    border-left: 1px solid #ffcc00;
-    border-top: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
     background-color: var(--linkhover);
-    border-radius: 12px;
 }
 
 header {
@@ -485,12 +474,6 @@ div.slides {
     /* flex-flow: row wrap; */
     /* margin: 10px; */
     /* flex-shrink: 2; */
-    border-right: 1px solid #ffcc00;
-    border-left: 1px solid #ffcc00;
-    border-top: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
-    background-color: var(--menuBG);
-    border-radius: 12px;
     margin: 1px 3px;
 }
 
@@ -543,33 +526,25 @@ div.slides::-webkit-scrollbar-button
     width: 5%;
 }
 
-
-/* may be unnecessary */
-
-.slides::-webkit-scrollbar-thumb {
-    background: var(--thumbBG);
+div.slides::-webkit-scrollbar-thumb,
+.ournav-item,
+.slider td,
+#header1 a.ournav-item:hover {
+    background: var(--menuBG);
     border-radius: 12px;
+    border-right: 5px solid #ffcc00;
+    border-left: 5px solid #ffcc00;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
 }
 
 
-/* this is better */
-
-div.slides::-webkit-scrollbar-thumb
-/*the draggable scrolling handle.*/
-
-{
-    background: var(--thumbBG);
-    background-color: var(--thumbBG);
-    border-radius: 12px;
-    border: 3px solid var(--ourorange);
-}
-
-
-/* may be unnecessary */
+/* may be unnecessary 
 
 .slides::-webkit-scrollbar-track {
     background: transparent;
 }
+*/
 
 
 /* this is better */
@@ -578,7 +553,7 @@ div.slides::-webkit-scrollbar-track
 /*the track (progress bar) of the scrollbar.*/
 
 {
-    background: var(--thumbBG);
+    background: transparent;
 }
 
 div.slides::-webkit-scrollbar {
