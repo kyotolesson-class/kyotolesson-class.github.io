@@ -10,6 +10,7 @@ html {
     --ourlightblue: aliceblue;
     --ourdarkblue: #4175b5;
     --menuBG: beige;
+    --linkhover: #ffec9f;
 }
 
 body {
@@ -64,16 +65,24 @@ screen and (max-width: 720px) {
     }
 }
 
+a,
+nav ul a {
+    color: #3399cc;
+}
+
+a:hover,
+nav ul a:hover {
+    color: #3e71b2;
+    background-color: var(--linkhover);
+    /* border: 1px solid blue; */
+}
+
 .ournav {
     width: 100%;
-    background-color: var(--menuBG);
+    background-color: var(--ourlightblue);
     padding: 0px 0px 0px 0px;
     align-items: center;
     margin: 10px 0 10px 0;
-}
-
-#header1 h1.ournav {
-    background-color: #f8f9fa;
 }
 
 .ournav-links {
@@ -85,14 +94,52 @@ screen and (max-width: 720px) {
 }
 
 .ournav-item {
-    padding: 5px 5px;
+    padding: 5px 15px;
     margin: 0px 0px;
-    /*border: 1px solid beige;*/
+    /* border: 1px solid beige; */
+    border-right: 1px solid #ffcc00;
+    border-left: 1px solid #ffcc00;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: var(--menuBG);
+    border-radius: 12px;
+}
+
+.ournav-item:first-child:hover {
+    background: none;
+    border: none;
+}
+
+.ournav-item:hover {
+    background-color: var(--linkhover);
+}
+
+.ournav-item:first-child {
+    background: none;
+    border: none;
 }
 
 .ournav-item a {
     display: inline-block;
     text-decoration: none;
+}
+
+#header1 h1.ournav {
+    background-color: white;
+}
+
+#header1 a.ournav-item {
+    border: none;
+    background: none;
+}
+
+#header1 a.ournav-item:hover {
+    border-right: 1px solid #ffcc00;
+    border-left: 1px solid #ffcc00;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+    background-color: var(--linkhover);
+    border-radius: 12px;
 }
 
 header {
@@ -130,11 +177,6 @@ h2 {
             padding: 0px 0px 0px 20px; */
 }
 
-a,
-nav ul a {
-    color: #3399cc;
-}
-
 ul ol {
     list-style-image: url();
 }
@@ -157,13 +199,6 @@ div#contentWrapper #toc ul {
 
 div#contentWrapper #toc ul li ul {
     padding-left: 0px;
-}
-
-a:hover,
-nav ul a:hover {
-    color: #3e71b2;
-    background-color: #ffec9f;
-    /* border: 1px solid blue; */
 }
 
 a:empty:before {
@@ -436,6 +471,10 @@ div.slides {
     justify-content: center;
 }
 
+.slider td:hover {
+    background-color: var(--linkhover);
+}
+
 .slider td {
     /*display: flex;
     align-items: center;
@@ -450,6 +489,8 @@ div.slides {
     border-top: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
     background-color: var(--menuBG);
+    border-radius: 12px;
+    margin: 1px 3px;
 }
 
 .slides::-webkit-scrollbar {
