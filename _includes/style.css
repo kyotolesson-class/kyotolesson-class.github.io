@@ -402,13 +402,15 @@ details[open] summary~* {
     width: 100%;
 }
 
-.slider {
+div.slider {
     width: 100%;
     text-align: center;
     overflow: hidden;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
 }
 
-.slides {
+div.slides {
     display: flex;
     overflow-x: auto;
     /* scroll-snap-type: x mandatory;*/
