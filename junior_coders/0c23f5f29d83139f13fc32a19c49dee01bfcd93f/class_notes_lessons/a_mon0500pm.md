@@ -67,14 +67,14 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [July 7th](#july-7th)
+* [July 6th](#july-6th)
   * [Review Project: "Pass It On"](#review-project-pass-it-on)
   * [Switching Costumes Project](#switching-costumes-project)
   * [The Aliens Have Landed Part 1: *The Space Ship Problem*](#the-aliens-have-landed-part-1-the-space-ship-problem)
     * [Space Ship Problem: Diagonal movement](#space-ship-problem-diagonal-movement)
     * [Space Ship Problem: Shrinking Cat](#space-ship-problem-shrinking-cat)
   * [Hangman](#hangman)
-  * [July 7th Homework](#july-7th-homework)
+  * [July 6th Homework](#july-6th-homework)
 * [June 29th](#june-29th)
   * [Review Project: "A Day At the Beach"](#review-project-a-day-at-the-beach)
   * [Pass It On from BootUp](#pass-it-on-from-bootup)
@@ -124,10 +124,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 
 <details>
-<summary>## July 7th 
+<summary>## July 6th 
 </summary>
 
-## July 7th 
+## July 6th 
 
 ### Review Project: "Pass It On"
 
@@ -173,7 +173,7 @@ However, in the video, the space ship also gets smaller. How do we do this? One 
 
 After cleanup we had enough time for a fun game of Hangman. 
 
-### July 7th Homework
+### July 6th Homework
 
 * Download [the Switching Costumes](./scratchProjects/20200706HidingDisappearing.sjr) project to ScratchJr. Do you understand it?
 
