@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cards on Cards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Let's Make More Cards!</h1>
+
+        <video src="cards.mov" autoplay loop controls></video>
+
+        <h2>Your to-do list:</h2>
+
+        <div class="todo-list">
+            <input id="first" type="checkbox">
+            <label for="first">Create a <code>div</code> with the class <code>.cards</code></label>
+        </div>
+        <div class="todo-list">
+            <input id="second" type="checkbox">
+            <label for="second">Inside <code>.cards</code>, create 3 <code>divs</code>, each with the class <code>.card</code></label>
+        </div>
+        <div class="todo-list">
+            <input id="third" type="checkbox">
+            <label for="third">Give each card its own <code>#id</code></label>
+        </div>
+        <div class="todo-list">
+            <input id="fourth" type="checkbox">
+            <label for="fourth"><strong>Before using images</strong>, style your cards' size and borders. Also, <code>.cards</code> should be a flex box!</label>
+        </div>
+        <div class="todo-list">
+            <input id="fith" type="checkbox">
+            <label for="fith">Create a <code>.card-title</code> and <code>.card-text</code> for each <code>.card</code></label>
+        </div>
+        <div class="todo-list">
+            <input id="sixth" type="checkbox">
+            <label for="sixth">Go to <a href="https://giphy.com/" target="_blank">Giphy</a>, and choose your 3 favorite animated gifs</label>
+        </div>
+        <div class="todo-list">
+            <input id="seventh" type="checkbox">
+            <label for="seventh">For each card <code>#id</code>, use <code>background: url('')</code> and insert your image src inside the url quotes</label>
+        </div>
+        <br>
+        <div style="border:3px dashed black; padding: 10px; margin: auto; width: 80%;">
+            <strong>Example</strong>
+            <br>
+            <br>
+            <code>
+                #cat { <br>
+                    <span style="margin-left:15px;">background:</span>
+                    url('giphy.gif');<br>
+                }
+            </code>
+        </div>
+        <br>
+        <div class="todo-list">
+            <input id="eighth" type="checkbox">
+            <label for="eighth">Create hover effects for your cards</label>
+        </div>
+        <br>
+
+        <h2>Make your cards below:</h2>
+
+        <br>
+
+        <!-- Create your cards below -->
+        
+        <div class="cards">
+            <div class="card" id="corndog">
+                <div class="card-content">
+                    <div class="card-title">Corn Dog</div>
+                    <div class="card-text">I love corn dogs</div>
+                </div>
+            </div>
+            <div class="card" id="cat">
+                <div class="card-content">
+                    <div class="card-title">Dancing cat</div>
+                    <div class="card-text">This cat dances</div>
+                </div>
+            </div>
+            <div class="card" id="sloth">
+                <div class="card-content">
+                    <div class="card-title">Wowow</div>
+                    <div class="card-text">Sloths smile slowly</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
