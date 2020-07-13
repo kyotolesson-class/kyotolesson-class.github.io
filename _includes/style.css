@@ -5,7 +5,7 @@ html {
 html {
     --scrollbarBG: #ffec9f;
     --thumbBG: #bcdcef;
-    --scrollheight: 30px;
+    --scrollheight: 24px;
     --ourorange: #ffcc01;
     --ourlightblue: aliceblue;
     --ourdarkblue: #4175b5;
@@ -80,10 +80,10 @@ nav ul a:hover {
 .ournav {
     width: 100%;
     background-color: var(--ourlightblue);
-    padding: 0px 0px 0px 0px;
     align-items: center;
+    /* padding: 0px 0px 0px 0px;
     margin: 10px 0 10px 0;
-    border-radius: 12px;
+    border-radius: 12px;*/
 }
 
 .ournav-links {
@@ -95,9 +95,8 @@ nav ul a:hover {
 }
 
 .ournav-item {
-    padding: 5px 15px;
     margin: 0px 0px;
-    /* border: 1px solid beige; */
+    /* padding: 5px 15px; border: 1px solid beige; */
 }
 
 .ournav-item:first-child:hover {
@@ -117,19 +116,6 @@ nav ul a:hover {
 .ournav-item a {
     display: inline-block;
     text-decoration: none;
-}
-
-#header1 h1.ournav {
-    background-color: white;
-}
-
-#header1 a.ournav-item {
-    border: none;
-    background: none;
-}
-
-#header1 a.ournav-item:hover {
-    background-color: var(--linkhover);
 }
 
 header {
@@ -461,22 +447,6 @@ div.slides {
     justify-content: center;
 }
 
-.slider td:hover {
-    background-color: var(--linkhover);
-}
-
-.slider td {
-    /*display: flex;
-    align-items: center;
-    justify-content: center;
-     max-width: max-content; 
-    width: auto;*/
-    /* flex-flow: row wrap; */
-    /* margin: 10px; */
-    /* flex-shrink: 2; */
-    margin: 1px 3px;
-}
-
 .slides::-webkit-scrollbar {
     width: 10px;
     height: 10px;
@@ -526,6 +496,18 @@ div.slides::-webkit-scrollbar-button
     width: 5%;
 }
 
+.slider td:hover {
+    background-color: var(--linkhover);
+}
+
+div.slides::-webkit-scrollbar-thumb,
+.ournav-item,
+.slider td,
+#header1 a.ournav-item:hover {
+    margin: 2px 4px;
+    padding: 0px 13px;
+}
+
 div.slides::-webkit-scrollbar-thumb,
 .ournav-item,
 .slider td,
@@ -536,15 +518,34 @@ div.slides::-webkit-scrollbar-thumb,
     border-left: 5px solid #ffcc00;
     border-top: 1px solid #e5e5e5;
     border-bottom: 1px solid #e5e5e5;
+    margin: 2px 4px;
+    padding: 0px 13px;
 }
 
+#header1 h1.ournav {
+    background-color: white;
+}
 
-/* may be unnecessary 
-
-.slides::-webkit-scrollbar-track {
+#header1 a.ournav-item {
+    /* border: 5px transparent solid; */
+    background: none;
+    border-radius: 12px;
     background: transparent;
+    border-radius: 12px;
+    border-right: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    margin: 2px 4px;
+    padding: 0px 13px;
+    position: relative;
+    top: 11px;
 }
-*/
+
+#header1 a.ournav-item:hover {
+    background-color: var(--linkhover);
+    padding-bottom: 6px;
+}
 
 
 /* this is better */
