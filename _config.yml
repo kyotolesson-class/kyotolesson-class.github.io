@@ -17,5 +17,10 @@ kramdown:
     hard_wrap: false
 github: [metadata] 
 encoding: UTF-8 
+srcset:
+  optipng: true
+  cjpeg: true
+  cache: "/tmp/images"
+  jpeg_quality: 50
  
  

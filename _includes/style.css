@@ -5,7 +5,7 @@ html {
 html {
     --scrollbarBG: #ffec9f;
     --thumbBG: #bcdcef;
-    --scrollheight: 24px;
+    --scrollheight: 25px;
     --ourorange: #ffcc01;
     --ourlightblue: aliceblue;
     --ourdarkblue: #4175b5;
@@ -575,13 +575,6 @@ div.slides::-webkit-scrollbar-corner {
 }
 
 
-/*the bottom corner of the scrollbar, where both horizontal and vertical scrollbars meet.*/
-
-div.slides::-webkit-resizer {
-    background: pink;
-}
-
-
 /*the draggable resizing handle that appears at the bottom corner of some elements.*/
 
 
@@ -690,6 +683,10 @@ nice image gallery 2, no slides
 --------------------
 */
 
+.slider2 {
+    /* width: 400px; */
+}
+
 .slider2 .gallerymenu {
     margin-top: 10px;
 }
@@ -703,17 +700,6 @@ nice image gallery 2, no slides
     justify-content: center;
 }
 
-div.slides2 {
-    display: flex;
-    overflow-x: auto;
-    /* scroll-snap-type: x mandatory; */
-    scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
-    background-color: var(--ourdarkblue);
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
-}
-
 .slider2 .gallerymenu p>a {
     background: var(--menuBG);
     border-radius: 12px;
@@ -725,15 +711,41 @@ div.slides2 {
     padding: 0px 13px;
 }
 
+
+/*the buttons on the scrollbar (arrows pointing upwards and downwards).*/
+
+.slider2 .gallerymenu p a:hover {
+    background-color: var(--linkhover);
+}
+
+
+/* SLIDES 2 SECTION OF GALLERY */
+
+div.slides2 {
+    display: flex;
+    overflow-x: auto;
+    /* scroll-snap-type: x mandatory; */
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    background-color: var(--ourdarkblue);
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    width: 100%;
+    resize: both;
+}
+
 div.slides2 p {
     scroll-snap-align: start;
     flex-shrink: 0;
-    width: 96%;
-    padding-left: 2%;
-    padding-right: 2%;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
     height: auto;
-    margin-right: 50px;
-    border-radius: 10px;
+    margin-right: -1px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+    border-radius: 12px;
     background: #eee;
     transform-origin: center center;
     transform: scale(1);
@@ -742,9 +754,24 @@ div.slides2 p {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*   padding-top: calc(100% - 340px);
-    margin-top: calc(350px - 100%); */
     background: var(--scrollbarBG);
+}
+
+div.slides2 p a {
+    /* justify-content: center; */
+    /* align-items: center; 
+    margin: 10%;*/
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+div.slides2 p a img {
+    border-radius: 12px;
+    margin: 6px;
+    width: 388px;
 }
 
 div.slides2::-webkit-scrollbar {
@@ -761,13 +788,6 @@ div.slides2::-webkit-scrollbar-button {
     width: 5%;
 }
 
-
-/*the buttons on the scrollbar (arrows pointing upwards and downwards).*/
-
-.slider2 .gallerymenu p a:hover {
-    background-color: var(--linkhover);
-}
-
 div.slides2::-webkit-scrollbar-thumb,
 .ournav-item,
 .slider2 .gallerymenu p a {
@@ -789,13 +809,6 @@ div.slides2::-webkit-scrollbar-thumb,
 }
 
 
-/* space above scrollbar */
-
-div.slides2 p {
-    margin-bottom: 0px;
-}
-
-
 /* this is better */
 
 div.slides2::-webkit-scrollbar-track {
@@ -807,6 +820,7 @@ div.slides2::-webkit-scrollbar-track {
 
 div.slides2::-webkit-scrollbar {
     height: var(--scrollheight);
+    width: var(--scrollheight);
 }
 
 div.slides2::-webkit-scrollbar-track-piece {
@@ -819,14 +833,18 @@ div.slides2::-webkit-scrollbar-track-piece {
 /*the track (progress bar) NOT covered by the handle.*/
 
 div.slides2::-webkit-scrollbar-corner {
-    background: yellow;
+    background-color: var(--ourdarkblue);
 }
 
 
 /*the bottom corner of the scrollbar, where both horizontal and vertical scrollbars meet.*/
 
 div.slides2::-webkit-resizer {
-    background: pink;
+    background: linear-gradient(316deg, var(--thumbBG) 30%, blue 35%, var(--ourorange) 38%);
+    background-color: var(--ourlightblue);
+    border-top-right-radius: 29px;
+    border-bottom-left-radius: 29px;
+    border-top-left-radius: 6px;
 }
 
 
@@ -845,6 +863,7 @@ div.slides2::-webkit-scrollbar-button:horizontal:start:decrement,
 div.slides2::-webkit-scrollbar-button:horizontal:decrement {
     background: linear-gradient( 30deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(150deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(270deg, var(--ourorange) 30%, rgba(0, 0, 0, 0) 31%);
     background-color: var(--ourdarkblue);
+    /* must follow background ?? */
 }
 
 
