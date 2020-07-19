@@ -24,7 +24,8 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jemoji'
     gem 'jekyll-readme-index'
-    # creates smaller images for galleries:
+    # creates smaller images for galleries looks like I need both?:
+    gem 'jekyll-srcset'
     gem 'jekyll-srcset2'
 end
 
