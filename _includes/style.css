@@ -726,12 +726,14 @@ div.slides2 {
     overflow-x: auto;
     /* scroll-snap-type: x mandatory; */
     scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
+    /* -webkit-overflow-scrolling: touch; */
     background-color: var(--ourdarkblue);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     width: 100%;
-    resize: both;
+    max-width: 100%;
+    min-width: 400px;
+    resize: horizontal;
 }
 
 div.slides2 p {
