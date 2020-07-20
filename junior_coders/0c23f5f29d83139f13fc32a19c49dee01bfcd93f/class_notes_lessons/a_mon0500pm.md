@@ -143,9 +143,9 @@ We reviewed the Diagonal Movement Puzzle and Alien Planet Project. In one soluti
 {% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 
 <!-- 
-{% include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+{ % include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 
-{% include image-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+{ % include image-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 -->
 
 #### Stars and Wishes: Common Wishes
