@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-srcset
 include:
   - CONTRIBUTING.md
   - README.md
