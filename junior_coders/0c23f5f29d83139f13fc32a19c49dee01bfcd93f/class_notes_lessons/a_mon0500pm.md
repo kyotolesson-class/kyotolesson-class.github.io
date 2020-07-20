@@ -541,13 +541,13 @@ I also explained how to make maze using "squares with holes", the 3rd kind of ma
 <!-- These have to be links  -->
 <div class="slides2">
 
-[![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+[![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
 {: #slide-09 }
 
-[![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ pgae.siteurl }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+[![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
 {: #slide-10 }
 
-[![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+[![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
 {: #slide-11 }
 
 </div>
