@@ -1,6 +1,6 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-srcset
+#  - jekyll-srcset
 include:
   - CONTRIBUTING.md
   - README.md
@@ -18,10 +18,10 @@ kramdown:
     hard_wrap: false
 github: [metadata] 
 encoding: UTF-8 
-srcset:
-  optipng: true
-  cjpeg: true
-  cache: "/tmp/images"
-  jpeg_quality: 50
+#srcset:
+ # optipng: true
+ # cjpeg: true
+ # cache: "/tmp/images"
+  # jpeg_quality: 50
  
  

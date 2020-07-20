@@ -24,18 +24,18 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jemoji'
     gem 'jekyll-readme-index'
-    # creates smaller images for galleries looks like I need both?:
-
+ 
 end
+
+# creates smaller images for galleries,  looks like I need both?:
 # gem 'jekyll-srcset'
-gem 'jekyll-srcset2'
+#gem 'jekyll-srcset2'
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
 end
-
 
 
 # Performance-booster for watching directories on Windows
