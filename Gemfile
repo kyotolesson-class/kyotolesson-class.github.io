@@ -27,7 +27,7 @@ group :jekyll_plugins do
     # creates smaller images for galleries looks like I need both?:
 
 end
-gem 'jekyll-srcset'
+# gem 'jekyll-srcset'
 gem 'jekyll-srcset2'
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
