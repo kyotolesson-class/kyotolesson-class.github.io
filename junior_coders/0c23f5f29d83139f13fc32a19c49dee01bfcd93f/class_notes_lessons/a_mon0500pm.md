@@ -67,6 +67,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 13th](#july-13th)
+  * [July 13th Homework: Diagonal Movement and Alien Planet](#july-13th-homework-diagonal-movement-and-alien-planet)
+    * [Stars and Wishes: Common Wishes](#stars-and-wishes-common-wishes)
+  * [Finish the Alien Planet](#finish-the-alien-planet)
+  * [July 13th Homework: Naughty/Nice Wizard](#july-13th-homework-naughtynice-wizard)
+  * [July 13th Homework](#july-13th-homework)
 * [July 6th](#july-6th)
   * [Review Project: "Pass It On"](#review-project-pass-it-on)
   * [Switching Costumes Project](#switching-costumes-project)
@@ -121,6 +127,58 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## July 13th 
+</summary>
+
+## July 13th 
+
+
+### July 13th Homework: Diagonal Movement and Alien Planet 
+
+We reviewed the Diagonal Movement Puzzle and Alien Planet Project. In one solution, as in the "P1 Spaceship" in the code for the Alien Planet (below), is to have several green flag blocks that all start at the same time. That means the spaceship moves up and across and shrinks at the same time, that is to say diagonally and away. Another answer to the puzzle was, instead of many green flags, to have the character/space ship send a message to itself, and have several "receive message blocks" do movements or other actions at the same time.  
+
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+
+
+{% include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+
+{% include image-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+
+
+#### Stars and Wishes: Common Wishes
+
+We looked at all the projects, and kids came up with Stars and Wishes for the projects. Part of the Here are some common "wishes" for projects. Remember to put them into your next project:
+
+* Draw your own interesting character or background. (For example, using colors and shapes well)
+* Make clear who is speaking when there is sound. (For example, have characters move when they speak.)
+* Make sure people can follow the action of the story. (Make each action separate)
+* Use word bubbles to explain the action.
+* Use text panels, like a "The End" screen to carry the project forward.
+* Add screen navigation buttons
+
+Kids are getting better at using the drawing screen, and the characters are looking better and better.
+
+### Finish the Alien Planet
+
+Some kids took on the extra credit project and gave the alien various objects. Those that didn't can finish their projects for the homework. 
+
+### July 13th Homework: Naughty/Nice Wizard
+
+The assignment was to take the basic idea of the Naughty Wizard Video and make their own version.The basic story is there is some kind of conflict, and either a naughty or nice wizard is involved in solving it or making it worse.  
+
+First the kids worked on a storyboard. I wanted kids to use the [switching constumes](#switching-costumes) technique we learned two weeks ago when applying the "Wizard"'s magic. 
+
+### July 13th Homework
+
+The homework is:
+1. Finish the Alien Planet projects, including making the improvements (wishes) that people suggested in class.
+2. Finish you Naughty/Nice Wizard thinking about the "Common Wishes" list above.
+
+
+</details>
 
 
 <details>
