@@ -440,38 +440,7 @@ Here is my [direct email](mailto:teacher@kyotolesson.com) or email alan or the s
 
 #### Addendum: Code for Alien Planet
 
-<div class="slider">
-<!-- These have to be links  -->
-<div class="slides">
-[![ {{ page.gilabel-01 }} ]({{ page.giurl-01 }})]({{ page.giurl-01 }}){: target="_blank"}
-{: #slide-01}
-
-[![ {{ page.gilabel-02 }} ]({{ page.giurl-02 }})]({{ page.giurl-02 }}){: target="\_blank"}
-{: #slide-02}
-
-[![ {{ page.gilabel-03 }} ]({{ page.giurl-03 }})]({{ page.giurl-03 }}){: target="\_blank"}
-{: #slide-03}
-
-[![ {{ page.gilabel-04 }} ]({{ page.giurl-04 }})]({{ page.giurl-04 }}){: target="\_blank"}
-{: #slide-04}
-
-[![ {{ page.gilabel-05 }} ]({{ page.giurl-05 }})]({{ page.giurl-05 }}){: target="\_blank"}
-{: #slide-05}
-
-[![ {{ page.gilabel-06 }} ]({{ page.giurl-06 }})]({{ page.giurl-06 }}){: target="\_blank"}
-{: #slide-06}
-
-[![ {{ page.gilabel-07 }} ]({{ page.giurl-07 }})]({{ page.giurl-07 }}){: target="\_blank"}
-{: #slide-07}
-
-[![ {{ page.gilabel-08 }} ]({{ page.giurl-08 }})]({{ page.giurl-08 }}){: target="\_blank"}
-{: #slide-08}
-
-</div>
-<!-- necessary space-->
-[{{ page.gilabel-01 }}](#slide-01) | [{{ page.gilabel-02 }}](#slide-02) | [{{ page.gilabel-03 }}](#slide-03) | [{{ page.gilabel-04 }}](#slide-04) | [{{ page.gilabel-05 }}](#slide-05) | [{{ page.gilabel-06 }}](#slide-06) | [{{ page.gilabel-07 }}](#slide-07) | [{{ page.gilabel-08 }}](#slide-08)
-</div>
-
+{% include niceimage-galleryNoTablesweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
 
 </details>
 

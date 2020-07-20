@@ -774,6 +774,7 @@ div.slides2 p a img {
     border-radius: 12px;
     margin: 6px;
     width: 388px;
+    width: 100%;
 }
 
 div.slides2::-webkit-scrollbar {

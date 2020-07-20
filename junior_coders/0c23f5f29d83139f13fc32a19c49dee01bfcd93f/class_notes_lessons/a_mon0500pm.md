@@ -4,59 +4,53 @@ title: Getting Started with Scratch Jr.
 title2: (Monday PM) LATEST
 levelsToTop: "../"
 
-# gi= gallery image. Place all the url (required) here, along with an (optional) label (goes above the image)
-# and/or caption (below the image) and then paste the raw markdown in teh appropriate place.
+# gi= gallery image. Place all the image paths (required) here, along with an (optional) label (goes above the image)then paste the raw markdown in teh appropriate place.
 # more than one gallery can exist on a page.
-gilabel-01: Alien Monkey
-giurl-01: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Monkey.jpg
-gicaption-01: Code for this character
 
-gilabel-02: Alien Cat
-giurl-02: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Cat.jpg
-gicaption-02: Code for this character
+## Use the code below, uncommented.
 
-gilabel-03: Alien Bat
-giurl-03: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Bat.jpg
-gicaption-03: Code for this character
+#<div class="slider2">
+#<!-- These have to be links  --> <!--
+#<div class="slides2">
 
-gilabel-04: Alien Ball
-giurl-04: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Ball.jpg
-gicaption-04: Code for this character
+#[![ {{ page.gilabel-09 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+#{: #slide-09 }
 
-gilabel-05: Fidget Spinner
-giurl-05: ./scratchProjects/Images/Y1R31AlienPlanetImages/Fidget%20Spinner.jpg
-gicaption-05: Code for this character
+#[![ {{ page.gilabel-10 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+#{: #slide-10 }
 
-gilabel-06: Alien Mushroom
-giurl-06: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Mushroom.jpg
-gicaption-06: Code for this character
+#[![ {{ page.gilabel-11 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+#{: #slide-11 }
 
-gilabel-07: Alien Sun
-giurl-07: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Sun.jpg
-gicaption-07: Code for this character
+#</div>
+#<!-- necessary space-->
+#<div class="gallerymenu">
 
-gilabel-08: Alien Ship
-giurl-08: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Ship.jpg
-gicaption-08: Code for this character
 
+#[{{ page.gilabel-09 }}](#slide-09) 
+#[{{ page.gilabel-10 }}](#slide-10)  
+#[{{ page.gilabel-11 }}](#slide-11) 
+
+#</div>
+
+#</div>
 
 # Lines From The Edge as in the ![ "Easy Maze"](./images/2020-05-11/EasyMaze.jpg){: height="50px"}
 # Linear Paths as in ![the Dragon Maze](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
 # Square-with-holes, as in the ![Follow the Maze Game](./images/2020-05-11/FollowTheMazeGame.gif "Follow the maze Game"){: height="50px"}
-  
 
 gilabel-09: Lines From The Edge
-giurl-09: ./images/2020-05-11/EasyMaze.jpg
-gicaption-09: 
+giurl-09: images/2020-05-11/EasyMaze.jpg
 
 gilabel-10: Linear Paths
-giurl-10: ./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
-gicaption-10: 
+giurl-10: images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
 
 gilabel-11: Square-with-holes
-giurl-11: ./images/2020-05-11/FollowTheMazeGame.gif
-gicaption-11: 
+giurl-11: images/2020-05-11/FollowTheMazeGame.gif
 
+
+weserve: //images.weserv.nl/?url=
+siteurl: https://kyotolesson-class.github.io
 ---
 
 
@@ -113,7 +107,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [May 25th Homework](#may-25th-homework)
   * [Also Coming Up on June 1st](#also-coming-up-on-june-1st)
 * [May 18th](#may-18th)
-  * [May 11th: Homework Review](#may-11th-homework-review)
+  * [May 18th: Homework Review](#may-18th-homework-review)
   * [May 18th: Follow the Maze Project](#may-18th-follow-the-maze-project)
   * [Drawing Square Mazes](#drawing-square-mazes)
   * [Next Major Project Preview: 3 Little Pigs](#next-major-project-preview-3-little-pigs)
@@ -140,7 +134,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 We reviewed the Diagonal Movement Puzzle and Alien Planet Project. In one solution, as in the "P1 Spaceship" in the code for the Alien Planet (below), is to have several green flag blocks that all start at the same time. That means the spaceship moves up and across and shrinks at the same time, that is to say diagonally and away. Another answer to the puzzle was, instead of many green flags, to have the character/space ship send a message to itself, and have several "receive message blocks" do movements or other actions at the same time.  
 
 
-{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+{% include niceimage-galleryNoTablesweserve.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 
 <!-- 
 { % include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
@@ -516,13 +510,14 @@ Do you know the story of the 3 little pigs? If not, try to read it.
 
 
 </details>
+
 <details>
 <summary>## May 18th
 </summary>
 
 ## May 18th
 
-### May 11th: Homework Review
+### May 18th: Homework Review
 
 I reviewed the homework submissions, and further comments will be sent via email. We are still working on a better system for this, so bear with us.
 
@@ -541,21 +536,33 @@ I really liked the questions kids had today. One question what how to create a n
 
 I also explained how to make maze using "squares with holes", the 3rd kind of maze we have made so far: 
 
-<div class="slider">
+
+<div class="slider2">
 <!-- These have to be links  -->
-<div class="slides" style="width: 50%!important; ">
-[![ {{ page.gilabel-09 }} ]({{ page.giurl-09 }}){: height="200px"}]({{ page.giurl-09 }}){: target="_blank"}
-{: #slide-09 style="margin-top:0px;"}
+<div class="slides2">
 
-[![ {{ page.gilabel-10 }} ]({{ page.giurl-10 }}){: height="200px"}]({{ page.giurl-10 }}){: target="\_blank"}
-{: #slide-10 style="margin-top:0px;"}
+[![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+{: #slide-09 }
 
-[![ {{ page.gilabel-11 }} ]({{ page.giurl-11 }}){: height="200px"}]({{ page.giurl-11 }}){: target="\_blank"}
-{: #slide-11 style="margin-top:0px;"}
+[![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ pgae.siteurl }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+{: #slide-10 }
+
+[![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+{: #slide-11 }
+
 </div>
 <!-- necessary space-->
-[{{ page.gilabel-09 }}](#slide-09) | [{{ page.gilabel-10 }}](#slide-10) | [{{ page.gilabel-11 }}](#slide-11) 
+<div class="gallerymenu">
+
+
+[{{ page.gilabel-09 }}](#slide-09) 
+[{{ page.gilabel-10 }}](#slide-10)  
+[{{ page.gilabel-11 }}](#slide-11) 
+
 </div>
+
+</div>
+
 
 Another great question was about how to make the arrows, which is shown below in the [homework for May 11th, below](#preview-for-may-18th-follow-the-maze-project){: .innerlink}, as well.
 
