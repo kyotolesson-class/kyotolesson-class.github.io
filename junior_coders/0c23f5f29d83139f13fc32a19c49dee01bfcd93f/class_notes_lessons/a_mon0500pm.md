@@ -119,7 +119,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 We reviewed the Diagonal Movement Puzzle and Alien Planet Project. In one solution, as in the "P1 Spaceship" in the code for the Alien Planet (below), is to have several green flag blocks that all start at the same time. That means the spaceship moves up and across and shrinks at the same time, that is to say diagonally and away. Another answer to the puzzle was, instead of many green flags, to have the character/space ship send a message to itself, and have several "receive message blocks" do movements or other actions at the same time.  
 
 
-{% include niceimage-galleryNoTablesweserve.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 
 <!-- 
 { % include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}
