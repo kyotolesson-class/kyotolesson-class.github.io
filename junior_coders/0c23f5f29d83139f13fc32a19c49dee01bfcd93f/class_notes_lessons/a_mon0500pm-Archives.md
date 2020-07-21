@@ -9,31 +9,30 @@ levelsToTop: "../"
 
 ## Use the code below, uncommented.
 
-#<div class="slider2">
-#<!-- These have to be links  --> <!--
-#<div class="slides2">
+# <div class="slider2">
+# <!-- These have to be links  -->
+# <div class="slides2">
 
-#[![ {{ page.gilabel-09 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
-#{: #slide-09 }
+# [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+# {: #slide-09 }
 
-#[![ {{ page.gilabel-10 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
-#{: #slide-10 }
+# [![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+# {: #slide-10 }
 
-#[![ {{ page.gilabel-11 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
-#{: #slide-11 }
+# [![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+# {: #slide-11 }
 
-#</div>
-#<!-- necessary space-->
-#<div class="gallerymenu">
+# </div>
+# <!-- necessary space-->
+# <div class="gallerymenu">
 
+# [{{ page.gilabel-09 }}](#slide-09) 
+# [{{ page.gilabel-10 }}](#slide-10)  
+# [{{ page.gilabel-11 }}](#slide-11) 
 
-#[{{ page.gilabel-09 }}](#slide-09) 
-#[{{ page.gilabel-10 }}](#slide-10)  
-#[{{ page.gilabel-11 }}](#slide-11) 
+# </div>
 
-#</div>
-
-#</div>
+# </div>
 
 # Lines From The Edge as in the ![ "Easy Maze"](./images/2020-05-11/EasyMaze.jpg){: height="50px"}
 # Linear Paths as in ![the Dragon Maze](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
