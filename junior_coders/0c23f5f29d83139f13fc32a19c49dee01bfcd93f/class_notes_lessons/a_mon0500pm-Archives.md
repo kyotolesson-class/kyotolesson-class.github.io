@@ -4,60 +4,60 @@ title:  Getting Started with Scratch Jr.
 title2: (Monday PM) ARCHIVES
 levelsToTop: "../"
 
-
-# gi= gallery image. Place all the url (required) here, along with an (optional) label (goes above the image)
-# and/or caption (below the image) and then paste the raw markdown in teh appropriate place.
+# gi= gallery image. Place all the image paths (required) here, along with an (optional) label (goes above the image)then paste the raw markdown in teh appropriate place.
 # more than one gallery can exist on a page.
-gilabel-01: Alien Monkey
-giurl-01: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Monkey.jpg
-gicaption-01: Code for this character
 
-gilabel-02: Alien Cat
-giurl-02: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Cat.jpg
-gicaption-02: Code for this character
+## Use the code below, uncommented.
 
-gilabel-03: Alien Bat
-giurl-03: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Bat.jpg
-gicaption-03: Code for this character
+#<div class="slider2">
+#<!-- These have to be links  --> <!--
+#<div class="slides2">
 
-gilabel-04: Alien Ball
-giurl-04: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Ball.jpg
-gicaption-04: Code for this character
+#[![ {{ page.gilabel-09 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+#{: #slide-09 }
 
-gilabel-05: Fidget Spinner
-giurl-05: ./scratchProjects/Images/Y1R31AlienPlanetImages/Fidget%20Spinner.jpg
-gicaption-05: Code for this character
+#[![ {{ page.gilabel-10 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+#{: #slide-10 }
 
-gilabel-06: Alien Mushroom
-giurl-06: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Mushroom.jpg
-gicaption-06: Code for this character
+#[![ {{ page.gilabel-11 }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+#{: #slide-11 }
 
-gilabel-07: Alien Sun
-giurl-07: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Sun.jpg
-gicaption-07: Code for this character
+#</div>
+#<!-- necessary space-->
+#<div class="gallerymenu">
 
-gilabel-08: Alien Ship
-giurl-08: ./scratchProjects/Images/Y1R31AlienPlanetImages/Alien%20Ship.jpg
-gicaption-08: Code for this character
 
+#[{{ page.gilabel-09 }}](#slide-09) 
+#[{{ page.gilabel-10 }}](#slide-10)  
+#[{{ page.gilabel-11 }}](#slide-11) 
+
+#</div>
+
+#</div>
 
 # Lines From The Edge as in the ![ "Easy Maze"](./images/2020-05-11/EasyMaze.jpg){: height="50px"}
 # Linear Paths as in ![the Dragon Maze](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
 # Square-with-holes, as in the ![Follow the Maze Game](./images/2020-05-11/FollowTheMazeGame.gif "Follow the maze Game"){: height="50px"}
-  
+
+
 
 gilabel-09: Lines From The Edge
-giurl-09: ./images/2020-05-11/EasyMaze.jpg
-gicaption-09: 
+giurl-09: images/2020-05-11/EasyMaze.jpg
 
 gilabel-10: Linear Paths
-giurl-10: ./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
-gicaption-10: 
+giurl-10: images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
 
 gilabel-11: Square-with-holes
-giurl-11: ./images/2020-05-11/FollowTheMazeGame.gif
-gicaption-11: 
+giurl-11: images/2020-05-11/FollowTheMazeGame.gif
 
+
+# liquid variables used in image galleries to create thumnails, e.g.
+# [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+{: #slide-09 }
+
+
+weserve: //images.weserv.nl/?url=
+siteurl: https://kyotolesson-class.github.io
 
 ---
 《 Return to [Page 1](./a_mon0500pm.html)
@@ -65,6 +65,17 @@ gicaption-11:
 <div id="toc">
 
 
+* [May 18th](#may-18th)
+  * [May 18th: Homework Review](#may-18th-homework-review)
+  * [May 18th: Follow the Maze Project](#may-18th-follow-the-maze-project)
+  * [Drawing Square Mazes](#drawing-square-mazes)
+  * [Next Major Project Preview: 3 Little Pigs](#next-major-project-preview-3-little-pigs)
+  * [May 18th Homework](#may-18th-homework)
+    * [Finish up projects from May 11th](#finish-up-projects-from-may-11th)
+    * [Intro to Message Mania](#intro-to-message-mania)
+      * [Warm-up: Planning for **Message Mania for 3**](#warm-up-planning-for-message-mania-for-3)
+      * [Advanced: **Message Mania for 6**](#advanced-message-mania-for-6)
+    * [Bonus Puzzle](#bonus-puzzle)
 * [May 11th](#may-11th)
   * [May 4th Homework Review](#may-4th-homework-review)
   * [Main Idea: Control Buttons](#main-idea-control-buttons)
@@ -126,6 +137,126 @@ gicaption-11:
 </div>
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## May 18th
+</summary>
+
+## May 18th
+
+### May 18th: Homework Review
+
+I reviewed the homework submissions, and further comments will be sent via email. We are still working on a better system for this, so bear with us.
+
+### May 18th: Follow the Maze Project
+In this class, we continued working on the [Follow the Maze Project](./scratchProjects/3ButtonRaceFollowTheMazeHW.sjr), described on May 11th in  [homework below](#preview-for-may-18th-follow-the-maze-project){: .innerlink}. I didn't discuss the *surprise* at the end. That is a bonus question for this week.
+
+
+Kids projects were full of interesting variations. Please email me your finished projects so I can look them over.
+
+### Drawing Square Mazes
+
+I really liked the questions kids had today. One question what how to create a nice maze, and we reviewed useful tips on how to draw straight lines, including keeping dots in the center, so that the characters have the most space to walk in: 
+
+   * YES: ![Dots go in the center](./images/2020-05-11/DotsInTheCenter.jpg){: width="100px"}
+   *  No: ![Dots go in the center](./images/2020-05-11/DotsNotLikeThis.jpg){: width="100px"}
+
+I also explained how to make maze using "squares with holes", the 3rd kind of maze we have made so far: 
+
+
+<div class="slider2">
+<!-- These have to be links  -->
+<div class="slides2">
+
+[![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+{: #slide-09 }
+
+[![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+{: #slide-10 }
+
+[![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+{: #slide-11 }
+
+</div>
+<!-- necessary space-->
+<div class="gallerymenu">
+
+[{{ page.gilabel-09 }}](#slide-09) 
+[{{ page.gilabel-10 }}](#slide-10)  
+[{{ page.gilabel-11 }}](#slide-11) 
+
+</div>
+
+</div>
+
+
+Another great question was about how to make the arrows, which is shown below in the [homework for May 11th, below](#preview-for-may-18th-follow-the-maze-project){: .innerlink}, as well.
+
+Lastly, we also talked about how to modify characters, to make buttons have the characters in them as in:
+
+![Screen 2 of Race to the Finish](./scratchProjects/Images/Y1R25RaceToTheFinish/Game/Y1R25RacetotheFinishGame.gif "Screen 2 of Race to the Finish"){: width="50%" } 
+ 
+
+ <!-- move to lessons -->
+### Next Major Project Preview: 3 Little Pigs
+
+Most kids seem to be understanding how to use messages. We now have a basic understanding of almost all the buttons, and are ready to try more creative and advanced projects. Our next big project we will focus more on the creative side, telling stories, creating effects that help us tell the story. Our sample project will begin like this. Can you figure it out?
+
+![3 Little Pigs Preview](./images/2020-05-18/3LittlePigsPreview.gif){: width="50%" }
+
+
+### May 18th Homework
+
+This week's homework has 3 parts, but **you don't have to do them all**. 
+
+
+#### Finish up projects from May 11th
+* Keep working on your projects and be prepared to tell me about your project using a small description. It doesn't have to be written. The focus in on the relationship between words/stories and the code. We will do more of this next week.
+
+<!-- move to lessons -->
+#### Intro to Message Mania 
+
+##### Warm-up: Planning for **Message Mania for 3**
+
+Do not use ScratchJr for this. Just plan it out. Write down or draw what will happen. Don't use ScratchJr.
+
+* Design 3 characters. 
+  * draw them or describe them in words
+* Give each character has a "receive message" block for 3 colors. For example, for character 1 (you don't have to use my example actions!!) I am writing/drawing:
+  * red: say my name and introduce myself.   * 
+  * orange: move to the edge of the screen and get stuck.
+  * yellow: ask a question. What will the question be??
+* NO action can be repeated. 
+
+We will do it in class next week as a warmup. Did I mention not to use ScratchJr for this?
+
+##### Advanced: **Message Mania for 6**
+
+If you are motivated, you can go to the advanced version: **Message Mania for 6**. It is the same as above but with 6 characters and colors.
+
+#### Bonus Puzzle 
+At the end of the Follow the Maze Project, the cake appears when Cat enters the last square. I used a special trick to do that. It uses Controls in a special way. Can you figure it out? Click below  for a hint:
+
+<details>
+<summary>Click for Hint
+</summary>
+
+<!-- does not show -->
+<title> Click for hint</title>
+
+What is the light blue notch (line) at the edge of the entrance?
+
+![picture of entrance to last square in maze](./images/2020-05-18/CatEnteringMaze.jpg)
+
+</details>
+
+This is what the model project looked like:
+
+ ![Follow the maze Game](./images/2020-05-11/FollowTheMazeGame.gif "Follow the maze Game")
+
+
+
+</details>
 
 <details>
 <summary>## May 11th
@@ -440,7 +571,7 @@ Here is my [direct email](mailto:teacher@kyotolesson.com) or email alan or the s
 
 #### Addendum: Code for Alien Planet
 
-{% include niceimage-galleryNoTablesweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
 
 </details>
 
