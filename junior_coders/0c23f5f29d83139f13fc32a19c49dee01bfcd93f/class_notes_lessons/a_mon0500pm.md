@@ -43,8 +43,7 @@ levelsToTop: "../"
 
 # liquid variables used in image galleries to create thumnails, e.g.
 # [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
-{: #slide-09 }
-
+#{: #slide-09 }
 
 weserve: //images.weserv.nl/?url=
 siteurl: https://kyotolesson-class.github.io

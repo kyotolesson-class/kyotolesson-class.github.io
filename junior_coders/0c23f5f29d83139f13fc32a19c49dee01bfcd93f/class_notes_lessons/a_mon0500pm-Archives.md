@@ -39,8 +39,6 @@ levelsToTop: "../"
 # Linear Paths as in ![the Dragon Maze](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
 # Square-with-holes, as in the ![Follow the Maze Game](./images/2020-05-11/FollowTheMazeGame.gif "Follow the maze Game"){: height="50px"}
 
-
-
 gilabel-09: Lines From The Edge
 giurl-09: images/2020-05-11/EasyMaze.jpg
 
@@ -50,16 +48,15 @@ giurl-10: images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
 gilabel-11: Square-with-holes
 giurl-11: images/2020-05-11/FollowTheMazeGame.gif
 
-
 # liquid variables used in image galleries to create thumnails, e.g.
 # [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
-{: #slide-09 }
-
+#{: #slide-09 }
 
 weserve: //images.weserv.nl/?url=
 siteurl: https://kyotolesson-class.github.io
 
 ---
+
 《 Return to [Page 1](./a_mon0500pm.html)
 
 <div id="toc">
