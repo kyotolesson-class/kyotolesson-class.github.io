@@ -4,6 +4,11 @@ title:  Getting Started with Scratch Jr.
 title2: (Monday PM) ARCHIVES
 levelsToTop: "../"
 
+# --- Image gallery with contents of folder:
+# {% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
+# ----- End
+
+# ---- Making an image gallery with individual images:
 # gi= gallery image. Place all the image paths (required) here, along with an (optional) label (goes above the image)then paste the raw markdown in teh appropriate place.
 # more than one gallery can exist on a page.
 
@@ -47,13 +52,12 @@ giurl-10: images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
 gilabel-11: Square-with-holes
 giurl-11: images/2020-05-11/FollowTheMazeGame.gif
 
-# liquid variables used in image galleries to create thumnails, e.g.
-# [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
-#{: #slide-09 }
+
+# liquid variables used above
 
 weserve: //images.weserv.nl/?url=
 siteurl: https://kyotolesson-class.github.io
-
+# ---- end
 ---
 
 《 Return to [Page 1](./a_mon0500pm.html)

@@ -53,6 +53,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 20th](#july-20th)
+  * [July 20th Homework Review](#july-20th-homework-review)
+  * [Review Things that make projects better (Stars!)](#review-things-that-make-projects-better-stars)
+  * [Teamwork 5000 Redux](#teamwork-5000-redux)
+  * [July 20th Double Hangman](#july-20th-double-hangman)
+  * [July 20th Homework](#july-20th-homework)
 * [July 13th](#july-13th)
   * [July 13th Homework: Diagonal Movement and Alien Planet](#july-13th-homework-diagonal-movement-and-alien-planet)
     * [Stars and Wishes: Common Wishes](#stars-and-wishes-common-wishes)
@@ -102,6 +108,57 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## July 20th 
+</summary>
+
+## July 20th 
+
+
+### July 20th Homework Review 
+As usual we did a homework review. Kids are getting more specific with their comments, which is good.
+
+
+### Review Things that make projects better (Stars!)
+
+Students Brainstormed a list of things that make for a good project
+
+* Creativity
+* Teamwork
+* No crazy stuff (it should make sense)
+* No violence/killing (Be kind)
+* Details 
+* Interesting characters and backgrounds
+* Make clear who is speaking or acting
+* Use word bubble and sounds
+* Use color
+* Make an exit screen
+* Beautiful story
+* Navigation buttons
+
+
+### Teamwork 5000 Redux
+
+By popular demand, instead of doing a new Bootup Project, kids wanted to make another Teamwork 5000 project. Each child came up with some ideas and in the end we had four components for kids to tie together into a story:
+
+* Like a movie
+* Look at an angel
+* Go to a monster house
+* Computer Robots
+
+In class kids did a storyboard, and reviewed it with me. Once it was complete, they started their projects.
+
+### July 20th Double Hangman
+
+Again we ended the class with a game of hangman. This time we played double hangman, with 2 boards going at the same time. Double the fun!
+
+
+### July 20th Homework
+
+The homework is complete the Teamwork 5000 Redux Project and email it to me.
+
+</details>
 
 <details>
 <summary>## July 13th 
