@@ -131,6 +131,9 @@ I then introduced the Bootup Flying project.
 
 {% include youtubelazy.html  videoID="YQ62p8WQVS8" %}
 
+The homework is to imitate (using just the video as a guide) *the first screen*, including 4 animals flying, and touch actions for each of them. You can use your own characters and motions, but keep the basic idea.
+
+* Extra credit: try to figure out how to make the transition from screen 1 to screen 2.
 
 </details>
 
