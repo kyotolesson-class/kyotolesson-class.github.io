@@ -794,13 +794,6 @@ div.slides2::-webkit-scrollbar-button {
 div.slides2::-webkit-scrollbar-thumb,
 .ournav-item,
 .slider2 .gallerymenu p a {
-    margin: 2px 4px;
-    padding: 0px 13px;
-}
-
-div.slides2::-webkit-scrollbar-thumb,
-.ournav-item,
-.slider2 .gallerymenu p a {
     background: var(--menuBG);
     border-radius: 12px;
     border-right: 5px solid #ffcc00;
@@ -809,6 +802,7 @@ div.slides2::-webkit-scrollbar-thumb,
     border-bottom: 1px solid #e5e5e5;
     margin: 2px 4px;
     padding: 0px 13px;
+    height: fit-content;
 }
 
 
