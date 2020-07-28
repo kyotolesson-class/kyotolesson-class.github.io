@@ -18,6 +18,7 @@ kramdown:
     hard_wrap: false
 github: [metadata] 
 encoding: UTF-8 
+siteurl: https://kyotolesson-class.github.io/
 #srcset:
  # optipng: true
  # cjpeg: true
