@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 27th](#july-27th)
+  * [July 27th Homework Review](#july-27th-homework-review)
+  * [Homework for August 3rd: Flying Project](#homework-for-august-3rd-flying-project)
 * [July 20th](#july-20th)
   * [July 20th Homework Review](#july-20th-homework-review)
   * [Review Things that make projects better (Stars!)](#review-things-that-make-projects-better-stars)
@@ -108,6 +111,28 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details>
+<summary>## July 27th 
+</summary>
+
+## July 27th 
+
+
+### July 27th Homework Review 
+
+The Teamwork 5000 Redux homework student made were very interesting and we moved slowly and methodically, so in the end we spent the better part of the entire class giving stars and wishes and debugging. Before running their code, I asked the kids to tell me who their characters were and what happens in each screen to reinforce their project planning and storyboarding. 
+
+
+### Homework for August 3rd: Flying Project 
+
+I then introduced the Bootup Flying project. 
+
+{% include youtubelazy.html  videoID="YQ62p8WQVS8" %}
+
+
+</details>
 
 <details>
 <summary>## July 20th 
