@@ -257,7 +257,8 @@ We reviewed homework projects. Students were very kind in giving out "Stars and 
 
 Once common challenge in ScratchJr. is making a character suddenly change. We watched a video about [several ways to do that](https://www.youtube.com/watch?v=7jv5r9aafZA&feature=youtu.be). 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/7jv5r9aafZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="7jv5r9aafZA" %}
+
 
 
 We then walked through a project showing two ways to make a character change costumes using the [Switching Costumes Project](./scratchProjects/20200706HidingDisappearing.sjr)
@@ -276,7 +277,7 @@ If you add a 3 "smoke screen" that appears and disappears as the characters chan
 
 We then watched a video describing out next project, "The Aliens Have Landed" from Bootup.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/aCoA8V1nx9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="aCoA8V1nx9Q" %}
 
 
 #### Space Ship Problem: Diagonal movement
@@ -325,7 +326,7 @@ We reviewed the A Day At the Beach projects that students completed. It was inte
 
 We watched the Pass it On from Bootup video. This video presents four situations which students are asked to continue. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YdNbPbozgnY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="YdNbPbozgnY" %}
 
 Each child chose one project and based on that choice:
 
@@ -550,7 +551,7 @@ The purpose of the project was:
 #### [UPDATE to Message Mania Part 1]
 I could see that some kids were struggling with this so I called in the Big Dogs. Here is a video showing what to do. If you have any questions, let me know. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WA4_xoRt1r8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="WA4_xoRt1r8" %}
 
 [A direct link](https://youtu.be/WA4_xoRt1r) to the video.
 
