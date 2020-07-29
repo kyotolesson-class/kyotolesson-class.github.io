@@ -1,0 +1,90 @@
+---
+layout: junior_coders_default
+title: Getting Started with Scratch Jr. (Saturday PM)
+levelsToTop: "../"
+---
+
+
+### Review 
+
+
+### Review Things that make projects better (Stars!)
+
+* Put screen navigation buttons
+* Draw your own interesting character or background. (this means take you time)
+* Make clear who is speaking when there is sound. 
+* Use word bubbles to explain the action.
+* Use color
+* Make Exit screen
+
+
+### Flying Project 
+
+The flying project lets us use the Diagonal Movement idea in many ways. How many Flying objects do you know?
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/YQ62p8WQVS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download](./scratchProjects/Y2R13Flying.sjr)
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y2R13Flying/" %}
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y2R13FlyingDebugging/" %}
+
+
+### Y2R110Creatingrain
+
+The flying project lets us use the Diagonal Movement idea in many ways. How many Flying objects do you know?
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/0wJYLXfESJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download](./scratchProjects/Y2R110Creatingrain.sjr)
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y2R110Creatingrain/" %}
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y2R110CreatingrainDebugging/" %}
+
+Why don’t we ever see this storm cloud?
+We need to alternate between showing and hiding, not hiding twice before repeating forever
+
+
+
+
+### Y2R16Inacave
+
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/oMx_QuY2mIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download](./scratchProjects/Y2R16Inacave
+.sjr)
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/[Download](./scratchProjects/Y2R16Inacave/" %}
+
+{% include niceimage-galleryNoTables.html folder="/scratchProjects/[Download](./scratchProjects/Y2R16InacaveDebugging/" %}
+
+
+Debugging:
+
+Why won’t we switch pages when the fish is tapped?
+We need to add a “start on tap” block and connect a “send blue message” block to it
+
+Why don’t we go back to the first page when SafariCat is tapped?
+We need to use a “start on tap” block instead of “start on bump”
+
+Why don’t we go back to the first page when SafariCat is tapped? 
+You may need to zoom in on the code to make this one a little easier to see
+We need to use “go to page 1” instead of using “go to page 4”
+
+Why doesn’t the scorpion and snake appear when the boulder is tapped?
+We need to broadcast an orange message instead of stopping the sprite
+
+
+
+### Maze Game From Bootup
+
+
+
+## Circle drawing
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F5Minute.Crafts.KIDS%2Fvideos%2F444561733062682%2F&show_text=1&width=476" width="100%" height="846px" style="border:12px solid darkblue; border:2px solid var(--ourdarkblue); overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
+
