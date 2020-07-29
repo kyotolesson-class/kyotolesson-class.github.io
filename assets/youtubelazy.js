@@ -19,13 +19,13 @@ function onYouTubePlayerAPIReady(event) {
         var source = "https://img.youtube.com/vi/" + ytplayer[i].dataset.embed + "/sddefault.jpg";
         var image = new Image();
         image.src = source;
+        image.classList.add("youtubeimage")
         image.addEventListener("load", function() {
             ytplayer[i].appendChild(image);
         }(i));
 
         // 4. Create a click event listener
         ytplayer[i].addEventListener("click", function() {
-
             // 5. Create the player
             player = new YT.Player(this.id, {
                 height: '',
@@ -34,16 +34,15 @@ function onYouTubePlayerAPIReady(event) {
                 events: {
                     'onReady': onPlayerReady
                 }
-            });
+            },1);
 
             // 6. Play the video when player is ready
             function onPlayerReady(event) {
                 event.target.playVideo();
             }
-
             // 7. Remove the image & button
             this.innerHTML = "";
-
+            // alert("removed");
         });
 
     }
