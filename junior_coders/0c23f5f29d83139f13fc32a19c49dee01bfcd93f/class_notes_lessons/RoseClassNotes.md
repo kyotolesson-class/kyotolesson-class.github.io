@@ -68,9 +68,9 @@ We reviewed and developed the [Outer Space project](./scratchProjects/Y1R17Outer
 2. moves up, and 
 3. shrinks then disappears.
 
-This creates the effect of him spinnin off into space and disappearing. This trick is very important in ScratchJr.
+This creates the effect of him spinning off into space and disappearing. This trick is very important in ScratchJr.
 
-{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R17Outerspace/" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R17Outerspace/" %}
 
 
 
@@ -78,7 +78,7 @@ This creates the effect of him spinnin off into space and disappearing. This tri
 
 Here are some problems to solve:
 
-{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R17OuterspaceDebugging/" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R17OuterspaceDebugging/" %}
 
 1. Why doesn’t the sun spin when pressed?
 2. Why does the alien stay in the air and not hop back down?
@@ -105,8 +105,8 @@ We played Hangman during the break, and it was a lot of fun. For a change, the k
 
 We then moved to making characters talk, either by recording sounds, or adding text bubbles. Our  model was the Animal House Project from BootUp.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ie-PcCGplu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+{% include youtubelazy.html  videoID="ie-PcCGplu4" %}
 
 The kids worked on their own version of the project, and the homework was to finish the project. 
 
@@ -115,7 +115,7 @@ The kids worked on their own version of the project, and the homework was to fin
 
 Here are some debugging exercises.
 
-{% include niceimage-galleryNoTables.html folder="/scratchProjects/Y1R18AnimalhouseDebugging/" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R18AnimalhouseDebugging/" %}
 
 
 1. Why does the barn get bigger and not bigger, then smaller?
@@ -206,7 +206,7 @@ We reviewed the Drawing Editor to:
 
 ### Face Spinner
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/4r-WH7c5w0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="4r-WH7c5w0M" %}
 
 [Download here](./scratchProjects/Y1R16Fidgetspinner.sjr)
 
@@ -222,7 +222,8 @@ At the end we had a little time left and we played Hangman. For some kids it was
 
 ### July 10 Homework: "Outer Space"
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/EQ8FqqIM_Rc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="EQ8FqqIM_Rc" %}
+
 
 The homework is to try to make this project just from watching the video. The stars and sun are just like we did in class. The Green Cat is a little different and you might have to think about it. The Astronaut is a new trick we will learn next time! 
 
@@ -245,25 +246,26 @@ Children explored using the various motion blocks to create interesting dances. 
 
 1.  Dance Alone
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/XO9bv2Oz_68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="XO9bv2Oz_68" %}
 
 2. Can't Stop Dancing
 
 Uses repeat block to repeat motion
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ZPgbWqX4Nog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="ZPgbWqX4Nog" %}
+
 
 3.  Dance Party: several sprites perform at the same time.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YsS21mU9Nxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="YsS21mU9Nxg" %}
 
 [Download](./scratchProjects/Y1Q13DanceParty.sjr)
 
 
 4. Starry Night; Putting it all together
 
+{% include youtubelazy.html  videoID="kxQGuTWfXx0" %}
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/kxQGuTWfXx0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Starry Night from Bootup](./scratchProjects/Y1Q14StarryNight.sjr)
 
@@ -272,7 +274,7 @@ Uses repeat block to repeat motion
 
 The homework was to create a project like the following. 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/bleXofsQjzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtubelazy.html  videoID="bleXofsQjzw" %}
 
 
 </details>
