@@ -149,7 +149,7 @@ The transition involves several steps:
 9. You can see how the effect is created in the gallery below.
 
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y2R13Flying" %}
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y2R13Flying/" %}
 
 ### July 3rd Homework
 
