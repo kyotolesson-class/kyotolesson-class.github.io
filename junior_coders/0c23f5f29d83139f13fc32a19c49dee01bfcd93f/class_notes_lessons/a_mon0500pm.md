@@ -53,8 +53,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [July 3rd](#july-3rd)
-  * [July 3rd Homework Review](#july-3rd-homework-review)
+* [August 3rd](#august-3rd)
+  * [August 3rd Homework Review](#august-3rd-homework-review)
   * [July 3rd Homework](#july-3rd-homework)
 * [July 27th](#july-27th)
   * [July 27th Homework Review](#july-27th-homework-review)
@@ -116,12 +116,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details>
-<summary>## July 3rd
+<summary>## August 3rd
 </summary>
 
-##  July 3rd 
+##  August 3rd 
 
-### July 3rd Homework Review 
+### August 3rd Homework Review 
 
 
 We reviewed Flying Project Homework. Some kids used the same background, but some chose a night scene or other scene. Most kids were able to create the first screen with ease, so we moved on to how to create the cool "rising into the sky" effect. 
