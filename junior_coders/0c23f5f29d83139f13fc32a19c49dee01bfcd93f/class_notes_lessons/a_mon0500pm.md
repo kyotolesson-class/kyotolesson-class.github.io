@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 3rd](#july-3rd)
+  * [July 3rd Homework Review](#july-3rd-homework-review)
+  * [July 3rd Homework](#july-3rd-homework)
 * [July 27th](#july-27th)
   * [July 27th Homework Review](#july-27th-homework-review)
   * [Homework for August 3rd: Flying Project](#homework-for-august-3rd-flying-project)
@@ -112,6 +115,52 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details>
+<summary>## July 3rd
+</summary>
+
+##  July 3rd 
+
+### July 3rd Homework Review 
+
+
+We reviewed Flying Project Homework. Some kids used the same background, but some chose a night scene or other scene. Most kids were able to create the first screen with ease, so we moved on to how to create the cool "rising into the sky" effect. 
+
+First we tried it with the kids just looking at the result and trying to code it without any help. Then I helped overcome problems, and gave suggestions on how to improve it.
+
+The transition involves several steps:
+
+1. The [P1 Pilot](#imagegallery2-Y2R13Flying-P1_Pilot) is touched and it rises to the top of the screen and disappears. 
+
+2. The second screen appears. the [P2 Pilot](#imagegallery2-Y2R13Flying-P2_Pilot)  is flying up in the air though the tops of the [P2 Tree](#imagegallery2-Y2R13Flying-P2_Tree3).
+
+3. The key is this image is the *continuation* of the screen below it. this creates the effect of rising into the sky.
+
+4. To make the effect clearer, the top of the trees in screen one (these are part of the background) are added to the bottom of screen two (these are characters). 
+
+5. When we get to screen 2, these [P2 Trees](#imagegallery2-Y2R13Flying-P2_Tree4) go down, making it look like we are rising into the sky above the trees.
+
+6. The effect is better when the trees go down slowly, and disappear at different times. 
+
+7. We spent a lot of time figuring out how to draw [P2 2louds](#imagegallery2-Y2R13Flying-P2_Cloud2)   using circles. I didn't quite finish this but explained the basic idea. Drawing a circle with a border covered by a circle without creates the cloud shape in the project.
+
+8. I also discussed how to make small stars by drawing a small line with just two dots and bringing the dots just over each other. This was used by one of the students who was using a night background.
+
+9. You can see how the effect is created in the gallery below.
+
+
+{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y2R13Flying" %}
+
+### July 3rd Homework
+
+Now that we know how to make the "rising up" effect, you can finish making the Flying Project. That is the homework. Can you make the the plane fly up in screens 1, 2, 3, and then back down using screens 3, 4, 1?
+
+* Next class: We work on using the same effect in other ways.
+
+
+
+</details>
+
 
 <details>
 <summary>## July 27th 
@@ -136,6 +185,9 @@ The homework is to imitate (using just the video as a guide) *the first screen*,
 * Extra credit: try to figure out how to make the transition from screen 1 to screen 2.
 
 </details>
+
+
+
 
 <details>
 <summary>## July 20th 
