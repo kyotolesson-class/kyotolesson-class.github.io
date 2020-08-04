@@ -869,6 +869,7 @@ nice image gallery 2, no slides
 --------------------
 */
 
+/* when link to a target in the page is clicked, the link is highlighted via jquery. Useful for showing which picture is showing in the galleries. */
 a.clickeditem {
 background-color:  var(--ourorange) !important;
 }
