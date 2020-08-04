@@ -130,11 +130,11 @@ First we tried it with the kids just looking at the result and trying to code it
 
 The transition involves several steps:
 
-1. The [P1 Pilot](#imagegallery2-Y2R13Flying-P1_Pilot) is touched and it rises to the top of the screen and disappears. 
+1. The [P1 Pilot](#imagegallery2-Y2R13Flying-P1_Pilot) is touched and he rises to the top of the screen and disappears. 
 
-2. The second screen appears. the [P2 Pilot](#imagegallery2-Y2R13Flying-P2_Pilot)  is flying up in the air though the tops of the [P2 Tree](#imagegallery2-Y2R13Flying-P2_Tree3).
+2. The second screen appears. the [P2 Pilot](#imagegallery2-Y2R13Flying-P2_Pilot)  is flying up in the air though the tops of the [P2 Trees](#imagegallery2-Y2R13Flying-P2_Tree3).
 
-3. The key is this image is the *continuation* of the screen below it. this creates the effect of rising into the sky.
+3. The key is that this background screen is the *visual continuation* of the screen below it. This creates the effect of rising into the sky.
 
 4. To make the effect clearer, the top of the trees in screen one (these are part of the background) are added to the bottom of screen two (these are characters). 
 
