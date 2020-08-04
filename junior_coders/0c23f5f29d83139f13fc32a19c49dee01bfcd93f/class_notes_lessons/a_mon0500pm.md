@@ -138,11 +138,11 @@ The transition involves several steps:
 
 4. To make the effect clearer, the top of the trees in screen one (these are part of the background) are added to the bottom of screen two (these are characters). 
 
-5. When we get to screen 2, these [P2 Trees](#imagegallery2-Y2R13Flying-P2_Tree4) go down, making it look like we are rising into the sky above the trees.
+5. When we get to screen 2, these [P2 Trees4](#imagegallery2-Y2R13Flying-P2_Tree4) go down, making it look like we are rising into the sky above the trees.
 
 6. The effect is better when the trees go down slowly, and disappear at different times. 
 
-7. We spent a lot of time figuring out how to draw [P2 2louds](#imagegallery2-Y2R13Flying-P2_Cloud2)   using circles. I didn't quite finish this but explained the basic idea. Drawing a circle with a border covered by a circle without creates the cloud shape in the project.
+7. We spent a lot of time figuring out how to draw [P2 Clouds2](#imagegallery2-Y2R13Flying-P2_Cloud2)   using circles. I didn't quite finish this but explained the basic idea. Drawing a circle with a border covered by a circle without creates the cloud shape in the project.
 
 8. I also discussed how to make small stars by drawing a small line with just two dots and bringing the dots just over each other. This was used by one of the students who was using a night background.
 

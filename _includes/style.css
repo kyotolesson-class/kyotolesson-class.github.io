@@ -868,3 +868,7 @@ div.slides2::-webkit-scrollbar-button:horizontal:decrement {
 nice image gallery 2, no slides 
 --------------------
 */
+
+a.clickeditem {
+background-color:  var(--ourorange) !important;
+}

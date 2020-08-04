@@ -1,5 +1,16 @@
         $(document).ready(function() {
 
+
+            $('a[href*="#"]').click(function(){
+            //alert("clicked" + $(this).attr("href") );
+            //$(this).attr("href");
+            var linktoclick = $("a[href='" + $(this).attr("href") + "']");
+            //alert(linktoclick);
+            //alert(   linktoclick[0].outerHTML );
+            $(".clickeditem").removeClass("clickeditem");
+            $(linktoclick).toggleClass("clickeditem");
+            });
+
             // TOC SECTION    
             // if mainmenu item is clicked
             // makes sure details is open before inner click is applied, so link works.
