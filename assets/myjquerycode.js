@@ -45,7 +45,7 @@
                     // checks toggle state
                     // toggled, then close and don't follow
                     // else if not toggled, throw error
-                    if ($(this).parents("li").last().children("a").first().hasClass("toggled")) {
+                    if ($(this).parents("li").last().children("a").first().hasClass("TOCtoggled")) {
                         $($(this).attr("href")).parents("details").last().removeAttr("open");
                     } else {
                         alert("This is a minor error (unintended menu state). Please notify webmaster.")
@@ -114,7 +114,7 @@
             $('details').on('toggle', function() {
                 //alert("about to  toggle");
                 var $elementToToggle = "[href='#" + $(this).children("h2").first().attr("id") + "']";
-                $($elementToToggle).toggleClass("toggled");
+                $($elementToToggle).toggleClass("TOCtoggled");
                 //alert("details toggled" + $(this).css('borderLeftWidth') + $(this).html());
             });
 

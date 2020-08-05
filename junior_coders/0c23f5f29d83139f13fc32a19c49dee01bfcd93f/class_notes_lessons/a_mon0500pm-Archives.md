@@ -16,7 +16,7 @@ levelsToTop: "../"
 
 # <div class="slider2">
 # <!-- These have to be links  -->
-# <div class="slides2">
+# <div class="galleryslides">
 
 # [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
 # {: #slide-09 }
@@ -166,7 +166,7 @@ I also explained how to make maze using "squares with holes", the 3rd kind of ma
 
 <div class="slider2">
 <!-- These have to be links  -->
-<div class="slides2">
+<div class="galleryslides">
 
 [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
 {: #slide-09 }

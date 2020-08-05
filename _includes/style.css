@@ -7,10 +7,11 @@ html {
     --thumbBG: #bcdcef;
     --scrollheight: 25px;
     --ourorange: #ffcc01;
-    --ourlightblue: aliceblue;
+    --ourlightblue: #f0f8ff; /* aliceblue */
     --ourdarkblue: #4175b5;
-    --menuBG: beige;
+    --menuBG: #f5f5dc; /* beige*/
     --linkhover: #fee788;
+    --borderblue: #3399cc;
 }
 
 body {
@@ -42,9 +43,9 @@ body {
     margin-top: 6px;
     line-height: 16px;
     font-size: 14px;
-    background-color: #ffcc00;
+    background-color: var(--ourorange) ;
     /* border: 1px solid #dba500; */
-    background: linear_gradient(#ffe788, #ffce38);
+    /* background: linear-gradient( var(--ourorange), #ffe788 );
     /* border-radius: 18px; */
     /* border-radius: 10px 0px 0px 0px; */
     /* box-shadow: 0px 3px 3px rgba(255, 255, 255, 0.4), 0px 1px 1px rgba(0, 0, 0, 0.1); */
@@ -67,12 +68,12 @@ screen and (max-width: 720px) {
 
 a,
 nav ul a {
-    color: #3399cc;
+    color: var(--borderblue);
 }
 
 a:hover,
 nav ul a:hover {
-    color: #3e71b2;
+    color: var(--ourdarkblue);
     background-color: var(--linkhover);
     /* border: 1px solid blue; */
 }
@@ -148,8 +149,8 @@ div#subtitle {
 h2 {
     font-size: medium;
     margin: 50px 20px 20px 20px;
-    /* border-left: 3px #3f72b2 solid;
-            border-top: 1px #3f72b2 solid;
+    /* border-left: 3px var(--borderblue) solid;
+            border-top: 1px var(--borderblue) solid;
             padding: 0px 0px 0px 20px; */
 }
 
@@ -210,7 +211,7 @@ nav ul .tag-h1 a:hover {
 
 .tag-h2 {
     text-align: left;
-    /* border-left: 3px #3f72b2 solid; */
+    /* border-left: 3px var(--borderblue) solid; */
     padding: 10px 0px 0px 0px;
     margin-bottom: 0px;
 }
@@ -223,8 +224,8 @@ nav ul .tag-h1 a:hover {
 .tag-h2 a {
     font-weight: 900;
     font-size: 14px;
-    border-left: 3px #3f72b2 solid;
-    padding: 0px 0px 0px 3px;
+    border-left: 3px var(--borderblue) solid;
+    padding: 0px 0px 0px 4px;
 }
 
 .tag-h3 {
@@ -246,8 +247,9 @@ nav {
     padding-left: 15px;
 }
 
-.toggled {
-    border-left: 10px solid #3f72b2 !important;
+.TOCtoggled {
+    border-left: 10px solid var(--borderblue) !important;
+    border-radius: 4px 4px;
 }
 
 details {
@@ -258,7 +260,7 @@ details {
     padding: 0px 1em 0px 1em;
     margin-bottom: 10px;
     /* margin: 10px; */
-    border-left: 10px solid #3399cc !important;
+    border-left: 10px solid var(--borderblue) !important;
     /* box-shadow: 3px 3px 4px black; */
 }
 
@@ -270,22 +272,22 @@ details[open] {
   box-shadow: 3px 3px 4px black; */
     margin-bottom: 15px;
     padding-bottom: 10px;
-    border-left: 9px solid #3399cc !important;
-    border-right: 1px solid #3399cc !important;
-    border-bottom: 1px solid #3399cc !important;
+    border-left: 9px solid var(--borderblue) !important;
+    border-right: 1px solid var(--borderblue) !important;
+    border-bottom: 1px solid var(--borderblue) !important;
 }
 
 
 /* give subdetails different color */
 
 details details {
-    background-color: var(--ourlightblue);
+    background-color: var(--ourlightblue) ;
 }
 
 details>summary {
     padding: 6px 6px 6px 6px;
     width: calc(100% + 1em + 3px);
-    background-color: #ffeca0;
+    background-color: #ffeca0; /* var(--summaryHeader) */
     border: none;
     cursor: pointer;
     margin-top: -2px;
@@ -361,6 +363,8 @@ details[open] summary~* {
 
 #toc>ul>li>a {
     font-weight: bold;
+    padding-left: 1px;
+    padding-right: 6px;
 }
 
 #toc>ul>li>a::before {
@@ -368,8 +372,8 @@ details[open] summary~* {
     font-weight: bold;
 }
 
-#toc>ul>li>a.toggled::before {
-    content: "  ";
+#toc>ul>li>a.TOCtoggled::before {
+    content: "\00a0 ";
 }
 
 #toc>ul>li:hover>a::before {
@@ -378,7 +382,7 @@ details[open] summary~* {
 }
 
 #toc>ul>li:hover {
-    background-color: #ffeca0;
+    background-color: var(--linkhover); /* #ffeca0 */
 }
 
 #toc li {
@@ -419,20 +423,6 @@ div.slider {
     overflow: hidden;
 }
 
-div.slides {
-    display: flex;
-    overflow-x: auto;
-    /* scroll-snap-type: x mandatory;*/
-    scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
-    background-color: var(--ourdarkblue);
-    border-top-left-radius: 12px;
-    border-top-right-radius: 12px;
-    /*
-  scroll-snap-points-x: repeat(300px);
-  scroll-snap-type: mandatory;
-  */
-}
 
 .slider table {
     width: 100%;
@@ -447,52 +437,6 @@ div.slides {
     justify-content: center;
 }
 
-.slides::-webkit-scrollbar {
-    width: 10px;
-    height: 10px;
-}
-
-div.slides {
-    scrollbar-height: var(--scrollheight);
-    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
-}
-
-div.slides p {
-    scroll-snap-align: start;
-    flex-shrink: 0;
-    width: 96%;
-    padding-left: 2%;
-    padding-right: 2%;
-    height: auto;
-    margin-right: 50px;
-    border-radius: 10px;
-    background: #eee;
-    transform-origin: center center;
-    transform: scale(1);
-    transition: transform 0.5s;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /*   padding-top: calc(100% - 340px);
-    margin-top: calc(350px - 100%); */
-    background: var(--scrollbarBG);
-}
-
-div.slides::-webkit-scrollbar {
-    height: var(--scrollheight);
-}
-
-
-/* the scrollbar.*/
-
-div.slides::-webkit-scrollbar-button {
-    background: red;
-    border-radius: 12px;
-    border: 2px solid var(--ourlightblue);
-    width: 5%;
-}
-
 
 /*the buttons on the scrollbar (arrows pointing upwards and downwards).*/
 
@@ -500,27 +444,6 @@ div.slides::-webkit-scrollbar-button {
     background-color: var(--linkhover);
 }
 
-div.slides::-webkit-scrollbar-thumb,
-.ournav-item,
-.slider td,
-#header1 a.ournav-item:hover {
-    margin: 2px 4px;
-    padding: 0px 13px;
-}
-
-div.slides::-webkit-scrollbar-thumb,
-.ournav-item,
-.slider td,
-#header1 a.ournav-item:hover {
-    background: var(--menuBG);
-    border-radius: 12px;
-    border-right: 5px solid #ffcc00;
-    border-left: 5px solid #ffcc00;
-    border-top: 1px solid #e5e5e5;
-    border-bottom: 1px solid #e5e5e5;
-    margin: 2px 4px;
-    padding: 0px 13px;
-}
 
 #header1 h1.ournav {
     background-color: white;
@@ -548,115 +471,7 @@ div.slides::-webkit-scrollbar-thumb,
 }
 
 
-/* this is better */
 
-div.slides::-webkit-scrollbar-track {
-    background: transparent;
-}
-
-
-/*the track (progress bar) of the scrollbar.*/
-
-div.slides::-webkit-scrollbar {
-    height: var(--scrollheight);
-}
-
-div.slides::-webkit-scrollbar-track-piece {
-    background: var(--thumbBG);
-    border-radius: 12px;
-    border: 3px solid var(--ourlightblue);
-}
-
-
-/*the track (progress bar) NOT covered by the handle.*/
-
-div.slides::-webkit-scrollbar-corner {
-    background: yellow;
-}
-
-
-/*the draggable resizing handle that appears at the bottom corner of some elements.*/
-
-
-/* horizontal. first selector works on first scrollbar buttons, but "end" selector not working, so just selecting whole thing. probably need double-button, but cant figure it out.  */
-
-div.slides::-webkit-scrollbar-button:horizontal:start:increment,
-div.slides::-webkit-scrollbar-button:horizontal:increment {
-    background: linear-gradient( 210deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(330deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(90deg, var(--ourorange) 30%, rgba(0, 0, 0, 0) 31%);
-    background-color: var(--ourdarkblue);
-}
-
-div.slides::-webkit-scrollbar-button:horizontal:start:decrement,
-div.slides::-webkit-scrollbar-button:horizontal:decrement {
-    background: linear-gradient( 30deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(150deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(270deg, var(--ourorange) 30%, rgba(0, 0, 0, 0) 31%);
-    background-color: var(--ourdarkblue);
-}
-
-
-/* don't seem to work */
-
-
-/*
-div.slides::-webkit-scrollbar-button:horizontal:end:increment0 {
-    background:
-        linear-gradient(210deg, #696969 40%, rgba(0, 0, 0, 0) 41%),
-        linear-gradient(330deg, #696969 40%, rgba(0, 0, 0, 0) 41%),
-        linear-gradient(90deg, #696969 30%, rgba(0, 0, 0, 0) 31%);
-    background-color: #b6b6b6;
-}
-
-div.slides::-webkit-scrollbar-button:horizontal:end:decrement0 {
-    background:
-        linear-gradient(30deg, #696969 40%, rgba(0, 0, 0, 0) 41%),
-        linear-gradient(150deg, #696969 40%, rgba(0, 0, 0, 0) 41%),
-        linear-gradient(270deg, #696969 30%, rgba(0, 0, 0, 0) 31%);
-    background-color: #b6b6b6;
-}
-*/
-
-
-/* space above scrollbar */
-
-div.slides p {
-    margin-bottom: 0px;
-}
-
-.slides p:target {
-    /*   transform: scale(1); 
-    padding-top: calc(100% - 500px);
-    margin-top: 0px;*/
-}
-
-.slides ul:target {
-    /*   transform: scale(1); */
-}
-
-
-/*
-.slider>a {
-    display: inline-flex;
-    width: 1.5rem;
-    height: 1.5rem;
-    background: pink;
-    text-decoration: none;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    margin: 0 0 0.5rem 0;
-    position: relative;
-}
-
-.slider>a:active {
-    top: 1px;
-    background-color: pink;
-}
-
-.slider>a:focus {
-    background: #00c;
-    border: 2px solid red;
-}
-
-*/
 
 
 /* Don't need button navigation */
@@ -670,7 +485,7 @@ div.slides p {
 .bottomSpacer {
     /* padding-bottom: 80vh;
             margin-bottom: 80vh;*/
-    background-color: var(--ourlightblue);
+    background-color: var(--ourlightblue) ;
 }
 
 section#mainsection {
@@ -721,7 +536,7 @@ nice image gallery 2, no slides
 
 /* SLIDES 2 SECTION OF GALLERY */
 
-div.slides2 {
+div.galleryslides {
     display: flex;
     overflow-x: auto;
     /* scroll-snap-type: x mandatory; */
@@ -736,7 +551,7 @@ div.slides2 {
     resize: horizontal;
 }
 
-div.slides2 p {
+div.galleryslides p {
     scroll-snap-align: start;
     flex-shrink: 0;
     width: 100%;
@@ -759,7 +574,7 @@ div.slides2 p {
     background: var(--scrollbarBG);
 }
 
-div.slides2 p a {
+div.galleryslides p a {
     /* justify-content: center; */
     /* align-items: center; 
     margin: 10%;*/
@@ -770,28 +585,28 @@ div.slides2 p a {
     align-items: center;
 }
 
-div.slides2 p a img {
+div.galleryslides p a img {
     border-radius: 12px;
     margin: 6px;
     width: 388px;
     width: 100%;
 }
 
-div.slides2::-webkit-scrollbar {
+div.galleryslides::-webkit-scrollbar {
     height: var(--scrollheight);
 }
 
 
 /* the scrollbar.*/
 
-div.slides2::-webkit-scrollbar-button {
+div.galleryslides::-webkit-scrollbar-button {
     background: red;
     border-radius: 12px;
     border: 2px solid var(--ourlightblue);
     width: 5%;
 }
 
-div.slides2::-webkit-scrollbar-thumb,
+div.galleryslides::-webkit-scrollbar-thumb,
 .ournav-item,
 .slider2 .gallerymenu p a {
     background: var(--menuBG);
@@ -808,19 +623,19 @@ div.slides2::-webkit-scrollbar-thumb,
 
 /* this is better */
 
-div.slides2::-webkit-scrollbar-track {
+div.galleryslides::-webkit-scrollbar-track {
     background: transparent;
 }
 
 
 /*the track (progress bar) of the scrollbar.*/
 
-div.slides2::-webkit-scrollbar {
+div.galleryslides::-webkit-scrollbar {
     height: var(--scrollheight);
     width: var(--scrollheight);
 }
 
-div.slides2::-webkit-scrollbar-track-piece {
+div.galleryslides::-webkit-scrollbar-track-piece {
     background: var(--thumbBG);
     border-radius: 12px;
     border: 3px solid var(--ourlightblue);
@@ -829,14 +644,14 @@ div.slides2::-webkit-scrollbar-track-piece {
 
 /*the track (progress bar) NOT covered by the handle.*/
 
-div.slides2::-webkit-scrollbar-corner {
+div.galleryslides::-webkit-scrollbar-corner {
     background-color: var(--ourdarkblue);
 }
 
 
 /*the bottom corner of the scrollbar, where both horizontal and vertical scrollbars meet.*/
 
-div.slides2::-webkit-resizer {
+div.galleryslides::-webkit-resizer {
     background: linear-gradient(316deg, var(--thumbBG) 30%, blue 35%, var(--ourorange) 38%);
     background-color: var(--ourlightblue);
     border-top-right-radius: 29px;
@@ -850,14 +665,14 @@ div.slides2::-webkit-resizer {
 
 /* horizontal. first selector works on first scrollbar buttons, but "end" selector not working, so just selecting whole thing. probably need double-button, but cant figure it out.  */
 
-div.slides2::-webkit-scrollbar-button:horizontal:start:increment,
-div.slides2::-webkit-scrollbar-button:horizontal:increment {
+div.galleryslides::-webkit-scrollbar-button:horizontal:start:increment,
+div.galleryslides::-webkit-scrollbar-button:horizontal:increment {
     background: linear-gradient( 210deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(330deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(90deg, var(--ourorange) 30%, rgba(0, 0, 0, 0) 31%);
     background-color: var(--ourdarkblue);
 }
 
-div.slides2::-webkit-scrollbar-button:horizontal:start:decrement,
-div.slides2::-webkit-scrollbar-button:horizontal:decrement {
+div.galleryslides::-webkit-scrollbar-button:horizontal:start:decrement,
+div.galleryslides::-webkit-scrollbar-button:horizontal:decrement {
     background: linear-gradient( 30deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(150deg, var(--ourorange) 40%, rgba(0, 0, 0, 0) 41%), linear-gradient(270deg, var(--ourorange) 30%, rgba(0, 0, 0, 0) 31%);
     background-color: var(--ourdarkblue);
     /* must follow background ?? */
