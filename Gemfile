@@ -24,6 +24,7 @@ group :jekyll_plugins do
     gem 'jekyll-seo-tag'
     gem 'jemoji'
     gem 'jekyll-readme-index'
+    gem 'kramdown-parser-gfm'
  
 end
 
