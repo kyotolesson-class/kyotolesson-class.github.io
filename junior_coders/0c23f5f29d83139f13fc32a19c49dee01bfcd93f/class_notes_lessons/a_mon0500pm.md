@@ -54,11 +54,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 
 * [August 10th](#august-10th)
-  * [July 10th Homework Review](#july-10th-homework-review)
+  * [August 3rd Homework Review](#august-3rd-homework-review)
   * [Original Project: A Walk In the Forest](#original-project-a-walk-in-the-forest)
   * [August 10th Homework](#august-10th-homework)
 * [August 3rd](#august-3rd)
-  * [August 3rd Homework Review](#august-3rd-homework-review)
+  * [August 3rd Homework Review](#august-3rd-homework-review-1)
   * [July 3rd Homework](#july-3rd-homework)
 * [July 27th](#july-27th)
   * [July 27th Homework Review](#july-27th-homework-review)
@@ -126,7 +126,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ## August 10th
 
-### July 10th Homework Review
+### August 3rd Homework Review
 
 As usual, we review the homework. The main goal of the project was to show how to create the illusion of movement using moving characters and screen transitions. 
 
@@ -148,6 +148,9 @@ The next stage was making it look like he is coming out of the forest:
 ### August 10th Homework
 The homework is to now make the cat move onto a new environment, such as having rain appear (you can just see it start to happen in the image above), or animals flying. How can you make these appear at just the right moment, and make it seems like the cat is walking through them? Good luck!
 
+Here is a full example:
+
+{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
 
 
 </details>
