@@ -70,6 +70,23 @@
             // on first run, hides nav submenus until clicked.
             $("nav .tag-h3").toggle();
 
+
+            // removes identical tags. This needs revision
+            var previousVal = 'Initial';
+            var previousItem = '';
+            $($('nav li.tag-h2').get().reverse()).each(function (i, item) {
+                var currentVal = $(item).text(); //alert(currentVal + i);
+                var currentItem = $(item);
+                if (currentVal == previousVal) { //alert(currentVal + "==" + previousVal);
+                    //$(item).toggle();
+                    previousItem.toggleClass("navIndented ");
+                    //alert("removed");
+                }
+                previousVal = currentVal;
+                previousItem = currentItem;
+            });
+
+
             // if nav item is clicked, makes sure details is open before click
             // is applied, so link works.
             $("nav ul li a").on("click", function(event) {

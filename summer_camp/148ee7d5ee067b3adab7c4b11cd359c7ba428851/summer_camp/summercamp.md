@@ -1,327 +1,342 @@
-
 ---
-layout: junior_coders_default
+layout: default
 title: Summer Camp
-title2: Week 1 Activities and Instructions
+title2: Weekly Activities and Instructions
 levelsToTop: "../"
 ---
+<style>
+.tag-h2+.tag-h2 {
+    /*display: list-item; */
+}
+
+#mainsection h3 {
+margin-left: 5%;
+}
+
+.navIndented {
+display:none;
+    text-align: center;
+    background-color: var(--ourorange);
+    left: -20px;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    margin: 6px;
+    border-radius: 12px;
+}
+</style>
 
 
+<div id="toc">
 
-
-* [levelsToTop: "../"](#levelstotop-)
 * [Monday](#monday)
-* [Monday Warmup](#monday-warmup)
-  * [NEWSPAPER GET TO KNOW YOU GAME](#newspaper-get-to-know-you-game)
-  * [NAME GAME](#name-game)
-    * [NOTES](#notes)
-  * [NEWSPAPER PRINTER'S HAT](#newspaper-printers-hat)
-    * [LINKS for Newspaper Printer's Hat](#links-for-newspaper-printers-hat)
-  * [NEWSPAPER HATS (21 WAYS)](#newspaper-hats-21-ways)
-    * [LINKS for Newspaper Hats (21 ways)](#links-for-newspaper-hats-21-ways)
-    * [NOTES](#notes-1)
-  * [STYLISH NEWSPAPER HAT](#stylish-newspaper-hat)
-    * [LINKS for Stylish Newspaper Hat](#links-for-stylish-newspaper-hat)
-  * [LINKS for Monday Warmup](#links-for-monday-warmup)
-* [Monday Review the week's schedule](#monday-review-the-weeks-schedule)
-* [Monday Story Starter Brainstorm](#monday-story-starter-brainstorm)
-  * [KCS GAZETTE](#kcs-gazette)
-  * [ROULETTE WHEEL STORY STARTER](#roulette-wheel-story-starter)
-    * [LINKS for Roulette Wheel Story Starter](#links-for-roulette-wheel-story-starter)
-  * [PHOTOS FOR WRITING PROMPTS](#photos-for-writing-prompts)
-    * [LINKS for photos for writing prompts](#links-for-photos-for-writing-prompts)
-  * [FIRST LINES FOR MIDDLE SCHOOLERS](#first-lines-for-middle-schoolers)
-    * [LINKS for First LInes for Middle Schoolers](#links-for-first-lines-for-middle-schoolers)
-  * [55 IDEAS FOR STORIES](#55-ideas-for-stories)
-    * [LINKS for 55 ideas for stories](#links-for-55-ideas-for-stories)
-  * [ROBOT CHARACTER WRITING PROMPTS](#robot-character-writing-prompts)
-    * [LINKS for robot character writing prompts](#links-for-robot-character-writing-prompts)
-  * [LINKS for Monday Story Starter Brainstorm](#links-for-monday-story-starter-brainstorm)
-* [Monday Art](#monday-art)
-  * [ART ROBOTS](#art-robots)
-  * [NEWSPAPER PRINTER'S HAT](#newspaper-printers-hat-1)
-    * [LINKS for Newspaper Printer's Hat](#links-for-newspaper-printers-hat-1)
-  * [NEWSPAPER HATS (21 WAYS)](#newspaper-hats-21-ways-1)
-    * [LINKS for Newspaper Hats (21 ways)](#links-for-newspaper-hats-21-ways-1)
-    * [NOTES](#notes-2)
-  * [LINKS for Monday Art](#links-for-monday-art)
-* [Monday Challenge](#monday-challenge)
-  * [MIRROR GAME](#mirror-game)
-* [Monday Music & Dance](#monday-music--dance)
-  * [I LIKE TO EAT APPLES AND BANANAS](#i-like-to-eat-apples-and-bananas)
-  * [FREEZE DANCE](#freeze-dance)
-    * [LINKS for Freeze Dance](#links-for-freeze-dance)
-  * [STOP AND GO](#stop-and-go)
-    * [LINKS for Stop and Go](#links-for-stop-and-go)
-  * [HI MY NAME IS JOE](#hi-my-name-is-joe)
-    * [LINKS for Hi My Name Is Joe](#links-for-hi-my-name-is-joe)
-  * [LINKS for Monday Music & Dance](#links-for-monday-music--dance)
-* [Monday Drama](#monday-drama)
-  * [CONNECT OUR EYES GROUP GAME](#connect-our-eyes-group-game)
-* [Monday Games](#monday-games)
-  * [CATEGORIES](#categories)
-  * [STOP THE BUS](#stop-the-bus)
-* [Monday Reading & Language](#monday-reading--language)
-  * [TODAY IS MONDAY](#today-is-monday)
-  * [MR. MEN/LITTLE MISS](#mr-menlittle-miss)
-  * [C3P0'S BOOK ABOUT ROBOTS](#c3p0s-book-about-robots)
-  * [A.A. MILNE POEMS](#aa-milne-poems)
-* [Monday Break Show and Tell Intro](#monday-break-show-and-tell-intro)
-* [Monday Closing Activity](#monday-closing-activity)
-  * [DATA PROCESSING](#data-processing)
-  * [MURDERER WINK](#murderer-wink)
-* [Week Extra Music](#week-extra-music)
-  * [HOT POTATO *](#hot-potato-)
-  * [ELEPHANTS HAVE WRINKLES](#elephants-have-wrinkles)
-  * [MY DOG HAS FLEAS](#my-dog-has-fleas)
-    * [LINKS for My Dog Has Fleas](#links-for-my-dog-has-fleas)
-  * [LINKS for Week Extra Music](#links-for-week-extra-music)
-* [Week Extra Art](#week-extra-art)
-  * [Extra Art Older](#extra-art-older)
-  * [ORIGAMI (FROM HANDOUT)](#origami-from-handout)
-  * [PAPER SPINNERS](#paper-spinners)
-    * [LINKS for Paper spinners](#links-for-paper-spinners)
-  * [LINKS for Week Extra Art](#links-for-week-extra-art)
+  * [Monday Warmup](#monday-warmup)
+    * [NEWSPAPER GET TO KNOW YOU GAME](#newspaper-get-to-know-you-game)
+    * [NAME GAME](#name-game)
+      * [NOTES](#notes)
+    * [NEWSPAPER PRINTER'S HAT](#newspaper-printers-hat)
+      * [LINKS for Newspaper Printer's Hat](#links-for-newspaper-printers-hat)
+    * [NEWSPAPER HATS (21 WAYS)](#newspaper-hats-21-ways)
+      * [LINKS for Newspaper Hats (21 ways)](#links-for-newspaper-hats-21-ways)
+      * [NOTES](#notes-1)
+    * [STYLISH NEWSPAPER HAT](#stylish-newspaper-hat)
+      * [LINKS for Stylish Newspaper Hat](#links-for-stylish-newspaper-hat)
+    * [LINKS for Monday Warmup](#links-for-monday-warmup)
+  * [Monday Review the week's schedule](#monday-review-the-weeks-schedule)
+  * [Monday Story Starter Brainstorm](#monday-story-starter-brainstorm)
+    * [KCS GAZETTE](#kcs-gazette)
+    * [ROULETTE WHEEL STORY STARTER](#roulette-wheel-story-starter)
+      * [LINKS for Roulette Wheel Story Starter](#links-for-roulette-wheel-story-starter)
+    * [PHOTOS FOR WRITING PROMPTS](#photos-for-writing-prompts)
+      * [LINKS for photos for writing prompts](#links-for-photos-for-writing-prompts)
+    * [FIRST LINES FOR MIDDLE SCHOOLERS](#first-lines-for-middle-schoolers)
+      * [LINKS for First LInes for Middle Schoolers](#links-for-first-lines-for-middle-schoolers)
+    * [55 IDEAS FOR STORIES](#55-ideas-for-stories)
+      * [LINKS for 55 ideas for stories](#links-for-55-ideas-for-stories)
+    * [ROBOT CHARACTER WRITING PROMPTS](#robot-character-writing-prompts)
+      * [LINKS for robot character writing prompts](#links-for-robot-character-writing-prompts)
+    * [LINKS for Monday Story Starter Brainstorm](#links-for-monday-story-starter-brainstorm)
+  * [Monday Art](#monday-art)
+    * [ART ROBOTS](#art-robots)
+    * [NEWSPAPER PRINTER'S HAT](#newspaper-printers-hat-1)
+      * [LINKS for Newspaper Printer's Hat](#links-for-newspaper-printers-hat-1)
+    * [NEWSPAPER HATS (21 WAYS)](#newspaper-hats-21-ways-1)
+      * [LINKS for Newspaper Hats (21 ways)](#links-for-newspaper-hats-21-ways-1)
+      * [NOTES](#notes-2)
+    * [LINKS for Monday Art](#links-for-monday-art)
+  * [Monday Challenge](#monday-challenge)
+    * [MIRROR GAME](#mirror-game)
+  * [Monday Music & Dance](#monday-music--dance)
+    * [I LIKE TO EAT APPLES AND BANANAS](#i-like-to-eat-apples-and-bananas)
+    * [FREEZE DANCE](#freeze-dance)
+      * [LINKS for Freeze Dance](#links-for-freeze-dance)
+    * [STOP AND GO](#stop-and-go)
+      * [LINKS for Stop and Go](#links-for-stop-and-go)
+    * [HI MY NAME IS JOE](#hi-my-name-is-joe)
+      * [LINKS for Hi My Name Is Joe](#links-for-hi-my-name-is-joe)
+    * [LINKS for Monday Music & Dance](#links-for-monday-music--dance)
+  * [Monday Drama](#monday-drama)
+    * [CONNECT OUR EYES GROUP GAME](#connect-our-eyes-group-game)
+  * [Monday Games](#monday-games)
+    * [CATEGORIES](#categories)
+    * [STOP THE BUS](#stop-the-bus)
+  * [Monday Reading & Language](#monday-reading--language)
+    * [TODAY IS MONDAY](#today-is-monday)
+    * [MR. MEN/LITTLE MISS](#mr-menlittle-miss)
+    * [C3P0'S BOOK ABOUT ROBOTS](#c3p0s-book-about-robots)
+    * [A.A. MILNE POEMS](#aa-milne-poems)
+  * [Monday Break Show and Tell Intro](#monday-break-show-and-tell-intro)
+  * [Monday Closing Activity](#monday-closing-activity)
+    * [DATA PROCESSING](#data-processing)
+    * [MURDERER WINK](#murderer-wink)
+  * [Week Extra Music](#week-extra-music)
+    * [HOT POTATO *](#hot-potato-)
+    * [ELEPHANTS HAVE WRINKLES](#elephants-have-wrinkles)
+    * [MY DOG HAS FLEAS](#my-dog-has-fleas)
+      * [LINKS for My Dog Has Fleas](#links-for-my-dog-has-fleas)
+    * [LINKS for Week Extra Music](#links-for-week-extra-music)
+  * [Week Extra Art](#week-extra-art)
+    * [Extra Art Older](#extra-art-older)
+    * [ORIGAMI (FROM HANDOUT)](#origami-from-handout)
+    * [PAPER SPINNERS](#paper-spinners)
+      * [LINKS for Paper spinners](#links-for-paper-spinners)
+    * [LINKS for Week Extra Art](#links-for-week-extra-art)
 * [Tuesday](#tuesday)
-* [Tuesday Warmup](#tuesday-warmup)
-  * [JELLY FISH SONG](#jelly-fish-song)
-  * [A RAM SAM SAM](#a-ram-sam-sam)
-    * [NOTES](#notes-3)
-* [Tuesday Art](#tuesday-art)
-  * [GAZETTE ILLUSTRATION ARTWORK](#gazette-illustration-artwork)
-  * [MASIELLO DRAWING BOOK](#masiello-drawing-book)
-  * [MR. SQUIGGLE](#mr-squiggle)
-    * [LINKS for Mr. Squiggle](#links-for-mr-squiggle)
-  * [THE ARTIST](#the-artist)
-  * [LINKS for Tuesday Art](#links-for-tuesday-art)
-* [Tuesday Gazette : First Drafts](#tuesday-gazette--first-drafts)
-  * [MAD LIBS](#mad-libs)
-* [Tuesday Challenges](#tuesday-challenges)
-  * [BALANCING ACT](#balancing-act)
-* [Tuesday Drama](#tuesday-drama)
-  * [THIS WAY (AKA IN THE MANNER OF) ("CHARADES" FOR ADVERBS)](#this-way-aka-in-the-manner-of-charades-for-adverbs)
-  * [CHARADES](#charades)
-  * [PICTIONARY](#pictionary)
-* [Tuesday Reading & Language](#tuesday-reading--language)
-  * [TONGUE TWISTERS](#tongue-twisters)
-  * [BOY AND BOT](#boy-and-bot)
-    * [NOTES](#notes-4)
-  * [ROBOTS EVERYWHERE](#robots-everywhere)
-    * [LINKS for Robots Everywhere](#links-for-robots-everywhere)
-  * [LINKS for Tuesday Reading & Language](#links-for-tuesday-reading--language)
-* [Tuesday Music & Dance](#tuesday-music--dance)
-  * [MOSES SUPPOSES](#moses-supposes)
-    * [LINKS for Moses Supposes](#links-for-moses-supposes)
-  * [JOHNNY WORKS WITH ONE HAMMER](#johnny-works-with-one-hammer)
-  * [LINKS for Tuesday Music & Dance](#links-for-tuesday-music--dance)
-* [Tuesday Games](#tuesday-games)
-  * [I SPY WITH VOCAB](#i-spy-with-vocab)
-  * [I SPY WITH COLORS AND SO ON](#i-spy-with-colors-and-so-on)
-  * [TELEPHONE/CHINESE WHISPERS](#telephonechinese-whispers)
-  * [TWENTY QUESTIONS](#twenty-questions)
-* [Tuesday Show and Tell Rest](#tuesday-show-and-tell-rest)
-* [Tuesday Closing Activity](#tuesday-closing-activity)
-  * [HANGMAN](#hangman)
-    * [NOTES](#notes-5)
+  * [Tuesday Warmup](#tuesday-warmup)
+    * [JELLY FISH SONG](#jelly-fish-song)
+    * [A RAM SAM SAM](#a-ram-sam-sam)
+      * [NOTES](#notes-3)
+  * [Tuesday Art](#tuesday-art)
+    * [GAZETTE ILLUSTRATION ARTWORK](#gazette-illustration-artwork)
+    * [MASIELLO DRAWING BOOK](#masiello-drawing-book)
+    * [MR. SQUIGGLE](#mr-squiggle)
+      * [LINKS for Mr. Squiggle](#links-for-mr-squiggle)
+    * [THE ARTIST](#the-artist)
+    * [LINKS for Tuesday Art](#links-for-tuesday-art)
+  * [Tuesday Gazette : First Drafts](#tuesday-gazette--first-drafts)
+    * [MAD LIBS](#mad-libs)
+  * [Tuesday Challenges](#tuesday-challenges)
+    * [BALANCING ACT](#balancing-act)
+  * [Tuesday Drama](#tuesday-drama)
+    * [THIS WAY (AKA IN THE MANNER OF) ("CHARADES" FOR ADVERBS)](#this-way-aka-in-the-manner-of-charades-for-adverbs)
+    * [CHARADES](#charades)
+    * [PICTIONARY](#pictionary)
+  * [Tuesday Reading & Language](#tuesday-reading--language)
+    * [TONGUE TWISTERS](#tongue-twisters)
+    * [BOY AND BOT](#boy-and-bot)
+      * [NOTES](#notes-4)
+    * [ROBOTS EVERYWHERE](#robots-everywhere)
+      * [LINKS for Robots Everywhere](#links-for-robots-everywhere)
+    * [LINKS for Tuesday Reading & Language](#links-for-tuesday-reading--language)
+  * [Tuesday Music & Dance](#tuesday-music--dance)
+    * [MOSES SUPPOSES](#moses-supposes)
+      * [LINKS for Moses Supposes](#links-for-moses-supposes)
+    * [JOHNNY WORKS WITH ONE HAMMER](#johnny-works-with-one-hammer)
+    * [LINKS for Tuesday Music & Dance](#links-for-tuesday-music--dance)
+  * [Tuesday Games](#tuesday-games)
+    * [I SPY WITH VOCAB](#i-spy-with-vocab)
+    * [I SPY WITH COLORS AND SO ON](#i-spy-with-colors-and-so-on)
+    * [TELEPHONE/CHINESE WHISPERS](#telephonechinese-whispers)
+    * [TWENTY QUESTIONS](#twenty-questions)
+  * [Tuesday Show and Tell Rest](#tuesday-show-and-tell-rest)
+  * [Tuesday Closing Activity](#tuesday-closing-activity)
+    * [HANGMAN](#hangman)
+      * [NOTES](#notes-5)
 * [Wednesday](#wednesday)
-* [Wednesday Warmup](#wednesday-warmup)
-  * [A SAILOR WENT TO SEA](#a-sailor-went-to-sea)
-  * [THE OTHER DAY I MET A BEAR](#the-other-day-i-met-a-bear)
-* [Wednesday Photo](#wednesday-photo)
-  * [STATUES](#statues)
-  * [PHOTO POSING](#photo-posing)
-* [Wednesday Games](#wednesday-games)
-  * [WHO'S IN CHARGE CIRCLE GAME](#whos-in-charge-circle-game)
-  * [TWO TRUTHS AND A LIE](#two-truths-and-a-lie)
-* [Wednesday Art](#wednesday-art)
-  * [MAKE IT OLDER (ART ATTACK)](#make-it-older-art-attack)
-  * [FEELING FLAPPER ORIGAMI](#feeling-flapper-origami)
-* [Wednesday Challenges](#wednesday-challenges)
-  * [COOPERATIVE ALPHABET TRAVEL](#cooperative-alphabet-travel)
-  * [BLINDFOLDED MAZE TRUST EXCERCISE](#blindfolded-maze-trust-excercise)
-* [Wednesday Music & Dance](#wednesday-music--dance)
-  * [ROBOT DANCES](#robot-dances)
-  * [MUSICAL CHAIRS](#musical-chairs)
-  * [FREEZE DANCE](#freeze-dance-1)
-    * [LINKS for Freeze Dance](#links-for-freeze-dance-1)
-  * [LINKS for Wednesday Music & Dance](#links-for-wednesday-music--dance)
-* [Wednesday Gazette](#wednesday-gazette)
-* [Wednesday Reading & Languages](#wednesday-reading--languages)
-  * [FREEZE (CIRCLE GAME)](#freeze-circle-game)
-    * [LINKS for Freeze (circle game)](#links-for-freeze-circle-game)
-  * [STORYBOARD](#storyboard)
-  * [LINKS for Wednesday Reading & Languages](#links-for-wednesday-reading--languages)
-* [Wednesday Drama](#wednesday-drama)
-  * [STATUES](#statues-1)
-  * [KNOCK KNOCK JOKES](#knock-knock-jokes)
-    * [Leon](#leon)
-    * [Annie](#annie)
-    * [Lena](#lena)
-    * [Quiche](#quiche)
-    * [Wa](#wa)
-    * [Adore](#adore)
-    * [I am](#i-am)
-    * [A leaf.](#a-leaf)
-    * [Hike](#hike)
-    * [A little old lady](#a-little-old-lady)
-    * [Ice cream soda](#ice-cream-soda)
-    * [Candice](#candice)
-    * [Haven](#haven)
-    * [Keith](#keith)
-    * [Europe](#europe)
-    * [Double](#double)
-    * [Anita](#anita)
-    * [Banana](#banana)
-    * [Banana](#banana-1)
-    * [Orange](#orange)
-    * [Alex](#alex)
-    * [Olive.](#olive)
-    * [Hawaii](#hawaii)
-    * [Nun](#nun)
-    * [June](#june)
-    * [Spell](#spell)
-    * [Oscar](#oscar)
-    * [Conrad](#conrad)
-    * [Anita](#anita-1)
-    * [Dejav](#dejav)
-    * [Owls say](#owls-say)
-    * [Cargo](#cargo)
-    * [To](#to)
-    * [Cash](#cash)
-    * [Mustache](#mustache)
-    * [Dwayne](#dwayne)
-    * [Ya](#ya)
-    * [Control Freak](#control-freak)
-    * [Billy Bob Joe Penny](#billy-bob-joe-penny)
-    * [Theodore](#theodore)
-    * [Alec](#alec)
-    * [Cereal](#cereal)
-    * [Cantaloupe](#cantaloupe)
-    * [Beats](#beats)
-    * [Kenya](#kenya)
-    * [Interrupting sloth](#interrupting-sloth)
-    * [Ida](#ida)
-    * [Cabbage](#cabbage)
-    * [You didn’t remember me!](#you-didnt-remember-me)
-    * [Sweden](#sweden)
-    * [Art](#art)
-    * [Smellmop](#smellmop)
-    * [I need a puh](#i-need-a-puh)
-    * [Hatch](#hatch)
-    * [Tank](#tank)
-    * [Voodoo](#voodoo)
-    * [Boo](#boo)
-    * [Opportunity](#opportunity)
-    * [Honeybee](#honeybee)
-    * [Says](#says)
-    * [Alice](#alice)
-    * [Iran](#iran)
-    * [Doctor](#doctor)
-    * [Euripides](#euripides)
-    * [Amish](#amish)
-    * [Figs](#figs)
-    * [Dishes](#dishes)
-    * [Lettuce.](#lettuce)
-    * [Razor](#razor)
-    * [I am](#i-am-1)
-    * [Luke](#luke)
-    * [Amos](#amos)
-    * [Howard](#howard)
-    * [Odysseus](#odysseus)
-    * [A Mayan](#a-mayan)
-    * [Abe](#abe)
-    * [Icing](#icing)
-    * [Tennis](#tennis)
-    * […](#)
-    * [Nicholas](#nicholas)
-    * [Candice](#candice-1)
-    * [Cow](#cow)
-    * [Robin](#robin)
-    * [Annie](#annie-1)
-    * [Canoe](#canoe)
-    * [Gorilla](#gorilla)
-  * [CIRCUS JOKES BOOK](#circus-jokes-book)
-* [Wednesday Show and Tell Rest](#wednesday-show-and-tell-rest)
-* [Wednesday Closing Activity](#wednesday-closing-activity)
-  * [STRING GAMES](#string-games)
-  * [EMOTIONAL ROBOTS COLORING SHEET](#emotional-robots-coloring-sheet)
+  * [Wednesday Warmup](#wednesday-warmup)
+    * [A SAILOR WENT TO SEA](#a-sailor-went-to-sea)
+    * [THE OTHER DAY I MET A BEAR](#the-other-day-i-met-a-bear)
+  * [Wednesday Photo](#wednesday-photo)
+    * [STATUES](#statues)
+    * [PHOTO POSING](#photo-posing)
+  * [Wednesday Games](#wednesday-games)
+    * [WHO'S IN CHARGE CIRCLE GAME](#whos-in-charge-circle-game)
+    * [TWO TRUTHS AND A LIE](#two-truths-and-a-lie)
+  * [Wednesday Art](#wednesday-art)
+    * [MAKE IT OLDER (ART ATTACK)](#make-it-older-art-attack)
+    * [FEELING FLAPPER ORIGAMI](#feeling-flapper-origami)
+  * [Wednesday Challenges](#wednesday-challenges)
+    * [COOPERATIVE ALPHABET TRAVEL](#cooperative-alphabet-travel)
+    * [BLINDFOLDED MAZE TRUST EXCERCISE](#blindfolded-maze-trust-excercise)
+  * [Wednesday Music & Dance](#wednesday-music--dance)
+    * [ROBOT DANCES](#robot-dances)
+    * [MUSICAL CHAIRS](#musical-chairs)
+    * [FREEZE DANCE](#freeze-dance-1)
+      * [LINKS for Freeze Dance](#links-for-freeze-dance-1)
+    * [LINKS for Wednesday Music & Dance](#links-for-wednesday-music--dance)
+  * [Wednesday Gazette](#wednesday-gazette)
+  * [Wednesday Reading & Languages](#wednesday-reading--languages)
+    * [FREEZE (CIRCLE GAME)](#freeze-circle-game)
+      * [LINKS for Freeze (circle game)](#links-for-freeze-circle-game)
+    * [STORYBOARD](#storyboard)
+    * [LINKS for Wednesday Reading & Languages](#links-for-wednesday-reading--languages)
+  * [Wednesday Drama](#wednesday-drama)
+    * [STATUES](#statues-1)
+    * [KNOCK KNOCK JOKES](#knock-knock-jokes)
+      * [Leon](#leon)
+      * [Annie](#annie)
+      * [Lena](#lena)
+      * [Quiche](#quiche)
+      * [Wa](#wa)
+      * [Adore](#adore)
+      * [I am](#i-am)
+      * [A leaf.](#a-leaf)
+      * [Hike](#hike)
+      * [A little old lady](#a-little-old-lady)
+      * [Ice cream soda](#ice-cream-soda)
+      * [Candice](#candice)
+      * [Haven](#haven)
+      * [Keith](#keith)
+      * [Europe](#europe)
+      * [Double](#double)
+      * [Anita](#anita)
+      * [Banana](#banana)
+      * [Banana](#banana-1)
+      * [Orange](#orange)
+      * [Alex](#alex)
+      * [Olive.](#olive)
+      * [Hawaii](#hawaii)
+      * [Nun](#nun)
+      * [June](#june)
+      * [Spell](#spell)
+      * [Oscar](#oscar)
+      * [Conrad](#conrad)
+      * [Anita](#anita-1)
+      * [Dejav](#dejav)
+      * [Owls say](#owls-say)
+      * [Cargo](#cargo)
+      * [To](#to)
+      * [Cash](#cash)
+      * [Mustache](#mustache)
+      * [Dwayne](#dwayne)
+      * [Ya](#ya)
+      * [Control Freak](#control-freak)
+      * [Billy Bob Joe Penny](#billy-bob-joe-penny)
+      * [Theodore](#theodore)
+      * [Alec](#alec)
+      * [Cereal](#cereal)
+      * [Cantaloupe](#cantaloupe)
+      * [Beats](#beats)
+      * [Kenya](#kenya)
+      * [Interrupting sloth](#interrupting-sloth)
+      * [Ida](#ida)
+      * [Cabbage](#cabbage)
+      * [You didn’t remember me!](#you-didnt-remember-me)
+      * [Sweden](#sweden)
+      * [Art](#art)
+      * [Smellmop](#smellmop)
+      * [I need a puh](#i-need-a-puh)
+      * [Hatch](#hatch)
+      * [Tank](#tank)
+      * [Voodoo](#voodoo)
+      * [Boo](#boo)
+      * [Opportunity](#opportunity)
+      * [Honeybee](#honeybee)
+      * [Says](#says)
+      * [Alice](#alice)
+      * [Iran](#iran)
+      * [Doctor](#doctor)
+      * [Euripides](#euripides)
+      * [Amish](#amish)
+      * [Figs](#figs)
+      * [Dishes](#dishes)
+      * [Lettuce.](#lettuce)
+      * [Razor](#razor)
+      * [I am](#i-am-1)
+      * [Luke](#luke)
+      * [Amos](#amos)
+      * [Howard](#howard)
+      * [Odysseus](#odysseus)
+      * [A Mayan](#a-mayan)
+      * [Abe](#abe)
+      * [Icing](#icing)
+      * [Tennis](#tennis)
+      * […](#)
+      * [Nicholas](#nicholas)
+      * [Candice](#candice-1)
+      * [Cow](#cow)
+      * [Robin](#robin)
+      * [Annie](#annie-1)
+      * [Canoe](#canoe)
+      * [Gorilla](#gorilla)
+    * [CIRCUS JOKES BOOK](#circus-jokes-book)
+  * [Wednesday Show and Tell Rest](#wednesday-show-and-tell-rest)
+  * [Wednesday Closing Activity](#wednesday-closing-activity)
+    * [STRING GAMES](#string-games)
+    * [EMOTIONAL ROBOTS COLORING SHEET](#emotional-robots-coloring-sheet)
 * [Thursday](#thursday)
-* [Thursday Warmup](#thursday-warmup)
-  * [JOHNNY WORKS WITH ONE HAMMER](#johnny-works-with-one-hammer-1)
-* [Thursday Games](#thursday-games)
-  * [CONWAY'S SPROUTS](#conways-sprouts)
-    * [LINKS for Conway's Sprouts](#links-for-conways-sprouts)
-  * [LINKS for Thursday Games](#links-for-thursday-games)
-* [Thursday Art](#thursday-art)
-  * [GAZETTE ILLUSTRATION ARTWORK](#gazette-illustration-artwork-1)
-  * [MAKE A MAP](#make-a-map)
-  * [FRIENDSHIP BRACELETS](#friendship-bracelets)
-* [Thursday Challenges](#thursday-challenges)
-* [Thursday Music](#thursday-music)
-  * [MICHAEL FINNEGAN](#michael-finnegan)
-    * [LINKS for Michael Finnegan](#links-for-michael-finnegan)
-  * [DO YOU LIKE DONUTS](#do-you-like-donuts)
-  * [LINKS for Thursday Music](#links-for-thursday-music)
-* [Thursday Gazette](#thursday-gazette)
-* [Thursday Reading & Language](#thursday-reading--language)
-  * [DRAWING GRAFFITI LETTERS](#drawing-graffiti-letters)
-  * [IMAGINARY ANIMALS](#imaginary-animals)
-* [Thursday Drama](#thursday-drama)
-  * [WE ARE GOING ON A BEAR HUNT](#we-are-going-on-a-bear-hunt)
-  * [HE SAID/ SHE SAID](#he-said-she-said)
-  * [FREEZE! **](#freeze-)
-* [Thursday Show and Tell Rest](#thursday-show-and-tell-rest)
-* [Thursday Closing Activity](#thursday-closing-activity)
-  * [BINGO: OGNIB](#bingo-ognib)
+  * [Thursday Warmup](#thursday-warmup)
+    * [JOHNNY WORKS WITH ONE HAMMER](#johnny-works-with-one-hammer-1)
+  * [Thursday Games](#thursday-games)
+    * [CONWAY'S SPROUTS](#conways-sprouts)
+      * [LINKS for Conway's Sprouts](#links-for-conways-sprouts)
+    * [LINKS for Thursday Games](#links-for-thursday-games)
+  * [Thursday Art](#thursday-art)
+    * [GAZETTE ILLUSTRATION ARTWORK](#gazette-illustration-artwork-1)
+    * [MAKE A MAP](#make-a-map)
+    * [FRIENDSHIP BRACELETS](#friendship-bracelets)
+  * [Thursday Challenges](#thursday-challenges)
+  * [Thursday Music](#thursday-music)
+    * [MICHAEL FINNEGAN](#michael-finnegan)
+      * [LINKS for Michael Finnegan](#links-for-michael-finnegan)
+    * [DO YOU LIKE DONUTS](#do-you-like-donuts)
+    * [LINKS for Thursday Music](#links-for-thursday-music)
+  * [Thursday Gazette](#thursday-gazette)
+  * [Thursday Reading & Language](#thursday-reading--language)
+    * [DRAWING GRAFFITI LETTERS](#drawing-graffiti-letters)
+    * [IMAGINARY ANIMALS](#imaginary-animals)
+  * [Thursday Drama](#thursday-drama)
+    * [WE ARE GOING ON A BEAR HUNT](#we-are-going-on-a-bear-hunt)
+    * [HE SAID/ SHE SAID](#he-said-she-said)
+    * [FREEZE! **](#freeze-)
+  * [Thursday Show and Tell Rest](#thursday-show-and-tell-rest)
+  * [Thursday Closing Activity](#thursday-closing-activity)
+    * [BINGO: OGNIB](#bingo-ognib)
 * [Friday](#friday)
-* [Friday Warmup](#friday-warmup)
-  * [HI MY NAME IS JOE](#hi-my-name-is-joe-1)
-    * [LINKS for Hi My Name Is Joe](#links-for-hi-my-name-is-joe-1)
-  * [LINKS for Friday Warmup](#links-for-friday-warmup)
-* [Friday Games](#friday-games)
-  * [DOBBLE/SPOT IT](#dobblespot-it)
-    * [LINKS for Dobble/Spot It](#links-for-dobblespot-it)
-  * [ROBOT MEMORY GAME](#robot-memory-game)
-  * [LINKS for Friday Games](#links-for-friday-games)
-* [Friday Art](#friday-art)
-  * [LES ANIMAUX COME IL FAUT](#les-animaux-come-il-faut)
-  * [HEXAFLEXAGON](#hexaflexagon)
-    * [LINKS for Hexaflexagon](#links-for-hexaflexagon)
-  * [LINKS for Friday Art](#links-for-friday-art)
-* [Friday Challenges](#friday-challenges)
-  * [PAPER AIRPLANE RACE](#paper-airplane-race)
-* [Friday Music & Dance](#friday-music--dance)
-  * [PEEL BANANAS](#peel-bananas)
-  * [MY ENERGY](#my-energy)
-    * [LINKS for My Energy](#links-for-my-energy)
-  * [LINKS for Friday Music & Dance](#links-for-friday-music--dance)
-* [Friday Drama](#friday-drama)
-  * [WHO STOLE THE COOKIE FROM THE COOKIE JAR](#who-stole-the-cookie-from-the-cookie-jar)
-    * [LINKS for Who Stole the Cookie From the Cookie Jar](#links-for-who-stole-the-cookie-from-the-cookie-jar)
-    * [NOTES](#notes-6)
-  * [LINKS for Friday Drama](#links-for-friday-drama)
-* [Friday Gazette](#friday-gazette)
-* [Friday Reading & Language](#friday-reading--language)
-* [Friday Show and Tell Rest](#friday-show-and-tell-rest)
-* [Friday Closing Activity](#friday-closing-activity)
-  * [MAZE WORKSHEETS](#maze-worksheets)
-  * [PAPER GOLF BLINDFOLD VERSION](#paper-golf-blindfold-version)
-    * [LINKS for Paper Golf Blindfold version](#links-for-paper-golf-blindfold-version)
-  * [LINKS for Friday Closing Activity](#links-for-friday-closing-activity)
-
+  * [Friday Warmup](#friday-warmup)
+    * [HI MY NAME IS JOE](#hi-my-name-is-joe-1)
+      * [LINKS for Hi My Name Is Joe](#links-for-hi-my-name-is-joe-1)
+    * [LINKS for Friday Warmup](#links-for-friday-warmup)
+  * [Friday Games](#friday-games)
+    * [DOBBLE/SPOT IT](#dobblespot-it)
+      * [LINKS for Dobble/Spot It](#links-for-dobblespot-it)
+    * [ROBOT MEMORY GAME](#robot-memory-game)
+    * [LINKS for Friday Games](#links-for-friday-games)
+  * [Friday Art](#friday-art)
+    * [LES ANIMAUX COME IL FAUT](#les-animaux-come-il-faut)
+    * [HEXAFLEXAGON](#hexaflexagon)
+      * [LINKS for Hexaflexagon](#links-for-hexaflexagon)
+    * [LINKS for Friday Art](#links-for-friday-art)
+  * [Friday Challenges](#friday-challenges)
+    * [PAPER AIRPLANE RACE](#paper-airplane-race)
+  * [Friday Music & Dance](#friday-music--dance)
+    * [PEEL BANANAS](#peel-bananas)
+    * [MY ENERGY](#my-energy)
+      * [LINKS for My Energy](#links-for-my-energy)
+    * [LINKS for Friday Music & Dance](#links-for-friday-music--dance)
+  * [Friday Drama](#friday-drama)
+    * [WHO STOLE THE COOKIE FROM THE COOKIE JAR](#who-stole-the-cookie-from-the-cookie-jar)
+      * [LINKS for Who Stole the Cookie From the Cookie Jar](#links-for-who-stole-the-cookie-from-the-cookie-jar)
+      * [NOTES](#notes-6)
+    * [LINKS for Friday Drama](#links-for-friday-drama)
+  * [Friday Gazette](#friday-gazette)
+  * [Friday Reading & Language](#friday-reading--language)
+  * [Friday Show and Tell Rest](#friday-show-and-tell-rest)
+  * [Friday Closing Activity](#friday-closing-activity)
+    * [MAZE WORKSHEETS](#maze-worksheets)
+    * [PAPER GOLF BLINDFOLD VERSION](#paper-golf-blindfold-version)
+      * [LINKS for Paper Golf Blindfold version](#links-for-paper-golf-blindfold-version)
+    * [LINKS for Friday Closing Activity](#links-for-friday-closing-activity)
 
 </div>
-
-
 
 
 <div class="twocolumn">
 
 
 
-
-
-
+<details>
+<summary>## Monday
+</summary>
 
 ## Monday
 
@@ -340,13 +355,13 @@ DESCRIPTION:
 
 
 
-## Monday Warmup
+### Monday Warmup
 
 Activities: <em>Newspaper get to know you game, Name Game, Newspaper Printer's Hat, Newspaper Hats (21 ways), Stylish Newspaper Hat</em>
 
 
 
-### NEWSPAPER GET TO KNOW YOU GAME
+#### NEWSPAPER GET TO KNOW YOU GAME
 
 
 
@@ -357,7 +372,7 @@ Activities: <em>Newspaper get to know you game, Name Game, Newspaper Printer's H
 
 
 
-### NAME GAME
+#### NAME GAME
 
 
 
@@ -368,7 +383,7 @@ Go around the circle passing an object and saying the name of the person you are
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -376,7 +391,7 @@ Too many kids konw eacch other?
 
 
 
-### NEWSPAPER PRINTER'S HAT
+#### NEWSPAPER PRINTER'S HAT
 
 
 
@@ -385,7 +400,7 @@ Too many kids konw eacch other?
 
 
 
-#### LINKS for Newspaper Printer's Hat
+##### LINKS for Newspaper Printer's Hat
 
 
 
@@ -397,7 +412,7 @@ Too many kids konw eacch other?
 
 
 
-### NEWSPAPER HATS (21 WAYS)
+#### NEWSPAPER HATS (21 WAYS)
 
 
 
@@ -406,7 +421,7 @@ Too many kids konw eacch other?
 
 
 
-#### LINKS for Newspaper Hats (21 ways)
+##### LINKS for Newspaper Hats (21 ways)
 
 
 
@@ -414,7 +429,7 @@ Too many kids konw eacch other?
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -422,7 +437,7 @@ TODO: choose one and print instructions?
 
 
 
-### STYLISH NEWSPAPER HAT
+#### STYLISH NEWSPAPER HAT
 
 
 
@@ -430,7 +445,7 @@ TODO: choose one and print instructions?
 
 
 
-#### LINKS for Stylish Newspaper Hat
+##### LINKS for Stylish Newspaper Hat
 
 
 
@@ -442,7 +457,7 @@ TODO: choose one and print instructions?
 
 
 
-### LINKS for Monday Warmup
+#### LINKS for Monday Warmup
 
 
 
@@ -459,7 +474,7 @@ TODO: choose one and print instructions?
 
 
 
-## Monday Review the week's schedule
+### Monday Review the week's schedule
 
 
 
@@ -484,7 +499,7 @@ Review Corona Virus Guidelines:
 
 
 
-## Monday Story Starter Brainstorm
+### Monday Story Starter Brainstorm
 
 Activities: <em>KCS Gazette, Roulette Wheel Story Starter, photos for writing prompts, First LInes for Middle Schoolers, 55 ideas for stories, robot character writing prompts</em>
 
@@ -499,7 +514,7 @@ Older: Roulette wheel or sentences
 
 
 
-### KCS GAZETTE
+#### KCS GAZETTE
 
 
 
@@ -535,7 +550,7 @@ What is the main problem for the main character?
 
 
 
-### ROULETTE WHEEL STORY STARTER
+#### ROULETTE WHEEL STORY STARTER
 
 
 
@@ -543,7 +558,7 @@ What is the main problem for the main character?
 
 
 
-#### LINKS for Roulette Wheel Story Starter
+##### LINKS for Roulette Wheel Story Starter
 
 
 
@@ -551,7 +566,7 @@ What is the main problem for the main character?
 
 
 
-### PHOTOS FOR WRITING PROMPTS
+#### PHOTOS FOR WRITING PROMPTS
 
 
 
@@ -559,7 +574,7 @@ What is the main problem for the main character?
 
 
 
-#### LINKS for photos for writing prompts
+##### LINKS for photos for writing prompts
 
 
 
@@ -567,7 +582,7 @@ What is the main problem for the main character?
 
 
 
-### FIRST LINES FOR MIDDLE SCHOOLERS
+#### FIRST LINES FOR MIDDLE SCHOOLERS
 
 “I’m not so sure we should go in there…” he said.
 As they ran across the lawn, it almost felt like they were moving in slow motion.
@@ -605,7 +620,7 @@ I heard them call my name, but my body froze. I couldn’t believe that I had ju
 
 
 
-#### LINKS for First LInes for Middle Schoolers
+##### LINKS for First LInes for Middle Schoolers
 
 
 
@@ -613,7 +628,7 @@ I heard them call my name, but my body froze. I couldn’t believe that I had ju
 
 
 
-### 55 IDEAS FOR STORIES
+#### 55 IDEAS FOR STORIES
 
 
 
@@ -676,7 +691,7 @@ I heard them call my name, but my body froze. I couldn’t believe that I had ju
 
 
 
-#### LINKS for 55 ideas for stories
+##### LINKS for 55 ideas for stories
 
 
 
@@ -684,7 +699,7 @@ I heard them call my name, but my body froze. I couldn’t believe that I had ju
 
 
 
-### ROBOT CHARACTER WRITING PROMPTS
+#### ROBOT CHARACTER WRITING PROMPTS
 
 
 
@@ -712,7 +727,7 @@ Free Character Writing Prompts #29: Robots
 
 
 
-#### LINKS for robot character writing prompts
+##### LINKS for robot character writing prompts
 
 
 
@@ -724,7 +739,7 @@ Free Character Writing Prompts #29: Robots
 
 
 
-### LINKS for Monday Story Starter Brainstorm
+#### LINKS for Monday Story Starter Brainstorm
 
 
 
@@ -737,13 +752,13 @@ Free Character Writing Prompts #29: Robots
 
 
 
-## Monday Art
+### Monday Art
 
 Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</em>
 
 
 
-### ART ROBOTS
+#### ART ROBOTS
 
 
 
@@ -755,7 +770,7 @@ Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</e
 
 
 
-### NEWSPAPER PRINTER'S HAT
+#### NEWSPAPER PRINTER'S HAT
 
 
 
@@ -764,7 +779,7 @@ Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</e
 
 
 
-#### LINKS for Newspaper Printer's Hat
+##### LINKS for Newspaper Printer's Hat
 
 
 
@@ -776,7 +791,7 @@ Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</e
 
 
 
-### NEWSPAPER HATS (21 WAYS)
+#### NEWSPAPER HATS (21 WAYS)
 
 
 
@@ -785,7 +800,7 @@ Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</e
 
 
 
-#### LINKS for Newspaper Hats (21 ways)
+##### LINKS for Newspaper Hats (21 ways)
 
 
 
@@ -793,7 +808,7 @@ Activities: <em>Art Robots, Newspaper Printer's Hat, Newspaper Hats (21 ways)</e
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -805,7 +820,7 @@ TODO: choose one and print instructions?
 
 
 
-### LINKS for Monday Art
+#### LINKS for Monday Art
 
 
 
@@ -822,7 +837,7 @@ TODO: choose one and print instructions?
 
 
 
-## Monday Challenge
+### Monday Challenge
 
 Activities: <em>Mirror Game</em>
 
@@ -834,7 +849,7 @@ Mirror Game
 
 
 
-### MIRROR GAME
+#### MIRROR GAME
 
 
 
@@ -851,7 +866,7 @@ Chldren Mirror Each Other
 
 
 
-## Monday Music & Dance
+### Monday Music & Dance
 
 Activities: <em>I like to Eat Apples and Bananas, Freeze Dance, Stop and Go, Hi My Name Is Joe</em>
 
@@ -867,7 +882,7 @@ Older My Name is Joe
 
 
 
-### I LIKE TO EAT APPLES AND BANANAS
+#### I LIKE TO EAT APPLES AND BANANAS
 
 
 
@@ -878,7 +893,7 @@ I like to ote, ote, ote, opples and bononos
 
 
 
-### FREEZE DANCE
+#### FREEZE DANCE
 
 
 
@@ -886,7 +901,7 @@ Simple freeze songs with Robot and other moves
 
 
 
-#### LINKS for Freeze Dance
+##### LINKS for Freeze Dance
 
 
 
@@ -894,7 +909,7 @@ Simple freeze songs with Robot and other moves
 
 
 
-### STOP AND GO
+#### STOP AND GO
 
 
 
@@ -945,7 +960,7 @@ Stop
 
 
 
-#### LINKS for Stop and Go
+##### LINKS for Stop and Go
 
 
 
@@ -953,7 +968,7 @@ Stop
 
 
 
-### HI MY NAME IS JOE
+#### HI MY NAME IS JOE
 
 
 
@@ -975,7 +990,7 @@ Last verse: Are you busy? YES!
 
 
 
-#### LINKS for Hi My Name Is Joe
+##### LINKS for Hi My Name Is Joe
 
 
 
@@ -987,7 +1002,7 @@ Last verse: Are you busy? YES!
 
 
 
-### LINKS for Monday Music & Dance
+#### LINKS for Monday Music & Dance
 
 
 
@@ -1000,7 +1015,7 @@ Last verse: Are you busy? YES!
 
 
 
-## Monday Drama
+### Monday Drama
 
 Activities: <em>Connect our eyes group game</em>
 
@@ -1012,7 +1027,7 @@ Connect your eyes getting to know you game
 
 
 
-### CONNECT OUR EYES GROUP GAME
+#### CONNECT OUR EYES GROUP GAME
 
 
 
@@ -1030,7 +1045,7 @@ walk around passing objects, but you must connect eyes first
 
 
 
-## Monday Games
+### Monday Games
 
 Activities: <em>Categories, Stop the Bus</em>
 
@@ -1042,7 +1057,7 @@ All Ages: Categories/Stop the Bus
 
 
 
-### CATEGORIES
+#### CATEGORIES
 
 
 
@@ -1060,7 +1075,7 @@ Cities in the US
 
 
 
-### STOP THE BUS
+#### STOP THE BUS
 
 
 
@@ -1083,7 +1098,7 @@ You can come up with new categories as well to play against.
 
 
 
-## Monday Reading & Language
+### Monday Reading & Language
 
 Activities: <em>Today Is Monday, Mr. Men/Little Miss, C3P0's Book about Robots, A.A. Milne Poems</em>
 
@@ -1097,7 +1112,7 @@ Older: Mr. Men/Little Miss/C3 PO0s book about Robots
 
 
 
-### TODAY IS MONDAY
+#### TODAY IS MONDAY
 
 
 
@@ -1167,7 +1182,7 @@ Apples, Pastrami, Buffalo Wings, Nathan’s Hot Dogs, Cheesecake, Pizza, Bagels 
 
 
 
-### MR. MEN/LITTLE MISS
+#### MR. MEN/LITTLE MISS
 
 
 
@@ -1175,7 +1190,7 @@ Books for young kids. Perennial favorite
 
 
 
-### C3P0'S BOOK ABOUT ROBOTS
+#### C3P0'S BOOK ABOUT ROBOTS
 
 
 
@@ -1183,15 +1198,7 @@ Books for young kids. Perennial favorite
 
 
 
-### A.A. MILNE POEMS
-
-
-
-
-
-
-
-
+#### A.A. MILNE POEMS
 
 
 
@@ -1200,7 +1207,15 @@ Books for young kids. Perennial favorite
 
 
 
-## Monday Break Show and Tell Intro
+
+
+
+
+
+
+
+
+### Monday Break Show and Tell Intro
 
 
 
@@ -1215,7 +1230,7 @@ Today  just tell kids to bring a game something from home to share and play with
 
 
 
-## Monday Closing Activity
+### Monday Closing Activity
 
 Activities: <em>Data Processing, Murderer Wink</em>
 
@@ -1231,7 +1246,7 @@ DESCRIPTION:
 
 
 
-### DATA PROCESSING
+#### DATA PROCESSING
 
 
 
@@ -1251,7 +1266,7 @@ Instructions: Get the class to work together and get them to get into a straight
 
 
 
-### MURDERER WINK
+#### MURDERER WINK
 
 
 
@@ -1275,13 +1290,13 @@ The murderer keeps winking at people until they are all out or they have been ca
 
 
 
-## Week Extra Music
+### Week Extra Music
 
 Activities: <em>Hot Potato *, Elephants have wrinkles, My Dog Has Fleas</em>
 
 
 
-### HOT POTATO *
+#### HOT POTATO *
 
 
 
@@ -1299,7 +1314,7 @@ This game is ideal for little ones! Practice vocabulary with flashcards. First,
 
 
 
-### ELEPHANTS HAVE WRINKLES
+#### ELEPHANTS HAVE WRINKLES
 
 
 
@@ -1327,7 +1342,7 @@ Toes 足の指, Knees ひざ, Hips お母さんがシーシーシーしり, Shou
 
 
 
-### MY DOG HAS FLEAS
+#### MY DOG HAS FLEAS
 
 
 
@@ -1335,7 +1350,7 @@ Song about the category dogs
 
 
 
-#### LINKS for My Dog Has Fleas
+##### LINKS for My Dog Has Fleas
 
 
 
@@ -1347,7 +1362,7 @@ Song about the category dogs
 
 
 
-### LINKS for Week Extra Music
+#### LINKS for Week Extra Music
 
 
 
@@ -1360,7 +1375,7 @@ Song about the category dogs
 
 
 
-## Week Extra Art
+### Week Extra Art
 
 Activities: <em>Origami (from handout), Paper spinners</em>
 
@@ -1369,14 +1384,14 @@ Activities: <em>Origami (from handout), Paper spinners</em>
 DESCRIPTION:
 
 
-### Extra Art Older
+#### Extra Art Older
 Origami
 Paper spinners
 
 
 
 
-### ORIGAMI (FROM HANDOUT)
+#### ORIGAMI (FROM HANDOUT)
 
 
 
@@ -1385,7 +1400,7 @@ make an origami. Write a story or contribution about it for the newspaper. Draw 
 
 
 
-### PAPER SPINNERS
+#### PAPER SPINNERS
 
 
 
@@ -1394,7 +1409,7 @@ all ages, needs setup: cardboard, pen, yarn, scissors, glue, towels, mats, 
 
 
 
-#### LINKS for Paper spinners
+##### LINKS for Paper spinners
 
 
 
@@ -1406,7 +1421,7 @@ all ages, needs setup: cardboard, pen, yarn, scissors, glue, towels, mats, 
 
 
 
-### LINKS for Week Extra Art
+#### LINKS for Week Extra Art
 
 
 
@@ -1416,8 +1431,11 @@ all ages, needs setup: cardboard, pen, yarn, scissors, glue, towels, mats, 
 
 
 
+</details>
 
-
+<details>
+<summary>## Tuesday
+</summary>
 
 ## Tuesday
 
@@ -1435,13 +1453,13 @@ Tongue Twisters
 
 
 
-## Tuesday Warmup
+### Tuesday Warmup
 
 Activities: <em>Jelly Fish Song, A Ram Sam Sam</em>
 
 
 
-### JELLY FISH SONG
+#### JELLY FISH SONG
 
 
 
@@ -1467,7 +1485,7 @@ repeat the chorus between each action
 
 
 
-### A RAM SAM SAM
+#### A RAM SAM SAM
 
 
 
@@ -1491,7 +1509,7 @@ Repeat Chorus 5X
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -1508,7 +1526,7 @@ https://www.youtube.com/watch?v=zBttxAMxaXE
 
 
 
-## Tuesday Art
+### Tuesday Art
 
 Activities: <em>Gazette Illustration Artwork, Masiello Drawing Book, Mr. Squiggle, The Artist</em>
 
@@ -1535,7 +1553,7 @@ Take your time.
 
 
 
-### GAZETTE ILLUSTRATION ARTWORK
+#### GAZETTE ILLUSTRATION ARTWORK
 
 
 
@@ -1552,7 +1570,7 @@ idea: Kids pick an artist who will draw what they ask!
 
 
 
-### MASIELLO DRAWING BOOK
+#### MASIELLO DRAWING BOOK
 
 
 
@@ -1560,7 +1578,7 @@ Masielly Robot Drawing Books for fairies and farm
 
 
 
-### MR. SQUIGGLE
+#### MR. SQUIGGLE
 
 
 
@@ -1570,7 +1588,7 @@ Related game (for separate week): Collective monsters.
 
 
 
-#### LINKS for Mr. Squiggle
+##### LINKS for Mr. Squiggle
 
 
 
@@ -1578,7 +1596,7 @@ Related game (for separate week): Collective monsters.
 
 
 
-### THE ARTIST
+#### THE ARTIST
 
 
 
@@ -1590,7 +1608,7 @@ This game requires a large pad of drawing paper, a blindfold and a drawing imple
 
 
 
-### LINKS for Tuesday Art
+#### LINKS for Tuesday Art
 
 
 
@@ -1603,7 +1621,7 @@ This game requires a large pad of drawing paper, a blindfold and a drawing imple
 
 
 
-## Tuesday Gazette : First Drafts
+### Tuesday Gazette : First Drafts
 
 Activities: <em>Mad Libs</em>
 
@@ -1619,7 +1637,7 @@ DESCRIPTION:
 
 
 
-### MAD LIBS
+#### MAD LIBS
 
 
 
@@ -1636,13 +1654,13 @@ DESCRIPTION:
 
 
 
-## Tuesday Challenges
+### Tuesday Challenges
 
 Activities: <em>Balancing Act</em>
 
 
 
-### BALANCING ACT
+#### BALANCING ACT
 
 
 
@@ -1660,13 +1678,13 @@ Need a bean bag, pencil, eraser -- or similar object to place on head. Play musi
 
 
 
-## Tuesday Drama
+### Tuesday Drama
 
 Activities: <em>"This Way (aka In the Manner of) (""Charades"" for Adverbs)", Charades, Pictionary</em>
 
 
 
-### THIS WAY (AKA IN THE MANNER OF) ("CHARADES" FOR ADVERBS)
+#### THIS WAY (AKA IN THE MANNER OF) ("CHARADES" FOR ADVERBS)
 
 
 
@@ -1678,7 +1696,7 @@ Eat Sushi This Way
 
 
 
-### CHARADES
+#### CHARADES
 
 
 
@@ -1688,7 +1706,7 @@ Make cards in advance, or improvise a category or actions. Adverbs is a related 
 
 
 
-### PICTIONARY
+#### PICTIONARY
 
 
 
@@ -1705,7 +1723,7 @@ Make cards in advance, or improvise a category or actions. Adverbs is a related 
 
 
 
-## Tuesday Reading & Language
+### Tuesday Reading & Language
 
 Activities: <em>Tongue Twisters, Boy and Bot, Robots Everywhere</em>
 
@@ -1717,7 +1735,7 @@ Learn tongue twister. Videotape.
 
 
 
-### TONGUE TWISTERS
+#### TONGUE TWISTERS
 
 
 
@@ -1725,7 +1743,7 @@ Tongue Twister Handout and "Biggest Tongue Twister Book"
 
 
 
-### BOY AND BOT
+#### BOY AND BOT
 
 
 
@@ -1733,7 +1751,7 @@ Book about Robot who tries to fix "broken" boy
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -1741,7 +1759,7 @@ possibly okay for older
 
 
 
-### ROBOTS EVERYWHERE
+#### ROBOTS EVERYWHERE
 
 
 
@@ -1749,7 +1767,7 @@ Book about robots
 
 
 
-#### LINKS for Robots Everywhere
+##### LINKS for Robots Everywhere
 
 
 
@@ -1761,7 +1779,7 @@ Book about robots
 
 
 
-### LINKS for Tuesday Reading & Language
+#### LINKS for Tuesday Reading & Language
 
 
 
@@ -1774,7 +1792,7 @@ Book about robots
 
 
 
-## Tuesday Music & Dance
+### Tuesday Music & Dance
 
 Activities: <em>Moses Supposes, Johnny Works With One Hammer</em>
 
@@ -1787,7 +1805,7 @@ Older Johnny Works WIth One Hammer
 
 
 
-### MOSES SUPPOSES
+#### MOSES SUPPOSES
 
 
 
@@ -1827,7 +1845,7 @@ Moses!
 
 
 
-#### LINKS for Moses Supposes
+##### LINKS for Moses Supposes
 
 
 
@@ -1835,7 +1853,7 @@ Moses!
 
 
 
-### JOHNNY WORKS WITH ONE HAMMER
+#### JOHNNY WORKS WITH ONE HAMMER
 
 
 
@@ -1864,7 +1882,7 @@ Johnny’s work is DONE!
 
 
 
-### LINKS for Tuesday Music & Dance
+#### LINKS for Tuesday Music & Dance
 
 
 
@@ -1877,7 +1895,7 @@ Johnny’s work is DONE!
 
 
 
-## Tuesday Games
+### Tuesday Games
 
 Activities: <em>I spy with vocab, I spy with colors and so on, Telephone/Chinese Whispers, Twenty Questions</em>
 
@@ -1893,7 +1911,7 @@ Telephone/Chinese Whispers T
 
 
 
-### I SPY WITH VOCAB
+#### I SPY WITH VOCAB
 
 
 
@@ -1901,7 +1919,7 @@ Uses I spy pirate treasure book
 
 
 
-### I SPY WITH COLORS AND SO ON
+#### I SPY WITH COLORS AND SO ON
 
 
 
@@ -1909,7 +1927,7 @@ Uses I spy pirate treasure book
 
 
 
-### TELEPHONE/CHINESE WHISPERS
+#### TELEPHONE/CHINESE WHISPERS
 
 
 
@@ -1919,7 +1937,7 @@ Alternate version for older kids: have the first child draw a picture of what yo
 
 
 
-### TWENTY QUESTIONS
+#### TWENTY QUESTIONS
 
 
 
@@ -1936,7 +1954,7 @@ One person thinks of a thing or a person and the others have to guess what it is
 
 
 
-## Tuesday Show and Tell Rest
+### Tuesday Show and Tell Rest
 
 
 
@@ -1951,7 +1969,7 @@ Kids relax and play with toys some of them have brought from home. Tomorrow othe
 
 
 
-## Tuesday Closing Activity
+### Tuesday Closing Activity
 
 Activities: <em>Hangman</em>
 
@@ -1966,7 +1984,7 @@ DESCRIPTION:
 
 
 
-### HANGMAN
+#### HANGMAN
 
 
 
@@ -1974,7 +1992,7 @@ DESCRIPTION:
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -1985,12 +2003,15 @@ younger
 
 
 
+</details>
 
 
 
 
 
-
+<details>
+<summary>## Wednesday
+</summary>
 
 ## Wednesday
 
@@ -2007,13 +2028,13 @@ Photo & Drama Day
 
 
 
-## Wednesday Warmup
+### Wednesday Warmup
 
 Activities: <em>A Sailor Went to Sea, The Other Day I Met a Bear</em>
 
 
 
-### A SAILOR WENT TO SEA
+#### A SAILOR WENT TO SEA
 
 
 
@@ -2047,7 +2068,7 @@ chop, chop, chop 切り刻む, knee knee knee ひざ and last, really fast: sea,
 
 
 
-### THE OTHER DAY I MET A BEAR
+#### THE OTHER DAY I MET A BEAR
 
 
 
@@ -2118,7 +2139,7 @@ That bear once more.
 
 
 
-## Wednesday Photo
+### Wednesday Photo
 
 Activities: <em>Statues, Photo Posing</em>
 
@@ -2131,7 +2152,7 @@ DESCRIPTION:
 
 
 
-### STATUES
+#### STATUES
 
 
 
@@ -2139,7 +2160,7 @@ One child acts as poser. He poses the children without telling them what they ar
 
 
 
-### PHOTO POSING
+#### PHOTO POSING
 
 
 
@@ -2161,7 +2182,7 @@ One child acts as poser. He poses the children without telling them what they ar
 
 
 
-## Wednesday Games
+### Wednesday Games
 
 Activities: <em>Who's in Charge Circle Game, Two Truths and a Lie</em>
 
@@ -2174,7 +2195,7 @@ Older: Two Truths and a Lie W
 
 
 
-### WHO'S IN CHARGE CIRCLE GAME
+#### WHO'S IN CHARGE CIRCLE GAME
 
 
 
@@ -2189,7 +2210,7 @@ Outsider finds Leader
 
 
 
-### TWO TRUTHS AND A LIE
+#### TWO TRUTHS AND A LIE
 
 
 
@@ -2207,7 +2228,7 @@ ach person shares three statements, one of which is false and two of which are t
 
 
 
-## Wednesday Art
+### Wednesday Art
 
 Activities: <em>Make it older (Art Attack), Feeling Flapper Origami</em>
 
@@ -2221,7 +2242,7 @@ Older Feeling Flapper
 
 
 
-### MAKE IT OLDER (ART ATTACK)
+#### MAKE IT OLDER (ART ATTACK)
 
 
 
@@ -2233,7 +2254,7 @@ older: trace faces
 
 
 
-### FEELING FLAPPER ORIGAMI
+#### FEELING FLAPPER ORIGAMI
 
 
 
@@ -2250,13 +2271,13 @@ Makes a feeling flapper origami using handout
 
 
 
-## Wednesday Challenges
+### Wednesday Challenges
 
 Activities: <em>Cooperative alphabet travel, Blindfolded Maze trust excercise</em>
 
 
 
-### COOPERATIVE ALPHABET TRAVEL
+#### COOPERATIVE ALPHABET TRAVEL
 
 
 
@@ -2269,7 +2290,7 @@ Whole team has to go accross
 
 
 
-### BLINDFOLDED MAZE TRUST EXCERCISE
+#### BLINDFOLDED MAZE TRUST EXCERCISE
 
 
 
@@ -2289,7 +2310,7 @@ Set up some obstacles in the room. Blindfold one player and the rest of the play
 
 
 
-## Wednesday Music & Dance
+### Wednesday Music & Dance
 
 Activities: <em>Robot Dances, Musical Chairs, Freeze Dance</em>
 
@@ -2301,7 +2322,7 @@ Younger Robot Dances Musical Chairs
 
 
 
-### ROBOT DANCES
+#### ROBOT DANCES
 
 
 
@@ -2310,7 +2331,7 @@ Bring in some music for people to dance to.
 
 
 
-### MUSICAL CHAIRS
+#### MUSICAL CHAIRS
 
 
 
@@ -2318,7 +2339,7 @@ Bring in some music for people to dance to.
 
 
 
-### FREEZE DANCE
+#### FREEZE DANCE
 
 
 
@@ -2326,7 +2347,7 @@ Simple freeze songs with Robot and other moves
 
 
 
-#### LINKS for Freeze Dance
+##### LINKS for Freeze Dance
 
 
 
@@ -2338,7 +2359,7 @@ Simple freeze songs with Robot and other moves
 
 
 
-### LINKS for Wednesday Music & Dance
+#### LINKS for Wednesday Music & Dance
 
 
 
@@ -2351,7 +2372,7 @@ Simple freeze songs with Robot and other moves
 
 
 
-## Wednesday Gazette 
+### Wednesday Gazette 
 
 
 
@@ -2370,7 +2391,7 @@ We werite captions for the illustrations.
 
 
 
-## Wednesday Reading & Languages
+### Wednesday Reading & Languages
 
 Activities: <em>Freeze (circle game), Storyboard</em>
 
@@ -2383,7 +2404,7 @@ Younger Freeze game with cards
 
 
 
-### FREEZE (CIRCLE GAME)
+#### FREEZE (CIRCLE GAME)
 
 
 
@@ -2394,7 +2415,7 @@ This game is ideal for little ones! Practice vocabulary with flashcards. First,
 
 
 
-#### LINKS for Freeze (circle game)
+##### LINKS for Freeze (circle game)
 
 
 
@@ -2402,7 +2423,7 @@ This game is ideal for little ones! Practice vocabulary with flashcards. First,
 
 
 
-### STORYBOARD
+#### STORYBOARD
 
 
 
@@ -2415,7 +2436,7 @@ mime a story and people try to guess the story. When it is right, student writes
 
 
 
-### LINKS for Wednesday Reading & Languages
+#### LINKS for Wednesday Reading & Languages
 
 
 
@@ -2428,7 +2449,7 @@ mime a story and people try to guess the story. When it is right, student writes
 
 
 
-## Wednesday Drama
+### Wednesday Drama
 
 Activities: <em>Statues, Knock Knock Jokes, Circus Jokes Book</em>
 
@@ -2440,7 +2461,7 @@ Let's act!
 
 
 
-### STATUES
+#### STATUES
 
 
 
@@ -2448,351 +2469,351 @@ One child acts as poser. He poses the children without telling them what they ar
 
 
 
-### KNOCK KNOCK JOKES
+#### KNOCK KNOCK JOKES
 
 
 
 <div class=twocolumn>
 
 
-#### Leon
+##### Leon
 Leon who?
 Leon me when you’re not strong!
 
-#### Annie
+##### Annie
 Annie who?
 Annie thing you can do I can better!
 
-#### Lena
+##### Lena
 Lena who?
 Lena a little closer, and I’ll tell you another joke!
 
-#### Quiche
+##### Quiche
 Quiche who?
 Can I have a hug and a quiche?
 
-#### Wa
+##### Wa
 Wa who?
 What are you so excited about?!
 
-#### Adore
+##### Adore
 Adore who? 
 Adore is between you and me so please open up!
 
-#### I am
+##### I am
 I am who?
 Don’t you even know who you are?!
 
-#### A leaf.
+##### A leaf.
 A leaf who?
 A leaf you alone if you leaf me alone. 
 
-#### Hike
+##### Hike
 Hike who?
 I didn’t know you liked Japanese poetry!
 
-#### A little old lady
+##### A little old lady
 A little old lady who?
 Wow, I didn’t know you could yodel!
 
-#### Ice cream soda 
+##### Ice cream soda 
 Ice cream soda who?
 Ice scream soda people can hear me!
 
-#### Candice 
+##### Candice 
 Candice who?
 Candice joke get any worse?!
 
-#### Haven
+##### Haven
 Haven who?
 Haven you heard enough of these knock-knock jokes?
 
-#### Keith
+##### Keith
 Keith who?
 Keith me, my thweet prince!
 
-#### Europe
+##### Europe
 Europe who?
 No, you’re a poo!
 
-#### Double
+##### Double
 Double who?
 W!
 
-#### Anita
+##### Anita
 Anita who?
 Anita drink of water so please let me in!
 
-#### Banana
+##### Banana
 Banana who?
 
-#### Banana
+##### Banana
 Banana who?
 
-#### Orange
+##### Orange
 Orange who?
 Orange you glad I didn’t say banana?
 
-#### Alex
+##### Alex
 Alex who?
 Alex-plain when you open the door!
 
-#### Olive.
+##### Olive.
 Olive who?
 Olive next door. Hi neighbor!
 
-#### Hawaii
+##### Hawaii
 Hawaii who?
 I’m fine, Hawaii you?
 
-#### Nun
+##### Nun
 Nun who?
 Nunya business!
 
-#### June
+##### June
 June who?
 June know how long I’ve been knocking out here?
 
-#### Spell
+##### Spell
 Spell who?
 W-H-O!
 
-#### Oscar
+##### Oscar
 Oscar who?
 Oscar silly question and get a silly answer!
 
-#### Conrad
+##### Conrad
 Conrad who?
 Conrad-ulations! That was a good knock-knock joke!
 
-#### Anita
+##### Anita
 Anita who?
 Anita go to the bathroom!
 
-#### Dejav 
+##### Dejav 
 Dejav who?
 
-#### Owls say
+##### Owls say
 Owls say who?
 Yes, they do.
 
-#### Cargo
+##### Cargo
 Cargo who?
 Cargo beep, beep and vroom, vroom!
 
-#### To
+##### To
 To who?
 No, it’s to whom!
 
-#### Cash
+##### Cash
 Cash who?
 No thanks, but I’d love some peanuts.
 
-#### Mustache
+##### Mustache
 Mustache who?
 Mustache you a question, but I’ll shave it for later!
 
-#### Dwayne
+##### Dwayne
 Dwayne who?
 Dwayne the bathtub ⏤ I’m dwowning!
 
-#### Ya
+##### Ya
 Ya who?
 No thanks, I use Bing or Google.
 
-#### Control Freak
+##### Control Freak
 Contro-
 Okay, now you say control freak who?
 
-#### Billy Bob Joe Penny
+##### Billy Bob Joe Penny
 Billy Bob Joe Penny who?
 Really? How many Billy Bob Joe Pennies do you know?
 
-#### Theodore
+##### Theodore
 Theodore who?
 Theodore wasn’t opened so I knocked.
 
-#### Alec
+##### Alec
 Alec who?
 Alec it when you ask me questions. 
 
-#### Cereal
+##### Cereal
 Cereal who?
 Cereal pleasure to meet you!
 
-#### Cantaloupe
+##### Cantaloupe
 Cantaloupe who?
 Cantaloupe to Vegas, you’re too young!
 
-#### Beats
+##### Beats
 Beats who?
 Beats me. 
 
-#### Kenya
+##### Kenya
 Kenya who?
 Kenya feel the love tonight?
 
-#### Interrupting sloth
+##### Interrupting sloth
 Interrupting sloth who?
 (20 seconds of silence)
 Sloooooooooth
 
-#### Ida
+##### Ida
 Ida who?
 Surely, it’s pronounced Idaho.
 
-#### Cabbage
+##### Cabbage
 Cabbage who?
 You expect a cabbage to have a last name?
 
-#### You didn’t remember me!
+##### You didn’t remember me!
 
-#### Sweden
+##### Sweden
 Sweden who?
 Sweden sour chicken!
 
-#### Art
+##### Art
 Art who?
 R2-D2!
 
-#### Smellmop
+##### Smellmop
 Smellmop who?
 Ew, no thanks!
 
-#### I need a puh
+##### I need a puh
 I need a puh-who?
 Then why don’t you find a toilet! 
 
-#### Hatch
+##### Hatch
 Hatch who?
 God bless you!
 
-#### Tank
+##### Tank
 Tank who?
 You’re welcome.
 
-#### Voodoo
+##### Voodoo
 Voodoo who?
 Voodoo you think you are asking me so many questions?
 
-#### Boo
+##### Boo
 Boo who?
 Uh, why are you crying?
 
-#### Opportunity 
+##### Opportunity 
 Opportunity doesn’t knock twice!
 
-#### Honeybee
+##### Honeybee
 Honeybee who?
 Honeybee a dear and open up will you?
 
-#### Says
+##### Says
 Says who?
 Says me, that’s who!
 
-#### Alice
+##### Alice
 Alice who?
 Alice so quiet. Let’s make some noise!
 
-#### Iran
+##### Iran
 Iran who?
 Iran all the way here!
 
-#### Doctor
+##### Doctor
 Doctor who?
 No, no, just the doctor.
 
-#### Euripides
+##### Euripides
 Euripides who?
 Euripides jeans and you pay for them, okay?
 
-#### Amish
+##### Amish
 Amish who?
 Really, you’re a shoe? Uh, okay.
 
-#### Figs
+##### Figs
 Figs who?
 Figs the doorbell!
 
-#### Dishes
+##### Dishes
 Dishes who?
 Dishes the police, open up!
 
-#### Lettuce.
+##### Lettuce.
 Lettuce who?
 Lettuce in or we’ll break down the door!
 
-#### Razor
+##### Razor
 Razor who?
 Razor hand and dance the boogie!
 
-#### I am
+##### I am
 I am who?
 So you have identity problems, huh?
 
-#### Luke
+##### Luke
 Luke who?
 Luke through the keyhole and see!
 
-#### Amos
+##### Amos
 Amos who?
 A mosquito!
 
-#### Howard
+##### Howard
 Howard who?
 Howard I know?
 
-#### Odysseus
+##### Odysseus
 Odysseus who?
 Odysseus the last straw!
 
-#### A Mayan
+##### A Mayan
 A Mayan who?
 A Mayan in the way?
 
-#### Abe
+##### Abe
 Abe who?
 Abe-C-D-E!
 
-#### Icing
+##### Icing
 Icing who?
 Icing so loudly so everyone can hear me!
 
-#### Tennis
+##### Tennis
 Tennis who?
 Tennis five plus five!
 
-#### …
+##### …
 …uncomfortable silence who?
 Snow use, I forgot my name again. 
 
-#### Nicholas
+##### Nicholas
 Nicholas who?
 A Nicholas is not much money these days.
 
-####  Candice
+#####  Candice
   Candice who?
   Candice door open or am I stuck out here?
 
-#### Cow
+##### Cow
 Cow who?
 No cow says mooooooo!
 
-#### Robin
+##### Robin
 Robin who?
 Robin you! Now hand over the cash
 
 
-#### Annie
+##### Annie
 Annie who?
 Annie way you can let me in?
 
 
-#### Canoe
+##### Canoe
 Canoe who?
 Canoe come and play? I’m bored!
 
-#### Gorilla
+##### Gorilla
 Gorilla who?
 Gorilla me a hamburger!
 
@@ -2800,7 +2821,7 @@ Gorilla me a hamburger!
 
 
 
-### CIRCUS JOKES BOOK
+#### CIRCUS JOKES BOOK
 
 
 
@@ -2817,7 +2838,7 @@ Perform Circus Skits
 
 
 
-## Wednesday Show and Tell Rest
+### Wednesday Show and Tell Rest
 
 
 
@@ -2832,7 +2853,7 @@ Kids relax and play with toys some of them have brought from home. Tomorrow othe
 
 
 
-## Wednesday Closing Activity
+### Wednesday Closing Activity
 
 Activities: <em>String Games, Emotional Robots Coloring Sheet</em>
 
@@ -2848,7 +2869,7 @@ DESCRIPTION:
 
 
 
-### STRING GAMES
+#### STRING GAMES
 
 
 
@@ -2857,7 +2878,7 @@ have kids share ones they know, and learn new ones from instructions. I will bri
 
 
 
-### EMOTIONAL ROBOTS COLORING SHEET
+#### EMOTIONAL ROBOTS COLORING SHEET
 
 
 
@@ -2871,10 +2892,19 @@ have kids share ones they know, and learn new ones from instructions. I will bri
 
 
 
+</details>
 
 
 
-## Thursday 
+
+
+<details>
+<summary>## Thursday
+</summary>
+
+## Thursday
+
+
 
 
 
@@ -2889,13 +2919,13 @@ Art & Proofreading
 
 
 
-## Thursday Warmup
+### Thursday Warmup
 
 Activities: <em>Johnny Works With One Hammer</em>
 
 
 
-### JOHNNY WORKS WITH ONE HAMMER
+#### JOHNNY WORKS WITH ONE HAMMER
 
 
 
@@ -2929,13 +2959,13 @@ Johnny’s work is DONE!
 
 
 
-## Thursday Games
+### Thursday Games
 
 Activities: <em>Conway's Sprouts</em>
 
 
 
-### CONWAY'S SPROUTS
+#### CONWAY'S SPROUTS
 
 
 
@@ -2943,23 +2973,7 @@ Activities: <em>Conway's Sprouts</em>
 
 
 
-#### LINKS for Conway's Sprouts
-
-
-
-* http://www.madras.fife.sch.uk/departments/Mathematics/activities/games/sprouts.html
-
-
-
-* http://www.kruzno.com/sprouts.html
-
-
-
-
-
-
-
-### LINKS for Thursday Games
+##### LINKS for Conway's Sprouts
 
 
 
@@ -2975,8 +2989,24 @@ Activities: <em>Conway's Sprouts</em>
 
 
 
+#### LINKS for Thursday Games
 
-## Thursday Art
+
+
+* http://www.madras.fife.sch.uk/departments/Mathematics/activities/games/sprouts.html
+
+
+
+* http://www.kruzno.com/sprouts.html
+
+
+
+
+
+
+
+
+### Thursday Art
 
 Activities: <em>Gazette Illustration Artwork, Make a Map, Friendship bracelets</em>
 
@@ -2993,7 +3023,7 @@ Friendship Bracelets ThF
 
 
 
-### GAZETTE ILLUSTRATION ARTWORK
+#### GAZETTE ILLUSTRATION ARTWORK
 
 
 
@@ -3010,7 +3040,7 @@ idea: Kids pick an artist who will draw what they ask!
 
 
 
-### MAKE A MAP
+#### MAKE A MAP
 
 
 
@@ -3019,7 +3049,7 @@ Make a map of your neighborhood..Publish the map in the newspaper, and write an 
 
 
 
-### FRIENDSHIP BRACELETS
+#### FRIENDSHIP BRACELETS
 
 
 
@@ -3037,7 +3067,7 @@ Make bracelets using book
 
 
 
-## Thursday Challenges
+### Thursday Challenges
 
 
 
@@ -3046,13 +3076,13 @@ Make bracelets using book
 
 
 
-## Thursday Music
+### Thursday Music
 
 Activities: <em>Michael Finnegan, Do You Like Donuts</em>
 
 
 
-### MICHAEL FINNEGAN
+#### MICHAEL FINNEGAN
 
 
 
@@ -3077,7 +3107,7 @@ Begin again.
 
 
 
-#### LINKS for Michael Finnegan
+##### LINKS for Michael Finnegan
 
 
 
@@ -3089,7 +3119,7 @@ Begin again.
 
 
 
-### DO YOU LIKE DONUTS
+#### DO YOU LIKE DONUTS
 
 
 
@@ -3127,7 +3157,7 @@ No, I don’t. Yuck!
 
 
 
-### LINKS for Thursday Music
+#### LINKS for Thursday Music
 
 
 
@@ -3144,7 +3174,7 @@ No, I don’t. Yuck!
 
 
 
-## Thursday Gazette 
+### Thursday Gazette 
 
 
 
@@ -3159,13 +3189,13 @@ We proofread the articles and make illustrations for the articles
 
 
 
-## Thursday Reading & Language
+### Thursday Reading & Language
 
 Activities: <em>Drawing Graffiti Letters, Imaginary Animals</em>
 
 
 
-### DRAWING GRAFFITI LETTERS
+#### DRAWING GRAFFITI LETTERS
 
 
 
@@ -3174,7 +3204,7 @@ Use handout and ransom notes collage for younger kids..
 
 
 
-### IMAGINARY ANIMALS
+#### IMAGINARY ANIMALS
 
 
 
@@ -3192,7 +3222,7 @@ Use info sheet
 
 
 
-## Thursday Drama
+### Thursday Drama
 
 Activities: <em>We Are Going On A Bear Hunt, He said/ She said, Freeze! **</em>
 
@@ -3204,7 +3234,7 @@ Younger: We are going on a bear hunt
 
 
 
-### WE ARE GOING ON A BEAR HUNT
+#### WE ARE GOING ON A BEAR HUNT
 
 
 
@@ -3311,7 +3341,7 @@ I’m not going on a bear hunt again. 
 
 
 
-### HE SAID/ SHE SAID
+#### HE SAID/ SHE SAID
 
 
 
@@ -3319,7 +3349,7 @@ group story
 
 
 
-### FREEZE! **
+#### FREEZE! **
 
 
 
@@ -3338,7 +3368,7 @@ Children act out animal until someone yells freeze. Best animal gets to be next 
 
 
 
-## Thursday Show and Tell Rest
+### Thursday Show and Tell Rest
 
 
 
@@ -3353,7 +3383,7 @@ Kids relax and play with toys some of them have brought from home. Tomorrow othe
 
 
 
-## Thursday Closing Activity
+### Thursday Closing Activity
 
 Activities: <em>Bingo: Ognib</em>
 
@@ -3368,7 +3398,7 @@ DESCRIPTION:
 
 
 
-### BINGO: OGNIB
+#### BINGO: OGNIB
 
 
 
@@ -3386,8 +3416,14 @@ Great for Topical Bingo like halloween, etc.
 
 
 
+</details>
 
-## Friday 
+<details>
+<summary>## Friday
+</summary>
+
+## Friday
+
 
 
 
@@ -3402,13 +3438,13 @@ Finish Newspaper
 
 
 
-## Friday Warmup
+### Friday Warmup
 
 Activities: <em>Hi My Name Is Joe</em>
 
 
 
-### HI MY NAME IS JOE
+#### HI MY NAME IS JOE
 
 
 
@@ -3430,7 +3466,7 @@ Last verse: Are you busy? YES!
 
 
 
-#### LINKS for Hi My Name Is Joe
+##### LINKS for Hi My Name Is Joe
 
 
 
@@ -3442,7 +3478,7 @@ Last verse: Are you busy? YES!
 
 
 
-### LINKS for Friday Warmup
+#### LINKS for Friday Warmup
 
 
 
@@ -3455,13 +3491,13 @@ Last verse: Are you busy? YES!
 
 
 
-## Friday Games
+### Friday Games
 
 Activities: <em>Dobble/Spot It, Robot Memory Game</em>
 
 
 
-### DOBBLE/SPOT IT
+#### DOBBLE/SPOT IT
 
 
 
@@ -3475,7 +3511,7 @@ various games using card:
 
 
 
-#### LINKS for Dobble/Spot It
+##### LINKS for Dobble/Spot It
 
 
 
@@ -3483,7 +3519,7 @@ various games using card:
 
 
 
-### ROBOT MEMORY GAME
+#### ROBOT MEMORY GAME
 
 
 
@@ -3495,7 +3531,7 @@ various games using card:
 
 
 
-### LINKS for Friday Games
+#### LINKS for Friday Games
 
 
 
@@ -3508,7 +3544,7 @@ various games using card:
 
 
 
-## Friday Art
+### Friday Art
 
 Activities: <em>Les Animaux Come Il Faut, Hexaflexagon</em>
 
@@ -3522,7 +3558,7 @@ Les Animaux Come il faux
 
 
 
-### LES ANIMAUX COME IL FAUT
+#### LES ANIMAUX COME IL FAUT
 
 
 
@@ -3530,7 +3566,7 @@ French book on how to draw animals
 
 
 
-### HEXAFLEXAGON
+#### HEXAFLEXAGON
 
 
 
@@ -3538,19 +3574,7 @@ French book on how to draw animals
 
 
 
-#### LINKS for Hexaflexagon
-
-
-
-* https://flexagon.net/flexagons/trihexaflexagon.pdf
-
-
-
-
-
-
-
-### LINKS for Friday Art
+##### LINKS for Hexaflexagon
 
 
 
@@ -3562,14 +3586,26 @@ French book on how to draw animals
 
 
 
+#### LINKS for Friday Art
 
-## Friday Challenges
+
+
+* https://flexagon.net/flexagons/trihexaflexagon.pdf
+
+
+
+
+
+
+
+
+### Friday Challenges
 
 Activities: <em>Paper airplane race </em>
 
 
 
-### PAPER AIRPLANE RACE 
+#### PAPER AIRPLANE RACE 
 
 
 
@@ -3587,13 +3623,13 @@ make and race planes
 
 
 
-## Friday Music & Dance
+### Friday Music & Dance
 
 Activities: <em>Peel Bananas, My Energy</em>
 
 
 
-### PEEL BANANAS
+#### PEEL BANANAS
 
 
 
@@ -3622,7 +3658,7 @@ Go bananas, go go bananas
 
 
 
-### MY ENERGY
+#### MY ENERGY
 
 
 
@@ -3645,7 +3681,7 @@ Because I have energy
 
 
 
-#### LINKS for My Energy
+##### LINKS for My Energy
 
 
 
@@ -3657,7 +3693,7 @@ Because I have energy
 
 
 
-### LINKS for Friday Music & Dance
+#### LINKS for Friday Music & Dance
 
 
 
@@ -3670,7 +3706,7 @@ Because I have energy
 
 
 
-## Friday Drama
+### Friday Drama
 
 Activities: <em>Who Stole the Cookie From the Cookie Jar</em>
 
@@ -3682,7 +3718,7 @@ Fun song
 
 
 
-### WHO STOLE THE COOKIE FROM THE COOKIE JAR
+#### WHO STOLE THE COOKIE FROM THE COOKIE JAR
 
 
 
@@ -3702,7 +3738,7 @@ Let’s share!
 
 
 
-#### LINKS for Who Stole the Cookie From the Cookie Jar
+##### LINKS for Who Stole the Cookie From the Cookie Jar
 
 
 
@@ -3710,7 +3746,7 @@ Let’s share!
 
 
 
-#### NOTES
+##### NOTES
 
 
 
@@ -3725,7 +3761,7 @@ https://www.youtube.com/watch?v=QKNd5Ruvxm4
 
 
 
-### LINKS for Friday Drama
+#### LINKS for Friday Drama
 
 
 
@@ -3738,7 +3774,7 @@ https://www.youtube.com/watch?v=QKNd5Ruvxm4
 
 
 
-## Friday Gazette
+### Friday Gazette
 
 
 
@@ -3753,7 +3789,7 @@ We finish all the articles and lay everything out so it can be photocopied for e
 
 
 
-## Friday Reading & Language
+### Friday Reading & Language
 
 
 
@@ -3762,7 +3798,7 @@ We finish all the articles and lay everything out so it can be photocopied for e
 
 
 
-## Friday Show and Tell Rest
+### Friday Show and Tell Rest
 
 
 
@@ -3777,7 +3813,7 @@ Kids relax and play with toys some of them have brought from home.
 
 
 
-## Friday Closing Activity
+### Friday Closing Activity
 
 Activities: <em>Maze Worksheets, Paper Golf Blindfold version</em>
 
@@ -3793,7 +3829,7 @@ DESCRIPTION:
 
 
 
-### MAZE WORKSHEETS
+#### MAZE WORKSHEETS
 
 
 
@@ -3801,7 +3837,7 @@ DESCRIPTION:
 
 
 
-### PAPER GOLF BLINDFOLD VERSION
+#### PAPER GOLF BLINDFOLD VERSION
 
 
 
@@ -3829,7 +3865,7 @@ Get creative, have the kids design the golf course by adding obstacles such as 
 
 
 
-#### LINKS for Paper Golf Blindfold version
+##### LINKS for Paper Golf Blindfold version
 
 
 
@@ -3845,7 +3881,7 @@ Get creative, have the kids design the golf course by adding obstacles such as 
 
 
 
-### LINKS for Friday Closing Activity
+#### LINKS for Friday Closing Activity
 
 
 
@@ -3856,4 +3892,6 @@ Get creative, have the kids design the golf course by adding obstacles such as 
 * https://www.kidsplayandcreate.com/paper-miniature-golf-game/
 
 
+</details>
 
+</div>
