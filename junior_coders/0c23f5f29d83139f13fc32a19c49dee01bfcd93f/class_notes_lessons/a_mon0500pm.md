@@ -53,6 +53,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 17th Review and Homework](#august-17th-review-and-homework)
+* [Next Project Creating Rain](#next-project-creating-rain)
 * [August 10th](#august-10th)
   * [August 3rd Homework Review](#august-3rd-homework-review)
   * [Original Project: A Walk In the Forest](#original-project-a-walk-in-the-forest)
@@ -121,6 +123,31 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 
 <details>
+<summary>## August 17th 
+</summary>
+
+## August 17th Review and Homework 
+
+There were only 2 kids today, so we just continued to work on the Walk throught the forest project. The main idea of the project is that the character just continues to walk along on one screen and things come along and happen to him. The extended video below shows what I mean. See how the poison rain comes and he is touched by it. Some ideas of what could happen next:
+
+* A mountain comes and he has to climb it.
+* A fairy comes and offers him a glass of water.
+* Many flies come and chase him out of the screen into another screen, or into a river.
+
+Add your own!! 
+
+
+{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
+
+## Next Project Creating Rain
+
+Once we finish this project we will learn how to make rain.
+
+{% include youtubelazy.html  videoID="0wJYLXfESJ4" %}
+
+</details>
+
+<details>
 <summary>## August 10th 
 </summary>
 
@@ -148,7 +175,7 @@ The next stage was making it look like he is coming out of the forest:
 ### August 10th Homework
 The homework is to now make the cat move onto a new environment, such as having rain appear (you can just see it start to happen in the image above), or animals flying. How can you make these appear at just the right moment, and make it seems like the cat is walking through them? Good luck!
 
-Here is a full example:
+Here is a full example. Notice how the clouds appear. For example, another character might appear from the right, and the two characters might fight in the center, then the character could move on. 
 
 {% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
 

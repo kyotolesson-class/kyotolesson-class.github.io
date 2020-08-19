@@ -216,9 +216,15 @@ nav ul .tag-h1 a:hover {
     margin-bottom: 0px;
 }
 
-.tag-h2+.tag-h2 {
-    /* removes duplicate display */
-    display: none;
+.navIndented {
+    /* highlights main headings 
+    display:none;*/
+    text-align: center;
+    background-color: var(--ourorange);
+    left: -20px;
+    padding: 3px 10%;
+    margin: 3px auto;
+    border-radius: 12px;
 }
 
 .tag-h2 a {

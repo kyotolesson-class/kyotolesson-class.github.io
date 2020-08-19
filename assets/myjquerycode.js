@@ -79,7 +79,8 @@
                 var currentItem = $(item);
                 if (currentVal == previousVal) { //alert(currentVal + "==" + previousVal);
                     //$(item).toggle();
-                    previousItem.toggleClass("navIndented ");
+                    currentItem.toggleClass("navIndented ");
+                    previousItem.toggle();
                     //alert("removed");
                 }
                 previousVal = currentVal;
@@ -98,13 +99,13 @@
                 $($(this).attr("href")).trigger("click");
             });
 
-            // shows tag-h3 when tag-h2 is hovered
-            $("nav .tag-h2 a").mouseover(function() {
-
+            // shows tag-h3 when tag-h2 is hovered. Using hoverintent.js with interval set to 200 to make it slower.
+            $("nav .tag-h2 a").hoverIntent({
+            over: function() {
                 // shows contiguous tag-h3. Have to skip the extra tag-h2 created by details
                 // by finding next .tag-h3, then selecting contiguous
                 $(this).parent().nextUntil(".tag-h3").nextUntil(".tag-h2").toggle("slow", "swing");
-            });
+            }, out: function() {} , interval: 200 });
             // END NAV SECTION
 
             // DETAILS SECTION

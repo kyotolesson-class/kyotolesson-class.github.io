@@ -5,24 +5,11 @@ title2: Weekly Activities and Instructions
 levelsToTop: "../"
 ---
 <style>
-.tag-h2+.tag-h2 {
-    /*display: list-item; */
-}
 
 #mainsection h3 {
 margin-left: 5%;
 }
 
-.navIndented {
-display:none;
-    text-align: center;
-    background-color: var(--ourorange);
-    left: -20px;
-    padding-top: 10px;
-    padding-bottom: 6px;
-    margin: 6px;
-    border-radius: 12px;
-}
 </style>
 
 
