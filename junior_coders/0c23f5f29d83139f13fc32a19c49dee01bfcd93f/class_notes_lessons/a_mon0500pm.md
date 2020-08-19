@@ -53,8 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [August 17th Review and Homework](#august-17th-review-and-homework)
-* [Next Project Creating Rain](#next-project-creating-rain)
+* [August 17th](#august-17th)
+  * [August 17th Review and Homework](#august-17th-review-and-homework)
+  * [Next Project Creating Rain](#next-project-creating-rain)
 * [August 10th](#august-10th)
   * [August 3rd Homework Review](#august-3rd-homework-review)
   * [Original Project: A Walk In the Forest](#original-project-a-walk-in-the-forest)
@@ -126,7 +127,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <summary>## August 17th 
 </summary>
 
-## August 17th Review and Homework 
+## August 17th 
+
+### August 17th Review and Homework 
 
 There were only 2 kids today, so we just continued to work on the Walk throught the forest project. The main idea of the project is that the character just continues to walk along on one screen and things come along and happen to him. The extended video below shows what I mean. See how the poison rain comes and he is touched by it. Some ideas of what could happen next:
 
@@ -139,7 +142,7 @@ Add your own!!
 
 {% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
 
-## Next Project Creating Rain
+### Next Project Creating Rain
 
 Once we finish this project we will learn how to make rain.
 
