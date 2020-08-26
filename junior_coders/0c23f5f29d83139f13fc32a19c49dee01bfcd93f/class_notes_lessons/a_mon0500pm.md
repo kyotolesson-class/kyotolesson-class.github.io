@@ -53,6 +53,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 24th](#august-24th)
+  * [August 24th Homework Review](#august-24th-homework-review)
+  * [Scratch](#scratch)
+  * [Scratch Accounts](#scratch-accounts)
+  * [Scratch Jr. Coders 2020 Monday Class Studio](#scratch-jr-coders-2020-monday-class-studio)
+  * [August 24th Homework](#august-24th-homework)
 * [August 17th](#august-17th)
   * [August 17th Review and Homework](#august-17th-review-and-homework)
   * [Next Project Creating Rain](#next-project-creating-rain)
@@ -62,7 +68,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [August 10th Homework](#august-10th-homework)
 * [August 3rd](#august-3rd)
   * [August 3rd Homework Review](#august-3rd-homework-review-1)
-  * [July 3rd Homework](#july-3rd-homework)
+  * [August 3rd Homework](#august-3rd-homework)
 * [July 27th](#july-27th)
   * [July 27th Homework Review](#july-27th-homework-review)
   * [Homework for August 3rd: Flying Project](#homework-for-august-3rd-flying-project)
@@ -122,6 +128,48 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details>
+<summary>## August 24th 
+</summary>
+
+## August 24th 
+
+
+### August 24th Homework Review 
+
+We did a brief review of what kids had been working on for the week based on the Walk Though the Forest project. I had planned to work on the Creating Rain Project (as I said last week), I told students that we might transition to using Scratch. The kids were very excited to see what it was like, so that became the focus of the day. 
+
+### Scratch
+
+Scratch is web based. We visited [the scratch website](http://scratch.mit.edu) and by pressing the "Create" button students could start exploring. Kids were very interested in choosing sprites: 
+
+![choosing](https://i.imgur.com/ImoUoyE.jpg){: target="_blank_"}
+
+and editing sprites: 
+
+![editing](https://i.imgur.com/NpAvJPh.jpg){: target="_blank_"}
+
+### Scratch Accounts
+
+To make it easier to manage the student accounts I have created accounts and passwords for each student. These will be send to each student separately. Once you have your login information, [login to the scratch website](http://scratch.mit.edu){: target="_blank_"} using the id and password. 
+
+### Scratch Jr. Coders 2020 Monday Class Studio
+
+Scratch lets you group related projects into Studios. I have created a studio just for the Jr. Coders 2020 Monday Class. For the student accounts I have set them to ["follow" this studio](https://scratch.mit.edu/studios/27394220/){: target="_blank_"}. 
+
+Inside the studio you can see [my Sample Shared Project](https://scratch.mit.edu/projects/420090077/){: target="_blank_"}. We will look at this more closely next class, but here you can see how it looks:
+
+<iframe src="https://scratch.mit.edu/projects/420090077/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+### August 24th Homework 
+
+For the next few weeks we will do a combination of finishing Scratch Jr. and Starting Scratch. The homework is to:
+
+* Finish any Scratch Jr. projects you are working on
+* Visit and/or Log into Scratch and start exploring and playing. 
+
+</details>
 
 <details>
 <summary>## August 17th 
@@ -221,7 +269,7 @@ The transition involves several steps:
 
 {% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y2R13Flying/" %}
 
-### July 3rd Homework
+### August 3rd Homework
 
 Now that we know how to make the "rising up" effect, you can finish making the Flying Project. That is the homework. Can you make the the plane fly up in screens 1, 2, 3, and then back down using screens 3, 4, 1?
 
