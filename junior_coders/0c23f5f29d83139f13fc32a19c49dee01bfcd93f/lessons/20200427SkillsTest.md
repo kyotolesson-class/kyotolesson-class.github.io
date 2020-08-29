@@ -1,6 +1,11 @@
+---
+layout: junior_coders_default
+title: "Early Skills Test"
+levelsToTop: "../"
 
+---
 
-# Review of things we have done so far: 
+## Review of Elementary Skills:
 
 This is a review, not a test. Kids can check the answer if they have questions.
 

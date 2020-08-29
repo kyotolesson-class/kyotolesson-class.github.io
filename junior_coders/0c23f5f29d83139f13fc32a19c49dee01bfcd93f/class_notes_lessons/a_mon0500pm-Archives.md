@@ -121,9 +121,6 @@ siteurl: https://kyotolesson-class.github.io
   * [Using Zoom](#using-zoom)
   * [Game: Black](#game-black)
   * [ScratchJr: Messages](#scratchjr-messages)
-    * [Making the maze](#making-the-maze)
-    * [Tic Is Trapped!](#tic-is-trapped)
-  * [Disappearing Dragons](#disappearing-dragons)
   * [April 13 Homework](#april-13-homework)
 * [April 6th](#april-6th)
   * [Postponing the Homework](#postponing-the-homework)
@@ -704,47 +701,8 @@ See [Topic: Game: Black](../lessons/gameBlack.html)
 
 ### ScratchJr: Messages
 
-#### Making the maze
 
-_Skill: Modifying a path in the background_
-
-We went over how to use the select arrow to modify the path of a line in the background.
-
-![the path of a line in the background](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
-
-Children made a maze, where the character walks on the line, as in Black. Then they added a dragon and a cake.
-
-![maze with dragon and cake](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.41.19%20AM.png){:height="200px"}
-
-They made their character walk the maze and try to eat the [dragon](hjh).
-
-[![Tic walks to dragon](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.44.42%20AM.png){:height="59px"}](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.44.42%20AM.png)
-
-#### Tic Is Trapped!
-
-_Skill: Sending Messages_
-
-But the dragon sends a message:
-
-![the dragon sends a message](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.47.13%20AM.png){:height="59px"}
-
-and Tic is sent home:
-
-![Tic is sent home](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.47.25%20AM.png){:height="59px"}
-
-### Disappearing Dragons
-
-_Skill: Making Characters Disappear_
-
-Tic goes to get the cake first. The cake makes the dragon disappear.
-
--   Cake sends a message.
-
-![Cake sends a message](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.58.43%20AM.png){:height="59px"}
-
--   Dragon gets the message.
-
-![Dragon gets the message](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.58.51%20AM.png){:height="59px"}
+We begin showing how messages can be used we began by [making a Dragon Maze](../lessons/DragonMazept1.html)
 
 ### April 13 Homework
 
