@@ -168,7 +168,7 @@ Today I gave a basic outline of the scratch website. I explained how to:
 You can see in the picture below how to get **your profile** page, **your stuff** page, **account settings**, and how to **sign out**. The folder icon (With the orange S) also goes to **your stuff**.
 
 
-![folder in the upper right](http://snpy.in/whM4gy)
+![folder in the upper right](https://i.imgur.com/vN7VHRa.jpg)
 
 
 * Find the [Jr. Coders 2020 Monday Class Studio](https://scratch.mit.edu/studios/27394220/) 
