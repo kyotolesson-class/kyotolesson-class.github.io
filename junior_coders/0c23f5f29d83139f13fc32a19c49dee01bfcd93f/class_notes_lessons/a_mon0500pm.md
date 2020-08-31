@@ -161,14 +161,14 @@ Here is my [example remix](https://scratch.mit.edu/projects/421636996/). Loot at
 
 ### Intro to Scratch 
 
-
 Today I gave a basic outline of the scratch website. I explained how to: 
 
 * Find your User ID, Stuff, and mailbox
 
 You can see in the picture below how to get **your profile** page, **your stuff** page, **account settings**, and how to **sign out**. The folder icon (With the orange S) also goes to **your stuff**.
 
-![folder in the upper right](https://i.imgur.com/vN7VHRa.jpg)
+
+![folder in the upper right](http://snpy.in/whM4gy)
 
 
 * Find the [Jr. Coders 2020 Monday Class Studio](https://scratch.mit.edu/studios/27394220/) 
@@ -176,7 +176,7 @@ You can see in the picture below how to get **your profile** page, **your stuff*
 
 On your profile page is a section called "Studios I'm Following". I have  added the  [Jr. Coders Monday studio](https://scratch.mit.edu/studios/27394220/) is where I will occasionally post assignments and other items for the class. 
 
-![](https://i.imgur.com/lFK8l6t.jpg)
+![profile ](https://i.imgur.com/lFK8l6t.jpg)
 
 
 * Go to My Stuff
