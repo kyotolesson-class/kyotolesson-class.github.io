@@ -53,6 +53,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 28th](#august-28th)
+  * [August 28th Homework:](#august-28th-homework)
+  * [Intro to Scratch](#intro-to-scratch)
+  * [Sample Projects](#sample-projects)
+    * [Slash Knigtht](#slash-knigtht)
+    * [Colorful Trails](#colorful-trails)
 * [August 24th](#august-24th)
   * [August 24th Homework Review](#august-24th-homework-review)
   * [Scratch](#scratch)
@@ -128,6 +134,94 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details>
+<summary>## August 28th 
+</summary>
+
+## August 28th 
+
+
+### August 28th Homework:
+
+The homework is to look inside the Colorful Trails Project (see below) and think about:
+
+1. How could we make Colorful Trails more interesting? (e.g. make it slower, add music, etc.)
+2. How could we add more characters and backgrounds
+3. How to make it so if I press "c" it clears the board.
+
+Here is my [example remix](https://scratch.mit.edu/projects/421636996/). Loot at how I:
+
+* changed the costumes to letters to spell out my name
+* added music 
+* added buttons to stop and go:
+
+<iframe src="https://scratch.mit.edu/projects/421636996/embed" allowtransparency="true"  width="485" height="485" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+### Intro to Scratch 
+
+
+Today I gave a basic outline of the scratch website. I explained how to: 
+
+* Find your User ID, Stuff, and mailbox
+
+You can see in the picture below how to get **your profile** page, **your stuff** page, **account settings**, and how to **sign out**. The folder icon (With the orange S) also goes to **your stuff**.
+
+![folder in the upper right](https://i.imgur.com/vN7VHRa.jpg)
+
+
+* Find the [Jr. Coders 2020 Monday Class Studio](https://scratch.mit.edu/studios/27394220/) 
+
+
+On your profile page is a section called "Studios I'm Following". I have  added the  [Jr. Coders Monday studio](https://scratch.mit.edu/studios/27394220/) is where I will occasionally post assignments and other items for the class. 
+
+![](https://i.imgur.com/lFK8l6t.jpg)
+
+
+* Go to My Stuff
+
+The **my stuff** page is where your projects and studios are found. You can see buttons (top right) for creating **new projects**, **new studios**.
+
+![](https://i.imgur.com/ThRgNql.jpg)
+
+* Remix, add to studio, favorite, see inside
+
+From project pages you can:
+
+1. Remix: Make your own copy of a project so you can edit it
+2. Add a project to a studio, which is a way of collecting projects you like.
+3. Favorite: This is another way to collect projects. This also appears on the **your stuff** page. 
+4. See inside: This allows you to look at the code inside a project.
+5. Run the project: Click one of the green flags.
+6. Stop a project: click the red stop sign.
+![project page](https://i.imgur.com/B5ySkDH.jpg)
+
+
+### Sample Projects 
+
+#### Slash Knigtht 
+We opened some sample projects. [Slash Knight](https://scratch.mit.edu/projects/419503825/) was especially popular.
+
+<iframe src="https://scratch.mit.edu/projects/419503825/embed" allowtransparency="true"  width="485" height="485" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+#### Colorful Trails
+Another popular project was the [Colorful Trails Project](https://scratch.mit.edu/projects/10001052/).
+
+<iframe src="https://scratch.mit.edu/projects/10001052/embed" allowtransparency="true"  width="485" height="485" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+Kids made a remix of it, and we did a preliminary review of how to:
+
+* create new backgrounds and characters 
+* save our projects and the 
+* different blocks 
+  
+without going into too much detail. 
+
+</details>
+
+
 <details>
 <summary>## August 24th 
 </summary>
@@ -159,7 +253,7 @@ Scratch lets you group related projects into Studios. I have created a studio ju
 
 Inside the studio you can see [my Sample Shared Project](https://scratch.mit.edu/projects/420090077/){: target="_blank_"}. We will look at this more closely next class, but here you can see how it looks:
 
-<iframe src="https://scratch.mit.edu/projects/420090077/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/420090077/embed" allowtransparency="true" width="485" height="485" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 ### August 24th Homework 
