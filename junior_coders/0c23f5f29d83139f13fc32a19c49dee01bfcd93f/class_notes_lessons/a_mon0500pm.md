@@ -53,11 +53,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [August 28th](#august-28th)
-  * [August 28th Homework:](#august-28th-homework)
+* [August 31st](#august-31st)
+  * [August 31st Homework:](#august-31st-homework)
   * [Intro to Scratch](#intro-to-scratch)
-  * [Sample Projects](#sample-projects)
-    * [Slash Knigtht](#slash-knigtht)
+  * [August 31st Sample Projects](#august-31st-sample-projects)
+    * [Slash Knight](#slash-knight)
     * [Colorful Trails](#colorful-trails)
 * [August 24th](#august-24th)
   * [August 24th Homework Review](#august-24th-homework-review)
@@ -136,13 +136,13 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 
 <details>
-<summary>## August 28th 
+<summary>## August 31st
 </summary>
 
-## August 28th 
+## August 31st
 
 
-### August 28th Homework:
+### August 31st Homework:
 
 The homework is to look inside the Colorful Trails Project (see below) and think about:
 
@@ -198,9 +198,9 @@ From project pages you can:
 ![project page](https://i.imgur.com/B5ySkDH.jpg)
 
 
-### Sample Projects 
+### August 31st Sample Projects 
 
-#### Slash Knigtht 
+#### Slash Knight 
 We opened some sample projects. [Slash Knight](https://scratch.mit.edu/projects/419503825/) was especially popular.
 
 <iframe src="https://scratch.mit.edu/projects/419503825/embed" allowtransparency="true"  width="485" height="485" frameborder="0" scrolling="no" allowfullscreen></iframe>
