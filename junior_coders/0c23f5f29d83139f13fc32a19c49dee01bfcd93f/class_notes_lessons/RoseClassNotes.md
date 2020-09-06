@@ -104,26 +104,20 @@ See the images below, but the steps we did in class are:
 
 1. Draw the maze. Make the maze "square"
 
-![](./images/2020-09-04/1-drawingDragonMaze.gif){: width="100%" height="auto"  .gif}
-
-
+{% include giphy.html link="https://media.giphy.com/media/h5pP1wMLfQugZxf7Ny/" %} 
 
 1. Color the background. This is just for fun.
 
-![](./images/2020-09-04/2-coloringBackground.gif){: width="100%" height="auto"  .gif}
+{% include giphy.html link="https://media.giphy.com/media/dXdU0SxHG5BYonm3aA/" %} 
+
+1. Draw buttons. 
+
+{% include giphy.html link="https://media.giphy.com/media/ZAwboqCd8zB5iUW6ok/" %} 
+
+1. The buttons send messages to the cat to make it move. 
 
 
-3. Draw buttons. 
-
-
-![](./images/2020-09-04/3-addButton.gif){: width="100%" height="auto"  .gif}
-
-
-4. The buttons send messages to the cat to make it move. 
-
-
-![](./images/2020-09-04/4-sendMessages.gif){: width="100%" height="auto"  .gif}
-
+{% include giphy.html link="https://media.giphy.com/media/cho8wnCflgTUChuDSF/" %} 
 
 
 ### Sept 11 Preview

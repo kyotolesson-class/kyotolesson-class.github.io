@@ -705,6 +705,7 @@ img.gif {
     border: 9px solid var(--scrollbarBG);
     border-radius: 12px;
     background-color: var(--scrollbarBG);
+    width: calc(100% - 18px);
 }
 
 .jsgif canvas {
