@@ -282,7 +282,7 @@ There were only 2 kids today, so we just continued to work on the Walk throught 
 Add your own!! 
 
 
-{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-08-17/" %}
 
 ### Next Project Creating Rain
 
@@ -314,7 +314,7 @@ The next stage was making it look like he is coming out of the forest:
 * At the end, each tree has to move just the right amount to get to the left edge of the screen before disappearing.
 * This takes a little math. They have to find the starting position of each tree, and add just that amount to the motion, then disappear.
 
-{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-10/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-08-10/" %}
 
 
 ### August 10th Homework
@@ -322,7 +322,7 @@ The homework is to now make the cat move onto a new environment, such as having 
 
 Here is a full example. Notice how the clouds appear. For example, another character might appear from the right, and the two characters might fight in the center, then the character could move on. 
 
-{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-17/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-08-17/" %}
 
 
 </details>
@@ -361,7 +361,7 @@ The transition involves several steps:
 9. You can see how the effect is created in the gallery below.
 
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y2R13Flying/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y2R13Flying/" %}
 
 ### August 3rd Homework
 
@@ -464,7 +464,7 @@ The homework is complete the Teamwork 5000 Redux Project and email it to me.
 We reviewed the Diagonal Movement Puzzle and Alien Planet Project. In one solution, as in the "P1 Spaceship" in the code for the Alien Planet (below), is to have several green flag blocks that all start at the same time. That means the spaceship moves up and across and shrinks at the same time, that is to say diagonally and away. Another answer to the puzzle was, instead of many green flags, to have the character/space ship send a message to itself, and have several "receive message blocks" do movements or other actions at the same time.  
 
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R31Alienplanet/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y1R31Alienplanet/" %}
 
 <!-- 
 { % include niceimage-gallery.html folder="/scratchProjects/Y1R31Alienplanet/" %}

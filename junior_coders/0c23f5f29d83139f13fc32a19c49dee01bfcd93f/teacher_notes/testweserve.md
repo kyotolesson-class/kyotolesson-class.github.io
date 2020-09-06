@@ -7,7 +7,7 @@ levelsToTop: "../"
 
 
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R17Outerspace/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y1R17Outerspace/" %}
 
 
 {% include youtubelazy.html  videoID="CYI3GeOTQt4" %}

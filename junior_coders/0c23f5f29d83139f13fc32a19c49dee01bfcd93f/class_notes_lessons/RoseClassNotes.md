@@ -107,6 +107,7 @@ See the images below, but the steps we did in class are:
 ![](./images/2020-09-04/1-drawingDragonMaze.gif){: width="100%" height="auto"  .gif}
 
 
+
 1. Color the background. This is just for fun.
 
 ![](./images/2020-09-04/2-coloringBackground.gif){: width="100%" height="auto"  .gif}
@@ -211,13 +212,13 @@ We reviewed and developed the [Outer Space project](./scratchProjects/Y1R17Outer
 
 This creates the effect of him spinning off into space and disappearing. This trick is very important in ScratchJr.
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R17Outerspace/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y1R17Outerspace/" %}
 
 #### Debugging: Outer Space
 
 Here are some problems to solve:
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R17OuterspaceDebugging/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y1R17OuterspaceDebugging/" %}
 
 1. Why doesn’t the sun spin when pressed?
 2. Why does the alien stay in the air and not hop back down?
@@ -253,7 +254,7 @@ The kids worked on their own version of the project, and the homework was to fin
 
 Here are some debugging exercises.
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Y1R18AnimalhouseDebugging/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Y1R18AnimalhouseDebugging/" %}
 
 1. Why does the barn get bigger and not bigger, then smaller?
 

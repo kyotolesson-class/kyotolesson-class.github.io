@@ -5,7 +5,7 @@ title2: (Monday PM) ARCHIVES
 levelsToTop: "../"
 
 # --- Image gallery with contents of folder:
-# {% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
+# {% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
 # ----- End
 
 # ---- Making an image gallery with individual images:
@@ -568,7 +568,7 @@ Here is my [direct email](mailto:teacher@kyotolesson.com) or email alan or the s
 
 #### Addendum: Code for Alien Planet
 
-{% include niceimage-galleryNoTableweserve.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/scratchProjects/Images/Y1R31AlienPlanetImages/" %}
 
 </details>
 

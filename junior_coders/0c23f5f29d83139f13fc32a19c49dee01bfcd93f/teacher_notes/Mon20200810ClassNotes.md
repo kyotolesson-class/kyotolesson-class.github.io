@@ -27,7 +27,7 @@ The next stage was making it look like he is coming out of the forest:
 * At the end, each tree has to move just the right amount to get to the left edge of the screen before disappearing.
 * This takes a little math. They have to find the starting position of each tree, and add just that amount to the motion, then disappear.
 
-{% include niceimage-galleryNoTableweserveGifs.html folder="/images/2020-08-10/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-08-10/" %}
 
 
 ### August 10th Homework
