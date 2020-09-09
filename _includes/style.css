@@ -17,11 +17,14 @@ html {
 body {
     background-color: ivory;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-    scroll-padding-top: 170px;
+    scroll-padding-top: 170px;/* fixes bad scrolling on gallery */
+}
+
+h4 {/* overrides leap year */
+    text-decoration: underline; 
 }
 
 
-/* fixes bad scrolling on gallery */
 
 #banner {
     right: 0%;
