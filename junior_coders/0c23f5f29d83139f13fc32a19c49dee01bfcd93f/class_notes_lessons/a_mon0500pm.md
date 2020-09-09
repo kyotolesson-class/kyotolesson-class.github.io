@@ -189,14 +189,17 @@ We covered, briefly, how to:
 ![change the background](https://i.imgur.com/u2PdPmu.jpg)
 * press a key (`s`) to [play sounds](https://i.imgur.com/K0QXkIn.jpg)
 ![play sounds](https://i.imgur.com/K0QXkIn.jpg)
+* Say words [in different languages and accents](https://i.imgur.com/6dUphu8.jpg)
+![in different languages and accents](https://i.imgur.com/6dUphu8.jpg)
 
+A lot of new information, so we will go over all this again as the class continues.
 
 ### Making Music 
 *Note that sounds and music are different for scratch. Sounds are recorded, music is played.*
 #### 1. Add Music Extension
-To make music using instruments you have to add [music extension](https://i.imgur.com/kUL0vZv.gif)
+To make music using instruments you have to add [music extension](https://media.giphy.com/media/QTmDHXHASop0qWUDFn/giphy.gif)
 
-{% include giphy.html link="https://i.imgur.com/kUL0vZv.gif" %} 
+{% include giphy.html link="https://media.giphy.com/media/QTmDHXHASop0qWUDFn/" %} 
 
 #### 2. Use the music blocks
 Then music blocks appear at the bottom of the block section and you can use them just like the sound blocks:
