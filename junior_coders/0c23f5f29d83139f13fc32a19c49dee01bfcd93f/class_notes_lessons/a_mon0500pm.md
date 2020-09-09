@@ -203,6 +203,7 @@ To make music using instruments you have to add [music extension](https://media.
 
 #### 2. Use the music blocks
 Then music blocks appear at the bottom of the block section and you can use them just like the sound blocks:
+
 ![play music](https://i.imgur.com/44g6H5Y.jpg)
 
 
