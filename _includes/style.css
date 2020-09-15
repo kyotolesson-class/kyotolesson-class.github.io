@@ -7,9 +7,11 @@ html {
     --thumbBG: #bcdcef;
     --scrollheight: 25px;
     --ourorange: #ffcc01;
-    --ourlightblue: #f0f8ff; /* aliceblue */
+    --ourlightblue: #f0f8ff;
+    /* aliceblue */
     --ourdarkblue: #4175b5;
-    --menuBG: #f5f5dc; /* beige*/
+    --menuBG: #f5f5dc;
+    /* beige*/
     --linkhover: #fee788;
     --borderblue: #3399cc;
 }
@@ -17,14 +19,14 @@ html {
 body {
     background-color: ivory;
     font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-    scroll-padding-top: 170px;/* fixes bad scrolling on gallery */
+    scroll-padding-top: 170px;
+    /* fixes bad scrolling on gallery */
 }
 
-h4 {/* overrides leap year */
-    text-decoration: underline; 
+h4 {
+    /* overrides leap year */
+    text-decoration: underline;
 }
-
-
 
 #banner {
     right: 0%;
@@ -46,7 +48,7 @@ h4 {/* overrides leap year */
     margin-top: 6px;
     line-height: 16px;
     font-size: 14px;
-    background-color: var(--ourorange) ;
+    background-color: var(--ourorange);
     /* border: 1px solid #dba500; */
     /* background: linear-gradient( var(--ourorange), #ffe788 );
     /* border-radius: 18px; */
@@ -290,13 +292,14 @@ details[open] {
 /* give subdetails different color */
 
 details details {
-    background-color: var(--ourlightblue) ;
+    background-color: var(--ourlightblue);
 }
 
 details>summary {
     padding: 6px 6px 6px 6px;
     width: calc(100% + 1em + 3px);
-    background-color: #ffeca0; /* var(--summaryHeader) */
+    background-color: #ffeca0;
+    /* var(--summaryHeader) */
     border: none;
     cursor: pointer;
     margin-top: -2px;
@@ -391,7 +394,8 @@ details[open] summary~* {
 }
 
 #toc>ul>li:hover {
-    background-color: var(--linkhover); /* #ffeca0 */
+    background-color: var(--linkhover);
+    /* #ffeca0 */
 }
 
 #toc li {
@@ -432,7 +436,6 @@ div.slider {
     overflow: hidden;
 }
 
-
 .slider table {
     width: 100%;
     border-collapse: collapse;
@@ -452,7 +455,6 @@ div.slider {
 .slider td:hover {
     background-color: var(--linkhover);
 }
-
 
 #header1 h1.ournav {
     background-color: white;
@@ -480,9 +482,6 @@ div.slider {
 }
 
 
-
-
-
 /* Don't need button navigation */
 
 @supports (scroll-snap-type) {
@@ -494,7 +493,7 @@ div.slider {
 .bottomSpacer {
     /* padding-bottom: 80vh;
             margin-bottom: 80vh;*/
-    background-color: var(--ourlightblue) ;
+    background-color: var(--ourlightblue);
 }
 
 section#mainsection {
@@ -560,7 +559,8 @@ div.galleryslides {
     resize: horizontal;
 }
 
-div.galleryslides p, div.galleryslides video {
+div.galleryslides p,
+div.galleryslides video {
     scroll-snap-align: start;
     flex-shrink: 0;
     width: 100%;
@@ -693,14 +693,16 @@ nice image gallery 2, no slides
 --------------------
 */
 
+
 /* when link to a target in the page is clicked, the link is highlighted via jquery. Useful for showing which picture is showing in the galleries. */
+
 a.clickeditem {
-background-color:  var(--ourorange) !important;
+    background-color: var(--ourorange) !important;
 }
 
 img.gif {
-	visibility: hidden;
-} 
+    visibility: hidden;
+}
 
 .jsgif {
     position: relative;
@@ -712,75 +714,180 @@ img.gif {
 }
 
 .jsgif canvas {
-width: 100%;
+    width: 100%;
     position: relative;
-top: 3px;
+    top: 3px;
     border-radius: 12px;
 }
 
-
-.gifcontrol {	
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	width: 100%;
-	height: 100%;
-	cursor: pointer;
-   	transition: background 0.25s ease-in-out;
-	z-index: 100;
+.gifcontrol {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    transition: background 0.25s ease-in-out;
+    z-index: 100;
 }
-	
+
 .gifcontrol:after {
-		transition: background 0.25s ease-in-out;
-		position: absolute;
-		content: ""; 
-		display: block;
-		left: calc(50% - 25px);
-		top: calc(50% - 25px);
-	}
+    transition: background 0.25s ease-in-out;
+    position: absolute;
+    content: "";
+    display: block;
+    left: calc(50% - 25px);
+    top: calc(50% - 25px);
+}
 
 .gifcontrol.loading {
-		background: rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.75);
 }
-.gifcontrol.loading :after {
-			background: #FF9900;
-			width: 50px;
-			height: 50px;		
-			border-radius: 50px;
-            content: "loading";
-		}
 
+.gifcontrol.loading :after {
+    background: #FF9900;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    content: "loading";
+}
 
 .gifcontrol.playing {
-		/* Only show the 'stop' button on hover */
+    /* Only show the 'stop' button on hover */
 }
 
 .gifcontrol.playing:after {
-			opacity: 0;
-			transition: opacity 0.25s ease-in-out;
-			border-left: 20px solid #FF9900;
-			border-right: 20px solid #FF9900;
-			width: 50px;
-			height: 50px;
-      box-sizing: border-box;
-		}
-
-
-.gifcontrol.playing:hover:after {
-			opacity: 1;
-		}
-	}
-
-.gifcontrol.paused {
-		background: rgba(255, 255, 255, 0.5);
+    opacity: 0;
+    transition: opacity 0.25s ease-in-out;
+    border-left: 20px solid #FF9900;
+    border-right: 20px solid #FF9900;
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
 }
 
-.gifcontrol.paused:after {
-			width: 0;
-			height: 0;
-			border-style: solid;
-			border-width: 25px 0 25px 50px;
-			border-color: transparent transparent transparent #ff9900;
-		}
-	
+.gifcontrol.playing:hover:after {
+    opacity: 1;
+}
 
+
+}
+.gifcontrol.paused {
+    background: rgba(255, 255, 255, 0.5);
+}
+.gifcontrol.paused:after {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 25px 0 25px 50px;
+    border-color: transparent transparent transparent #ff9900;
+}
+
+/* BEGIN SCRATCH FORUMS for coloring html code from scratch discussion forums */
+.sb-label {
+    font-family: Lucida Grande, Verdana, Arial, DejaVu Sans, sans-serif;
+    font-weight: 700;
+    fill: #fff;
+    font-size: 10px;
+    word-spacing: +1px
+}
+.sb-obsolete {
+    fill: #d42828
+}
+.sb-motion {
+    fill: #4a6cd4
+}
+.sb-looks {
+    fill: #8a55d7
+}
+.sb-sound {
+    fill: #bb42c3
+}
+.sb-pen {
+    fill: #0e9a6c
+}
+.sb-events {
+    fill: #c88330
+}
+.sb-control {
+    fill: #e1a91a
+}
+.sb-sensing {
+    fill: #2ca5e2
+}
+.sb-operators {
+    fill: #5cb712
+}
+.sb-variables {
+    fill: #ee7d16
+}
+.sb-list {
+    fill: #cc5b22
+}
+.sb-custom {
+    fill: #632d99
+}
+.sb-custom-arg {
+    fill: #5947b1
+}
+.sb-extension {
+    fill: #4b4a60
+}
+.sb-grey {
+    fill: #969696
+}
+.sb-bevel {
+    filter: url(#bevelFilter)
+}
+.sb-input {
+    filter: url(#inputBevelFilter)
+}
+.sb-input-number,
+.sb-input-number-dropdown,
+.sb-input-string {
+    fill: #fff
+}
+.sb-literal-dropdown,
+.sb-literal-number,
+.sb-literal-number-dropdown,
+.sb-literal-string {
+    font-weight: 400;
+    font-size: 9px;
+    word-spacing: 0
+}
+.sb-literal-number,
+.sb-literal-number-dropdown,
+.sb-literal-string {
+    fill: #000
+}
+.sb-darker {
+    filter: url(#inputDarkFilter)
+}
+.sb-outline {
+    stroke: #fff;
+    stroke-opacity: .2;
+    stroke-width: 2;
+    fill: none
+}
+.sb-define-hat-cap {
+    stroke: #632d99;
+    stroke-width: 1;
+    fill: #8e2ec2
+}
+.sb-comment {
+    fill: #ffffa5;
+    stroke: #d0d1d2;
+    stroke-width: 1
+}
+.sb-comment-line {
+    fill: #ffff80
+}
+.sb-comment-label {
+    font-family: Helevetica, Arial, DejaVu Sans, sans-serif;
+    font-weight: 700;
+    fill: #5c5d5f;
+    word-spacing: 0;
+    font-size: 12px
+}
+
+/* END SCRATCH FORUMS */
