@@ -127,9 +127,12 @@ The homework is to:
 
 ### Do scratch tutorials
 
-[scratch tutorials](https://scratch.mit.edu/projects/editor/?tutorial=all)
+I started the class by asking kids look at and copy the [animate a name tutorial](https://scratch.mit.edu/projects/editor/?tutorial=all) tutorial. Here is a slow video walkthrough:
 
-I started the class by asking kids look at and copy the animate a name tutorial. Most kids were very eager to start their own projects, so I had them work on the tutorial and went around the room to hear their ideas for their individual projects (as int he homework) before they started working on them.
+{% include youtubelazy.html  videoID="8mcwvngI98U" %}
+
+
+Most kids were very eager to start their own projects, so I had them work on the tutorial and went around the room to hear their ideas for their individual projects (as int he homework) before they started working on them.
 
 ### Success 1: Birthday Cakes
 
