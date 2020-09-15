@@ -23,6 +23,16 @@ body {
     /* fixes bad scrolling on gallery */
 }
 
+
+pre {
+background: var(--menuBG);
+}
+
+
+code {
+background: var(--borderblue);
+}
+
 h4 {
     /* overrides leap year */
     text-decoration: underline;
