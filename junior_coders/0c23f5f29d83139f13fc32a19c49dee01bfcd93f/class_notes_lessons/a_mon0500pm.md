@@ -170,16 +170,16 @@ This is an excellent first project. Though you may have wanted to do more...it i
 
 Letter sprites make the student's name appear sequentially. The key to this project is also using message blocks. On start, the letter sprites hide, wait, then each letter appears, waits, and tells the next to appear. 
 
-![radio code](https://i.imgur.com/oF20zHM.jpg)
+![hide show broadcast](https://i.imgur.com/oF20zHM.jpg)
 
-Continuing down the line, the sprites appear in sequence, 
+Continuing down the line, the sprites appear in sequence,
 
-![radio code](https://i.imgur.com/Ic1XIle.jpg)
+![start hide and when receive show  broadcast](https://i.imgur.com/Ic1XIle.jpg)
 
 ending in a cool pair of sunglasses (my favorite touch!). 
 
-![radio code](https://i.imgur.com/295we4t.jpg)
-![radio code](https://i.imgur.com/Zi1LNCL.jpg)
+![sunglasses](https://i.imgur.com/295we4t.jpg)
+![hide show when receive](https://i.imgur.com/Zi1LNCL.jpg)
 
 ### Squiggly Line/Costumes Project
 
