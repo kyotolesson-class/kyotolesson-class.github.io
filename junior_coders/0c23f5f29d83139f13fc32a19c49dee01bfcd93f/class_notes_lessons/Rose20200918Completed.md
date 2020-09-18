@@ -36,9 +36,11 @@ If students finish screen 1, they can continue to the next few screens (see [Nex
 
 We finished the Knock Knock Joke Project. Some kids still are getting the hang of sending and receiving messages, but in the end they were all able to make the project work. 
 
-As an added challenge for those that finished early, I had them add parallel actions. 
+As an added challenge for those that finished early, I had them copy the same code, but in parallel
 
-This allows several actions to be performed together at the same time. This is a very importttqn
+![](https://i.imgur.com/KfBCiVd.jpg)
+
+This clever trick allows many actions to be performed together at the same time instead of one after the other.
 
 ### Next Week: Finish Family Wake Up Story Project
 
@@ -60,3 +62,4 @@ Screen 4 is for you to end the story the way you would like.
 
 
 </details>
+
