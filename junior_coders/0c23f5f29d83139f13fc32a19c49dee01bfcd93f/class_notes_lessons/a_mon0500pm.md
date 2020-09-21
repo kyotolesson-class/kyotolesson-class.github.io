@@ -53,6 +53,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [Sept. 21st](#sept-21st)
+  * [Sept. 28th Homework](#sept-28th-homework)
+  * [Crazy Pong Game](#crazy-pong-game)
+  * [Pong  Princess version](#pong-princess-version)
+  * [Side to Side movement](#side-to-side-movement)
+  * [Next week: Group Project to Review All Blocks](#next-week-group-project-to-review-all-blocks)
 * [September 14th](#september-14th)
   * [September 14th Note to students:](#september-14th-note-to-students)
   * [Sept 21 Homework](#sept-21-homework)
@@ -99,6 +105,65 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## Sept. 21st
+</summary>
+
+## Sept. 21st
+
+ 
+### Sept. 28th Homework
+
+The homework is:
+
+* Do one more tutorial
+* Continue working on whatever projects you have started
+
+### Crazy Pong Game
+
+Today we focused on the Pong tutorial. We changed the background, and styled the ball and paddle.
+
+<iframe src="https://scratch.mit.edu/projects/427629054/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+The code also plays a sound if the ball touches the paddle.
+
+![](https://i.imgur.com/pnpjaiy.jpg)
+
+### Pong  Princess version
+
+{% include giphy.html link="https://media.giphy.com/media/LKlYWuuvT8X8jNhK3K/" %} 
+
+
+The ball moves at a diagonal, bouncing off the edges. It tells the the paddle (a princess!) when it has hit it.
+
+![](https://i.imgur.com/dkOBG9i.jpg)
+
+
+The paddle, in the form of a princess, follows the mouse with the set x to mouse x block. It also receives the message to speak.
+
+![](https://i.imgur.com/SkdnaFx.jpg)
+
+
+### Side to Side movement
+
+Another project focused on adding many new characters. 
+
+![](https://i.imgur.com/NBrGvHE.jpeg)
+
+One character moves from side to side. It also knows how to bounce when it meets the dge. In addition, since it is going side to side, it wants a left-right rotation style (otherwise the character flips and comes back upside down),
+
+
+![](https://i.imgur.com/A5MCaTQ.jpg)
+
+### Next week: Group Project to Review All Blocks 
+
+The kids are very excited to start coding games and other advanced projects. Next week we will make a group project where the focus will be learning how each block works. We will focus on movement blocks, and all the blocks we have used so far. This will help up be able to think about what is possible in Scratch and design our own games!!
+
+
+</details>
+ 
 
 <details>
 <summary>## September 14th
@@ -154,15 +219,15 @@ The Cake sprite has 2 costumes.
 
 The pink dot code makes the music play, and sends a message to the cake.  [](# "I corrected the student's project so the candles go out *after* the music plays."). The broadcast message block is just like the send message block in Scratch Jr., but more powerful.
 
-![radio code](https://i.imgur.com/thdqNMT.jpg)
+![send message](https://i.imgur.com/thdqNMT.jpg)
 
 When the cake gets the message, it changes costume. This make it seems the candles are going out.
 
-![radio code](https://i.imgur.com/ctYUBO0.jpg)
+![get message](https://i.imgur.com/ctYUBO0.jpg)
 
 The red dot makes the music stop.
 
-![radio code](https://i.imgur.com/IB9SwJh.jpg)
+![stop music](https://i.imgur.com/IB9SwJh.jpg)
 
 This is an excellent first project. Though you may have wanted to do more...it is a very good start. 
 
@@ -183,7 +248,7 @@ ending in a cool pair of sunglasses (my favorite touch!).
 
 ### Squiggly Line/Costumes Project
 
-This emulated a more [advanced project](https://scratch.mit.edu/projects/425323424/). Because of this, it was a bit tough, but they made a good start by using the "next costume" trick to change through a series of costumes. 
+This emulated a more [advanced project](https://scratch.mit.edu/projects/418429641). Because of this, it was a bit tough, but they made a good start by using the "next costume" trick to change through a series of costumes. 
 
 
 {% include giphy.html link="https://media.giphy.com/media/Q5dlB0kBckYD20Rgfl/" %} 
@@ -195,7 +260,7 @@ If you look at the original project this is exactly what it is, except repeated 
 <iframe src="https://scratch.mit.edu/projects/418429641/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
-These two are both great projects, and worth continuing!!
+These two are both great projects, and worth continuing!
 
 ### Success 3: Mario 
 

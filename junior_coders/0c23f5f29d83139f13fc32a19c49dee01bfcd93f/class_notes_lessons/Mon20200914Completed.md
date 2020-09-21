@@ -13,7 +13,7 @@ details>
 </summary>
 
 ## September 14th
-
+fasdf [](# "this is a title")
 
 ### September 14th Parent Notes
 Today's class was a bit challenging. Kids were very eager to explore new Scratch projects, but also very eager to do things that were a little ahead of their abilities. To try to prevent this I gave students a simple beginner tutorial to work on at the beginning of the class. I fear there was some frustration though as they were all very eager to jump ahead to imitate fancier projects and games. At the same time, despite that, they did all make progress individually and can be proud of what they did accomplish. I recommend going over these notes, to highlight and help you see the progress you made. I encourage you to be patient with following the tutorials.
@@ -56,7 +56,7 @@ The red dot makes the music stop.
 
 ![radio code](https://i.imgur.com/IB9SwJh.jpg)
 
-This is an excellent first project, though I think the student may have wanted to do more... It is a very good start. It uses messages
+This is an excellent first project, though I think the student may have wanted to do more... It is a very good start. It uses messages!!
 
 ### Success 2: Cool Name animation
 
