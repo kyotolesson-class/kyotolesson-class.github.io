@@ -11,6 +11,16 @@
             $(linktoclick).toggleClass("clickeditem");
             });
 
+            $('a')
+                .filter(function() {
+                return this.hostname && this.hostname !== location.hostname;
+                })
+                .addClass("external")
+                .attr({
+                    target: "_blank", 
+                    title: "Opens in a new window"});
+                //.append(' [^]');
+
             // TOC SECTION    
             // if mainmenu item is clicked
             // makes sure details is open before inner click is applied, so link works.
