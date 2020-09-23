@@ -1,14 +1,14 @@
 ---
 layout: junior_coders_default
-title: Getting Started with Scratch Jr. (Saturday PM)
-levelsToTop: "../"
 ---
 
 
 details>
 <summary>## Sept. 21st
+</summary>
 
 ## Sept. 21st
+
 
 
 ### Sept. 28th Homework
@@ -26,7 +26,24 @@ Today we focused on the Pong tutorial. We changed the background, and styled the
 
 
 The code also plays a sound if the ball touches the paddle.
-![](https://i.imgur.com/pnpjaiy.jpg)
+
+```
+when green flag clicked
+forever
+if on edge, bounce
+move (15) steps
+if <touching (Paddle v) ?> then
+play sound (Boing v) until done
+turn right (180) degrees
+move (15) steps
+end 
+end 
+```
+{: .msb}
+
+<!-- ![](https://i.imgur.com/pnpjaiy.jpg) -->
+
+
 
 ### Pongg  Princess version
 
@@ -35,25 +52,67 @@ The code also plays a sound if the ball touches the paddle.
 
 The ball moves at a diagonal, bouncing off the edges. It tells the the paddle (a princess) when it has hit it.
 
-![](https://i.imgur.com/dkOBG9i.jpg)
+```
+when green flag clicked
+point in direction (45)
+forever
+move (15) steps
+if on edge, bounce
+end 
+
+when green flag clicked
+forever
+if <touching (Princess v) ?> then
+broadcast (hit v)
+turn cw (180) degrees
+move (15) steps
+end 
+end
+```
+{: .msb}
+
+<!-- ![](https://i.imgur.com/dkOBG9i.jpg) -->
 
 
 The paddle, in the form of a princess, follows the mouse with the set x to mouse x block. It also receives the message to speak.
 
-![](https://i.imgur.com/SkdnaFx.jpg)
+```
+when green flag clicked
+forever
+set x to (mouse x)
+end 
+
+when I receive [hit v]
+say [Hello Crystal ] for (2) seconds
+```
+{: .msb}
+
+<!-- ![](https://i.imgur.com/SkdnaFx.jpg) -->
 
 
-### 
+### character moving
 
 Making a character move
 Antoher project focused on adding many new characters. 
+
 
 ![](https://i.imgur.com/NBrGvHE.jpeg)
 
 One character moves from side to side. It also knows how to bounce when it meets the dge. In addition, since it is going side to side, it wants a left-right roaations style (otherwise the character flips and comes back upside down),
 
+```
 
-![](https://i.imgur.com/A5MCaTQ.jpg)
+when green flag clicked
+set rotation style [left-right v]
+forever
+move (9) steps
+if on edge, bounce
+end
+
+```
+{: .msb}
+
+<!-- ![](https://i.imgur.com/A5MCaTQ.jpg) -->
 
 ### Next week: Group Project to Review All Blocks 
 

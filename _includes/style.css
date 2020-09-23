@@ -26,11 +26,16 @@ body {
 
 pre {
 background: var(--menuBG);
+border-radius: 12px;
+border: unset;
+
 }
 
 
 code {
-background: var(--borderblue);
+background: var(--menuBG);
+color: var(--ourdarkblue);
+text-shadow: unset;
 }
 
 h4 {
@@ -800,112 +805,6 @@ img.gif {
     border-color: transparent transparent transparent #ff9900;
 }
 
-/* BEGIN SCRATCH FORUMS for coloring html code from scratch discussion forums */
-.sb-label {
-    font-family: Lucida Grande, Verdana, Arial, DejaVu Sans, sans-serif;
-    font-weight: 700;
-    fill: #fff;
-    font-size: 10px;
-    word-spacing: +1px
-}
-.sb-obsolete {
-    fill: #d42828
-}
-.sb-motion {
-    fill: #4a6cd4
-}
-.sb-looks {
-    fill: #8a55d7
-}
-.sb-sound {
-    fill: #bb42c3
-}
-.sb-pen {
-    fill: #0e9a6c
-}
-.sb-events {
-    fill: #c88330
-}
-.sb-control {
-    fill: #e1a91a
-}
-.sb-sensing {
-    fill: #2ca5e2
-}
-.sb-operators {
-    fill: #5cb712
-}
-.sb-variables {
-    fill: #ee7d16
-}
-.sb-list {
-    fill: #cc5b22
-}
-.sb-custom {
-    fill: #632d99
-}
-.sb-custom-arg {
-    fill: #5947b1
-}
-.sb-extension {
-    fill: #4b4a60
-}
-.sb-grey {
-    fill: #969696
-}
-.sb-bevel {
-    filter: url(#bevelFilter)
-}
-.sb-input {
-    filter: url(#inputBevelFilter)
-}
-.sb-input-number,
-.sb-input-number-dropdown,
-.sb-input-string {
-    fill: #fff
-}
-.sb-literal-dropdown,
-.sb-literal-number,
-.sb-literal-number-dropdown,
-.sb-literal-string {
-    font-weight: 400;
-    font-size: 9px;
-    word-spacing: 0
-}
-.sb-literal-number,
-.sb-literal-number-dropdown,
-.sb-literal-string {
-    fill: #000
-}
-.sb-darker {
-    filter: url(#inputDarkFilter)
-}
-.sb-outline {
-    stroke: #fff;
-    stroke-opacity: .2;
-    stroke-width: 2;
-    fill: none
-}
-.sb-define-hat-cap {
-    stroke: #632d99;
-    stroke-width: 1;
-    fill: #8e2ec2
-}
-.sb-comment {
-    fill: #ffffa5;
-    stroke: #d0d1d2;
-    stroke-width: 1
-}
-.sb-comment-line {
-    fill: #ffff80
-}
-.sb-comment-label {
-    font-family: Helevetica, Arial, DejaVu Sans, sans-serif;
-    font-weight: 700;
-    fill: #5c5d5f;
-    word-spacing: 0;
-    font-size: 12px
-}
 
 
 @font-face {
@@ -938,4 +837,36 @@ a.external:after {
     top: 1px;
     transform: rotate(-45deg);
 }
-/* END SCRATCH FORUMS */
+
+code div.scratchblocks {
+    display: inline-block;
+    position: relative;
+    top: 9px;
+
+}
+
+code.myscratchblocks {
+    background: transparent;
+}
+
+code {
+font-size: 1.2em;
+line-height: 1.4em;
+font-family: 'FontAwesome';
+}
+
+code:not(.language-plaintext){
+font-family: 'FontAwesome';
+    background: var(--scrollbarBG);
+    background-image: -webkit-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+    background-image: -moz-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+    background-image: -ms-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+    background-image: -o-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+    background-image: linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+    background-position: 0 0;
+    background-repeat: repeat;
+    background-size: 1em 2.8em;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+    }

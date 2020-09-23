@@ -53,15 +53,15 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [Sept. 21st](#sept-21st)
-  * [Sept. 28th Homework](#sept-28th-homework)
+* [September 21st](#september-21st)
+  * [Next Week: Sept. 28th Homework](#next-week-sept-28th-homework)
   * [Crazy Pong Game](#crazy-pong-game)
   * [Pong  Princess version](#pong-princess-version)
   * [Side to Side movement](#side-to-side-movement)
   * [Next week: Group Project to Review All Blocks](#next-week-group-project-to-review-all-blocks)
 * [September 14th](#september-14th)
   * [September 14th Note to students:](#september-14th-note-to-students)
-  * [Sept 21 Homework](#sept-21-homework)
+  * [Homework due Sept 21](#homework-due-sept-21)
   * [Do scratch tutorials](#do-scratch-tutorials)
   * [Success 1: Birthday Cakes](#success-1-birthday-cakes)
     * [Birthday Candles Go On and Off](#birthday-candles-go-on-and-off)
@@ -107,13 +107,13 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details>
-<summary>## Sept. 21st
+<summary>## September 21st
 </summary>
 
-## Sept. 21st
+## September 21st
 
  
-### Sept. 28th Homework
+### Next Week: Sept. 28th Homework
 
 The homework is:
 
@@ -129,7 +129,33 @@ Today we focused on the Pong tutorial. We changed the background, and styled the
 
 The code also plays a sound if the ball touches the paddle.
 
-![](https://i.imgur.com/pnpjaiy.jpg)
+
+```
+when green flag clicked
+forever
+if on edge, bounce
+move (15) steps
+if <touching (Paddle v) ?> then
+play sound (Boing v) until done
+turn right (180) degrees
+move (15) steps
+end 
+end 
+```
+
+```
+when green flag clicked
+forever
+if on edge, bounce
+move (15) steps
+if <touching (Paddle v) ?> then
+play sound (Boing v) until done
+turn right (180) degrees
+move (15) steps
+end 
+end 
+```
+{: .msb}
 
 ### Pong  Princess version
 
@@ -138,13 +164,66 @@ The code also plays a sound if the ball touches the paddle.
 
 The ball moves at a diagonal, bouncing off the edges. It tells the the paddle (a princess!) when it has hit it.
 
-![](https://i.imgur.com/dkOBG9i.jpg)
+```
+when green flag clicked
+point in direction (45)
+forever
+move (15) steps
+if on edge, bounce
+end 
+
+when green flag clicked
+forever
+if <touching (Princess v) ?> then
+broadcast (hit v)
+turn cw (180) degrees
+move (15) steps
+end 
+end
+```
+
+```
+when green flag clicked
+point in direction (45)
+forever
+move (15) steps
+if on edge, bounce
+end 
+
+when green flag clicked
+forever
+if <touching (Princess v) ?> then
+broadcast (hit v)
+turn cw (180) degrees
+move (15) steps
+end 
+end
+```
+{: .msb}
 
 
 The paddle, in the form of a princess, follows the mouse with the set x to mouse x block. It also receives the message to speak.
 
-![](https://i.imgur.com/SkdnaFx.jpg)
+```
+when green flag clicked
+forever
+set x to (mouse x)
+end 
 
+when I receive [hit v]
+say [Hello Crystal ] for (2) seconds
+```
+
+```
+when green flag clicked
+forever
+set x to (mouse x)
+end 
+
+when I receive [hit v]
+say [Hello Crystal ] for (2) seconds
+```
+{: .msb}
 
 ### Side to Side movement
 
@@ -154,8 +233,25 @@ Another project focused on adding many new characters.
 
 One character moves from side to side. It also knows how to bounce when it meets the dge. In addition, since it is going side to side, it wants a left-right rotation style (otherwise the character flips and comes back upside down),
 
+```
+when green flag clicked
+set rotation style [left-right v]
+forever
+move (9) steps
+if on edge, bounce
+end
+```
 
-![](https://i.imgur.com/A5MCaTQ.jpg)
+```
+when green flag clicked
+set rotation style [left-right v]
+forever
+move (9) steps
+if on edge, bounce
+end
+```
+{: .msb}
+
 
 ### Next week: Group Project to Review All Blocks 
 
@@ -182,7 +278,7 @@ For me, the important thing is that everyone made a lot of progress individually
 
 Again, please try the tutorials!!! It really will help!
 
-### Sept 21 Homework
+### Homework due Sept 21 
 
 The homework is to:
 
@@ -219,32 +315,124 @@ The Cake sprite has 2 costumes.
 
 The pink dot code makes the music play, and sends a message to the cake.  [](# "I corrected the student's project so the candles go out *after* the music plays."). The broadcast message block is just like the send message block in Scratch Jr., but more powerful.
 
-![send message](https://i.imgur.com/thdqNMT.jpg)
+```
+when this sprite clicked
+play sound (Birthday v) until done
+broadcast (message1 v)
+```
+
+```
+when this sprite clicked
+play sound (Birthday v) until done
+broadcast (message1 v)
+```
+{: .msb}
+
+<!-- ![send message](https://i.imgur.com/thdqNMT.jpg) -->
 
 When the cake gets the message, it changes costume. This make it seems the candles are going out.
 
-![get message](https://i.imgur.com/ctYUBO0.jpg)
+```
+when I receive [message1 v]
+next costume
+```
+
+```
+when I receive [message1 v]
+next costume
+```
+{: .msb}
+<!-- ![get message](https://i.imgur.com/ctYUBO0.jpg) -->
 
 The red dot makes the music stop.
 
-![stop music](https://i.imgur.com/IB9SwJh.jpg)
+```
+when this sprite clicked
+stop all sounds
+```
+
+```
+when this sprite clicked
+stop all sounds
+```
+{: .msb}
+<!-- ![stop music](https://i.imgur.com/IB9SwJh.jpg) -->
 
 This is an excellent first project. Though you may have wanted to do more...it is a very good start. 
 
 ### Success 2: Cool Name animation
 
-Letter sprites make the student's name appear sequentially. The key to this project is also using message blocks. On start, the letter sprites hide, wait, then each letter appears, waits, and tells the next to appear. 
+Letter sprites make the student's name appear sequentially. The key to this project is also using message blocks. On start, the letter sprites hide, wait, then each letter appears, waits, and **tells the next  sprite to appear**. 
 
-![hide show broadcast](https://i.imgur.com/oF20zHM.jpg)
+```
+when green flag clicked
+hide
+wait (1) seconds
+show 
+wait (1) seconds 
+broadcast (appear sprite 2 v)
+```
+
+```
+when green flag clicked
+hide
+wait (1) seconds
+show 
+wait (1) seconds 
+broadcast (appear sprite 2 v)
+```
+{: .msb}
+
+<!-- ![hide show broadcast](https://i.imgur.com/oF20zHM.jpg) -->
 
 Continuing down the line, the sprites appear in sequence,
 
-![start hide and when receive show  broadcast](https://i.imgur.com/Ic1XIle.jpg)
+```
+when green flag clicked
+hide 
 
-ending in a cool pair of sunglasses (my favorite touch!). 
+when I receive (appear sprite 2 v)
+show 
+wait (1) seconds 
+broadcast (appear sprite 3 v)
+```
+
+```
+when green flag clicked
+hide 
+
+when I receive (appear sprite 2 v)
+show 
+wait (1) seconds 
+broadcast (appear sprite 3 v)
+```
+{: .msb}
+
+<!-- ![start hide and when receive show  broadcast](https://i.imgur.com/Ic1XIle.jpg) -->
+
+ending in a cool pair of **sunglasses** (my favorite touch!). 
 
 ![sunglasses](https://i.imgur.com/295we4t.jpg)
-![hide show when receive](https://i.imgur.com/Zi1LNCL.jpg)
+
+```
+when green flag clicked
+hide 
+
+when I receive (appear letter last v)
+show
+```
+
+```
+when green flag clicked
+hide 
+
+when I receive (appear letter last v)
+show
+```
+{: .msb}
+
+
+<!-- ![hide show when receive](https://i.imgur.com/Zi1LNCL.jpg) -->
 
 ### Squiggly Line/Costumes Project
 
@@ -264,9 +452,24 @@ These two are both great projects, and worth continuing!
 
 ### Success 3: Mario 
 
-The king of all video games is of course Mario. Another student asked about how to make a character jump like Mario does. There is a simple way:
+The king of all video games is of course Mario. Another student asked about how to make a character jump like Mario does. There is a simple way to **make Mario jump**:
 
-<pre class="blocks"><div class="scratchblocks"><svg version="1.1" width="173" height="102"><defs><filter id="bevelFilter" x0="-50%" y0="-50%" width="200%" height="200%"><feGaussianBlur result="blur-1" in="SourceAlpha" stdDeviation="1 1"></feGaussianBlur><feFlood result="flood-2" in="undefined" flood-color="#fff" flood-opacity="0.15"></feFlood><feOffset result="offset-3" in="blur-1" dx="1" dy="1"></feOffset><feComposite result="comp-4" operator="arithmetic" in="SourceAlpha" in2="offset-3" k2="1" k3="-1"></feComposite><feComposite result="comp-5" operator="in" in="flood-2" in2="comp-4"></feComposite><feFlood result="flood-6" in="undefined" flood-color="#000" flood-opacity="0.7"></feFlood><feOffset result="offset-7" in="blur-1" dx="-1" dy="-1"></feOffset><feComposite result="comp-8" operator="arithmetic" in="SourceAlpha" in2="offset-7" k2="1" k3="-1"></feComposite><feComposite result="comp-9" operator="in" in="flood-6" in2="comp-8"></feComposite><feMerge result="merge-10"><feMergeNode in="SourceGraphic"></feMergeNode><feMergeNode in="comp-5"></feMergeNode><feMergeNode in="comp-9"></feMergeNode></feMerge></filter><filter id="inputBevelFilter" x0="-50%" y0="-50%" width="200%" height="200%"><feGaussianBlur result="blur-1" in="SourceAlpha" stdDeviation="1 1"></feGaussianBlur><feFlood result="flood-2" in="undefined" flood-color="#fff" flood-opacity="0.15"></feFlood><feOffset result="offset-3" in="blur-1" dx="-1" dy="-1"></feOffset><feComposite result="comp-4" operator="arithmetic" in="SourceAlpha" in2="offset-3" k2="1" k3="-1"></feComposite><feComposite result="comp-5" operator="in" in="flood-2" in2="comp-4"></feComposite><feFlood result="flood-6" in="undefined" flood-color="#000" flood-opacity="0.7"></feFlood><feOffset result="offset-7" in="blur-1" dx="1" dy="1"></feOffset><feComposite result="comp-8" operator="arithmetic" in="SourceAlpha" in2="offset-7" k2="1" k3="-1"></feComposite><feComposite result="comp-9" operator="in" in="flood-6" in2="comp-8"></feComposite><feMerge result="merge-10"><feMergeNode in="SourceGraphic"></feMergeNode><feMergeNode in="comp-5"></feMergeNode><feMergeNode in="comp-9"></feMergeNode></feMerge></filter><filter id="inputDarkFilter" x0="-50%" y0="-50%" width="200%" height="200%"><feFlood result="flood-1" in="undefined" flood-color="#000" flood-opacity="0.2"></feFlood><feComposite result="comp-2" operator="in" in="flood-1" in2="SourceAlpha"></feComposite><feMerge result="merge-3"><feMergeNode in="SourceGraphic"></feMergeNode><feMergeNode in="comp-2"></feMergeNode></feMerge></filter><path d="M1.504 21L0 19.493 4.567 0h1.948l-.5 2.418s1.002-.502 3.006 0c2.006.503 3.008 2.01 6.517 2.01 3.508 0 4.463-.545 4.463-.545l-.823 9.892s-2.137 1.005-5.144.696c-3.007-.307-3.007-2.007-6.014-2.51-3.008-.502-4.512.503-4.512.503L1.504 21z" fill="#3f8d15" id="greenFlag"></path><path d="M6.724 0C3.01 0 0 2.91 0 6.5c0 2.316 1.253 4.35 3.14 5.5H5.17v-1.256C3.364 10.126 2.07 8.46 2.07 6.5 2.07 4.015 4.152 2 6.723 2c1.14 0 2.184.396 2.993 1.053L8.31 4.13c-.45.344-.398.826.11 1.08L15 8.5 13.858.992c-.083-.547-.514-.714-.963-.37l-1.532 1.172A6.825 6.825 0 0 0 6.723 0z" fill="#fff" id="turnRight"></path><path d="M3.637 1.794A6.825 6.825 0 0 1 8.277 0C11.99 0 15 2.91 15 6.5c0 2.316-1.253 4.35-3.14 5.5H9.83v-1.256c1.808-.618 3.103-2.285 3.103-4.244 0-2.485-2.083-4.5-4.654-4.5-1.14 0-2.184.396-2.993 1.053L6.69 4.13c.45.344.398.826-.11 1.08L0 8.5 1.142.992c.083-.547.514-.714.963-.37l1.532 1.172z" fill="#fff" id="turnLeft"></path><path d="M0 0L4 4L0 8Z" fill="#111" id="addInput"></path><path d="M4 0L4 8L0 4Z" fill="#111" id="delInput"></path><g id="loopArrow"><path d="M8 0l2 -2l0 -3l3 0l-4 -5l-4 5l3 0l0 3l-8 0l0 2" fill="#000" opacity="0.3"></path><path d="M8 0l2 -2l0 -3l3 0l-4 -5l-4 5l3 0l0 3l-8 0l0 2" fill="#fff" opacity="0.9" transform="translate(-1 -1)"></path></g></defs><g><g transform="translate(0 0)"><g transform="translate(2 0)"><path d="M 0 12 L 0 12 A 80 80 0 0 1 80 10 L 166 10 L 169 13 L 169 30 L 166 33 L 27 33 L 24 36 L 16 36 L 13 33 L 3 33 L 0 30 Z" class="sb-events sb-bevel"></path><text x="0" y="10" class="sb-label " transform="translate(6 16)">when</text><g transform="translate(38 15)"><g width="58" height="14" class="sb-input sb-input-dropdown"><rect x="0" y="0" width="58" height="14" class="sb-events sb-darker"></rect></g><text x="0" y="10" class="sb-label sb-literal-dropdown" transform="translate(4 0)">up arrow</text><polygon points="7 0 3.5 4 0 0" fill="#000" opacity="0.6" transform="translate(48 5)"></polygon></g><text x="0" y="10" class="sb-label " transform="translate(100 16)">key</text><text x="0" y="10" class="sb-label " transform="translate(122 16)">pressed</text></g><g transform="translate(2 33)"><path d="M 0 3 L 3 0 L 13 0 L 16 3 L 24 3 L 27 0 L 93 0 L 96 3 L 96 19 L 93 22 L 27 22 L 24 25 L 16 25 L 13 22 L 3 22 L 0 19 Z" class="sb-motion sb-bevel"></path><text x="0" y="10" class="sb-label " transform="translate(6 5)">change</text><text x="0" y="10" class="sb-label " transform="translate(47 5)">y</text><text x="0" y="10" class="sb-label " transform="translate(57 5)">by</text><g transform="translate(73 4)"><rect x="0" y="0" width="17" height="14" class="sb-input sb-input-string"></rect><text x="0" y="10" class="sb-label sb-literal-string" transform="translate(4 0)">10</text></g></g><g transform="translate(2 55)"><path d="M 0 3 L 3 0 L 13 0 L 16 3 L 24 3 L 27 0 L 77 0 L 80 3 L 80 19 L 77 22 L 27 22 L 24 25 L 16 25 L 13 22 L 3 22 L 0 19 Z" class="sb-control sb-bevel"></path><text x="0" y="10" class="sb-label " transform="translate(6 5)">wait</text><g transform="translate(32 4)"><path d="M 6.5 0 L 8.5 0 A 6.5 6.5 0 0 1 8.5 13 L 6.5 13 A 6.5 6.5 0 0 1 6.5 0 Z" class="sb-input sb-input-number"></path><text x="0" y="10" class="sb-label sb-literal-number" transform="translate(5 0)">1</text></g><text x="0" y="10" class="sb-label " transform="translate(51 5)">secs</text></g><g transform="translate(2 77)"><path d="M 0 3 L 3 0 L 13 0 L 16 3 L 24 3 L 27 0 L 99 0 L 102 3 L 102 19 L 99 22 L 27 22 L 24 25 L 16 25 L 13 22 L 3 22 L 0 19 Z" class="sb-motion sb-bevel"></path><text x="0" y="10" class="sb-label " transform="translate(6 5)">change</text><text x="0" y="10" class="sb-label " transform="translate(47 5)">y</text><text x="0" y="10" class="sb-label " transform="translate(57 5)">by</text><g transform="translate(73 4)"><rect x="0" y="0" width="23" height="14" class="sb-input sb-input-string"></rect><text x="0" y="10" class="sb-label sb-literal-string" transform="translate(4 0)">-10</text></g></g></g></g></svg></div></pre>
+
+```
+when [up arrow v] key pressed
+change y by (10)
+wait (1) seconds
+change y by (-10)
+```
+
+```
+when [up arrow v] key pressed
+change y by (10)
+wait (1) seconds
+change y by (-10)
+```
+{: .msb}
+
 
 Of course there are more complicated ways that include moving forwards and gravity and other things, but as a beginning, this is a start.
 
@@ -279,9 +482,42 @@ Another important element of a Mario game is how to move the background. Using s
 
 The Animate My Name tutorial seems very simple, it has a lot fo room for development. One student patiently followed the tutorial to create an alphabet beatbox. They added a background and the letters FOX. Pressing the letter F made music play, and the other letters changed color when touched.
 
+```
+when this sprite clicked
+play sound (Dubstep v) until done
+play sound (Dance Sitar v) until done
+play sound (Chill v) until done
+play sound (Drum v) until done
+play sound (Dance Head Nod v) until done
+play sound (Drum Jam v) until done
+play sound (Cymbal Echo v) until done
+play sound (Dance Snare Beat v) until done
+
+when this sprite clicked
+change [COLOR v] effect by (25) 
+```
+
+
+```
+when this sprite clicked
+play sound (Dubstep v) until done
+play sound (Dance Sitar v) until done
+play sound (Chill v) until done
+play sound (Drum v) until done
+play sound (Dance Head Nod v) until done
+play sound (Drum Jam v) until done
+play sound (Cymbal Echo v) until done
+play sound (Dance Snare Beat v) until done
+
+when this sprite clicked
+change [COLOR v] effect by (25) 
+```
+{: .msb}
+
+<!-- 
 ![play music](https://i.imgur.com/dXcq0qC.jpg)
 
-![change color](https://i.imgur.com/6Lb1kuh.jpg)
+![change color](https://i.imgur.com/6Lb1kuh.jpg) -->
 
 We had a lot of fun dancing to the music!!!
 
@@ -331,12 +567,53 @@ We covered, briefly, how to:
 * save and import a photo.
 * make sprites speak
 * add music extension
-* press a key (`b`) to [change the background](https://i.imgur.com/u2PdPmu.jpg)
-![change the background](https://i.imgur.com/u2PdPmu.jpg)
-* press a key (`s`) to [play sounds](https://i.imgur.com/K0QXkIn.jpg)
-![play sounds](https://i.imgur.com/K0QXkIn.jpg)
-* Say words [in different languages and accents](https://i.imgur.com/6dUphu8.jpg)
-![in different languages and accents](https://i.imgur.com/6dUphu8.jpg)
+* press a key (`b`) to **change the background** 
+
+```
+when [b v] key pressed
+next backdrop
+```
+{: .msb}
+
+* press a key (`s`) to **play sounds** 
+
+```
+when [s v] key pressed
+set volume to (100) %
+forever
+play sound (Dance Slow Mo v) until done 
+end
+```
+
+```
+when [s v] key pressed
+set volume to (100) %
+forever
+play sound (Dance Slow Mo v) until done 
+end
+```
+{: .msb}
+
+* Say words in different languages and accents
+
+```
+set voice to (squeak v) :: tts
+set language to (Korean v) :: tts
+set tempo to (10) :: music
+change (pitch v) effect by (10)
+change (pitch v) effect by (10)
+speak (Mario, Mario) :: tts
+```
+
+```
+set voice to (squeak v) :: tts
+set language to (Korean v) :: tts
+set tempo to (10) :: music
+change (pitch v) effect by (10)
+change (pitch v) effect by (10)
+speak (Mario, Mario) :: tts
+```
+{: .msb}
 
 A lot of new information, so we will go over all this again as the class continues.
 
@@ -350,19 +627,69 @@ To make music using instruments you have to add [music extension](https://media.
 #### 2. Use the music blocks
 Then music blocks appear at the bottom of the block section and you can use them just like the sound blocks:
 
-![play music](https://i.imgur.com/44g6H5Y.jpg)
+```
+when [p v] key pressed
+set volume to (100) %
+repeat (10)
+play drum (\(1\) Snare Drum v) for (0.25) beats :: music
+play note (60) for (0.25) seconds
+set instrument to (\(1\) Piano v)
+end 
+```
+
+```
+when [p v] key pressed
+set volume to (100) %
+repeat (10)
+play drum (\(1\) Snare Drum v) for (0.25) beats :: music
+play note (60) for (0.25) seconds
+set instrument to (\(1\) Piano v)
+end 
+```
+{: .msb}
+
+<!-- ![play music](https://i.imgur.com/44g6H5Y.jpg) -->
 
 
 * remember, the music blocks and the sound blocks are different!!
 
 #### 3. Stopping  and Start
-The question "how to make the music stop" came up. One "quick" way to make the music stop is to set volume to zero by [pressing a key](https://i.imgur.com/LkwBOiN.jpg):
+The question "how to make the music stop" came up. One "quick" way to make the music stop is to set volume to zero by **pressing a key**:
 
-![stop music by setting volume to 0%](https://i.imgur.com/LkwBOiN.jpg) 
+```
+when [p v] key pressed
+set volume to (0) %
+```
 
-This doesn't work too well. To do it properly though is a bit difficult!!!! It requires the "[forever repeat until costume trick](https://i.imgur.com/2FneO4Y.jpg)".
+```
+when [p v] key pressed
+set volume to (0) %
+```
+{: .msb}
 
-![stop music forever repeat until costume trick](https://i.imgur.com/2FneO4Y.jpg)
+
+This doesn't work too well. To do it properly though is a bit difficult!!!! It requires the **forever repeat until costume trick**.
+
+```
+when green flag clicked
+forever
+repeat until <([costume name v] of (Control Music v)) = (stop)>
+play sound (Dance Slow Mo v) until done
+end 
+end 
+```
+
+```
+when green flag clicked
+forever
+repeat until <([costume name v] of (Control Music v)) = (stop)>
+play sound (Dance Slow Mo v) until done
+end 
+end 
+```
+{: .msb}
+
+<!-- ![stop music forever repeat until costume trick](https://i.imgur.com/2FneO4Y.jpg) -->
 
 I will explain this in a future class!
 

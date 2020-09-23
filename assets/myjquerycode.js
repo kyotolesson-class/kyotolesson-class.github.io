@@ -1,26 +1,6 @@
         $(document).ready(function() {
 
 
-            $('a[href*="#"]').click(function(){
-            //alert("clicked" + $(this).attr("href") );
-            //$(this).attr("href");
-            var linktoclick = $("a[href='" + $(this).attr("href") + "']");
-            //alert(linktoclick);
-            //alert(   linktoclick[0].outerHTML );
-            $(".clickeditem").removeClass("clickeditem");
-            $(linktoclick).toggleClass("clickeditem");
-            });
-
-            $('a')
-                .filter(function() {
-                return this.hostname && this.hostname !== location.hostname;
-                })
-                .addClass("external")
-                .attr({
-                    target: "_blank", 
-                    title: "Opens in a new window"});
-                //.append(' [^]');
-
             // TOC SECTION    
             // if mainmenu item is clicked
             // makes sure details is open before inner click is applied, so link works.
@@ -158,9 +138,51 @@
             });
             // END DETAILS SECTION
 
+            // ANCHOR SECTION modify anchors 
+
+
             // Don't follow empty links, like footnotes
             $('a[href="#"]').on("click", function(event) {
                 //alert("3");
                 return false;
             });
+
+            // /* when link to a target in the page, i.e. #.. is clicked, the link is highlighted via jquery. Used to show which picture is showing in the galleries. see style sheet a.clickeditem */
+            $('a[href*="#"]').click(function(){
+            //alert("clicked" + $(this).attr("href") );
+            //$(this).attr("href");
+            var linktoclick = $("a[href='" + $(this).attr("href") + "']");
+            //alert(linktoclick);
+            //alert(   linktoclick[0].outerHTML );
+            $(".clickeditem").removeClass("clickeditem");
+            $(linktoclick).toggleClass("clickeditem");
+            });
+
+            // handle external links to new tab
+            $('a')
+                .filter(function() {
+                return this.hostname && this.hostname !== location.hostname;
+                })
+                .addClass("external")
+                .attr({
+                    target: "_blank", 
+                    title: "Opens in a new window"});
+                //.append(' [^]');
+
+            // END ANCHOR SECTION
+
+
+            // SCRATCHBLOCKS: in concert with scratchblocks-v3.5-min.js renders beautiful scratchblocks from simple markdown. Hooray!
+            // use as:
+            //``` pre ```
+            //{: .myscratcblocks}
+            scratchblocks.renderMatching('.msb pre', {
+                style: 'scratch3',
+                languages: ['en'],
+            });
+            scratchblocks.renderMatching('code.msb', {
+                style: 'scratch3',
+                languages: ['en'],
+            });
+
         });
