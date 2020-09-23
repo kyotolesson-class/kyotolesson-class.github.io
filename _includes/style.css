@@ -857,16 +857,17 @@ font-family: 'FontAwesome';
 
 code:not(.language-plaintext){
 font-family: 'FontAwesome';
-    background: var(--scrollbarBG);
-    background-image: -webkit-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
-    background-image: -moz-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
-    background-image: -ms-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
-    background-image: -o-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
-    background-image: linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
-    background-position: 0 0;
-    background-repeat: repeat;
-    background-size: 1em 2.8em;
-    display: block;
-    padding-left: 10px;
-    padding-right: 10px;
+/* uses this trick to alternate line colors */
+background: var(--scrollbarBG);
+background-image: -webkit-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+background-image: -moz-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+background-image: -ms-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+background-image: -o-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+background-image: linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
+background-position: 0 0;
+background-repeat: repeat;
+background-size: 1em 2.8em;
+display: block;
+padding-left: 10px;
+padding-right: 10px;
     }
