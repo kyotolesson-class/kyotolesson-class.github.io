@@ -61,12 +61,34 @@ end
 
 jump
 ```
+
+```
+when green flag clicked
+forever
+    turn cw (15) degrees
+    say [Hello!] for (2) seconds
+    if <mouse down?> then
+        change [mouse clicks v] by (1)
+    end
+end
+
+jump0
+
+define jump
+repeat (10)
+    change y by (4)
+end
+
+jump
+```
 {: .msb}
 
 
 ## 4 inline 
 
 This `change y by (4)`{: .msb} is a code change codeblock.
+
+This `when green flag clicked`{: .msb} is a code change codeblock.
 
 ## 5 highlight javascript
 
@@ -486,3 +508,5 @@ ul.msb0 li {
 - [ ] `(y position)`{: .msb}
 - [ ] `(direction)`{: .msb}
 {: .msb}
+
+

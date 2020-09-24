@@ -25,7 +25,7 @@ body {
 
 
 pre {
-background: var(--menuBG);
+/* background: var(--menuBG);*/
 border-radius: 12px;
 border: unset;
 
@@ -33,8 +33,8 @@ border: unset;
 
 
 code {
-background: var(--menuBG);
-color: var(--ourdarkblue);
+/* background: var(--menuBG);*/
+/* color: var(--ourdarkblue);*/
 text-shadow: unset;
 }
 
@@ -845,6 +845,16 @@ code div.scratchblocks {
 
 }
 
+code div.scratchblocks {
+    display: inline-block;
+    position: relative;
+    top: 13px;
+}
+
+.scratchblocks svg {
+    vertical-align: middle;
+}
+
 code.myscratchblocks {
     background: transparent;
 }
@@ -855,9 +865,9 @@ line-height: 1.4em;
 font-family: 'FontAwesome';
 }
 
-code:not(.language-plaintext){
+code0:not(.language-plaintext){
 font-family: 'FontAwesome';
-/* uses this trick to alternate line colors */
+/* ALTERNATE VERSION uses this trick https://dte.web.id/teknis/css-only-zebra-striped-pre-tag#.UUoV6lugkoM to alternate line colors */
 background: var(--scrollbarBG);
 background-image: -webkit-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
 background-image: -moz-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
@@ -871,3 +881,40 @@ display: block;
 padding-left: 10px;
 padding-right: 10px;
     }
+
+pre.highlight {
+background: var(--menuBG);
+}
+
+code.language-plaintext:not(.msb) {
+background: transparent;
+background: var(--ourorange);
+color: var(--ourdarkblue);
+font:normal 1em/2.8em 'FontAwesome', Monaco,Monospace !important;
+}
+
+code.language-plaintext.msb {
+/* inline blocks */
+background: transparent;
+
+color: var(--ourdarkblue);
+font:normal 1em/2.8em 'FontAwesome', Monaco,Monospace !important;
+}
+
+
+
+pre.highlight code:not(.language-plaintext) {
+/* uses this trick https://dte.web.id/teknis/css-only-zebra-striped-pre-tag#.UUoV6lugkoM to alternate line colors */
+display:block;
+font:normal 1em/2.8em 'FontAwesome', Monaco,Monospace !important;
+color: var(--ourdarkblue);
+background-color:var(--scrollbarBG);
+background-image:-webkit-repeating-linear-gradient(top,  var(--ourorange) 0px,  var(--ourorange) 2.8em, var(--scrollbarBG) 2.8em, var(--scrollbarBG) 5.6em);
+background-image:-moz-repeating-linear-gradient(top,  var(--ourorange) 0px,  var(--ourorange) 2.8em, var(--scrollbarBG) 2.8em, var(--scrollbarBG) 5.6em);
+background-image:-ms-repeating-linear-gradient(top,  var(--ourorange) 0px,  var(--ourorange) 2.8em, var(--scrollbarBG) 2.8em, var(--scrollbarBG) 5.6em);
+background-image:-o-repeating-linear-gradient(top,  var(--ourorange) 0px,  var(--ourorange) 2.8em, var(--scrollbarBG) 2.8em, var(--scrollbarBG) 5.6em);
+background-image: repeating-linear-gradient( var(--ourorange) 0px,  var(--ourorange) 2.8em, var(--scrollbarBG) 2.8em, var(--scrollbarBG) 5.6em);
+padding:0em 1em;
+overflow:auto;
+
+}
