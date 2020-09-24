@@ -142,6 +142,8 @@ move (15) steps
 end 
 end 
 ```
+{: .msb}
+
 
 ```
 when green flag clicked
@@ -155,7 +157,7 @@ move (15) steps
 end 
 end 
 ```
-{: .msb}
+
 
 ### Pong  Princess version
 
@@ -164,23 +166,6 @@ end
 
 The ball moves at a diagonal, bouncing off the edges. It tells the the paddle (a princess!) when it has hit it.
 
-```
-when green flag clicked
-point in direction (45)
-forever
-move (15) steps
-if on edge, bounce
-end 
-
-when green flag clicked
-forever
-if <touching (Princess v) ?> then
-broadcast (hit v)
-turn cw (180) degrees
-move (15) steps
-end 
-end
-```
 
 ```
 when green flag clicked
@@ -201,6 +186,24 @@ end
 ```
 {: .msb}
 
+
+```
+when green flag clicked
+point in direction (45)
+forever
+move (15) steps
+if on edge, bounce
+end 
+
+when green flag clicked
+forever
+if <touching (Princess v) ?> then
+broadcast (hit v)
+turn cw (180) degrees
+move (15) steps
+end 
+end
+```
 
 The paddle, in the form of a princess, follows the mouse with the set x to mouse x block. It also receives the message to speak.
 
@@ -213,6 +216,8 @@ end
 when I receive [hit v]
 say [Hello Crystal ] for (2) seconds
 ```
+{: .msb}
+
 
 ```
 when green flag clicked
@@ -223,7 +228,6 @@ end
 when I receive [hit v]
 say [Hello Crystal ] for (2) seconds
 ```
-{: .msb}
 
 ### Side to Side movement
 
@@ -233,14 +237,6 @@ Another project focused on adding many new characters.
 
 One character moves from side to side. It also knows how to bounce when it meets the dge. In addition, since it is going side to side, it wants a left-right rotation style (otherwise the character flips and comes back upside down),
 
-```
-when green flag clicked
-set rotation style [left-right v]
-forever
-move (9) steps
-if on edge, bounce
-end
-```
 
 ```
 when green flag clicked
@@ -252,6 +248,15 @@ end
 ```
 {: .msb}
 
+
+```
+when green flag clicked
+set rotation style [left-right v]
+forever
+move (9) steps
+if on edge, bounce
+end
+```
 
 ### Next week: Group Project to Review All Blocks 
 
@@ -315,11 +320,6 @@ The Cake sprite has 2 costumes.
 
 The pink dot code makes the music play, and sends a message to the cake.  [](# "I corrected the student's project so the candles go out *after* the music plays."). The broadcast message block is just like the send message block in Scratch Jr., but more powerful.
 
-```
-when this sprite clicked
-play sound (Birthday v) until done
-broadcast (message1 v)
-```
 
 ```
 when this sprite clicked
@@ -328,14 +328,17 @@ broadcast (message1 v)
 ```
 {: .msb}
 
+
+```
+when this sprite clicked
+play sound (Birthday v) until done
+broadcast (message1 v)
+```
+
 <!-- ![send message](https://i.imgur.com/thdqNMT.jpg) -->
 
 When the cake gets the message, it changes costume. This make it seems the candles are going out.
 
-```
-when I receive [message1 v]
-next costume
-```
 
 ```
 when I receive [message1 v]
@@ -344,18 +347,27 @@ next costume
 {: .msb}
 <!-- ![get message](https://i.imgur.com/ctYUBO0.jpg) -->
 
-The red dot makes the music stop.
 
 ```
-when this sprite clicked
-stop all sounds
+when I receive [message1 v]
+next costume
 ```
+
+The red dot makes the music stop.
+
 
 ```
 when this sprite clicked
 stop all sounds
 ```
 {: .msb}
+
+
+```
+when this sprite clicked
+stop all sounds
+```
+
 <!-- ![stop music](https://i.imgur.com/IB9SwJh.jpg) -->
 
 This is an excellent first project. Though you may have wanted to do more...it is a very good start. 
@@ -364,14 +376,6 @@ This is an excellent first project. Though you may have wanted to do more...it i
 
 Letter sprites make the student's name appear sequentially. The key to this project is also using message blocks. On start, the letter sprites hide, wait, then each letter appears, waits, and **tells the next  sprite to appear**. 
 
-```
-when green flag clicked
-hide
-wait (1) seconds
-show 
-wait (1) seconds 
-broadcast (appear sprite 2 v)
-```
 
 ```
 when green flag clicked
@@ -382,20 +386,21 @@ wait (1) seconds
 broadcast (appear sprite 2 v)
 ```
 {: .msb}
+
+
+```
+when green flag clicked
+hide
+wait (1) seconds
+show 
+wait (1) seconds 
+broadcast (appear sprite 2 v)
+```
 
 <!-- ![hide show broadcast](https://i.imgur.com/oF20zHM.jpg) -->
 
 Continuing down the line, the sprites appear in sequence,
 
-```
-when green flag clicked
-hide 
-
-when I receive (appear sprite 2 v)
-show 
-wait (1) seconds 
-broadcast (appear sprite 3 v)
-```
 
 ```
 when green flag clicked
@@ -407,6 +412,17 @@ wait (1) seconds
 broadcast (appear sprite 3 v)
 ```
 {: .msb}
+
+
+```
+when green flag clicked
+hide 
+
+when I receive (appear sprite 2 v)
+show 
+wait (1) seconds 
+broadcast (appear sprite 3 v)
+```
 
 <!-- ![start hide and when receive show  broadcast](https://i.imgur.com/Ic1XIle.jpg) -->
 
@@ -414,13 +430,6 @@ ending in a cool pair of **sunglasses** (my favorite touch!).
 
 ![sunglasses](https://i.imgur.com/295we4t.jpg)
 
-```
-when green flag clicked
-hide 
-
-when I receive (appear letter last v)
-show
-```
 
 ```
 when green flag clicked
@@ -431,6 +440,14 @@ show
 ```
 {: .msb}
 
+
+```
+when green flag clicked
+hide 
+
+when I receive (appear letter last v)
+show
+```
 
 <!-- ![hide show when receive](https://i.imgur.com/Zi1LNCL.jpg) -->
 
@@ -461,6 +478,8 @@ change y by (10)
 wait (1) seconds
 change y by (-10)
 ```
+{: .msb}
+
 
 ```
 when [up arrow v] key pressed
@@ -468,7 +487,6 @@ change y by (10)
 wait (1) seconds
 change y by (-10)
 ```
-{: .msb}
 
 
 Of course there are more complicated ways that include moving forwards and gravity and other things, but as a beginning, this is a start.
@@ -482,20 +500,6 @@ Another important element of a Mario game is how to move the background. Using s
 
 The Animate My Name tutorial seems very simple, it has a lot fo room for development. One student patiently followed the tutorial to create an alphabet beatbox. They added a background and the letters FOX. Pressing the letter F made music play, and the other letters changed color when touched.
 
-```
-when this sprite clicked
-play sound (Dubstep v) until done
-play sound (Dance Sitar v) until done
-play sound (Chill v) until done
-play sound (Drum v) until done
-play sound (Dance Head Nod v) until done
-play sound (Drum Jam v) until done
-play sound (Cymbal Echo v) until done
-play sound (Dance Snare Beat v) until done
-
-when this sprite clicked
-change [COLOR v] effect by (25) 
-```
 
 
 ```
@@ -514,8 +518,25 @@ change [COLOR v] effect by (25)
 ```
 {: .msb}
 
-<!-- 
-![play music](https://i.imgur.com/dXcq0qC.jpg)
+
+
+```
+when this sprite clicked
+play sound (Dubstep v) until done
+play sound (Dance Sitar v) until done
+play sound (Chill v) until done
+play sound (Drum v) until done
+play sound (Dance Head Nod v) until done
+play sound (Drum Jam v) until done
+play sound (Cymbal Echo v) until done
+play sound (Dance Snare Beat v) until done
+
+when this sprite clicked
+change [COLOR v] effect by (25) 
+```
+
+
+<!-- ![play music](https://i.imgur.com/dXcq0qC.jpg)
 
 ![change color](https://i.imgur.com/6Lb1kuh.jpg) -->
 
@@ -575,15 +596,13 @@ next backdrop
 ```
 {: .msb}
 
+```
+when [b v] key pressed
+next backdrop
+```
+
 * press a key (`s`) to **play sounds** 
 
-```
-when [s v] key pressed
-set volume to (100) %
-forever
-play sound (Dance Slow Mo v) until done 
-end
-```
 
 ```
 when [s v] key pressed
@@ -593,17 +612,18 @@ play sound (Dance Slow Mo v) until done
 end
 ```
 {: .msb}
+
+
+```
+when [s v] key pressed
+set volume to (100) %
+forever
+play sound (Dance Slow Mo v) until done 
+end
+```
 
 * Say words in different languages and accents
 
-```
-set voice to (squeak v) :: tts
-set language to (Korean v) :: tts
-set tempo to (10) :: music
-change (pitch v) effect by (10)
-change (pitch v) effect by (10)
-speak (Mario, Mario) :: tts
-```
 
 ```
 set voice to (squeak v) :: tts
@@ -614,6 +634,16 @@ change (pitch v) effect by (10)
 speak (Mario, Mario) :: tts
 ```
 {: .msb}
+
+
+```
+set voice to (squeak v) :: tts
+set language to (Korean v) :: tts
+set tempo to (10) :: music
+change (pitch v) effect by (10)
+change (pitch v) effect by (10)
+speak (Mario, Mario) :: tts
+```
 
 A lot of new information, so we will go over all this again as the class continues.
 
@@ -627,15 +657,6 @@ To make music using instruments you have to add [music extension](https://media.
 #### 2. Use the music blocks
 Then music blocks appear at the bottom of the block section and you can use them just like the sound blocks:
 
-```
-when [p v] key pressed
-set volume to (100) %
-repeat (10)
-play drum (\(1\) Snare Drum v) for (0.25) beats :: music
-play note (60) for (0.25) seconds
-set instrument to (\(1\) Piano v)
-end 
-```
 
 ```
 when [p v] key pressed
@@ -647,6 +668,17 @@ set instrument to (\(1\) Piano v)
 end 
 ```
 {: .msb}
+
+
+```
+when [p v] key pressed
+set volume to (100) %
+repeat (10)
+play drum (\(1\) Snare Drum v) for (0.25) beats :: music
+play note (60) for (0.25) seconds
+set instrument to (\(1\) Piano v)
+end 
+```
 
 <!-- ![play music](https://i.imgur.com/44g6H5Y.jpg) -->
 
@@ -656,28 +688,22 @@ end
 #### 3. Stopping  and Start
 The question "how to make the music stop" came up. One "quick" way to make the music stop is to set volume to zero by **pressing a key**:
 
-```
-when [p v] key pressed
-set volume to (0) %
-```
 
 ```
 when [p v] key pressed
 set volume to (0) %
 ```
 {: .msb}
+
+
+```
+when [p v] key pressed
+set volume to (0) %
+```
 
 
 This doesn't work too well. To do it properly though is a bit difficult!!!! It requires the **forever repeat until costume trick**.
 
-```
-when green flag clicked
-forever
-repeat until <([costume name v] of (Control Music v)) = (stop)>
-play sound (Dance Slow Mo v) until done
-end 
-end 
-```
 
 ```
 when green flag clicked
@@ -688,6 +714,16 @@ end
 end 
 ```
 {: .msb}
+
+
+```
+when green flag clicked
+forever
+repeat until <([costume name v] of (Control Music v)) = (stop)>
+play sound (Dance Slow Mo v) until done
+end 
+end 
+```
 
 <!-- ![stop music forever repeat until costume trick](https://i.imgur.com/2FneO4Y.jpg) -->
 
