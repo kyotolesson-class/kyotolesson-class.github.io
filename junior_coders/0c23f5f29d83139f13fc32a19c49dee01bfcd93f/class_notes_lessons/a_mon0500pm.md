@@ -62,7 +62,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
     * [Exercise 3](#exercise-3)
       * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise-2)
   * [Basic Motion Blocks](#basic-motion-blocks)
-* [A more advanced student](#a-more-advanced-student)
+  * [A more advanced student](#a-more-advanced-student)
 * [September 21st](#september-21st)
   * [Next Week: Sept. 28th Homework](#next-week-sept-28th-homework)
   * [Crazy Pong Game](#crazy-pong-game)
@@ -137,7 +137,7 @@ The exercises have various sets of blocks. The goal is to put the blocks togethe
 
 ##### Look at this first, then do the exercise:
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429155328&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
 
 * link to new tab: [https://forkphorus.github.io/app.html?id=429155328
 ](https://forkphorus.github.io/app.html?id=429155328)
@@ -150,7 +150,6 @@ The exercises have various sets of blocks. The goal is to put the blocks togethe
 ##### Look at this first, then do the exercise:
 
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429165733&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
 
 * link to new tab: [https://forkphorus.github.io/app.html?id=429165733
 ](https://forkphorus.github.io/app.html?id=429165733)
@@ -162,8 +161,6 @@ The exercises have various sets of blocks. The goal is to put the blocks togethe
 
 ##### Look at this first, then do the exercise:
 
-
-<iframe src="https://forkphorus.github.io/embed.html?id=429167079&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
 
 * link to new tab: [https://forkphorus.github.io/app.html?id=429167079
 ](https://forkphorus.github.io/app.html?id=429167079)
@@ -192,7 +189,7 @@ end
 {: .msb}
 
 
-## A more advanced student
+### A more advanced student
 
 A slightly more advanced student started with some tutorials, but added a lot of his own ideas.
 
