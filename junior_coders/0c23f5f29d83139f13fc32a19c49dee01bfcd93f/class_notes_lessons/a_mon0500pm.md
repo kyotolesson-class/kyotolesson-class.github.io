@@ -283,7 +283,7 @@ play sound (my variable v) until done // new variable -> new sound
 
 
 
-All together a great project. 
+Altogether a great project. 
 
 </details>
 
