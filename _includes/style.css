@@ -727,14 +727,17 @@ img.gif {
 }
 
 
-iframe {
+iframe[src^="https://forkphorus.github.io"] {
     position: relative;
     border-color: var(--thumbBG);
-    border: 9px solid var(--scrollbarBG);
+    border-top: 9px solid var(--scrollbarBG);
+        border-bottom: 9px solid var(--scrollbarBG);
     border-radius: 12px;
     background-color: var(--scrollbarBG);
-        margin: 2px 4px;
-    padding: 13px 13px;
+    /* margin: 2px 4px;
+    padding: 13px 13px; */
+        width: 100% !important;
+        min-height: 460px!important;
 }
 
 

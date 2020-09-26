@@ -193,7 +193,7 @@ end
 
 A slightly more advanced student started with some tutorials, but added a lot of his own ideas.
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429283651&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+<!-- <iframe src="https://forkphorus.github.io/embed.html?id=429283651&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe> -->
 
 * [open in new tab
 ](https://forkphorus.github.io/app.html?id=429283651)
