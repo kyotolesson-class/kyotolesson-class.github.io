@@ -53,6 +53,16 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [September 25th](#september-25th)
+  * [Homework for September 28th and October 2nd](#homework-for-september-28th-and-october-2nd)
+    * [Exercise 1](#exercise-1)
+      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise)
+    * [Exercise 2](#exercise-2)
+      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise-1)
+    * [Exercise 3](#exercise-3)
+      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise-2)
+  * [Basic Motion Blocks](#basic-motion-blocks)
+* [A more advanced student](#a-more-advanced-student)
 * [September 21st](#september-21st)
   * [Next Week: Sept. 28th Homework](#next-week-sept-28th-homework)
   * [Crazy Pong Game](#crazy-pong-game)
@@ -105,6 +115,181 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## September 25th
+</summary>
+
+## September 25th
+
+### Homework for September 28th and October 2nd
+
+The homework is to: 
+
+* keep working on projects you started.
+* complete one or more Motion exercises here: <https://scratch.mit.edu/studios/27602759/>. 
+
+The exercises have various sets of blocks. The goal is to put the blocks together in the right order so that they look as in the videos below.
+
+#### Exercise 1
+
+<https://scratch.mit.edu/projects/429158314/>
+
+##### Look at this first, then do the exercise:
+
+<iframe src="https://forkphorus.github.io/embed.html?id=429155328&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+* link to new tab: [https://forkphorus.github.io/app.html?id=429155328
+](https://forkphorus.github.io/app.html?id=429155328)
+
+#### Exercise 2
+
+<https://scratch.mit.edu/projects/429161838/>
+
+
+##### Look at this first, then do the exercise:
+
+
+<iframe src="https://forkphorus.github.io/embed.html?id=429165733&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+* link to new tab: [https://forkphorus.github.io/app.html?id=429165733
+](https://forkphorus.github.io/app.html?id=429165733)
+
+#### Exercise 3
+
+<https://scratch.mit.edu/projects/429173104/>
+
+
+##### Look at this first, then do the exercise:
+
+
+<iframe src="https://forkphorus.github.io/embed.html?id=429167079&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+* link to new tab: [https://forkphorus.github.io/app.html?id=429167079
+](https://forkphorus.github.io/app.html?id=429167079)
+
+### Basic Motion Blocks
+
+One student was being introduced to Scratch for the first time after using ScratchJR. The main goal was to help her get used to the new program "interface". She also did some basic tutorials and learned how to use the motion, play a sound, and change size blocks as follows. It was a lot for one day, but she did very well!
+
+```
+When this sprite clicked
+move (100) steps
+if on edge, bounce
+set rotation style [left-right v] 
+
+when this sprite clicked
+play sound (1 v) until done
+
+when this sprite clicked
+repeat (15) 
+change size by (10)
+end
+repeat (15) 
+change size by (-10)
+end
+```
+{: .msb}
+
+
+## A more advanced student
+
+A slightly more advanced student started with some tutorials, but added a lot of his own ideas.
+
+<iframe src="https://forkphorus.github.io/embed.html?id=429283651&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+* [open in new tab
+](https://forkphorus.github.io/app.html?id=429283651)
+
+
+ This project is wonderfully complex, with many great examples of "broadcasting". This is called sending messages in ScratchJr.
+
+* making the character dance by changing the background, and then having this wonderful conversation:
+
+```
+// On the Dancer
+when this sprite clicked
+repeat (27) 
+wait (1) seconds
+next costume
+end
+broadcast (2 v)
+
+// On the cat:
+
+when i receive [2 v]
+set voice to [kitten v] ::tts
+speak [dude so cool] ::tts
+broadcast (3 v)
+
+// Dancer says thank you
+
+when i receive [3 v] // small error in student project fixed here!
+speak [thanks] ::tts
+broadcast (5 v)
+
+// Cat says you're welcome
+when i receive [5 v]
+speak [your welcome] ::tts
+wait (5) seconds
+speak [bye] ::tts
+```
+{: .msb}
+
+* Using text to speech and starting the music
+
+```
+when this sprite clicked
+set voice to [squeak v] ::tts //initialize
+speak [I like to dance] ::tts
+broadcast (1 v)
+
+
+when I receive [1]
+start sound [dance celebration] 
+```
+{: .msb}
+
+* Buttons that send messages to change the music
+
+```
+// change background
+when this sprite clicked
+broadcast (7)
+
+when I receive [7]
+next backdrop
+``` 
+{: .msb}
+
+* Using a variable to make the sounds change
+
+This is especially difficult and I helped a bit. 
+
+```
+// initialize on dancer
+when gf clicked
+set [my variable v] to [0] // initialize
+
+// on button click broadcast
+when this sprite clicked
+broadcast (8)
+
+// on dancer receives broadcast
+// and changes music
+when i receive [8 v]
+change [my variable v] by (1) // here we use the variable
+stop all sounds
+play sound (my variable v) until done // new variable -> new sound
+```
+{: .msb}
+
+
+
+All together a great project. 
+
+</details>
+
 
 <details>
 <summary>## September 21st

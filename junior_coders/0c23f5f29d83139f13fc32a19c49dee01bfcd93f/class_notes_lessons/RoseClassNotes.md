@@ -14,6 +14,9 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [September 25th](#september-25th)
+  * [Homework Due October 2nd](#homework-due-october-2nd)
+  * [Daily Routines and Halloween Project](#daily-routines-and-halloween-project)
 * [Sept. 18th](#sept-18th)
   * [Sept. 25th Homework](#sept-25th-homework)
   * [Finishing Knock Knock Joke Project](#finishing-knock-knock-joke-project)
@@ -67,6 +70,26 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## September 25th
+</summary>
+
+## September 25th
+
+### Homework Due October 2nd
+
+The homework is to make a Halloween project using every single block. 
+
+### Daily Routines and Halloween Project
+
+Today we had only one student. The student made a wonderful series of projects devoted to daily routines, such as playing soccer and going to school. The projects showed great mastery of how to:
+
+* send and receive messages*
+* create new characters and objects using the picture editor and how to 
+* weave these together to tell a story.
+
+</details>
 
 
 <details>

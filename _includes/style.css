@@ -726,6 +726,18 @@ img.gif {
     visibility: hidden;
 }
 
+
+iframe {
+    position: relative;
+    border-color: var(--thumbBG);
+    border: 9px solid var(--scrollbarBG);
+    border-radius: 12px;
+    background-color: var(--scrollbarBG);
+        margin: 2px 4px;
+    padding: 13px 13px;
+}
+
+
 .jsgif {
     position: relative;
     border-color: var(--thumbBG);
@@ -882,6 +894,12 @@ padding-left: 10px;
 padding-right: 10px;
     }
 
+div.highlight {
+width:90%;
+margin: 0px;
+padding: 0px;
+}
+
 pre.highlight {
 background: var(--menuBG);
 }
@@ -917,4 +935,9 @@ background-image: repeating-linear-gradient( var(--ourorange) 0px,  var(--ourora
 padding:0em 1em;
 overflow:auto;
 
+}
+
+.sb3-comment-line {
+ /* Makes comments more visible */
+    fill: #dc0000;
 }
