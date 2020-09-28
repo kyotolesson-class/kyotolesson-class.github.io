@@ -56,11 +56,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [September 25th](#september-25th)
   * [Homework for September 28th and October 2nd](#homework-for-september-28th-and-october-2nd)
     * [Exercise 1](#exercise-1)
-      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise)
     * [Exercise 2](#exercise-2)
-      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise-1)
     * [Exercise 3](#exercise-3)
-      * [Look at this first, then do the exercise:](#look-at-this-first-then-do-the-exercise-2)
   * [Basic Motion Blocks](#basic-motion-blocks)
   * [A more advanced student](#a-more-advanced-student)
 * [September 21st](#september-21st)
@@ -133,37 +130,18 @@ The exercises have various sets of blocks. The goal is to put the blocks togethe
 
 #### Exercise 1
 
-<https://scratch.mit.edu/projects/429158314/>
-
-##### Look at this first, then do the exercise:
-
-
-
-* link to new tab: [https://forkphorus.github.io/app.html?id=429155328
-](https://forkphorus.github.io/app.html?id=429155328)
+* Look at [this first](https://forkphorus.github.io/app.html?id=429155328), then 
+* do the [exercise](https://scratch.mit.edu/projects/429158314/)
 
 #### Exercise 2
 
-<https://scratch.mit.edu/projects/429161838/>
-
-
-##### Look at this first, then do the exercise:
-
-
-
-* link to new tab: [https://forkphorus.github.io/app.html?id=429165733
-](https://forkphorus.github.io/app.html?id=429165733)
+* Look at [this first](https://forkphorus.github.io/app.html?id=429165733), then 
+* do the [exercise](https://scratch.mit.edu/projects/429161838/)
 
 #### Exercise 3
 
-<https://scratch.mit.edu/projects/429173104/>
-
-
-##### Look at this first, then do the exercise:
-
-
-* link to new tab: [https://forkphorus.github.io/app.html?id=429167079
-](https://forkphorus.github.io/app.html?id=429167079)
+* Look at [this first](https://forkphorus.github.io/app.html?id=429167079), then 
+* do the [exercise](https://scratch.mit.edu/projects/429173104/)
 
 ### Basic Motion Blocks
 
