@@ -53,6 +53,13 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [September 28th](#september-28th)
+* [Homework for October 5th](#homework-for-october-5th)
+* [Review of Behavior](#review-of-behavior)
+  * [Motion Exercises](#motion-exercises)
+  * [Controlling characters depending on a choice.](#controlling-characters-depending-on-a-choice)
+  * [An easy mouse game](#an-easy-mouse-game)
+* [Sharing Projects](#sharing-projects)
 * [September 25th](#september-25th)
   * [Homework for September 28th and October 2nd](#homework-for-september-28th-and-october-2nd)
     * [Exercise 1](#exercise-1)
@@ -113,6 +120,102 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details>
+<summary>## September 28th
+</summary>
+
+## September 28th
+
+## Homework for October 5th
+
+THe homework for October 5th is to continue working the tutorials in [this folder](https://scratch.mit.edu/studios/27602759/). 
+
+Slightly more detailed instructions, as kids are still having trouble navigating the website:
+
+* Click the link. You should see something like:
+
+![Motion Exercises](https://i.imgur.com/mnphvPD.jpg){: .jsgif}
+
+* Be sure to login if you haven't...
+
+![https://i.imgur.com/tNdXr7U.jpg](https://i.imgur.com/tNdXr7U.jpg){: width="50%" .jsgif}
+
+* Click on the exercise you want to do, and you will see the project page. Click "Remix":
+
+![Remix](https://i.imgur.com/ZowY8vN.jpg){: .jsgif}
+
+
+* Exercise 2 looks like this. 
+
+![Exercise 2](https://i.imgur.com/f3zYeOQ.jpg){: .jsgif}
+
+The goal of the exercise is to choose the right block at right to put in at left. You have to choose the one that moves you to the right place. Notice the x and y values. You can see hint and instructions in this video:
+
+![Motion exercise 2](https://i.imgur.com/KZRfCfj.gif){: .jsgif}
+
+* Keep adding new glide blocks that until the cat goes to the right place.  
+
+Direct link to exercise 2: <https://scratch.mit.edu/projects/429161838/>. This is what the answer will look like in the end (click the flag)
+
+<iframe src="https://forkphorus.github.io/embed.html?id=429165733&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+* see this in a new tab: [https://forkphorus.github.io/app.html?id=429165733
+](https://forkphorus.github.io/app.html?id=429165733)
+
+## Review of Behavior
+
+
+As I mentioned recently, the kids became a bit energetic last week for a while. To help reset the class time, I started the class with a review of some basic guidelines. We focused on ways to limit distractions, and what to do (and not do) when you are waiting for the teacher to get to you. We talked about staying in your seat, and talking quietly and respectfully to create a good learning environment. 
+
+
+### Motion Exercises
+
+Some students worked on the first motion exercise. Some students are using new computers and are still getting used to the "interface", so it was sometimes slow. They were able to finish the exercise anyway, and I will continue to work individually with the students to help them get used the interface.
+
+### Controlling characters depending on a choice.
+
+Some students started working on mazes, and a question about how to make a random number control an action came up. Here is a hint. We can go over this next week:
+
+```
+when this sprite clicked
+set [var] to (pick random (0) to (1))
+if <(var) > (.5)> then
+broadcast (option 1 v)
+else 
+broadcast (option 2 v)
+end
+```
+{: .msb}
+
+
+### An easy mouse game
+
+Another student came up with this great game idea on their own:
+
+```
+when @greenFlag clicked
+forever
+    go to [random position v]
+    wait (1) seconds
+end
+
+when this sprite clicked
+start sound [Magic Spell v]
+next costume
+```
+{: .msb}
+
+
+<iframe src="https://forkphorus.github.io/embed.html?id=430118416&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+An easy and fun game.
+
+## Sharing Projects 
+
+We talked a little about how to share projects with **Studios**, and we shared links to studios so people could follow each other. In the end I realized it was easier to have students follow each other directly, and I have manually make this happe. It will be easy to share projects from now on. I will explain more about this next week.
+
+</details>
+ 
 <details>
 <summary>## September 25th
 </summary>
