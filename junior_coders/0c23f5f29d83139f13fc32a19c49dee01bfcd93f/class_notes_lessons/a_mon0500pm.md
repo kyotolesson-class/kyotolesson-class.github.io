@@ -151,11 +151,14 @@ Slightly more detailed instructions, as kids are still having trouble navigating
 
 The goal of the exercise is to choose the right block at right to put in at left. You have to choose the one that moves you to the right place. Notice the x and y values. You can see hint and instructions in this video:
 
-![Motion exercise 2](https://i.imgur.com/KZRfCfj.gif){: .jsgif}
+  
+[![Motion exercise 2](https://i.imgur.com/KZRfCfj.gif){: .jsgif} ](https://i.imgur.com/KZRfCfj.gif) 
 
 * Keep adding new glide blocks that until the cat goes to the right place.  
 
-Direct link to exercise 2: <https://scratch.mit.edu/projects/429161838/>. This is what the answer will look like in the end (click the flag)
+Direct link to exercise 2: <https://scratch.mit.edu/projects/429161838/>. 
+
+* This is what the answer will look like in the end (click the flag)
 
 <iframe src="https://forkphorus.github.io/embed.html?id=429165733&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
 
