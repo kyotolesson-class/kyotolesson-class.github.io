@@ -1,6 +1,6 @@
 ---
 layout: junior_coders_default
-levelsToTop: "../../"
+levelsToTop: "../"
 ---
 
 
