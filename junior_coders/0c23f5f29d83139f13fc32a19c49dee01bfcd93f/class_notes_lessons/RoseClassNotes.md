@@ -16,7 +16,7 @@ levelsToTop: "../"
 
 * [October 2nd](#october-2nd)
   * [Homework due October 9th](#homework-due-october-9th)
-* [October 2nd Class Summary](#october-2nd-class-summary)
+  * [October 2nd Class Summary](#october-2nd-class-summary)
   * [Tynker](#tynker)
 * [September 25th](#september-25th)
   * [Homework Due October 2nd](#homework-due-october-2nd)
@@ -85,7 +85,7 @@ levelsToTop: "../"
 
 The homework is to continue to work on unfinished projects, specifically The Family Conversation and Halloween ("Use all the blocks") Projects. 
 
-## October 2nd Class Summary
+### October 2nd Class Summary
 
 Students continued to work on unfinished projects. 
 
