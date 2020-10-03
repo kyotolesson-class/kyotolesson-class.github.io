@@ -17,7 +17,7 @@ levelsToTop: "../"
 * [October 2nd](#october-2nd)
   * [Homework due October 9th](#homework-due-october-9th)
   * [October 2nd Class Summary](#october-2nd-class-summary)
-  * [Tynker](#tynker)
+  * [Upcoming Plans: Tynker](#upcoming-plans-tynker)
 * [September 25th](#september-25th)
   * [Homework Due October 2nd](#homework-due-october-2nd)
   * [Daily Routines and Halloween Project](#daily-routines-and-halloween-project)
@@ -95,9 +95,9 @@ Another student worked on adding simultaneous text to the recorded sounds the ch
 
 Students also learned that since ScratchJr limits each character to 5 recorded sounds, it is better to record continuous recordings as one. This is a kind of "refactoring" that comes up often in programming as the limits of a given framework are reached. 
 
-### Tynker
+### Upcoming Plans: Tynker
 
-All the students in this class are familiar with all the ScratchJr blocks. Once they finished with these or a few more projects, I think we will actually be ready to move on to Scratch. In fact, I am considering moving to an improved version of Scratch I recently discovered called "Tynker". Tynker is almost identical to Scratch, but also has some improvements. It has additional blocks that are easier to understand. It has better images and drawing. 
+All the students in this class are familiar with all the ScratchJr blocks. Once they finished with these or a few more projects, I think we will actually be ready to move onto Scratch. In fact, I am considering moving to an improved version of Scratch I recently discovered called "Tynker". Tynker is almost identical to Scratch, but also has some improvements. It has additional blocks that are easier to understand. It has better images and drawing. 
 
 It also allows me to observe and collaborate with students as they work in real time. As a result, it is easier to give students individual support, especially for kids who are at different levels. It is easier to create tutorials and exercises. 
 
