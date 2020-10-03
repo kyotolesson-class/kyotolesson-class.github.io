@@ -14,11 +14,14 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [October 2nd](#october-2nd)
+  * [Homework due October 9th](#homework-due-october-9th)
+* [October 2nd Class Summary](#october-2nd-class-summary)
+  * [Tynker](#tynker)
 * [September 25th](#september-25th)
   * [Homework Due October 2nd](#homework-due-october-2nd)
   * [Daily Routines and Halloween Project](#daily-routines-and-halloween-project)
 * [Sept. 18th](#sept-18th)
-  * [Sept. 25th Homework](#sept-25th-homework)
   * [Finishing Knock Knock Joke Project](#finishing-knock-knock-joke-project)
   * [Next Week: Finish Family Wake Up Story Project](#next-week-finish-family-wake-up-story-project)
 * [September 11th](#september-11th)
@@ -71,6 +74,46 @@ levelsToTop: "../"
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details>
+<summary>## October 2nd
+</summary>
+
+## October 2nd
+
+### Homework due October 9th
+
+The homework is to continue to work on unfinished projects, specifically The Family Conversation and Halloween ("Use all the blocks") Projects. 
+
+## October 2nd Class Summary
+
+Students continued to work on unfinished projects. 
+
+One student has a small bug in her Family Conversation. Her characters were not speaking in the correct order. This gave her a good experience at debugging and carefully working through the code and message logic (with help) to find the source of the problem. 
+
+Another student worked on adding simultaneous text to the recorded sounds the character spoke.
+
+Students also learned that since ScratchJr limits each character to 5 recorded sounds, it is better to record continuous recordings as one. This is a kind of "refactoring" that comes up often in programming as the limits of a given framework are reached. 
+
+### Tynker
+
+All the students in this class are familiar with all the ScratchJr blocks. Once they finished with these or a few more projects, I think we will actually be ready to move on to Scratch. In fact, I am considering moving to an improved version of Scratch I recently discovered called "Tynker". Tynker is almost identical to Scratch, but also has some improvements. It has additional blocks that are easier to understand. It has better images and drawing. 
+
+It also allows me to observe and collaborate with students as they work in real time. As a result, it is easier to give students individual support, especially for kids who are at different levels. It is easier to create tutorials and exercises. 
+
+Tynker is web-based and does not require installation of software. In addition, it is similar enough to Scratch that learning one effectively allows you to use the other. 
+
+One advanced student did a trial run of Tynker with me this class and gave a favorable review. 
+
+One issue is that students need at least a keyboard, and perhaps a mouse to use it fully. I mentioned this to parents, but please let me know if you any questions about requirements for your situation. Tynker is free to use, though it also offers (and sells somewhat aggressively) paid upgrades, which I don't plan to use in this class. They are not necessary at this point and have the potential at this point to be distracting rather than enlightening. Tynker, like Scratch and ScratchJr, does have some bugs and quirks, but so far none has been critical.
+
+You do not need to sign up, as I have created accounts for the students already, and will provide login information at the right time.
+
+
+</details>
+
+
+
 <details>
 <summary>## September 25th
 </summary>
@@ -99,13 +142,7 @@ Today we had only one student. The student made a wonderful series of projects d
 ## Sept. 18th
 
 
-### Sept. 25th Homework
-
-The homework for next week is to continue working on the Family Wake Up Story. The story went as follows:
-
-Screen 1. Once upon a time there was a mother. She had four daughters.
-
-* We started coding this screen in class. 
+October 2ndted coding this screen in class. 
 * For example, in my version:
   1. the mother (father) enters the bedroom 
   2. She tell the daughters to get up (using messages). 
