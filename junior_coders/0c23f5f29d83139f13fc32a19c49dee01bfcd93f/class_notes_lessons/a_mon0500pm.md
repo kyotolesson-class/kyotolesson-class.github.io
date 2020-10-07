@@ -59,12 +59,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [The Music Tutorial](#the-music-tutorial)
   * [A Remix](#a-remix)
 * [September 28th](#september-28th)
-* [Homework for October 5th](#homework-for-october-5th)
-* [Review of Behavior](#review-of-behavior)
+  * [Homework for October 5th](#homework-for-october-5th)
+  * [Review of Behavior](#review-of-behavior)
   * [Motion Exercises](#motion-exercises)
   * [Controlling characters depending on a choice.](#controlling-characters-depending-on-a-choice)
   * [An easy mouse game](#an-easy-mouse-game)
-* [Sharing Projects](#sharing-projects)
+  * [Sharing Projects](#sharing-projects)
 * [September 25th](#september-25th)
   * [Homework for September 28th and October 2nd](#homework-for-september-28th-and-october-2nd)
     * [Exercise 1](#exercise-1)
@@ -302,9 +302,9 @@ Because of this, the way to create a new ball starts with changing the 9 to a 10
 
 ## September 28th
 
-## Homework for October 5th
+### Homework for October 5th
 
-THe homework for October 5th is to continue working the tutorials in [this folder](https://scratch.mit.edu/studios/27602759/). 
+The homework for October 5th is to continue working the tutorials in [this folder](https://scratch.mit.edu/studios/27602759/). 
 
 Slightly more detailed instructions, as kids are still having trouble navigating the website:
 
@@ -341,7 +341,7 @@ Direct link to exercise 2: <https://scratch.mit.edu/projects/429161838/>.
 * see this in a new tab: [https://forkphorus.github.io/app.html?id=429165733
 ](https://forkphorus.github.io/app.html?id=429165733)
 
-## Review of Behavior
+### Review of Behavior
 
 
 As I mentioned recently, the kids became a bit energetic last week for a while. To help reset the class time, I started the class with a review of some basic guidelines. We focused on ways to limit distractions, and what to do (and not do) when you are waiting for the teacher to get to you. We talked about staying in your seat, and talking quietly and respectfully to create a good learning environment. 
@@ -389,7 +389,7 @@ next costume
 
 An easy and fun game.
 
-## Sharing Projects 
+### Sharing Projects 
 
 We talked a little about how to share projects with **Studios**, and we shared links to studios so people could follow each other. In the end I realized it was easier to have students follow each other directly, and I have manually make this happe. It will be easy to share projects from now on. I will explain more about this next week.
 
