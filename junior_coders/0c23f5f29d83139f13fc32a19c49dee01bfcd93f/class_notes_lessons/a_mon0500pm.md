@@ -391,7 +391,7 @@ An easy and fun game.
 
 ### Sharing Projects 
 
-We talked a little about how to share projects with **Studios**, and we shared links to studios so people could follow each other. In the end I realized it was easier to have students follow each other directly, and I have manually make this happe. It will be easy to share projects from now on. I will explain more about this next week.
+We talked a little about how to share projects with **Studios**, and we shared links to studios so people could follow each other. In the end I realized it was easier to have students follow each other directly, and I have manually make this happen. It will be easy to share projects from now on. I will explain more about this next week.
 
 </details>
  
