@@ -53,6 +53,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 12th](#october-12th)
+  * [Homework for October 19th](#homework-for-october-19th)
+  * [Moving to Tynker](#moving-to-tynker)
+  * [The Tynker Class Page and Homework](#the-tynker-class-page-and-homework)
 * [October 5th](#october-5th)
   * [Homework for October 12th](#homework-for-october-12th)
   * [Simple Pong Game](#simple-pong-game)
@@ -125,6 +129,45 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details>
+<summary>## October 12th
+</summary>
+
+## October 12th
+
+### Homework for October 19th
+
+The homework for October 19th is:
+
+* complete the Tynker project or tutorial you are working on. 
+* Also, the [Magical Pen Basic Tutorial](https://www.tynker.com/dashboard/student/#/my-classes/). You can start it before class at home, but we will finish it in class.
+
+### Moving to Tynker
+
+Today we introduced Tynker. 
+
+In Tynker the class information and homework is kept [here](https://www.tynker.com/dashboard/student/#/my-classes/) or [here](https://www.tynker.com/dashboard/student/#panelCompleted). There are some tutorials (optional) at the top, and the weekly/class assignments are at the bottom. 
+ 
+![](https://i.imgur.com/gaqktsi.jpg)
+{: .jsgif}
+
+
+Some kids did a great job on the tutorials this week. Other kids focused on [different projects on the community board](https://www.tynker.com/dashboard/student/#/community). They thought about what kind of projects they would like to do and got used to the new interface. This Golf game is popular, and some kids are learning how to modify it. 
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f843bc8fb9ef85d50640350&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif}
+
+### The Tynker Class Page and Homework
+
+Our next project is the *Magical Pen Basic Tutorial* at the bottom of the picture. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f869c8ef597ea0370100525&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif}
+
+
+</details>
+ 
 
 <details>
 <summary>## October 5th
