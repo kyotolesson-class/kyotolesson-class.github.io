@@ -140,14 +140,14 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 The homework for October 19th is:
 
-* complete the Tynker project or tutorial you are working on. 
+* Complete the Tynker project or tutorial you are working on. 
 * Also, the [Magical Pen Basic Tutorial](https://www.tynker.com/dashboard/student/#/my-classes/). You can start it before class at home, but we will finish it in class.
 
 ### Moving to Tynker
 
 Today we introduced Tynker. 
 
-In Tynker the class information and homework is kept [here](https://www.tynker.com/dashboard/student/#/my-classes/) or [here](https://www.tynker.com/dashboard/student/#panelCompleted). There are some tutorials (optional) at the top, and the weekly/class assignments are at the bottom. 
+In Tynker the class information and homework is kept on the [classroom page](https://www.tynker.com/dashboard/student/#/my-classes/) or [here](https://www.tynker.com/dashboard/student/#panelCompleted). There are some tutorials (optional) at the top, and the weekly/class assignments are at the bottom. 
  
 ![](https://i.imgur.com/gaqktsi.jpg)
 {: .jsgif}
@@ -160,7 +160,7 @@ Some kids did a great job on the tutorials this week. Other kids focused on [dif
 
 ### The Tynker Class Page and Homework
 
-Our next project is the *Magical Pen Basic Tutorial* at the bottom of the picture. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
+Our next project is the *Magical Pen Basic Tutorial* at the bottom of the classroom ppage. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
 
 <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f869c8ef597ea0370100525&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
