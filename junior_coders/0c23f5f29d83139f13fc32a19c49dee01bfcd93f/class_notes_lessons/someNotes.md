@@ -5,44 +5,91 @@ title2: draft
 levelsToTop: "../"
 ---
 
-## scratchblocks
-
-## sb3
+## vector drawing programs online
 
 
-## September 25th notes are up 
+### https://www.autodraw.com/
 
-### Homework for September 28th and October 2nd
-
-The homework is to: 
-
-* keep working on projects you started.
-* complete one or more Motion exercises here: <https://scratch.mit.edu/studios/27602759/>. 
-
-The exercises have various sets of blocks. The goal is to put the blocks together in the right order so that they look as in the videos below.
-
-#### Exercise 1
-
-https://scratch.mit.edu/projects/429158314/
-
-##### Look at this first, then do the exercise:
-
-https://forkphorus.github.io/app.html?id=429155328
-
-#### Exercise 2
-
-https://scratch.mit.edu/projects/429161838/
+* Google project. 
+* Autocompletes pictures for easy creation
 
 
-##### Look at this first, then do the exercise:
+### https://svg-edit.github.io/svgedit/dist/editor/index.html
 
-https://forkphorus.github.io/app.html?id=429165733
+Lots of functions, but limited fonts. 
+* Imports 
+* exports to jpg, svg
+* has image library
 
-#### Exercise 3
+ 
+GUI could be better. Change editor preferences to make buttons x-large or change language. 
+ 
+ 
 
-https://scratch.mit.edu/projects/429173104/
 
 
-##### Look at this first, then do the exercise:
+### https://vectr.com/ksdavidc
 
-https://forkphorus.github.io/app.html?id=429167079
+
+* login to save, but can export
+* gui is black, but works well 
+* has ads 
+* exports to svg, png, jpg
+* 
+https://vectr.com/ksdavidc
+
+### https://sketchpad.app/
+
+* Easy to use, and great. 
+* layers, fonts, nice GUI 
+* Gdrive connectivity
+* export svg not working??
+* nice calligraphy pen
+
+
+
+### https://www.vecteezy.com/editor/random
+
+* works well, 
+* simple to use. 
+* some but not all functions. 
+* exports without account to svg, etc. 
+* Has library to download from adn edit
+
+### https://www.youidraw.com/apps/drawing/
+
+* requires upgrade to export to svg or remove watermark
+
+### https://www.janvas.com/public-apps/janvas_6.3/janvas_app_6.3/index.php
+
+no way to save without paid account (screenshot?)
+
+### https://designer.gravit.io/
+
+need email.
+nice though
+
+### https://vectorpaint.yaks.co.nz/
+
+* works with basic functions
+* exports fine
+* no signup
+
+
+### https://pixlr.com/e/
+
+### https://sumo.app/paint/en
+
+quirky? uses layers
+
+
+### https://conceptartempire.com/draw-paint-online-tools/ 
+
+more drawing tools...paint like
+
+### https://www.offidocs.com/index.php/desktop-online-education-apps
+
+https://filmora.wondershare.com/animated-video/best-online-animation-makers-to-create-amazing-videos.html
+
+https://www.moovly.com/blog/top-7-video-animation-makers-create-free-animations
+

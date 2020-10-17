@@ -14,10 +14,14 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [October 16th](#october-16th)
+  * [Homework due October 23rd](#homework-due-october-23rd)
+* [October 13th Class Summary](#october-13th-class-summary)
+  * [Emailing Projects](#emailing-projects)
 * [October 9th](#october-9th)
   * [Homework due October 16th](#homework-due-october-16th)
 * [October 9nd Class Summary](#october-9nd-class-summary)
-  * [Emailing Projects](#emailing-projects)
+  * [Emailing Projects](#emailing-projects-1)
 * [October 2nd](#october-2nd)
   * [Homework due October 9th](#homework-due-october-9th)
   * [October 2nd Class Summary](#october-2nd-class-summary)
@@ -77,6 +81,39 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+
+<details>
+<summary>## October 16th
+</summary>
+
+## October 16th
+
+### Homework due October 23rd
+
+The homework is to continue to work on unfinished projects, especially The Halloween ("Use all the blocks") Project. Remember, the Halloween project must use each ScratchJr. blocks at least once. 
+
+## October 13th Class Summary
+
+As per last week, students continued working through the Family Conversation and Halloween Projects. 
+
+Students starting a new project spent time designing each screen and the characters and actions in it on paper first, before coding. This usually saves a lot of time and makes coding smoother. It also helps them understand how their project will be experienced by the user. 
+
+Kids like to be able to record sounds as part of their videos. But a common problem with this is that it is hard to tell who is speaking, so another theme in today's class was getting kids to think about this. Common solutions kids are using are:
+
+* Have a text balloon open at the same time 
+* Have the character move as they speak 
+* Have an object move in a way that shows teh action, for example having actors pass a ball
+
+We also did some problem solving to overcome some of scratchJr.'s limitations. With a little imagination we were able to make a character seem like they had turned around by editing their character's hair appropriately. 
+
+### Emailing Projects
+
+Thank you for emailing me projects. Please be sure your ScratchJr. app is up to date, as there was a bug in a recent version that prevented files from being opened.
+
+
+</details>
 
 <details>
 <summary>## October 9th
@@ -175,7 +212,7 @@ Today we had only one student. The student made a wonderful series of projects d
 ## Sept. 18th
 
 
-October 2ndted coding this screen in class. 
+We started coding this screen in class. 
 * For example, in my version:
   1. the mother (father) enters the bedroom 
   2. She tell the daughters to get up (using messages). 

@@ -53,6 +53,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 16th](#october-16th)
 * [October 12th](#october-12th)
   * [Homework for October 19th](#homework-for-october-19th)
   * [Moving to Tynker](#moving-to-tynker)
@@ -131,6 +132,42 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 
 <details>
+<summary>## October 16th
+</summary>
+
+## October 16th
+
+This was a makeup class for one student. She worked on making a game in Tynker based on Mario Kart. The student made a lot of progress and learned many skills, including:
+
+* Creating a actor using the character studio
+  * Animating the actor
+  * Make them appear to walk by using a loop
+  * Making sure the actor walks only so far with the repeat until block
+  * testing for the position with the > condition block
+  * adjusting the speed by setting the wait
+
+
+![](https://i.imgur.com/IWdAKfE.jpg)
+
+* Having a title screen pop down 
+  * Using the image editor to create the text
+  * Hiding the actor at start 
+  * Waiting, then showing the character 
+  * Move the actor into position
+
+
+![](https://i.imgur.com/OXTVEub.jpg)
+
+* Adding Music 
+  * Adding a background to the stage
+  * using a forever loop
+  * adding sounds using the gear icon
+
+![](https://i.imgur.com/7GWRYO8.jpg)
+
+</details>
+
+<details>
 <summary>## October 12th
 </summary>
 
@@ -177,7 +214,7 @@ Our next project is the *Magical Pen Basic Tutorial* at the bottom of the classr
 
 ### Homework for October 12th
 
-THe homework for October 12th is to DRAFT your new project in scratch, without using scratch, on paper. This is a "thinking ahead" challenge.
+The homework for October 12th is to DRAFT your new project in scratch, without using scratch, on paper. This is a "thinking ahead" challenge.
 
 Think about characters, objects, actions, scripts, etc.
 
