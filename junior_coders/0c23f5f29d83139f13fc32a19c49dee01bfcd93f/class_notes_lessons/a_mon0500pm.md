@@ -137,7 +137,13 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ## October 16th
 
-This was a makeup class for one student. She worked on making a game in Tynker based on Mario Kart. The student made a lot of progress and learned many skills, including:
+This was a makeup class for one student. She worked on making a game in Tynker based on this Mario Kart Project: 
+
+<iframe src="https://forkphorus.github.io/embed.html?id=420456768&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+{: .jsgif}
+
+
+The student made a lot of progress and learned many skills, including:
 
 * Creating a actor using the character studio
   * Animating the actor
