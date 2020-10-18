@@ -1,0 +1,5 @@
+let yourName = prompt('Enter your name: ')
+let topic = prompt("Hello, " + yourName + '. It is very nice to meet you. Please give me a topic')
+prompt('Ok, we will talk about ' + topic + '! What is something you like about ' + topic + '?')
+let favoriteColor = prompt('Wow, that sounds really cool! By the way, what is your favorite color?')
+alert(favoriteColor + ' is a beautiful color! What a great choice :)')
