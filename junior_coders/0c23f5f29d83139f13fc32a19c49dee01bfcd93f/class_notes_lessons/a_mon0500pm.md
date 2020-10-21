@@ -203,7 +203,7 @@ Some kids did a great job on the tutorials this week. Other kids focused on [dif
 
 ### The Tynker Class Page and Homework
 
-Our next project is the *Magical Pen Basic Tutorial* at the bottom of the classroom ppage. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
+Our next project is the *Magical Pen Basic Tutorial* at the bottom of the classroom page. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
 
 <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f869c8ef597ea0370100525&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
