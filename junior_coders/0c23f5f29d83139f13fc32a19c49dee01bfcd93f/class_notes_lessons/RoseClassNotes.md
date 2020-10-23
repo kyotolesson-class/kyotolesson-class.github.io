@@ -106,7 +106,7 @@ Notes* [October 23rd](#october-23rd)
 
 ### Homework due October 30th
 
-Continue working on projects. Keep up the good work{: .msb}
+Continue working on projects. Keep up the good work.
 
 ### October 23rd Class Summary 
 
