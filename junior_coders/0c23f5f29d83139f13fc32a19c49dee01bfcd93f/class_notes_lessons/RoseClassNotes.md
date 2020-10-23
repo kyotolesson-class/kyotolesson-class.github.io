@@ -14,14 +14,6 @@ levelsToTop: "../"
 
 <div id="toc">
 
-Notes* [October 23rd](#october-23rd)
-  * [Homework due October 30th](#homework-due-october-30th)
-  * [October 23rd Class Summary](#october-23rd-class-summary)
-    * [What to do when you run out of messages?](#what-to-do-when-you-run-out-of-messages)
-    * [Other Scratch Limitations](#other-scratch-limitations)
-  * [Tynker Pattern Maker Tutorial](#tynker-pattern-maker-tutorial)
-  * [Plan before you code](#plan-before-you-code)
-  * [Lots of spelling questions](#lots-of-spelling-questions)
 * [October 23rd](#october-23rd)
   * [Homework due October 30th](#homework-due-october-30th)
   * [October 23rd Class Summary](#october-23rd-class-summary)
@@ -32,7 +24,7 @@ Notes* [October 23rd](#october-23rd)
   * [Lots of spelling questions](#lots-of-spelling-questions)
 * [October 16th](#october-16th)
   * [Homework due October 23rd](#homework-due-october-23rd)
-* [October 13th Class Summary](#october-13th-class-summary)
+  * [October 13th Class Summary](#october-13th-class-summary)
   * [Emailing Projects](#emailing-projects)
 * [October 9th](#october-9th)
   * [Homework due October 16th](#homework-due-october-16th)
@@ -160,9 +152,6 @@ Students tend to want to jump right in on coding once they have an idea, but if 
 
 In addition to coding, there were a lot of spelling questions this week. The kids seemed to be enjoying learning English as well as coding. 
 
-
-
-
 </details>
 
 
@@ -176,7 +165,7 @@ In addition to coding, there were a lot of spelling questions this week. The kid
 
 The homework is to continue to work on unfinished projects, especially The Halloween ("Use all the blocks") Project. Remember, the Halloween project must use each ScratchJr. blocks at least once. 
 
-## October 13th Class Summary
+### October 13th Class Summary
 
 As per last week, students continued working through the Family Conversation and Halloween Projects. 
 
