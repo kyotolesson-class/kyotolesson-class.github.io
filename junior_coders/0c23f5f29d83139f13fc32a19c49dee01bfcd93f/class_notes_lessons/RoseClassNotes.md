@@ -28,7 +28,7 @@ levelsToTop: "../"
   * [Emailing Projects](#emailing-projects)
 * [October 9th](#october-9th)
   * [Homework due October 16th](#homework-due-october-16th)
-  * [October 9nd Class Summary](#october-9nd-class-summary)
+  * [October 9th Class Summary](#october-9th-class-summary)
   * [Emailing Projects](#emailing-projects-1)
 * [October 2nd](#october-2nd)
   * [Homework due October 9th](#homework-due-october-9th)
@@ -197,7 +197,7 @@ Thank you for emailing me projects. Please be sure your ScratchJr. app is up to 
 
 The homework is to continue to work on unfinished projects, especially The Halloween ("Use all the blocks") Project. 
 
-### October 9nd Class Summary
+### October 9th Class Summary
 
 Today, students were mostly at different stages of our progress, working towards completing the Halloween Project. 
 
