@@ -106,7 +106,7 @@ Everyone was hard at work on finishing projects in ScratchJr. this week.
 
 #### What to do when you run out of messages?
 
-One limitation in ScratchJr. is that there are only 6 message colors available per scene. Sometimes however, you want more, which is what happened in one project. The trick to solving it is create a **duplicate scene** that picks up where the old one left off. 
+One limitation in ScratchJr. is that there are only 6 message colors available per scene. Sometimes however, you want more, which is what happened in one project. The trick to solving it is to create a **duplicate scene** that picks up where the old one left off. 
 
 1. create a new scene 
 2. copy the background of the previous scene 
