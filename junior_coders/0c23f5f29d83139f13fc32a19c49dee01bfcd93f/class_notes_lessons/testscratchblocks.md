@@ -1,10 +1,204 @@
 ---
 layout: junior_coders_default
-title: test scratch blocks
+title: Scratch Mods
+title2: various viewers and mods
 levelsToTop: "../"
+
+# gi= gallery image. Place all the image paths (required) here, along with an (optional) label (goes above the image)then paste the raw markdown in teh appropriate place.
+# more than one gallery can exist on a page.
+
+## Use the code below, uncommented.
+
+## Use the code below, uncommented.
+
+# <div class="slider2">
+# <!-- These have to be links  -->
+# <div class="galleryslides">
+
+# [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+# {: #slide-09 }
+
+# [![ {{ page.gilabel-10 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-10 }}&w=477 )](./{{ page.giurl-10 }}){: target="_blank"}
+# {: #slide-10 }
+
+# [![ {{ page.gilabel-11 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-11 }}&w=477 )](./{{ page.giurl-11 }}){: target="_blank"}
+# {: #slide-11 }
+
+# </div>
+# <!-- necessary space-->
+# <div class="gallerymenu">
+
+# [{{ page.gilabel-09 }}](#slide-09) 
+# [{{ page.gilabel-10 }}](#slide-10)  
+# [{{ page.gilabel-11 }}](#slide-11) 
+
+# </div>
+
+# </div>
+
+
+# liquid variables used in image galleries to create thumnails, e.g.
+# [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
+#{: #slide-09 }
+
+weserve: //images.weserv.nl/?url=
+siteurl: https://kyotolesson-class.github.io
 ---
 
-Reverse scratch generator:
+
+ 
+Proceed to [Archives](./a_mon0500pm-Archives.html) 》 
+{: style="float: right;"}
+<br clear="both">
+
+<div id="toc">
+* [Scratch viewers not inside details tag](#scratch-viewers-not-inside-details-tag)
+  * [forkphorus](#forkphorus)
+    * [...not it details tag](#not-it-details-tag)
+  * [turbowarp.org](#turbowarporg)
+* [Scratch viewers inside details tag](#scratch-viewers-inside-details-tag)
+  * [Forkphorus](#forkphorus-1)
+  * [Turbowarp](#turbowarp)
+  * [s3blocks](#s3blocks)
+  * [scratch-viewer.zak.io](#scratch-viewerzakio)
+  * [Sulphurous](#sulphurous)
+  * [Leopard](#leopard)
+* [scratchblocks](#scratchblocks)
+  * [1 hardcoded](#1-hardcoded)
+  * [2 using hightlight doesn't work](#2-using-hightlight-doesnt-work)
+  * [3 This works](#3-this-works)
+  * [4 inline](#4-inline)
+  * [5 highlight javascript](#5-highlight-javascript)
+  * [6 All the Scratch blocks](#6-all-the-scratch-blocks)
+    * [Motion](#motion)
+    * [Looks](#looks)
+    * [Sound](#sound)
+    * [Events](#events)
+    * [Pen](#pen)
+    * [Data](#data)
+    * [Events](#events-1)
+    * [Control](#control)
+    * [Sensing](#sensing)
+    * [Operators](#operators)
+    * [Custom](#custom)
+      * [Using inline and checkboxes. Very hard but looks nice.](#using-inline-and-checkboxes-very-hard-but-looks-nice)
+
+</div>
+
+* Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+## Scratch viewers not inside details tag
+
+### forkphorus
+
+
+* forkphorus works, but...
+
+<iframe src="https://forkphorus.github.io/embed.html?id=420456768&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+<details closed>
+<summary>#### ...not it details tag
+</summary>
+
+#### ...not it details tag
+
+<iframe src="https://forkphorus.github.io/embed.html?id=420456768&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+</details>
+
+### turbowarp.org
+
+* a scratch mod 
+* better and more compatible than forkphorus 
+* has turbo mode and other options
+* works even inside a details tag 
+* styling difficult
+* width="499" height="416"  is given in the instructions, but width="500" height="473"  seems to work better outside of details.
+* width="500" height="456" works in details
+
+<iframe src="https://turbowarp.org/embed.html#420456768" width="500" height="473"   allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+* [open in new tab](https://turbowarp.org/#420456768)
+
+* width="500" height="456" 
+
+<iframe src="https://turbowarp.org/embed.html#420456768" width="500" height="456"    allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+* [open in new tab](https://turbowarp.org/#420456768)
+
+
+* width="324" height="448" 
+* without jsgif
+
+<iframe src="https://turbowarp.org/embed.html#420456768"  width="324" height="448"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+
+<details closed>
+<summary>## Scratch viewers inside details tag
+</summary>
+
+## Scratch viewers inside details tag
+
+### Forkphorus
+
+* version 3 upgrade of [Phoshorus](https://phosphorus.github.io/)
+* doesn't work inside details for some reason!
+* width="482" height="393"
+
+<iframe src="https://forkphorus.github.io/embed.html?id=420456768&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+[https://forkphorus.github.io/app.html?id=429283651
+](https://forkphorus.github.io/app.html?id=429167079)
+
+
+
+### Turbowarp 
+
+* width="324" height="448" 
+* without jsgif
+
+<iframe src="https://turbowarp.org/embed.html#420456768"  width="324" height="448"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+* height="456" width="500"  
+* with jsgif
+
+* [open in new tab](https://turbowarp.org/#420456768)
+<iframe src="https://turbowarp.org/embed.html#420456768"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{: .jsgif}
+
+* width="500" height="456"  
+* with jsgif
+
+* [open in new tab](https://turbowarp.org/#420456768)
+<iframe src="https://turbowarp.org/embed.html#420456768" width="500" height="456"   allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{: .jsgif}
+
+
+* height="456" width="500"  
+* without jsgif
+
+* [open in new tab](https://turbowarp.org/#420456768)
+<iframe src="https://turbowarp.org/embed.html#420456768"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+* width="324" height="432" 
+* with jsgif
+  
+<iframe src="https://scratch.mit.edu/projects/420456768/embed" allowtransparency="true" width="324" height="432" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{: .jsgif}
+
+* width="540" height="405" 
+* with jsgif
+
+<iframe src="https://scratch.mit.edu/projects/420456768/embed" allowtransparency="true" width="540" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+{: .jsgif}
+
+### s3blocks
+
+* a Reverse scratch generator
 
 https://s3blocks.github.io/generator/?id=423771093
 
@@ -12,41 +206,69 @@ where the id is the id of the **shared** project.
 
 https://scratch.mit.edu/projects/423771093/editor
 
-## a variant of Forkphorus: scratch-viewer.zak.io
+### scratch-viewer.zak.io
 
-https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&showDownload=true&backgroundColor=%23f8f9be 
+* a variant of Forkphorus
+* <https://github.com/zakkolar/scratch-project-viewer>
+* accepts title and caption
+* haven't figured out how to size these properly in the iframe
+* works without caption, if   "height: -webkit-fill-available;" is added to style
+* with caption, scrolling happens
 
-https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&w=100%25&showDownload=true&backgroundColor=%23f8f9be
+<https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&showDownload=true&backgroundColor=%23f8f9be>
 
-<iframe src="https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&w=100%25&showDownload=true&backgroundColor=%23f8f9be"    allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+<https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&w=100%25&showDownload=true&backgroundColor=%23f8f9be>
 
-## Forkphorus
+<style>
+.f1 {
+    font-size: .5rem!important;
+}
 
+</style>
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429167079&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+<iframe src="https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&w=500&showDownload=true&backgroundColor=%23f8f9be" width="482" height="393"   allowfullscreen="true" allowtransparency="true" style=""></iframe>
+{: .jsgif}
 
-[https://forkphorus.github.io/app.html?id=429283651
-](https://forkphorus.github.io/app.html?id=429167079)
+* with  "height: -webkit-fill-available;" 
 
-* version 3 upgrade of [Phoshorus](https://phosphorus.github.io/)
+<iframe src="https://scratch-viewer.zak.io/view#project=430060690&caption=this%20is%20a%20caption&title=our%20project&w=500&showDownload=true&backgroundColor=%23f8f9be" width="500" height="456" style="height: -webkit-fill-available;" allowfullscreen="true" allowtransparency="true" ></iframe>
+{: .jsgif}
+
+* attempt to use new height value to make room for 2-line title. seems to max out at 644.
+
+<iframe src="https://scratch-viewer.zak.io/view#project=420456768&title=Emotional%20Monsters!&caption=Mario%20Kart&w=500&h=456&showDownload=false&backgroundColor=%23f8f9be" width="500" height="700"  style="height: -webkit-fill-available;"  allowfullscreen="true" allowtransparency="true" ></iframe>
+{: .jsgif}
+
+https://scratch-viewer.zak.io/view#project=420456768&title=Emotional%20Monsters!&w=499&h=416
+
 
 
 ### Sulphurous
 
-seems to only work on sb2
+* seems to only work on sb2
 
 <script src='https://sulfurous.aau.at/js/embed.js?id=430129999&resolution-x=480&resolution-y=360&auto-start=true&light-content=false'></script>
 
+### Leopard
 
-## My hw project
+* converts scratch to javascript
+
+https://leopardjs.now.sh/
+
+</details>
+
+<details>
+<summary>## scratchblocks
+</summary>
+
+## scratchblocks
+
+* scratchblocks-v3.5-min.js, a scratchblock renderer
+
+I use the .msb ("my scratch blocks") class to trigger scratchblock-rendering via scratchblocks-v3.5-min.js to generate beautiful scratch blocks
 
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429167079&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
-
-[https://forkphorus.github.io/app.html?id=429167079
-](https://forkphorus.github.io/app.html?id=429167079)
-
-## 1 hardcoded
+### 1 hardcoded
 <pre class="msb">
 when green flag clicked
 forever
@@ -58,7 +280,7 @@ forever
 end
 </pre>
 
-## 2 using hightlight doesn't work
+### 2 using hightlight doesn't work
 
 {% highlight msb %}
 when green flag clicked
@@ -71,7 +293,7 @@ forever
 end
 {% endhighlight %}
 
-## 3 This works
+### 3 This works
 
 ```
 when green flag clicked
@@ -115,13 +337,13 @@ jump
 {: .msb}
 
 
-## 4 inline 
+### 4 inline 
 
 This `change y by (4)`{: .msb} is a code change codeblock.
 
 This `when green flag clicked`{: .msb} is a code change codeblock.
 
-## 5 highlight javascript
+### 5 highlight javascript
 
 {% highlight javascript %}
 function sayHello(name) {
@@ -133,9 +355,9 @@ function sayHello(name) {
 }  
 {% endhighlight %}
 
-## 6 All the Scratch blocks
+### 6 All the Scratch blocks
 
-## Motion
+#### Motion
 
 {::options parse_block_html="false" /}
 
@@ -176,7 +398,7 @@ set rotation style [all around v]
 {: .msb}
 
 
-## Looks
+#### Looks
 
 ```
 say (hello) for (2) seconds
@@ -231,7 +453,7 @@ go [back v] (1) layers
 ```
 {: .msb}
 
-# Sound
+#### Sound
 
 ```
 play sound [meow v] until done
@@ -254,7 +476,7 @@ set volume to (100) %
 ```
 {: .msb}
 
-# Events
+#### Events
 
 ```
 
@@ -274,7 +496,7 @@ change tempo by (20)
 ```
 {: .msb}
 
-# Pen
+#### Pen
 
 ```
 erase all
@@ -300,7 +522,7 @@ set pen size to (1)
 ```
 {: .msb}
 
-# Data
+#### Data
 
 ```
 
@@ -327,7 +549,7 @@ hide list groceries
   ```
 {: .msb}
 
-# Events
+#### Events
 
 ```
 
@@ -345,7 +567,7 @@ broadcast "message1" and wait
 ```
 {: .msb}
 
-# Control
+#### Control
 
 ```
 
@@ -387,7 +609,7 @@ delete this clone
 ```
 {: .msb}
 
-# Sensing
+#### Sensing
 
 ```
 
@@ -446,7 +668,7 @@ reset timer
 ```
 {: .msb}
 
-# Operators
+#### Operators
 
 ```
   (2 + 2)
@@ -489,7 +711,7 @@ reset timer
 ```
 {: .msb}
 
-# Custom
+#### Custom
 
 ```
 define dance (number) [string] <boolean>
@@ -500,7 +722,7 @@ dance 42 "Hello world!" 0=1
 ```
 {: .msb}
 
-## Using inline and checkboxes. Very hard but looks nice.
+##### Using inline and checkboxes. Very hard but looks nice.
 
 <style>
 
@@ -540,4 +762,4 @@ ul.msb0 li {
 - [ ] `(direction)`{: .msb}
 {: .msb}
 
-
+</details> 

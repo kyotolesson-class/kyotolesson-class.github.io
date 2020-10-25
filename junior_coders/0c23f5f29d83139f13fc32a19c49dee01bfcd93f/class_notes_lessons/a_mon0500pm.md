@@ -57,6 +57,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Homework due October 26th](#homework-due-october-26th)
   * [October 19th Class Summary](#october-19th-class-summary)
 * [October 16th](#october-16th)
+  * [Summary October 16th Class Summary](#summary-october-16th-class-summary)
 * [October 12th](#october-12th)
   * [Homework for October 19th](#homework-for-october-19th)
   * [Moving to Tynker](#moving-to-tynker)
@@ -162,15 +163,36 @@ Some students worked on individual projects, such as a Mario Kart Clone or a My 
 </details>
 
 <details>
-<summary>## October 16th
+<summary>## October 16th 
 </summary>
 
-## October 16th
+## October 16th 
+
+
+### Summary October 16th Class Summary 
+
 
 This was a makeup class for one student. She worked on making a game in Tynker based on this Mario Kart Project: 
 
-<iframe src="https://forkphorus.github.io/embed.html?id=420456768&auto-start=false&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+<iframe src="https://turbowarp.org/embed.html#420456768"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+* [open in new tab](https://turbowarp.org/#420456768)
+
+
+
+
+<!-- <script src=https://phosphorus.github.io/embed.js?id=420456768&auto-start=true&light-content=false></script>
+
+<iframe src="https://phosphorus.github.io/embed.js?id=420456768&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+<iframe src="https://scratch.mit.edu/projects/420456768/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 {: .jsgif}
+
+<iframe src="https://forkphorus.github.io/embed.html?id=420456768" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+{: .jsgif} -->
 
 
 The student made a lot of progress and learned many skills, including:
@@ -340,11 +362,9 @@ end
 
 Another students completed their own version of the music tutorial with a special button to start the music.
 
-<iframe src="https://forkphorus.github.io/embed.html?id=432617711&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+<iframe src="https://turbowarp.org/embed.html#432617711"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-* see this in a new tab: [https://forkphorus.github.io/app.html?id=432617711
-](https://forkphorus.github.io/app.html?id=432617711)
-
+* [open in new tab](https://turbowarp.org/#432617711)
 
 ### A Remix 
 
@@ -452,10 +472,11 @@ Direct link to exercise 2: <https://scratch.mit.edu/projects/429161838/>.
 
 * This is what the answer will look like in the end (click the flag)
 
-<iframe src="https://forkphorus.github.io/embed.html?id=429165733&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
 
-* see this in a new tab: [https://forkphorus.github.io/app.html?id=429165733
-](https://forkphorus.github.io/app.html?id=429165733)
+<iframe src="https://turbowarp.org/embed.html#429165733"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+* [open in new tab](https://turbowarp.org/#429165733)
+
 
 ### Review of Behavior
 
@@ -501,7 +522,12 @@ next costume
 {: .msb}
 
 
-<iframe src="https://forkphorus.github.io/embed.html?id=430118416&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe>
+
+<iframe src="https://turbowarp.org/embed.html#430118416"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+* [open in new tab](https://turbowarp.org/#430118416)
+
 
 An easy and fun game.
 
@@ -569,10 +595,10 @@ end
 
 A slightly more advanced student started with some tutorials, but added a lot of his own ideas.
 
-<!-- <iframe src="https://forkphorus.github.io/embed.html?id=429283651&auto-start=true&light-content=false" width="482" height="393" allowfullscreen="true" allowtransparency="true" style="border:none;"></iframe> -->
+<iframe src="https://turbowarp.org/embed.html#429283651"  height="456" width="500"  allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-* [open in new tab
-](https://forkphorus.github.io/app.html?id=429283651)
+
+* [open in new tab](https://turbowarp.org/#429283651)
 
 
  This project is wonderfully complex, with many great examples of "broadcasting". This is called sending messages in ScratchJr.

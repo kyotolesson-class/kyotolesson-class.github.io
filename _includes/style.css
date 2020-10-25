@@ -726,7 +726,7 @@ img.gif {
     visibility: hidden;
 }
 
-
+/* not really used anymore */
 iframe[src^="https://forkphorus.github.io"] {
     position: relative;
     border-color: var(--thumbBG);
@@ -738,6 +738,18 @@ iframe[src^="https://forkphorus.github.io"] {
     padding: 13px 13px; */
         width: 100% !important;
         min-height: 460px!important;
+}
+
+
+
+iframe[src^="https://turbowarp.org"] {
+     border-color: var(--thumbBG);
+    border-top: 9px solid var(--scrollbarBG);
+        border-bottom: 9px solid var(--scrollbarBG);
+    border-radius: 12px;
+    background-color: var(--scrollbarBG);
+    width: calc(100% - 9px)!important;
+    min-height: 462px;
 }
 
 
