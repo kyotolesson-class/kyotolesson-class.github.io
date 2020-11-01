@@ -14,6 +14,9 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [October 30th](#october-30th)
+  * [Homework due November 6th](#homework-due-november-6th)
+  * [October 30th Recap](#october-30th-recap)
 * [October 23rd](#october-23rd)
   * [Homework due October 30th](#homework-due-october-30th)
   * [October 23rd Class Summary](#october-23rd-class-summary)
@@ -89,6 +92,37 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## October 30th
+</summary>
+
+## October 30th
+
+### Homework due November 6th
+
+The homework this week is have fun! Play with ScratchJr. or Tynker and see if you can discover new things. 
+
+### October 30th Recap
+
+Only two kids today. At first they continued working on ScratchJr. As per last week, we ran up against some of the limitations of scratch, and got a chance to work on problem solving strategies. 
+
+For example, sometimes we end up with parallel actions both having send message blocks. This can make the action jerky because the message is sent twice.
+
+![](https://i.imgur.com/O8xdpS4.jpg){: height="200px" style="width:auto!important" .jsgif }
+
+We discovered using only one message block on the longest one let the program run smoothly.
+
+![](https://i.imgur.com/GXR3d6t.jpg){: height="200px" style="width:auto!important" .jsgif }
+
+Also, what can we do when the text in a text bubble has too many characters? We worked through how to figure out how many characters the bubble can hold and how to split it up into separate messages. 
+
+Sometimes students get frustrated when things don't work as quickly or the way they expect. The limitation could be in the software or in the hardware, like a touch screen or mouse not working the way we would like. But having problem solving strategies can give students some control over the situation and help build patience and reduce frustration. 
+
+I offered Tynker as an option for the kids, which doesn't have some of ScratchJr.'s limitations. One student took me up on it and made great progress on the tutorials. I always encourage students to go at their own pace and follow their own interests. The other student decided she wasn't ready yet. I could see she felt comfortable with the decision, and I think when she is ready she will try it. 
+
+</details>
+
 
 <details>
 <summary>## October 23rd

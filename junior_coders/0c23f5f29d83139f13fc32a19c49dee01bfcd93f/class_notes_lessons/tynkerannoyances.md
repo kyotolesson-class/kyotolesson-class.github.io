@@ -21,7 +21,7 @@ levelsToTop: "../"
 
 ### switching levels makes it seem like the whole project is restarting 
 
-### Too many projects wiith similar games. 
+### Too many projects with similar names. 
 
 ### Original projects often missing 
 
@@ -35,6 +35,8 @@ levelsToTop: "../"
 
 ### Editor in New IDE has broken or missing functions like flip 
 
+(Actually, it is there, but it is not working apparently.)
+
 ### The tutorial editor is very buggy
 
 ### If I put in a youtube video in the first page of the tutorial, 
@@ -47,9 +49,11 @@ That means I can't have an intro video that sets up the project before the tutor
 
 One can change. Can't be done either in sequence or in parallel. In parallel the order in which the on start blocks were places seems to determing prececdence.
 
+(This may be a programming error on my part???)
+
 ### No way to open projects in new tab instead of same tab
 
-### Even if I am logged in I can only remix a project (which I assume creates a new version) on the project page, not edit it (which works on the original version). This is inconvenient.
+### Even if I am logged in I can only remix a project (which I assume creates a new version) on the project page, not edit it (which would change the original version). This is inconvenient.
 
 ### Reassigning
 
