@@ -14,6 +14,9 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [November 6th](#november-6th)
+  * [Homework due November 13th](#homework-due-november-13th)
+  * [Recap for November 6th](#recap-for-november-6th)
 * [October 30th](#october-30th)
   * [Homework due November 6th](#homework-due-november-6th)
   * [October 30th Recap](#october-30th-recap)
@@ -92,6 +95,44 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## November 6th
+</summary>
+
+## November 6th
+
+### Homework due November 13th
+
+The homework is continue what you can. If you are starting Tynker, I suggest doing the "Programming 100" and "Barbie" activities that you can see by choosing "Friday and Monday Tynker Class" on your dashboard. [This link may go there directly](https://www.tynker.com/dashboard/student/#/my-classes/). 
+
+### Recap for November 6th
+
+This week we finished the outstanding ScratchJr Projects. I have been impressed with how diligent and patient the kids have been. 
+
+By the end of the class all the students were ready to or had started on Tynker. Kids are mostly able to do the exercises but need some help reading and understanding the instructions at first. Also, there were some technical difficulties with Tynker related to scrolling on certain ipads, though some don't have the problem. This is a problem on Tynker's end that I need to troubleshoot. 
+
+For this reason, next week, instead of working individually, we will work as a group on doing the tutorials. 
+
+Tynker has pros and cons. The pros are that:
+
+* The quality of the graphics is much better.
+* It has capabilities that scratch and scratch junior doesn't have, such are ready-made tools for Mario type and other games. 
+* This means students can make more satisfying and realistic games and projects.
+* It still has all the capabilities tha scratch/scratchjr have
+* I can follow student progress more easily, including giving help in real | times: 1
+
+Some of the cons:
+
+* A bit of a learning curve. It is a new interface, and is less visual than scratchjr.
+* Not as well documented. The positive view is that this encourages experimentation.
+* Some bugs, quirks, and compatibility issues. In the long run these should be minor problems (I hope).
+
+Since this is a transition, there will be some bumps, but I am confident about the end goal of the journey. Hang in there!!
+
+
+</details>
+
 
 <details>
 <summary>## October 30th
