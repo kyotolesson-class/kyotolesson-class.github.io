@@ -6,6 +6,18 @@ levelsToTop: "../"
 ---
 
 
+## GEtting help
+
+how to ask for help!
+
+https://images.tynker.com/videos/ide-collaboration-share.mp4
+
+
+
+## Pen color
+
+goes from 1 to 16777215
+
 ## 
 
 It still has some bugs here and there, such as there is no way to unassign a project. However The coding interface is more user friendly that Scratch. The community features are not as nicely set up. However they have a tutorial maker that makes it easy to prepare guided lessons more easily that Scratch. Also, I can monitor student progress, and answer questions in real time, in fact at any time, not just in class 
@@ -23,7 +35,7 @@ glide: walks there instead
 
 draw: draws on teh background
 say: uses a bubble
-label: puts in on the character
+label: puts in on the character centered
 print: ???
 
 set angle: direction of motion
