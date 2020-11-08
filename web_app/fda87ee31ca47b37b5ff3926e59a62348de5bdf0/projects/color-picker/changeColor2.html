@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change the Background Color</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 style="background-color: white; width: max-content;">Using Buttons to Do Cool Things</h1>
+
+    <button class="button-ask">Ask for Color</button>
+    <button class="button-random">Random Color</button>
+    <button class="button-choose">Choose color</button>
+
+    <br>
+
+    <div class="color-picker" style="display: none;">
+        <div class="colors">
+            <div class="color" style="background-color: red; height: 100px; width: 100px;"></div>
+            <div class="color" style="background-color: orange; height: 100px; width: 100px;"></div>
+            <div class="color" style="background-color: blue; height: 100px; width: 100px;"></div>
+            <div class="color" style="background-color: green; height: 100px; width: 100px;"></div>
+            <div class="more-colors">+</div>
+        </div>
+        <input type="color" style="display: none;">
+    </div>
+
+    <br>
+    <button class="smash">
+        Smash this button!!!
+    </button>
+    <br><br>
+    <img src="smash.jpg" alt="" style="display: none;">
+
+    <script>
+        document.querySelector('.button-random').onclick = function () {
+            let randomR = Math.ceil(Math.random() * 250)
+            let randomG = Math.ceil(Math.random() * 250)
+            let randomB = Math.ceil(Math.random() * 250)
+            document.querySelector('body').style.backgroundColor = `rgb(${randomR}, ${randomG}, ${randomB})`    
+        }
+
+        document.querySelector('.button-ask').onclick = function () {
+            let newColor = prompt('What is your favorite color?')
+            document.querySelector('body').style.backgroundColor = newColor
+        }
+
+        document.querySelector('.button-choose').onclick = function () {
+            document.querySelector('.color-picker').style.display = 'block'
+        }
+
+        document.querySelectorAll('.color').forEach(color => {
+            color.onclick = function () {
+                document.querySelector('body').style.backgroundColor = color.style.backgroundColor;
+                // document.querySelector('.color-picker').style.display = 'none'
+            }
+        })
+
+        document.querySelector('.more-colors').onclick = function () {
+            // document.querySelector('.color-picker').style.display = 'none'
+            document.querySelector('input').onchange = function () {
+                document.querySelector('body').style.backgroundColor = document.querySelector('input').value;
+            }
+            document.querySelector('input').click()
+        }
+
+        document.querySelector('.smash').onclick = function () {
+            const smashImg = document.querySelector('img');
+            if (smashImg.style.display === 'none') {
+                smashImg.style.display = 'block';
+            } else {
+                smashImg.style.display = 'none';
+            }
+        }
+    </script>
+</body>
+</html>

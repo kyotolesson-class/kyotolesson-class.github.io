@@ -1,0 +1,73 @@
+/* SELECTORS */
+
+.kirby {
+    display: none;
+}
+
+
+button {
+    width: 25%;
+    height: 25%;
+    padding: 15px;
+}
+
+.student {
+    font-size: 2rem;
+    transition: 2s;  
+    width: max-content;  
+    position: relative;
+}
+
+.groups {
+    position: absolute;
+    width: 80%;
+}
+
+.color {
+    border: 1px solid white;
+    margin: 15px;
+    transition: .3s all ease;
+}
+
+.color:hover {
+    cursor: pointer;
+    transform: scale(1.25) rotate(15deg);
+}
+
+.color:active {
+    transform: scale(1.15) rotate(15deg);
+}
+
+.color-picker {
+    transition: .5s all ease;
+}
+
+.colors {
+    display: flex;
+}
+
+.more-colors {
+    border: 1px solid white;
+    margin: 15px;
+    transition: .5s all ease;
+    color: white;
+    font-size: 80px;
+    background-color: #0c0c0c;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.more-colors:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+/* @keyframes randomize {
+    from {
+        top: 0;
+    }
+    to {
+        top: 100;
+    }
+} */
