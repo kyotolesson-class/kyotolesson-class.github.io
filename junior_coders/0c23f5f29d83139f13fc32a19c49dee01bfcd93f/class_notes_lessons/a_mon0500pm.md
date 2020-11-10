@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 9th](#november-9th)
+  * [Homework due November 16th](#homework-due-november-16th)
+  * [Recap for November 9th](#recap-for-november-9th)
 * [November 2nd](#november-2nd)
   * [Homework due November 9th](#homework-due-november-9th)
   * [Recap for November 2nd](#recap-for-november-2nd)
@@ -139,6 +142,29 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## November 9th
+</summary>
+
+## November 9th
+
+### Homework due November 16th
+
+Keep modifying your version of the class project. 
+
+
+### Recap for November 9th
+
+This class involved a step by step review one student's version "Homework for 11/2: Platformer Guided Tour and Tutorial" 
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fa8f7ebbc826b7c937b9a6e&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
+
+It involved me asking a lot of questions to test and reinforce students' understanding of how to create and modify a platform game. I was really impressed that kids really seemed to understand almost everything they needed tto get started. We did some some troubleshooting for parts of the game that didn'T work as expected, and then added some further modifications, such as a changing background and music.
+
+Inspired by this, kids worked on modifying their own version of the tour and tutorial. 
+
+</details>
 
 
 <details>
