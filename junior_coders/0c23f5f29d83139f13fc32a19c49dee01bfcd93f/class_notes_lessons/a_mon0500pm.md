@@ -56,6 +56,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [November 9th](#november-9th)
   * [Homework due November 16th](#homework-due-november-16th)
   * [Recap for November 9th](#recap-for-november-9th)
+  * [Platformer Template](#platformer-template)
 * [November 2nd](#november-2nd)
   * [Homework due November 9th](#homework-due-november-9th)
   * [Recap for November 2nd](#recap-for-november-2nd)
@@ -163,6 +164,14 @@ This class involved a step by step review one student's version "Homework for 11
 It involved me asking a lot of questions to test and reinforce students' understanding of how to create and modify a platform game. I was really impressed that kids really seemed to understand almost everything they needed tto get started. We did some some troubleshooting for parts of the game that didn'T work as expected, and then added some further modifications, such as a changing background and music.
 
 Inspired by this, kids worked on modifying their own version of the tour and tutorial. 
+
+
+### Platformer Template
+
+I have created a [basic platform template](https://www.tynker.com/play/template-for-platformer-game/5faa1a57917b660ea43ec872-870472XjXUOUxJ827BEY8mRzbYS2Ek) for students to use when they want to make a new game from scratch. The stage has been set up and the platform module has been added. It has score and health meters. It has one good guy who can make basic mostions. It has one bad guy, awards, health and power, and a small platform.
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5faa1a57917b660ea43ec872&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
+
 
 </details>
 
