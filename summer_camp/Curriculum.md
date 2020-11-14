@@ -47,6 +47,10 @@ Quote from the website: [TODO]
 
 It is designed to meet an extensive list of educational criteria, carefully described here. [TODO]
 
+Tynker's list of educational criteria is [here](https://www.tynker.com/school/coding-curriculum/Tynker-Scope-Sequence.pdf)
+
+
+
 One of the central features of ScratchJr. is that it is intuitive and easy to learn. Students as young as 5 or 6 can make their first project within minutes. It is a flexible platform, adaptable to students of all ages and abilities. Older kids who are knew to coding can use it to get a quick leg up, while younger kids benefit from the visual approach and instant feedback. Using the modular block system is akin to play. Since projects run quickly, they provide instant feedback which helps students understand and engage with new concepts. While the teacher is there to remove obstacles, provide guidance and encouragement, promote a sense of accomplishment and competency, give structure and reinforce key ideas and concepts, as well as assess progress, the students themselves are empowered to take ownership of their learning by following their own interests and curiosity. 
 
 ## Scratch and Tynker

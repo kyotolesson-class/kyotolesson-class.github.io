@@ -5,7 +5,49 @@ title2:
 levelsToTop: "../"
 ---
 
+## Suggestions
 
+### Make name longer and expandable.
+
+Can see too little of the name. I suggest making it resizable, or at least having it autoexpand on :hover, with option to edit.
+
+Sort my projects / show id 
+
+change order of actors by dragging or other means in 
+
+open projects in new tab
+
+### Moving student from one class to another
+
+I want to move students and the assigned projects from one class to another. (I want to divide the class into two.)
+
+I can create the new class, and each student can join the new class. No problem.
+But I want to move the old assigned projects to the new class. If I reassign a COURSE, like the barbie course, their old progress gets carried along with them. But when I reassign a project I assigned myself, the progress doesn't transfer. Is that at all possible? It would be really nice.
+
+If I unassign a project from a class, it no longer appears in the students classroom lesson area. No problem there. It still appears in my unassigned lessons area. I guess that makes sense. BUT the lesson progress shows that my student opened (well, actually it says completed 100%...boo) the project. This makes it appear that the student's work still appears somewhere, though it no longer exists 
+
+One thing scrathJr does is automatically add the word remix to the name of a project. THat way I know I am not editing the original project, but a new version. 
+
+
+### Completed projects don't appear correctly
+
+If I go to a completed project that I saved and modified, from my class completed projects tab, in the completed projects the image of the tab looks one way (similar to when I first opened it), but when I open it, it looks as it was when I last saved it (i.e. it is current). This is confusing because if I am looking for a project I completed, I can't recognize it. In other words, the same project (exactly, they seem to have the same id) appears in two different ways in two places. The little round images with 100% on them ***don't help in any way*** because the 100% is **100% WRONG** because  ***it doesn't in any way indicate 100% of anything, just than I actually opened the project, not any degree to which I saved or modified it in any way!!!***
+
+
+This is especially annoying as the only way I have of identifying the correct project or the identity of two projects is via the id, which is difficult to locate: 
+* The name itself is misleading because projects can have the same or very similar names. If you look at community project or remix trees, this is a frequent obstacle.
+* Also, I can only see part of the name in the completed projects area, or even in the opened project (at least without several clicks and mouse operations). (It is not a screen size problem. My screen is very large, though on small screens it is worse.) 
+* I have to open the project itself, and this is a nuisance because **there is no way to open projects in a new tab**, which is another big annoyance.
+
+The problems seems to be in the completed or assigned projects page. The my projects page reflects the current status properly.
+
+
+### Debugger is out of sync
+
+Unless you click on the code area. It needs to update...maybe intentional, but confusing...
+
+
+## Old Annoyances
 
 
 
