@@ -9,7 +9,6 @@ levelsToTop: "../"
 
 ### Make name longer and expandable.
 
-Can see too little of the name. I suggest making it resizable, or at least having it autoexpand on :hover, with option to edit.
 
 Sort my projects / show id 
 
@@ -26,7 +25,7 @@ But I want to move the old assigned projects to the new class. If I reassign a C
 
 If I unassign a project from a class, it no longer appears in the students classroom lesson area. No problem there. It still appears in my unassigned lessons area. I guess that makes sense. BUT the lesson progress shows that my student opened (well, actually it says completed 100%...boo) the project. This makes it appear that the student's work still appears somewhere, though it no longer exists 
 
-One thing scrathJr does is automatically add the word remix to the name of a project. THat way I know I am not editing the original project, but a new version. 
+One thing ScratchJr does is automatically add the word remix to the name of a project. THat way I know I am not editing the original project, but a new version. 
 
 
 ### Completed projects don't appear correctly
@@ -38,6 +37,9 @@ This is especially annoying as the only way I have of identifying the correct pr
 * The name itself is misleading because projects can have the same or very similar names. If you look at community project or remix trees, this is a frequent obstacle.
 * Also, I can only see part of the name in the completed projects area, or even in the opened project (at least without several clicks and mouse operations). (It is not a screen size problem. My screen is very large, though on small screens it is worse.) 
 * I have to open the project itself, and this is a nuisance because **there is no way to open projects in a new tab**, which is another big annoyance.
+* Being able to sort by name, having a list view, and showing the id would all be useful additions. 
+* In the project, I suggest making the name resizable, or at least having it auto-expand on :hover, with option to edit.
+
 
 The problems seems to be in the completed or assigned projects page. The my projects page reflects the current status properly.
 
