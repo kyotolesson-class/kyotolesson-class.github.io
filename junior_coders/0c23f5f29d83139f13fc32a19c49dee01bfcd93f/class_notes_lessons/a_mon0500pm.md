@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 16th](#november-16th)
+  * [Homework due November 23rd](#homework-due-november-23rd)
+  * [Recap for November 16th](#recap-for-november-16th)
 * [November 9th](#november-9th)
   * [Homework due November 16th](#homework-due-november-16th)
   * [Recap for November 9th](#recap-for-november-9th)
@@ -94,7 +97,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [September 21st](#september-21st)
   * [Next Week: Sept. 28th Homework](#next-week-sept-28th-homework)
   * [Crazy Pong Game](#crazy-pong-game)
-  * [Pong  Princess version](#pong-princess-version)
+  * [Pong  Princess version](#pong--princess-version)
   * [Side to Side movement](#side-to-side-movement)
   * [Next week: Group Project to Review All Blocks](#next-week-group-project-to-review-all-blocks)
 * [September 14th](#september-14th)
@@ -116,7 +119,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Making Music](#making-music)
     * [1. Add Music Extension](#1-add-music-extension)
     * [2. Use the music blocks](#2-use-the-music-blocks)
-    * [3. Stopping  and Start](#3-stopping-and-start)
+    * [3. Stopping  and Start](#3-stopping--and-start)
 * [August 31st](#august-31st)
   * [August 31st Homework:](#august-31st-homework)
   * [Intro to Scratch](#intro-to-scratch)
@@ -143,6 +146,31 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details>
+<summary>## November 16th
+</summary>
+
+## November 16th
+
+### Homework due November 23rd
+
+The homework is to continue the conversation in your conversation project.
+
+### Recap for November 16th
+
+Today we learned how to make a conversation using Tynker. The key is "Say Send" and "Receive Say"
+
+![say send recieve say](https://i.imgur.com/enWHlWg.jpg)
+
+
+We also talked about how to make the speech bubbles look more interesting, using various blocks. We used this to increase the size of the text in our conversations.
+
+![say send recieve say](https://i.imgur.com/EMhbsSp.jpg)
+
+
+</details>
 
 <details>
 <summary>## November 9th
