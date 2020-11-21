@@ -162,12 +162,12 @@ The homework is to continue the conversation in your conversation project.
 
 Today we learned how to make a conversation using Tynker. The key is "Say Send" and "Receive Say"
 
-![say send recieve say](https://i.imgur.com/enWHlWg.jpg)
+![say send receive say](https://i.imgur.com/enWHlWg.jpg)
 
 
 We also talked about how to make the speech bubbles look more interesting, using various blocks. We used this to increase the size of the text in our conversations.
 
-![say send recieve say](https://i.imgur.com/EMhbsSp.jpg)
+![say send receive say](https://i.imgur.com/EMhbsSp.jpg)
 
 
 </details>
@@ -541,7 +541,7 @@ Another students completed their own version of the music tutorial with a specia
 
 ### A Remix 
 
-Lastly, one student chose a different way of exploring; He started with a project he liked, and by tyring ot modify it learned how it worked. This was a great way to learn about tricks you might not have imagined. For example, we noticed this project has an intro screen that opens the first time the project is run, but not after that. It is a nice effect and depends on a clever, but simple, trick. Here's how it worked:
+Lastly, one student chose a different way of exploring; He started with a project he liked, and by trying ot modify it learned how it worked. This was a great way to learn about tricks you might not have imagined. For example, we noticed this project has an intro screen that opens the first time the project is run, but not after that. It is a nice effect and depends on a clever, but simple, trick. Here's how it worked:
 
 The key here is that the **firstOpen** flag is set to Yes before the project starts.  It is a lone block, not part 
 of the regular execution, and so must be set manually. It will not be reset every time the program runs. 
@@ -1629,7 +1629,7 @@ For the next few weeks we will do a combination of finishing Scratch Jr. and Sta
 
 ### August 17th Review and Homework 
 
-There were only 2 kids today, so we just continued to work on the Walk throught the forest project. The main idea of the project is that the character just continues to walk along on one screen and things come along and happen to him. The extended video below shows what I mean. See how the poison rain comes and he is touched by it. Some ideas of what could happen next:
+There were only 2 kids today, so we just continued to work on the Walk through the forest project. The main idea of the project is that the character just continues to walk along on one screen and things come along and happen to him. The extended video below shows what I mean. See how the poison rain comes and he is touched by it. Some ideas of what could happen next:
 
 * A mountain comes and he has to climb it.
 * A fairy comes and offers him a glass of water.
