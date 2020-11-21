@@ -14,6 +14,9 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [November 20th](#november-20th)
+  * [Homework due November 27th](#homework-due-november-27th)
+  * [Recap for November 20th](#recap-for-november-20th)
 * [November 13th](#november-13th)
   * [Homework due November 20th](#homework-due-november-20th)
   * [Recap for November 13th](#recap-for-november-13th)
@@ -98,6 +101,39 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## November 20th
+</summary>
+
+## November 20th
+
+### Homework due November 27th
+
+Keep working on your flying project.
+
+### Recap for November 20th
+
+Today we worked on our first Tynker Project together. A lot of time was learning to navigate Tynker, such as finding the dashboard, opening projects, and so on.
+
+We learned how to share projects with each other and sending messages to each other. I used this to send a student some blocks to use in her projects. In addition to being fun, this is a handy way for me to be able to help students with their projects in real time.
+
+
+You can sees what the project will be on the first screen of this video:
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fb857b532cb6a2dcb3be2f7&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif}
+
+We use this block set to move the character around:
+
+![](https://i.imgur.com/c9PFvn9.png)
+{: .jsgif}
+
+The move by block do the motion, the animate and wait blocks animate the character. The wait for blocks are required. They also make sure the movement finishes before the next one is done.
+
+Next week we might use functions and ask blocks to make the project more interesting. See screen 2 to see how it could work.
+
+</details>
 
 <details>
 <summary>## November 13th
