@@ -124,6 +124,8 @@ You can sees what the project will be on the first screen of this video:
 <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fb857b532cb6a2dcb3be2f7&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
 
+[Direct link (**login first**, then remix)](https://www.tynker.com/ide/?p=5fb857b532cb6a2dcb3be2f7)
+
 We use this block set to move the character around:
 
 ![](https://i.imgur.com/c9PFvn9.png)
