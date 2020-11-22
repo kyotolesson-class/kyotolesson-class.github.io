@@ -5,6 +5,48 @@ title2:
 levelsToTop: "../"
 ---
 
+
+## Things I learned
+
+[Simple project
+](https://www.tynker.com/play/simplest-game/5fb99fa8b93d62646c20bd7f-191106Xn719W7joUyQgm3L5e40vKMk)
+
+### Publishing Sharing confusion
+
+Still haven't figured out how to help a student publish a project within the wider community. I am probably not understanding something, which makes the observed behavior unexpected. Could someone explain the prevailing logic to me?
+
+From student A, to share within class, go to my projects, and hit share. This will allow student A to share within class. This only works for unpublished projects. (so far this is perhaps expected behavior)
+
+Publish is available in the project itself, clicked past the community rules, then save and publish, but haven't been able to find where this published project appears...I published, but cant find it anywhere.
+
+If I click share (student A's project) from teacher's showcase the share link works (i.e. student B can see it from the link). In student A's showcase it works and project page appears.  
+
+From  student B's showcase, the project page doesn't work. Specifically, there no option to create share link, only share within class. Expected. However, it offers a project page link, but if I click it "Oops, it seems our codeblocks didn't connect." appears. Or sometimes, "object no found". Other times it works. 
+
+From another student whose interface is different, somehow, I publish a project. It disappears from my projects! Panic. Only later I figure out it is in a so-called  published tab, which is reached via a puzzling icon of two faces. I can't find the project page or a share link. 
+
+If I open it, it gives it to me. However it is still giving me the publish to community option, but I already did that???? I have no idea where it actually is. 
+
+I tried to make this explanation as specific and coherent as possible. Sorry if it is not the clearest; I had to do a lot of back and forth trying to figure it out.
+
+## Sharing links???
+
+I am unclear how I can share a project link with my students. I know that students can find assigned projects in their classroom page, but what I would like is to give them a url to that project. 
+
+There are actually two different use cases here.
+
+1. As a teacher I create a project. I get the share link.
+
+https://www.tynker.com/play/flying-in-a-cross-game-super-easy-/5fb7afae762f72212510b745-930214XiN5.PaptxNSgSwXQ9xkB,Yk
+
+unexpected behavior 1: If the student opens this without being logged in, and remixes the project, the save button appears green. However at this point the project is not actually saved.
+
+unexpected behavior 2. OK, they then save it. If later they return to their account, it is not there. Why? they never logged in. Tynker should prompt them to login before allowing them to save a project.
+
+
+
+
+
 ## Suggestions
 
 ### Make name longer and expandable.
@@ -118,4 +160,5 @@ I want to be able to give out a link to assignments. If I give the link to the p
 I want a link that forces the chat/stream to be open as I want to encourage them to chat with me. 
 
 I want the chat to be preshared, so they don't have to click share as they think that if they post (from the bottom) it is automatically shared. 
+
 
