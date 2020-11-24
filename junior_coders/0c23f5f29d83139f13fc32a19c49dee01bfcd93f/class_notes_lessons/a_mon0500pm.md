@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 23rd](#november-23rd)
+  * [Homework due November 30th](#homework-due-november-30th)
+  * [Recap for November 23rd](#recap-for-november-23rd)
 * [November 16th](#november-16th)
   * [Homework due November 23rd](#homework-due-november-23rd)
   * [Recap for November 16th](#recap-for-november-16th)
@@ -146,6 +149,39 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## November 23rd
+</summary>
+
+## November 23rd
+
+### Homework due November 30th
+
+The homework is either keep adding to the project we were working on, or start a new project! I am still deciding what we will do next week, but probably will focus on movement blocks.
+
+### Recap for November 23rd
+
+Kids continued working on the conversation project. First we continued adding more to the existing conversation and kids were quite creative and silly in their conversations, and they were having a lot of fun (and learning too). This class we also made the projects more realistic by adding animations to the actor using animate and wait blocks. Combining this with the say and send  and receive and say (from last week) creates a nice conversation:
+
+![animate](https://i.imgur.com/Gdfiqyh.png)
+{: .jsgif}
+![animate](https://i.imgur.com/t0Dp1Ip.png)
+{: .jsgif}
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fbd4ebbf72982269962912e&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif}
+
+Kids enjoyed exploring the different animations available, and also jazzing up the appearance of the actors using the character editor. 
+
+If you'd like to see the projects the kids made this week, the classroom page features a showcase page where I have put some semi-completed projects. To see it:
+
+1. Sign In to Tynker
+2. Click on My Classes
+3. Click on Monday Only
+4. Click on Showcase
+
+</details>
 
 
 <details>
