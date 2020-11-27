@@ -14,6 +14,13 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [November 27th](#november-27th)
+  * [Homework due December 4th](#homework-due-december-4th)
+  * [Recap for November 27th](#recap-for-november-27th)
+    * [Animate and keypress](#animate-and-keypress)
+    * [An epiphany](#an-epiphany)
+    * [Problem solving](#problem-solving)
+    * [Drawing a Spirograph](#drawing-a-spirograph)
 * [November 20th](#november-20th)
   * [Homework due November 27th](#homework-due-november-27th)
   * [Recap for November 20th](#recap-for-november-20th)
@@ -103,6 +110,83 @@ levelsToTop: "../"
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details>
+<summary>## November 27th
+
+</summary>
+
+## November 27th
+
+
+### Homework due December 4th
+
+Students received individual assignments such as plan out your story, or keep working on adding keypress actions, or keep paying with the spirograph.
+
+### Recap for November 27th
+
+#### Animate and keypress
+
+Starting with last week's move and animate project, we worked on understanding some basic blocks: 
+
+* Making character move with keypress. This included how to use the animate button.
+
+![using keys](https://i.imgur.com/iBrDpPn.png)
+{: .jsgif}
+
+* Using the move by block to move a character around the screen. We worked understanding what the x and y values should be:
+
+![moveby and animate](https://i.imgur.com/OCGGgOm.png)
+{: .jsgif}
+
+For example, to move 300 steps in various directions:
+
+Up
+: y=300
+
+Down
+: y=300
+
+Left
+: x=-300
+
+Right
+: x=300
+
+#### An epiphany
+
+Using animate was a lot of fun. For one student, after a bit of experimentation there was a bit of an epiphany: the various actions became a mini story. Another character was added, more fun with the character editor. The challenge for next week will be to put all these actions together in sequence to tell the story. 
+
+#### Problem solving 
+
+A bit of problem solving: The character is facing in wrong direction at first. 
+
+Answer:
+
+![point in direction](https://i.imgur.com/qaxUrIt.png)
+{: .jsgif}
+
+#### Drawing a Spirograph
+
+Another student began working on variations of a spirograph. This shows some stages of what we did.
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fc13992f06e0306d63a6115&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif}
+
+
+The key blocks are a repeat loop and a turn. We then varied this by changing the color to make a rainbow, and then by adding some random values. We explored varying the values and seeing what happened. For example:
+
+![randomized circle
+](https://i.imgur.com/KaSBt6U.png)
+
+
+or:
+
+![another randomized circle](https://i.imgur.com/VHsbOwk.png)
+
+
+</details>
+
+
+<details>
 <summary>## November 20th
 </summary>
 
@@ -124,7 +208,7 @@ You can sees what the project will be on the first screen of this video:
 <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fb857b532cb6a2dcb3be2f7&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
 
-[Direct link (**login first**, then remix)](https://www.tynker.com/ide/?p=5fb857b532cb6a2dcb3be2f7)
+[Direct link (be sure to **login** and save)](https://www.tynker.com/ide/?p=5fb857b532cb6a2dcb3be2f7)
 
 We use this block set to move the character around:
 
@@ -133,7 +217,7 @@ We use this block set to move the character around:
 
 The move by block do the motion, the animate and wait blocks animate the character. The wait for blocks are required. They also make sure the movement finishes before the next one is done.
 
-Next week we might use functions and ask blocks to make the project more interesting. See screen 2 to see how it could work.
+Next week we might use functions and ask blocks to make the project more interesting. See Level 2 to see how it could work.
 
 </details>
 
