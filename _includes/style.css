@@ -43,6 +43,19 @@ h4 {
     text-decoration: underline;
 }
 
+dt {
+    display: list-item;
+    margin-left: 15px;
+    font-variant: small-caps;
+    font-size: larger;
+}
+
+
+
+dd  {
+margin: 0px 0px 10px 20px;
+}
+
 #banner {
     right: 0%;
     top: 110px;
