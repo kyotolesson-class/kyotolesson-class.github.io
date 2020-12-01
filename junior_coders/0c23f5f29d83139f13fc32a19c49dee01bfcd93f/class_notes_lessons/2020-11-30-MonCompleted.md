@@ -26,7 +26,7 @@ Today most of the kids chose to start new projects. First kids worked on plannin
 
 The highlight of the class was a group photo shoot. As a team we all got together and took pictures of a lego boy which one student wanted to use as a character. 
 
-{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-11-30" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-11-30/" %}
 
 
 </details>

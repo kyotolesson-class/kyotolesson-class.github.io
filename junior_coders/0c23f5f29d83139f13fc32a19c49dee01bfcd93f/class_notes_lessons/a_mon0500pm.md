@@ -53,6 +53,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 30th](#november-30th)
+  * [Homework due December 6th](#homework-due-december-6th)
+  * [Recap for November 30th](#recap-for-november-30th)
+    * [Group Photo Shoot](#group-photo-shoot)
 * [November 23rd](#november-23rd)
   * [Homework due November 30th](#homework-due-november-30th)
   * [Recap for November 23rd](#recap-for-november-23rd)
@@ -149,6 +153,29 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## November 30th
+</summary>
+
+## November 30th
+
+### Homework due December 6th
+
+
+Individual Homeworks. Keep working on projects.
+### Recap for November 30th
+
+Today most of the kids chose to start new projects. First kids worked on planning new projects, and we had a variety of types. We had a (not-so-simple) simple story, a shooting game, a platform game, and some character design play.##
+
+#### Group Photo Shoot 
+
+The highlight of the class was a group photo shoot. As a team we all got together and took pictures of a lego boy which one student wanted to use as a character. 
+
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2020-11-30/" %}
+
+
+</details>
 
 <details>
 <summary>## November 23rd
