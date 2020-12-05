@@ -187,6 +187,34 @@ footer .nav-item a:hover {
 footer .footer-title {
     font-weight: 900;
 }
+
+.game {
+    width: 325px;
+    height: 150px;
+    border-radius: 10px;
+    transition: .5s;
+    background-size: cover;
+    border: 1px solid grey;
+}
+
+.game h2 {
+    color: white;
+    background-color: rgba(0,0,0, 0.4);
+    width: max-content;
+    border-radius: 5px;
+    padding: 0 8px 0 8px;
+    transition: .5s;
+}
+
+.game:hover {
+    transform: scale(1.05);
+    box-shadow: 1px 1px 4px rgba(0,0,0, 0.3);
+}
+
+.game:hover h2 {
+    background-color: rgba(0,0,0, 0.8);
+}
+
 @media only screen and (max-width: 600px) {
     footer {
         height: 1430px;
