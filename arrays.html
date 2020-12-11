@@ -52,39 +52,27 @@
 
         <div class="module" data-id="4">
             <div class="slide">
-                <h2 class="text-center"><strong>Q1:</strong> What is an array like?</h2>
-                <div class="center">
-                    <h3 class="answer">List</h3>
-                    <h3 class="answer">Number</h3>
-                    <h3 class="answer">Sentence</h3>
-                </div>
-                <div class="center mb-5">
-                    <h4>Your answer:</h4>
-                    <input type="text" disabled style="color: green;">
-                    <div class="btn btn-info btn-answer">Check</div>
-                </div>
+                <form class="quiz">
+                    <h2 class="question" data-answer="answer">This is a question.</h2>
+                    <div class="answers">
+                        <input type="radio" name="quiz-1" id="zero" value="zero" style="display:none" checked>
+                        
+                        <input type="radio" name="quiz-1" id="list" value="list" style="display:none">
+                        <label for="list" class="answer">List</label>
+
+                        <input type="radio" name="quiz-1" id="number" value="number" style="display:none">
+                        <label for="number" class="answer">Number</label>
+
+                        <input type="radio" name="quiz-1" id="sentence" value="sentence" style="display:none">
+                        <label for="sentence" class="answer">Sentence</label>
+                    </div>
+                </form>
             </div>
             <div class="d-flex justify-content-center">
                 <button class="btn btn-primary btn-previous">< back</button>
                 <button class="btn btn-primary btn-next ml-2" disabled>next ></button>
             </div>
         </div>
-        <script>
-            document.querySelectorAll('div[data-id="4"] .answer').forEach(answer => {
-                answer.onclick = function () {
-                    document.querySelector('div[data-id="4"] input').value = answer.innerText;
-                }
-            })
-
-            document.querySelector('div[data-id="4"] .btn-answer').onclick = function () {
-                if (document.querySelector('div[data-id="4"] input').value.toLowerCase() === 'list') {
-                    alert("Yes!");
-                    document.querySelector('div[data-id="4"] .btn-next').disabled = false;
-                } else {
-                    alert("❌ Try again");
-                }
-            }
-        </script>
 
 
         <div class="module" data-id="5">
@@ -140,33 +128,48 @@
             display: block;
         }
 
+        .btn-next:disabled {
+            cursor: not-allowed;
+        }
+
         .center {
             display: flex;
             justify-content: center;
         }
 
+        .question {
+            text-align: center;
+        }
+
         .answer {
+            width: 400px;
+            display: flex;
+            flex-direction: column;
             padding: 15px;
-            margin: 0 5px 15px 5px;
-            border-radius: 15px;
-            border: 1px dashed orange;
+            margin: auto;
             transition: .5s;
+            border-bottom: 1px solid rgba(0,0,0,0.1);
         }
 
         .answer:hover {
-            transform: scale(1.1);
-            border: 1px dashed green;
             cursor: pointer;
+            background-color: palegoldenrod;
+        }
+
+        .answers input:checked + .answer {
+            background-color: gold;
         }
 
         .slide {
-            height: 70vh;
+            height: 500px;
             width: 100%;
         }
 
     </style>
 
     <script>
+        let fruits = ['apple', 'banana', 'orange']
+
         document.querySelectorAll('.btn-next').forEach(button => {
             button.onclick = function () {
                 const activeModule = document.querySelector('.active');
