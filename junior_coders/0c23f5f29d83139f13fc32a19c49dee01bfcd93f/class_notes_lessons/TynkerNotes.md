@@ -6,6 +6,20 @@ levelsToTop: "../"
 ---
 
 
+## tutorials
+
+Make challenges using platforms to teach coding.
+
+Miki
+
+precode shooting routines.
+
+mkmke character get larger if they get smaller.
+
+Make walking fixed. One step.
+
+Have students put together my code
+
 ## GEtting help
 
 how to ask for help!
