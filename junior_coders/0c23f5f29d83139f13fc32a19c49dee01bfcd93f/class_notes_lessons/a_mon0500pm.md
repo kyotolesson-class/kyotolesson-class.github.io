@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [December 14th](#december-14th)
+  * [Homework due December 21th](#homework-due-december-21th)
+  * [Recap for December 14th](#recap-for-december-14th)
 * [December 7th](#december-7th)
   * [Homework due December 14th](#homework-due-december-14th)
   * [Recap for December 7th](#recap-for-december-7th)
@@ -162,6 +165,39 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details>
+<summary>## December 14th
+</summary>
+
+## December 14th
+
+### Homework due December 21th
+
+Keep working on your project, or do a tutorial.
+
+### Recap for December 14th
+
+This class students worked individually on their projects. As it turns out, everyone is working on different things:
+
+A Family Story
+    : One student work on using pixlr.com to edit actor costumes. She cleaned up an image to remove the background using the magic wand and rectangle tools. 
+    
+    : Then she worked on creating a conversation between the actors.
+
+Magic The Gathering
+    : One students did a tutorial about functions, and studied an MTG game that uses functions to see if it could be a good project for them.
+
+Pong Game
+    : This student remixed a Pong game and discovered a bug: The game didn't stop even when the player lost. 
+    
+    : We then went over the code to see if we could fix it. We did!! 
+    
+Platform Game
+    : One student is designing a Platform Game. He discovered  on his own an undocumented feature where you can shoot larger bullets by holding the key down. 
+    
+    : The student then worked on improving the placement of their actors. 
+    
+</details>
 
 <details>
 <summary>## December 7th
