@@ -180,20 +180,20 @@ Keep working on your project, or do a tutorial.
 This class students worked individually on their projects. As it turns out, everyone is working on different things:
 
 A Family Story
-    : One student work on using pixlr.com to edit actor costumes. She cleaned up an image to remove the background using the magic wand and rectangle tools. 
+  : One student work on using pixlr.com to edit actor costumes. She cleaned up an image to remove the background using the magic wand and rectangle tools. 
     
-    : Then she worked on creating a conversation between the actors.
+  : Then she worked on creating a conversation between the actors.
 
 Magic The Gathering
-    : One student did a tutorial about functions, and studied an MTG game that uses functions to see if it could be a good project for them.
+  : One student did a tutorial about functions, and studied an MTG game that uses functions to see if it could be a good project for them.
 
 Pong Game
-    : This student remixed a Pong game and discovered a bug: The game didn't stop even when the player lost. 
+  : This student remixed a Pong game and discovered a bug: The game didn't stop even when the player lost. 
     
-    : We then went over the code to see if we could fix it. We did!! 
+  : We then went over the code to see if we could fix it. We did!! 
     
 Platform Game
-    : One student is designing a Platform Game. He discovered  on his own an undocumented feature where you can shoot larger bullets by holding the key down. 
+  : One student is designing a Platform Game. He discovered  on his own an undocumented feature where you can shoot larger bullets by holding the key down. 
     
     : The student then worked on improving the placement of their actors. 
     
