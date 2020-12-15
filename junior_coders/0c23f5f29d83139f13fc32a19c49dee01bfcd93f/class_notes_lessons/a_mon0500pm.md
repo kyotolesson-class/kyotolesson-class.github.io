@@ -195,7 +195,7 @@ Pong Game
 Platform Game
   : One student is designing a Platform Game. He discovered  on his own an undocumented feature where you can shoot larger bullets by holding the key down. 
     
-    : The student then worked on improving the placement of their actors. 
+  : The student then worked on improving the placement of their actors. 
     
 </details>
 
