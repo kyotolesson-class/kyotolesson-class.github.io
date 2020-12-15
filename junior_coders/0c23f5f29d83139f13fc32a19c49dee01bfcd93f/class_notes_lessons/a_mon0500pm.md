@@ -185,7 +185,7 @@ A Family Story
     : Then she worked on creating a conversation between the actors.
 
 Magic The Gathering
-    : One students did a tutorial about functions, and studied an MTG game that uses functions to see if it could be a good project for them.
+    : One student did a tutorial about functions, and studied an MTG game that uses functions to see if it could be a good project for them.
 
 Pong Game
     : This student remixed a Pong game and discovered a bug: The game didn't stop even when the player lost. 
