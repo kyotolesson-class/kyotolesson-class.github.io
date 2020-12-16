@@ -73,7 +73,7 @@
         students.forEach(student => {
             document.querySelector('.students').insertAdjacentHTML('beforeend', 
                 `<div class="student text-center">
-                    <h2>${student}</h2>
+                    <h2 contenteditable="true">${student}</h2>
                 </div>`
             )
         })
