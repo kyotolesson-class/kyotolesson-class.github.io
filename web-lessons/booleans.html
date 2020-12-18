@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booleans</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+
+    <h2 class="text-center mt-5">Boolean goes here</h2>
+    <div class="d-flex justify-content-center w-100">
+        <button class="btn-attempt" data-value="true">TRUE</button>
+        <button class="btn-attempt" data-value="false">FALSE</button>
+    </div>
+
+    <style>
+        h2 {
+            -moz-user-select: none; /* mozilla browsers */
+            -khtml-user-select: none; /* webkit browsers */ 
+        }
+
+        .btn-attempt {
+            width: 200px;
+            height: 75px;
+            margin: 16px;
+            font-size: 2rem;
+        }
+    </style>
+
+    <script>
+        const randIndex = function (multiplier) {
+            return Math.floor(Math.random() * multiplier)
+        }
+
+        const randBool = function () {
+            const bools = ["true", "false", "!true", "!false"]
+            return bools[randIndex(bools.length)]
+        }
+
+        const randBoolOp = function () {
+            const operators = ["&&", "===", "||", "!=="]
+            return operators[randIndex(operators.length)]
+        }
+
+        const randNumOp = function () {
+            const operators = ["<", ">", ">=", "<=", "===", "!=="]
+            return operators[randIndex(operators.length)]
+        }
+
+        const randProblem = function (level) {
+            if (level === 1) {
+                return randBool()
+            } else if (level === 2) {
+                return `${randBool()} ${randBoolOp()} ${randBool()}`
+            } else if (level > 5) {
+                let problemText = '';
+                for (i=level; i<1; i-=2) {
+                    problemText += `${randProblem()} `
+                }
+                return problemText;
+            }
+        }
+
+        let level = 2;
+
+        let problem = document.querySelector('h2');
+
+        const newProblem = function () {
+            problem.innerText = randProblem(level)
+        }
+
+        window.onload = newProblem()
+
+        document.querySelectorAll('.btn-attempt').forEach(button => {
+            button.onclick = function () {
+                if (eval(this.dataset.value) === eval(problem.innerText)) {
+                    alert('great job!')
+                    newProblem()
+                } else {
+                    alert('you suck')
+                    newProblem()
+                }
+            }
+        })
+
+    </script>
+</body>
+</html>
