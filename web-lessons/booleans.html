@@ -238,6 +238,16 @@
         const newProblem = function () {
             problemRaw = randProblem(level)
             problem.innerText = problemRaw
+            problem.innerHTML = problem.innerHTML.replace(/9/gi, '<span style="color: #9CDCFE;">9</span>')
+            problem.innerHTML = problem.innerHTML.replace(/0/gi, '<span style="color: #9CDCFE;">0</span>')
+            problem.innerHTML = problem.innerHTML.replace(/1/gi, '<span style="color: #9CDCFE;">1</span>')
+            problem.innerHTML = problem.innerHTML.replace(/2/gi, '<span style="color: #9CDCFE;">2</span>')
+            problem.innerHTML = problem.innerHTML.replace(/3/gi, '<span style="color: #9CDCFE;">3</span>')
+            problem.innerHTML = problem.innerHTML.replace(/4/gi, '<span style="color: #9CDCFE;">4</span>')
+            problem.innerHTML = problem.innerHTML.replace(/5/gi, '<span style="color: #9CDCFE;">5</span>')
+            problem.innerHTML = problem.innerHTML.replace(/6/gi, '<span style="color: #9CDCFE;">6</span>')
+            problem.innerHTML = problem.innerHTML.replace(/7/gi, '<span style="color: #9CDCFE;">7</span>')
+            problem.innerHTML = problem.innerHTML.replace(/8/gi, '<span style="color: #9CDCFE;">8</span>')
             problem.innerHTML = problem.innerHTML.replace(/true/gi, '<span style="color: #569CD6;">true</span>')
             problem.innerHTML = problem.innerHTML.replace(/false/gi, '<span style="color: #569CD6;">false</span>')
             problem.innerHTML = problem.innerHTML.replace(/fruits/gi, '<span style="color: #9CDCFE;">fruits</span>')
