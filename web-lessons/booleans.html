@@ -14,7 +14,10 @@
         <span data-strike="2">❌</span>
         <span data-strike="3">❌</span>
     </div>
-    <h2 class="text-center mt-3">Boolean goes here</h2>
+    <div style="background-color: black;">
+        <h3 class="text-center pt-3" style="background-color: black; color: white; display: none;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">fruits</span> = [<span style="color: #CE9178;">"apple"</span>, <span style="color: #CE9178;">"orange"</span>, <span style="color: #CE9178;">"banana"</span>]</h3>
+        <h2 class="text-center">Boolean goes here</h2>
+    </div>
     <div class="d-flex justify-content-center w-100">
         <button class="btn-attempt" data-value="true">TRUE</button>
         <button class="btn-attempt" data-value="false">FALSE</button>
@@ -128,6 +131,10 @@
             opacity: .2;
         }
 
+        .boolean {
+            color: #569CD6;
+        }
+
     </style>
 
     <script>
@@ -150,8 +157,22 @@
             return operators[randIndex(operators.length)]
         }
 
-        const randExpression = function () {
-            return `${randBool()} ${randBoolOp()} ${randBool()}`
+        const randArrayOp = function () {
+            const operators = ["===", "!=="];
+            return operators[randIndex(operators.length)];
+        }
+
+        const fruits = ["apple", "orange", "banana"];
+        let arrayText = document.querySelector('h3');
+
+        const randExpression = function (type=3) {
+            if (type === 0) {
+                return `${randIndex(10)} ${randNumOp()} ${randIndex(10)}`
+            } else if (type === 1) {
+                return `fruits[${randIndex(fruits.length)}] ${randArrayOp()} "${fruits[randIndex(fruits.length)]}"`
+            } else {
+                return `${randBool()} ${randBoolOp()} ${randBool()}`
+            }
         }
 
         const randProblem = function (level) {
@@ -159,23 +180,24 @@
                 return randBool()
             } else if (level === 2) {
                 return randExpression()
-            } else if (level > 2) {
-                let problemText = '';
-                for (let i=0;;i++) {
-                    problemText += `(${randExpression()})`
-                    if (i === level - 2) {
-                        break;
-                    } else {
-                        problemText += ` ${randBoolOp()} `
-                    }
-                }
-                return problemText;
+            } else if (level === 3) {
+                return randExpression(0)
+            } else if (level === 5) {
+                return `(${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})`
+            } else if (level === 4) {
+                arrayText.style.display = 'block'
+                return randExpression(1)
+            } else if (level === 6) {
+                return `((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))}))`
+            } else if (level > 6) {
+                return `(((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))}))) ${randBoolOp()} (((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})))`
             }
         }
 
         let level = 1;
 
         let problem = document.querySelector('h2');
+        let problemRaw = ''
         let scoreCounter = document.querySelector('.score-counter');
         const scoreBox = document.querySelector('.score-box');
         let emoji = document.querySelector('#emoji')
@@ -207,14 +229,15 @@
         }
 
         const resetScore = function () {
-            document.querySelector('#sad-body').innerText = `"${problem.innerText}" is ${eval(problem.innerText)}`;
+            document.querySelector('#sad-body').innerText = `"${problem.innerText}" is ${eval(problemRaw)}`;
             $('#staticSad').modal();
             currentStrike++;
             increaseStrikes();
         }
 
         const newProblem = function () {
-            problem.innerText = randProblem(level)
+            problemRaw = randProblem(level)
+            problem.innerText = problemRaw
         }
 
         const levelUp = function () {
@@ -227,27 +250,30 @@
                     emoji.innerText = '🤔'
                     break;
                 case 3:
-                    emoji.innerText = '🤯'
+                    emoji.innerText = '🧐'
                     break;
                 case 4:
-                    emoji.innerText = '🤢'
+                    emoji.innerText = '🤯'
                     break;
                 case 5:
-                    emoji.innerText = '🤮'
+                    emoji.innerText = '🤢'
                     break;
                 case 6:
-                    emoji.innerText = '🤡'
+                    emoji.innerText = '🤮'
                     break;
                 case 7:
-                    emoji.innerText = '☠️'
+                    emoji.innerText = '🤡'
                     break;
                 case 8:
-                    emoji.innerText = '👹'
+                    emoji.innerText = '☠️'
                     break;
                 case 9:
-                    emoji.innerText = '💩'
+                    emoji.innerText = '👹'
                     break;
                 case 10:
+                    emoji.innerText = '💩'
+                    break;
+                case 11:
                     emoji.innerText = '👽🛸'
                     break;
             }
@@ -258,7 +284,7 @@
 
         document.querySelectorAll('.btn-attempt').forEach(button => {
             button.onclick = function () {
-                if (eval(this.dataset.value) === eval(problem.innerText)) {
+                if (eval(this.dataset.value) === eval(problemRaw)) {
                     increaseScore()
                     if (Number(scoreCounter.innerText) % 5 === 0) {
                         levelUp()
