@@ -238,6 +238,12 @@
         const newProblem = function () {
             problemRaw = randProblem(level)
             problem.innerText = problemRaw
+            problem.innerHTML = problem.innerHTML.replace(/true/gi, '<span style="color: #569CD6;">true</span>')
+            problem.innerHTML = problem.innerHTML.replace(/false/gi, '<span style="color: #569CD6;">false</span>')
+            problem.innerHTML = problem.innerHTML.replace(/fruits/gi, '<span style="color: #9CDCFE;">fruits</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"apple"/gi, '<span style="color: #CE9178;">"apple"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"orange"/gi, '<span style="color: #CE9178;">"orange"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"banana"/gi, '<span style="color: #CE9178;">"banana"</span>')
         }
 
         const levelUp = function () {
