@@ -21,6 +21,28 @@ h1, h2 {
     color: #5393CC;
 }
 
+code {
+    border: 2px dashed pink;
+    padding: 8px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+table {
+    border: 1px solid black;
+}
+
+td {
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.bool-answer {
+    background-color: #e483b0;
+}
+
 /* #navbarscroll .nav-link .active {
     background-color: rgb(48, 47, 47);
     color: white
