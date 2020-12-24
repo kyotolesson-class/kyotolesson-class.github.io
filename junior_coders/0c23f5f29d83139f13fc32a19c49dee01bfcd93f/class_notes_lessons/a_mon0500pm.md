@@ -53,6 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [December 21st](#december-21st)
+  * [Homework due 2021!](#homework-due-2021)
+  * [Recap for December 21st](#recap-for-december-21st)
 * [December 14th](#december-14th)
   * [Homework due December 21th](#homework-due-december-21th)
   * [Recap for December 14th](#recap-for-december-14th)
@@ -164,6 +167,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## December 21st
+</summary>
+
+## December 21st
+
+### Homework due 2021!
+
+Have a happy holidays! If you are inspired to code, do a tutorial, and plan your next project. Don't worry about coding it, just imagine what your project will be like. Is there anything in the tutorials that you can use in your project?
+
+### Recap for December 21st
+
+Turtorials
+  : Tynker posted some new tutorials and a couple of students decided to take crack at them.
+
+
+Searching for a new project
+  : Ones student realized that the project he was working on was too ambitious for now, and decided to find something less difficult that they might be able to finish more quickly.
+
+    
+Platform Game
+  : Two students decided to work on platform games. They started with a basic platform game, and we thought of ways to make it more interesting. One problem that comes up is how to make something happen when 2 characters approach each other. For example, in this student's project, when the hero approaches, the villain says they will give them a clue if they manage to defeat them. Here is one solution:
+    
+![](https://i.imgur.com/NAbhiXh.png){: .jsgif}
+
+The other student turned this into a conversation, where one character says "You will die", and the other says "Not if I kill you first!". Using messages, we can make this happen.
+
+![https://i.imgur.com/eflg6Ya.png](https://i.imgur.com/eflg6Ya.png){: .jsgif}
+
+![https://i.imgur.com/eflg6Ya.png](https://i.imgur.com/fYeLQK7.png){: .jsgif}
+
+</details>
+
 
 <details>
 <summary>## December 14th
