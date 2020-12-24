@@ -180,7 +180,7 @@ Have a happy holidays! If you are inspired to code, do a tutorial, and plan your
 
 ### Recap for December 21st
 
-Turtorials
+Tutorials
   : Tynker posted some new tutorials and a couple of students decided to take crack at them.
 
 

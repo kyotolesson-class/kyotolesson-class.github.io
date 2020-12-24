@@ -163,7 +163,7 @@ Who says what, in what order?
   : When do they say it?
 
 Who moves and where?
-  : When, why? How will show it?
+  : When, why? How will you show it?
 
 </details>
 
