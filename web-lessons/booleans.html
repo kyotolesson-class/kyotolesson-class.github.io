@@ -15,8 +15,16 @@
         <span data-strike="3">❌</span>
     </div>
     <div style="background-color: black;">
-        <h3 class="text-center pt-3" style="background-color: black; color: white; display: none;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">fruits</span> = [<span style="color: #CE9178;">"apple"</span>, <span style="color: #CE9178;">"orange"</span>, <span style="color: #CE9178;">"banana"</span>]</h3>
-        <h2 class="text-center">Boolean goes here</h2>
+        <div class="variables">
+            <h3 class="pt-3" style="background-color: black; color: white;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">alexIsCool</span> = <span style="color: #569CD6;">true</span></h3>
+            <h3 class="pt-3" style="background-color: black; color: white;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">homeworkIsFun</span> = <span style="color: #569CD6;">false</span></h3>
+            <div class="number-variables" style="display: none;">
+                <h3 class="pt-3" style="background-color: black; color: white;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">numStudents</span> = <span style="color: #9CDCFE;">7</span></h3>
+                <h3 class="pt-3" style="background-color: black; color: white;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">numTeachers</span> = <span style="color: #9CDCFE;">3</span></h3>
+            </div>
+            <h3 class="pt-3 array-variable" style="background-color: black; color: white; display: none;"><span style="color: #569CD6;">let</span> <span style="color: #9CDCFE;">fruits</span> = [<span style="color: #CE9178;">"apple"</span>, <span style="color: #CE9178;">"orange"</span>, <span style="color: #CE9178;">"banana"</span>]</h3>
+        </div>
+        <h2 class="text-center" id="prompt">Boolean goes here</h2>
     </div>
     <div class="d-flex justify-content-center w-100">
         <button class="btn-attempt" data-value="true">TRUE</button>
@@ -93,6 +101,17 @@
             -khtml-user-select: none; /* webkit browsers */ 
         }
 
+        .variables {
+            margin: auto;
+            width: 500px;
+        }
+
+        #prompt {
+            margin-top: 32px;
+            border-top: 1px solid white;
+            font-size: 2.5rem;
+        }
+
         .btn-attempt {
             width: 200px;
             height: 75px;
@@ -144,13 +163,24 @@
         }
 
         const randBool = function () {
-            const bools = ["true", "false", "!true", "!false"]
+            const bools = ["true", "false", "!true", "!false", "homeworkIsFun", "alexIsCool"]
             return bools[randIndex(bools.length)]
         }
 
         const randBoolOp = function () {
             const operators = ["&&", "===", "||", "!=="]
             return operators[randIndex(operators.length)]
+        }
+
+        const randNum = function () {
+            let num = randIndex(10);
+            if (num === 3) {
+                return "numTeachers";
+            } else if (num === 7) {
+                return "numStudents";
+            } else {
+                return num;
+            }
         }
 
         const randNumOp = function () {
@@ -163,35 +193,58 @@
             return operators[randIndex(operators.length)];
         }
 
-        const fruits = ["apple", "orange", "banana"];
-        let arrayText = document.querySelector('h3');
+        const randType = function () {
+            const types = ["string", "number", "boolean", "object"];
+            return types[randIndex(types.length)];
+        }
 
-        const randExpression = function (type=3) {
+        const randVarName = function () {
+            const varNames = ["fruits", "alexIsCool", "homeworkIsFun", "numTeachers", "numStudents"];
+            return varNames[randIndex(varNames.length)];
+        }
+
+        const alexIsCool = true;
+        const homeworkIsFun = false;
+        const numTeachers = 3;
+        const numStudents = 7;
+        const fruits = ["apple", "orange", "banana"];
+        let numberVariables = document.querySelector('.number-variables');
+        let arrayVariable = document.querySelector('.array-variable')
+
+        const randExpression = function (type=2) {
             if (type === 0) {
-                return `${randIndex(10)} ${randNumOp()} ${randIndex(10)}`
+                return `${randNum(10)} ${randNumOp()} ${randNum(10)}`
             } else if (type === 1) {
                 return `fruits[${randIndex(fruits.length)}] ${randArrayOp()} "${fruits[randIndex(fruits.length)]}"`
-            } else {
+            } else if (type === 2) {
                 return `${randBool()} ${randBoolOp()} ${randBool()}`
+            } else if (type === 3) {
+                return `typeof ${randVarName()} ${randArrayOp()} "${randType()}"`
+            } else {
+                return `typeof ${randVarName()} ${randArrayOp()} typeof ${randVarName()}`
             }
         }
 
+        const multiplier = 5;
         const randProblem = function (level) {
             if (level === 1) {
                 return randBool()
             } else if (level === 2) {
                 return randExpression()
             } else if (level === 3) {
+                numberVariables.style.display = 'block'
                 return randExpression(0)
-            } else if (level === 5) {
-                return `(${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})`
             } else if (level === 4) {
-                arrayText.style.display = 'block'
+                arrayVariable.style.display = 'block'
                 return randExpression(1)
+            } else if (level === 5) {
+                return randExpression(3)
             } else if (level === 6) {
-                return `((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))}))`
-            } else if (level > 6) {
-                return `(((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))}))) ${randBoolOp()} (((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})) ${randBoolOp()} ((${randExpression(randIndex(3))}) ${randBoolOp()} (${randExpression(randIndex(3))})))`
+                return `(${randExpression(randIndex(multiplier))})\n ${randBoolOp()}\n (${randExpression(randIndex(multiplier))})`
+            } else if (level === 7) {
+                return `((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))}))\n ${randBoolOp()}\n ((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))}))`
+            } else if (level > 8) {
+                return `(((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))})) ${randBoolOp()} ((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))})))\n ${randBoolOp()}\n (((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))})) ${randBoolOp()} ((${randExpression(randIndex(multiplier))}) ${randBoolOp()} (${randExpression(randIndex(multiplier))})))`
             }
         }
 
@@ -252,10 +305,19 @@
             problem.innerHTML = problem.innerHTML.replace(/8/gi, '<span style="color: #9CDCFE;">8</span>')
             problem.innerHTML = problem.innerHTML.replace(/true/gi, '<span style="color: #569CD6;">true</span>')
             problem.innerHTML = problem.innerHTML.replace(/false/gi, '<span style="color: #569CD6;">false</span>')
+            problem.innerHTML = problem.innerHTML.replace(/homeworkIsFun/gi, '<span style="color: #4DBAF5;">homeworkIsFun</span>')
+            problem.innerHTML = problem.innerHTML.replace(/alexIsCool/gi, '<span style="color: #4DBAF5;">alexIsCool</span>')
+            problem.innerHTML = problem.innerHTML.replace(/numStudents/gi, '<span style="color: #4DBAF5;">numStudents</span>')
+            problem.innerHTML = problem.innerHTML.replace(/numTeachers/gi, '<span style="color: #4DBAF5;">numTeachers</span>')
             problem.innerHTML = problem.innerHTML.replace(/fruits/gi, '<span style="color: #9CDCFE;">fruits</span>')
             problem.innerHTML = problem.innerHTML.replace(/"apple"/gi, '<span style="color: #CE9178;">"apple"</span>')
             problem.innerHTML = problem.innerHTML.replace(/"orange"/gi, '<span style="color: #CE9178;">"orange"</span>')
             problem.innerHTML = problem.innerHTML.replace(/"banana"/gi, '<span style="color: #CE9178;">"banana"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"string"/gi, '<span style="color: #CE9178;">"string"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"object"/gi, '<span style="color: #CE9178;">"object"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"number"/gi, '<span style="color: #CE9178;">"number"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/"boolean"/gi, '<span style="color: #CE9178;">"boolean"</span>')
+            problem.innerHTML = problem.innerHTML.replace(/typeof/gi, '<span style="color: #569CD6;">typeof</span>')
         }
 
         const levelUp = function () {
@@ -263,6 +325,7 @@
             resetStrikes();
             $('#staticHappy').modal()
             scoreBox.style.fontSize = `${Number(scoreCounter.innerText) / 5 + 2}rem`
+            console.log(typeof 5)
             switch (level) {
                 case 2:
                     emoji.innerText = '🤔'
@@ -274,24 +337,27 @@
                     emoji.innerText = '🤯'
                     break;
                 case 5:
-                    emoji.innerText = '🤢'
+                    emoji.innerText = '😨'
                     break;
                 case 6:
-                    emoji.innerText = '🤮'
+                    emoji.innerText = '🤢'
                     break;
                 case 7:
-                    emoji.innerText = '🤡'
+                    emoji.innerText = '🤮'
                     break;
                 case 8:
-                    emoji.innerText = '☠️'
+                    emoji.innerText = '🤡'
                     break;
                 case 9:
-                    emoji.innerText = '👹'
+                    emoji.innerText = '☠️'
                     break;
                 case 10:
-                    emoji.innerText = '💩'
+                    emoji.innerText = '👹'
                     break;
                 case 11:
+                    emoji.innerText = '🐲'
+                    break;
+                case 12:
                     emoji.innerText = '👽🛸'
                     break;
             }
@@ -315,7 +381,6 @@
                 newProblem()
             }
         })
-
     </script>
 
 
