@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+
+<body>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="staticBackdrop" data-backdrop="static" tabindex="-1" role="dialog"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel" style="color:black">Choose operators</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="input-group-text">
+                        <label for="addition">+</label>
+                        <input class="input-op" id="addition" type="checkbox"
+                            aria-label="Checkbox for following text input" value="+" checked>
+                    </div>
+                    <div class="input-group-text">
+                        <label for="subtraction">-</label>
+                        <input class="input-op" id="subtraction" type="checkbox"
+                            aria-label="Checkbox for following text input" value="-">
+                    </div>
+                    <div class="input-group-text">
+                        <label for="multiplication">*</label>
+                        <input class="input-op" id="multiplication" type="checkbox"
+                            aria-label="Checkbox for following text input" value="*">
+                    </div>
+                    <div class="input-group-text">
+                        <label for="division">/</label>
+                        <input class="input-op" id="division" type="checkbox"
+                            aria-label="Checkbox for following text input" value="/">
+                    </div>
+                    <div class="input-group-text">
+                        <label for="remainder">%</label>
+                        <input class="input-op" id="remainder" type="checkbox"
+                            aria-label="Checkbox for following text input" value="%">
+                    </div>
+                    <div class="input-group-text">
+                        <label for="exponent">**</label>
+                        <input class="input-op" id="exponent" type="checkbox"
+                            aria-label="Checkbox for following text input" value="**">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal">Ok!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wrong! -->
+    <div class="modal fade" id="staticSad" data-backdrop="static" tabindex="-1" role="dialog"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="staticBackdropLabel" style="color: black;">Oh no! 🥺</h5>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Try again ></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <p>Score: <span id="score">0</span></p>
+    <button id='button-change' data-toggle="modal" data-target="#staticBackdrop" style="display: none;">Change
+        operators</button>
+    <h1></h1>
+
+    <div style="position: relative">
+        <input type="text" name="" id="input-ans">
+        <button id="button-go">Go!</button>
+    </div>
+
+
+    <style>
+        label {
+            font-size: 1.5rem;
+        }
+
+        p,
+        #score {
+            font-size: 1.5rem;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 25vw;
+            margin: 3vh 0 0 0;
+            -moz-user-select: none;
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        div {
+            display: flex;
+            width: 100%;
+            justify-content: center;
+        }
+
+        input {
+            width: 70%;
+            height: 100px;
+            font-size: 100px;
+            text-align: center;
+            border-radius: 15px;
+        }
+
+        #button-go {
+            width: 25%;
+            border-radius: 15px;
+            margin-left: 8px;
+            font-size: 50px;
+            color: white;
+            border: none;
+            background-color: #b5cea8;
+            transition: .5s;
+        }
+
+        #button-go:hover {
+            cursor: pointer;
+            transform: scale(1.01);
+        }
+
+        #button-go:active {
+            transform: scale(.5);
+        }
+
+        body {
+            color: white;
+            background-color: black;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        }
+
+        .number {
+            color: #B5CEA8;
+        }
+    </style>
+
+
+    <script>
+        const problem = document.querySelector('h1')
+        const goButton = document.querySelector('#button-go')
+        const changeButton = document.getElementById('button-change')
+        const answer = document.querySelector('#input-ans')
+        const score = document.getElementById('score')
+        const inputs = document.querySelectorAll('.input-op')
+        let level = 0
+        let admin = false
+        let ops = []
+
+        function randNum(multiplier) {
+            return Math.floor(Math.random() * multiplier)
+        }
+
+        function randOp() {
+            return ops[randNum(ops.length)]
+        }
+
+        function randMath() {
+            checkInputs()
+            problem.innerHTML = `<span class="number">${randNum(10)}</span> <span class="operator">${randOp()}</span> <span class="number">${randNum(10)}</span>`
+            if (evalMath() !== Math.floor(evalMath()) || evalMath() > 120) {
+                randMath()
+            }
+        }
+
+        function evalMath() {
+            return eval(problem.innerText)
+        }
+
+        function checkAnswer() {
+            if (Number(answer.value) === evalMath()) {
+                answer.value = ''
+                randMath()
+                score.innerText = Number(score.innerText) + 1
+                if (Number(score.innerText % 5 === 0)) {
+                    level++
+                }
+            } else {
+                $('#staticSad').modal();
+            }
+            answer.select()
+        }
+
+        randMath()
+
+
+        goButton.onclick = function () {
+            checkAnswer()
+        }
+
+        answer.select()
+        checkInputs()
+
+        function checkInputs() {
+            if (admin) {
+                ops = []
+                inputs.forEach(input => {
+                    if (input.checked) {
+                        ops.push(input.value)
+                    }
+                })
+                if (ops.length === 0) {
+                    inputs[0].checked = true;
+                    ops.push('+');
+                }
+            } else {
+                switch (level) {
+                    case 0:
+                        ops = ['+']
+                        break;
+                    case 1:
+                        ops.push('-')
+                        break;
+                    case 2:
+                        ops.push('*')
+                        break;
+                    case 3:
+                        ops.push('/')
+                        break;
+                    case 4:
+                        ops.push('%')
+                        break;
+                    case 5:
+                        ops.push('**')
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
+
+        let pSwitch = false
+
+        document.addEventListener('keyup', e => {
+            if (e.key === 'p') {
+                pSwitch = true
+            } else if (e.key === 'q' && pSwitch === true) {
+                admin = true
+                if (changeButton.style.display === "block") {
+                    changeButton.style.display = "none"
+                } else {
+                    changeButton.style.display = "block"
+                }
+            }
+        })
+
+        window.setInterval(function () {
+            pSwitch = false;
+        }, 2000)
+
+        goButton.insertAdjacentElement
+
+    </script>
+
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
