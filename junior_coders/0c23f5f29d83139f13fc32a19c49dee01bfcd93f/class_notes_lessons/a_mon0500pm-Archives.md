@@ -40,14 +40,14 @@ levelsToTop: "../"
 # </div>
 
 # Lines From The Edge as in the ![ "Easy Maze"](./images/2020-05-11/EasyMaze.jpg){: height="50px"}
-# Linear Paths as in ![the Dragon Maze](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png){:height="200px"}
+# Linear Paths as in ![the Dragon Maze](./images/2020-04-13/linearPaths.png){:height="200px"}
 # Square-with-holes, as in the ![Follow the Maze Game](./images/2020-05-11/FollowTheMazeGame.gif "Follow the maze Game"){: height="50px"}
 
 gilabel-09: Lines From The Edge
 giurl-09: images/2020-05-11/EasyMaze.jpg
 
 gilabel-10: Linear Paths
-giurl-10: images/2020-04-13/Screen%20Shot%202020-04-14%20at%2011.30.36%20AM.png
+giurl-10: images/2020-04-13/linearpaths.png
 
 gilabel-11: Square-with-holes
 giurl-11: images/2020-05-11/FollowTheMazeGame.gif
@@ -1238,7 +1238,7 @@ The homework is to play with Zoom and the Maze. Practice:
 
 We will use these in our next lesson: Bad Jokes!
 
-![Bad](./images/2020-04-13/Screen%20Shot%202020-04-14%20at%2012.48.59%20PM.png)
+dJokes![Bad](./images/2020-04-13/Badjokes.png)
 
 
 </details>

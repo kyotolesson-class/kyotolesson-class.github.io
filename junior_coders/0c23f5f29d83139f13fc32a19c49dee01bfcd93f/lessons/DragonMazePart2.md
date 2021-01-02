@@ -73,11 +73,11 @@ This requires 2 messages:
 * if something hits the **Green Dragon**, send RED message to other dragon to appear
 
     * **Green Dragon** sends 2 messages
-![alt-text](images/2020-04-27/Dragon1.jpg "Hover text")
+![alt-text](images/DragonMazePart2Images/Dragon1.jpg "Hover text")
     * **Tic** gets ORANGE message to go home
-![alt-text](images/2020-04-27/TicGetsMessage.jpg "Hover text")
+![alt-text](images/DragonMazePart2Images/TicGetsMessage.jpg "Hover text")
     * **Blue Dragon** gets RED message to become visible
-![alt-text](images/2020-04-27/Dragon2GetsRedMessage.jpg "Hover text")
+![alt-text](images/DragonMazePart2Images/Dragon2GetsRedMessage.jpg "Hover text")
 
 #### The KEY to how it works
 * Each message has 2 parts, sending and receiving. 
