@@ -26,6 +26,8 @@ siteurl: https://kyotolesson-class.github.io
 }
 </style>
 
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fa8f7ebbc826b7c937b9a6e&controls=fatruelse&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+*Students learn hands-on how to make a wide variety of computer games: platform games, role-playing games, adventure games, puzzle games, and many more -- the limit is their imagination!*
 
 ## ScratchJr.
 
@@ -70,6 +72,8 @@ Open-ended group projects like "Teamwork 5000" develop leadership and cooperatio
 
 ## Scratch and Tynker
 
+
+
 Eventually, children reach the stage where we can introduce them to larger and more powerful toolkits. One of these is called Scratch, which is the big brother to ScratchJr. The other is called Tynker, which starts with the underlying Scratch block set, but adds components that allow for platformer and topdown games like Mario Kart and so on. These are both very powerful, and are flexible enough where the only limit is the child's imagination. 
 
 Classes usually involve a mix of instructor provided projects where primary concepts are introduced and reviewed and individual projects that students develop on their own over time.  For example, a recent class demonstrates the diversity of projects we end up working on:
@@ -85,6 +89,18 @@ Pong
 
 Platform Game
   : One student is designing a single shooter Platform Game. He discovered on his own an undocumented feature where you can shoot larger bullets by holding the key down. The student then worked on improving the placement of their actors.
+
+## Sample student projects
+
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5faa1a57917b660ea43ec872&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+<iframe width="600" height="408" src="//www.tynker.com/ide/embedded?p=5f8aa4b217d87b2ac20e8c3a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fd71e42cd557d56054fa1ae&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
 
 ## Class Requirements
 
