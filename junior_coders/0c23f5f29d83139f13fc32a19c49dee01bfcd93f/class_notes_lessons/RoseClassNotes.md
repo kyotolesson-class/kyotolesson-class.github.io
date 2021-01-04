@@ -14,6 +14,9 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [New Year's Day, 2021](#new-years-day-2021)
+  * [Homework due Januay 8th](#homework-due-januay-8th)
+  * [Recap for New Year's Day, 2021](#recap-for-new-years-day-2021)
 * [December 18th](#december-18th)
   * [Homework due Next Year](#homework-due-next-year)
   * [Recap for December 18th](#recap-for-december-18th)
@@ -117,6 +120,39 @@ levelsToTop: "../"
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details>
+<summary>## New Year's Day, 2021
+</summary>
+
+## New Year's Day, 2021
+
+### Homework due Januay 8th
+
+Keep working on your individual projects. 
+
+### Recap for New Year's Day, 2021
+
+Today, instead of working on individual projects, we worked on a basic tutorial that leads to a keyboard-based game. The tutorial focuses on:
+
+x, y, and positive and negative numbers,
+  : because these a core concepts, we spent a lot of time learning about the four quadrants, and how to tell where an actor or the mouse is.
+
+"go to" versus "glide"
+  : go to magically transports the actor to the new position, "glide" moves through the intervening space.
+
+
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fe9dd92fc762c07fc1acfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{: .jsgif }
+
+<https://www.tynker.com/play/block-heads-version-2-partially-completed/5fe9dd92fc762c07fc1acfd0-788525XlWhzbbxd4ml.IpdPRLJ3Xsk>
+
+
+In the games, kids collect coins by moving or gliding the actor to places in different quadrants. Once they understood the concepts above, they have to code the correct blocks. The only way to collect some blocks is by gliding, and others they need "go to" for. They also have to work out which position is in which quadrant. 
+
+At first, these mathematical ideas are a bit challenging, but once they could see how it played in a real game they really understood it, and were able to work out the correct blocks all by themselves. A job well done!!
+
+</details>
 
 
 <details>
