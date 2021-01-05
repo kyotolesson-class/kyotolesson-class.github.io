@@ -26,7 +26,7 @@ siteurl: https://kyotolesson-class.github.io
 }
 </style>
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fa8f7ebbc826b7c937b9a6e&controls=fatruelse&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fa8f7ebbc826b7c937b9a6e&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 *Students learn hands-on how to make a wide variety of computer games: platform games, role-playing games, adventure games, puzzle games, and many more -- the limit is their imagination!*
 
 ## ScratchJr.
@@ -98,7 +98,7 @@ Platform Game
 
 <iframe width="600" height="408" src="//www.tynker.com/ide/embedded?p=5f8aa4b217d87b2ac20e8c3a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fd71e42cd557d56054fa1ae&controls=false&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fd71e42cd557d56054fa1ae&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 
 
