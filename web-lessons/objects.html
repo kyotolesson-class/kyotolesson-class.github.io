@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objects</title>
+    <script src="lib/codemirror.js"></script>
+    <link rel="stylesheet" href="lib/codemirror.css">
+    <script src="mode/javascript/javascript.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container">
+        <h1>Who's that Pokémon?</h1>
+        <div id="score">0</div>
+        <div class="spinner-border text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+
+        <div id="content">
+            <div id="object-display">
+                <img id="pokemon-sprite" src="" alt="">
+            </div>
+            <div id="code-mirror-1"></div>
+            <button class="btn btn-primary mt-5">Check</button>
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade" id="staticBackdrop" data-backdrop="static" tabindex="-1" role="dialog"
+            aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="staticBackdropLabel">You got it! 🎉</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-success" data-dismiss="modal">Go! ></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <style>
+        * {
+            text-align: center;
+        }
+
+        #score {
+            position: absolute;
+            font-size: 5rem;
+            top: 25px;
+        }
+
+        .CodeMirror-scroll * {
+            text-align: left;
+        }
+        
+        h1 {
+            font-family: 'Pokemon Solid';
+            color: #feca1b;
+            margin-top: 5%;
+            font-size: 4rem;
+             -webkit-text-stroke: 5px #1c57c9;
+        }
+
+        @font-face {
+            font-family: 'Pokemon Hollow';
+            src: url('fonts/Pokemon/Pokemon\ Hollow.ttf');
+        }
+
+        @font-face {
+            font-family: 'Pokemon Solid';
+            src: url('fonts/Pokemon/Pokemon\ Solid.ttf');
+        }
+
+    </style>
+
+
+
+    <script>
+        const spinner = document.querySelector('.spinner-border')
+        const objectDisplay = document.getElementById('object-display')
+        let pokemon = {}
+        let problem = ""
+        let score = 0
+
+
+        const randIndex = function (multiplier) {
+            return Math.floor(Math.random() * multiplier)
+        }
+
+        const randObjectProp = function (object) {
+            let props = []
+            for (var i in object) {
+                props.push(i)
+            }
+            return props[randIndex(props.length)]
+        }
+
+        const genProb = function (prop, dataType) {
+            let type = randIndex(2);
+            if (type === 0 || dataType === "object") {
+                problem = `typeof pokemon.${prop} === `
+                return `typeof pokemon.${prop} === `
+            } else {
+                problem = `pokemon.${prop} === `
+                return `pokemon.${prop} === `
+            }
+        }
+
+        const checkAnswer = function () {
+            if (eval(document.querySelector('.CodeMirror-code').children[2].children[1].innerText) && document.querySelector('.CodeMirror-code').children[2].children[1].innerText.includes(problem)) {
+                score++
+                document.querySelector('#score').innerText = score
+                $('#staticBackdrop').modal();
+                if (score % 5 === 0) {
+                    spinner.style.visibility = "visible"
+                    getPokemon()
+                } else {
+                    document.querySelector('#code-mirror-1').innerHTML = ""
+                    const randProp = randObjectProp(pokemon)
+                    const randPropType = typeof pokemon[randProp]
+                    let codeMirror1 = CodeMirror(document.querySelector('#code-mirror-1'), {
+                        lineNumbers: true,
+                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}`
+                    })
+                }
+            } else {
+                alert("❌ Try again!")
+            }
+        }
+
+        const getPokemon = function () {
+            document.querySelector('#code-mirror-1').innerHTML = ""
+            fetch(`https://pokeapi.co/api/v2/pokemon/${randIndex(898) + 1}`)
+                .then(response => response.json())
+                .then(data => {
+                    pokemon = data
+                    console.log(pokemon)
+                    document.querySelector('#content').style.display = "block"
+                    objectDisplay.innerHTML = `<img src="${data.sprites.front_default}" style="transform: scale(4); margin-top: 150px">`
+                    spinner.style.visibility = 'hidden'
+                    const randProp = randObjectProp(data)
+                    const randPropType = typeof pokemon[randProp]
+                    let codeMirror1 = CodeMirror(document.querySelector('#code-mirror-1'), {
+                        lineNumbers: true,
+                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}`
+                    })
+                });
+        }
+
+        document.querySelector('button').onclick = function () {
+            checkAnswer()
+        }
+
+        getPokemon()
+
+    </script>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+</body>
+</html>
