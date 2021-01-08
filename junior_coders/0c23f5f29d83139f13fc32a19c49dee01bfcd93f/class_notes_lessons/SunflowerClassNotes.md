@@ -23,5 +23,5 @@ levelsToTop: "../"
 
 ## Coming Soon
 
-Class starts Saturday, December 9th
+Class starts Saturday, January 9th
 
