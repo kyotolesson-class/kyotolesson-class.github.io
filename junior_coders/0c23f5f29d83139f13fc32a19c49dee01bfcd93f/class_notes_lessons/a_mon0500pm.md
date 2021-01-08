@@ -53,7 +53,6 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [Jan 4th](#jan-4th)
   * [Homework due Jan 11th](#homework-due-jan-11th)
   * [Recap for Jan 4th](#recap-for-jan-4th)
   * [Bridgit](#bridgit)
