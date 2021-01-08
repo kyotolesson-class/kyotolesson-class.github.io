@@ -26,6 +26,10 @@
             <button class="btn btn-primary mt-5">Check</button>
         </div>
 
+        <div id="collected-pokemon">
+
+        </div>
+
         <!-- Modal -->
         <div class="modal fade" id="staticBackdrop" data-backdrop="static" tabindex="-1" role="dialog"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -57,6 +61,16 @@
             position: absolute;
             font-size: 5rem;
             top: 25px;
+        }
+
+        #collected-pokemon {
+            position: absolute;
+            right: 50px;
+            top: 50px;
+            display: flex;
+            flex-direction: column;
+            background-color: #ffe0e6;
+            border-radius: 15px;
         }
 
         .CodeMirror-scroll * {
@@ -107,9 +121,22 @@
 
         const genProb = function (prop, dataType) {
             let type = randIndex(2);
-            if (type === 0 || dataType === "object") {
+            if (type === 0) {
                 problem = `typeof pokemon.${prop} === `
                 return `typeof pokemon.${prop} === `
+            } else if (dataType === "object") {
+                const randProp = randObjectProp(pokemon[prop])
+                const randPropType = typeof pokemon[prop][randProp]
+                if (randPropType === "object" || type === 0 || pokemon[prop][randProp].length === 0) {
+                    problem = `typeof pokemon.${prop}[${randProp}] === ` 
+                    return `typeof pokemon.${prop}[${randProp}] === ` 
+                }
+                if (typeof Number(randProp) === "number") {
+                    problem = `pokemon.${prop}[${randProp}] === `
+                    return `pokemon.${prop}[${randProp}] === `
+                }
+                problem = `pokemon.${prop}["${randProp}"] === `
+                return `pokemon.${prop}["${randProp}"] === `
             } else {
                 problem = `pokemon.${prop} === `
                 return `pokemon.${prop} === `
@@ -122,6 +149,9 @@
                 document.querySelector('#score').innerText = score
                 $('#staticBackdrop').modal();
                 if (score % 5 === 0) {
+                    document.querySelector('#collected-pokemon').insertAdjacentHTML('beforeend', `
+                        <img src="${pokemon.sprites.front_default}" title="${pokemon.name}">
+                    `)
                     spinner.style.visibility = "visible"
                     getPokemon()
                 } else {
