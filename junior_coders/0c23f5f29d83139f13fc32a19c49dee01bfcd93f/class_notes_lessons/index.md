@@ -12,4 +12,7 @@ levelsToTop: "../"
 
 * ### Rose (Friday) Class [Latest](./RoseClassNotes.html)
 
+* ### Sunflower (Saturday) Class [Latest](./SunflowerClassNotes.html)
+
+
 
