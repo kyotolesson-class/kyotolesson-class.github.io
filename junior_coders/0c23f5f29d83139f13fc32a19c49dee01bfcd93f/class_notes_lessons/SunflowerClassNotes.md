@@ -35,11 +35,11 @@ Play and explore the program as much as you can on your own but bring back a pro
 
 ### Recap for January 9th
 
-Today was the first class. We walked through the Scratch Jr. Once we were at the main interface,
+Today was the first class. We walked through the Scratch Jr. Once we were at the main interface:
 
 ![scratchjrinterface](/images/jc_a_001_scratchjrinterface.jpg)
 
-we covered: 
+We covered: 
 
 - The top row of buttons.
 - The yellow start/green flag button
