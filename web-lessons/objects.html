@@ -128,13 +128,21 @@
                 const randProp = randObjectProp(pokemon[prop])
                 const randPropType = typeof pokemon[prop][randProp]
                 if (randPropType === "object" || type === 0 || pokemon[prop][randProp].length === 0) {
-                    problem = `typeof pokemon.${prop}[${randProp}] === ` 
-                    return `typeof pokemon.${prop}[${randProp}] === ` 
+                    if (randProp.match(/d/g)) {
+                        problem = `typeof pokemon.${prop}[${randProp}] === `
+                        return `typeof pokemon.${prop}[${randProp}] === ` 
+                    }
+                    problem = `typeof pokemon.${prop}["${randProp}"] === `
+                    return `typeof pokemon.${prop}["${randProp}"] === ` 
                 }
-                if (typeof Number(randProp) === "number") {
+                if (randProp.match(/d/g)) {
+                    console.log("should be a number")
+                    console.log(randProp)
                     problem = `pokemon.${prop}[${randProp}] === `
                     return `pokemon.${prop}[${randProp}] === `
                 }
+                console.log("should be a string")
+                console.log(randProp)
                 problem = `pokemon.${prop}["${randProp}"] === `
                 return `pokemon.${prop}["${randProp}"] === `
             } else {
@@ -160,7 +168,7 @@
                     const randPropType = typeof pokemon[randProp]
                     let codeMirror1 = CodeMirror(document.querySelector('#code-mirror-1'), {
                         lineNumbers: true,
-                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}`
+                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}???`
                     })
                 }
             } else {
@@ -182,7 +190,7 @@
                     const randPropType = typeof pokemon[randProp]
                     let codeMirror1 = CodeMirror(document.querySelector('#code-mirror-1'), {
                         lineNumbers: true,
-                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}`
+                        value: `// it's ${pokemon.name.toUpperCase()}!\n// check the console to learn more \n${genProb(randProp, randPropType)}???`
                     })
                 });
         }
