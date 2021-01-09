@@ -1,27 +1,11 @@
 ---
 layout: junior_coders_default
-title: Getting Started with Scratch Jr.
-title2: Rose Class LATEST
+title: Getting Started with Scratch Jr. (Saturday PM)
+title2: January 9th
 levelsToTop: "../"
+tags: [Class Notes]
 ---
 
-<!-- 
-- [ ] Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》 
-- [ ] {: style="float: right;"}
-- [ ] -->
-
-<br clear="both">
-
-<div id="toc">
-
-* [January 9th](#january-9th)
-  * [Homework due January 16th](#homework-due-january-16th)
-  * [Recap for January 9th](#recap-for-january-9th)
-</div>
-
-
-
--   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details>
 <summary>## January 9th

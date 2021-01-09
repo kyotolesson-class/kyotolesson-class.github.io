@@ -18,7 +18,7 @@ levelsToTop: "../"
   * [Homework due January 15th](#homework-due-january-15th)
   * [Recap for January 8th](#recap-for-january-8th)
 * [New Year's Day, 2021](#new-years-day-2021)
-  * [Homework due Januay 8th](#homework-due-januay-8th)
+  * [Homework due January 8th](#homework-due-january-8th)
   * [Recap for New Year's Day, 2021](#recap-for-new-years-day-2021)
 * [December 18th](#december-18th)
   * [Homework due Next Year](#homework-due-next-year)
@@ -69,20 +69,20 @@ levelsToTop: "../"
   * [October 2nd Class Summary](#october-2nd-class-summary)
   * [Upcoming Plans: Tynker](#upcoming-plans-tynker)
 * [September 25th](#september-25th)
-  * [Homework Due October 2nd](#homework-due-october-2nd)
+  * [Homework Due Oct. 2nd](#homework-due-oct-2nd)
   * [Daily Routines and Halloween Project](#daily-routines-and-halloween-project)
-* [Sept. 18th](#sept-18th)
+* [September 18th](#september-18th)
   * [Finishing Knock Knock Joke Project](#finishing-knock-knock-joke-project)
   * [Next Week: Finish Family Wake Up Story Project](#next-week-finish-family-wake-up-story-project)
 * [September 11th](#september-11th)
-  * [September 18 Homework](#september-18-homework)
+  * [September 18th Homework](#september-18th-homework)
   * [Class Summary](#class-summary)
   * [Sending Messages by Making a Conversation](#sending-messages-by-making-a-conversation)
   * [Continue the conversation](#continue-the-conversation)
   * [The KEYS to Messages](#the-keys-to-messages)
     * [Knock Knock Joke Project](#knock-knock-joke-project)
-* [Sept. 4th](#sept-4th)
-  * [Sept. 4th Homework](#sept-4th-homework)
+* [September 4th](#september-4th)
+  * [September 4th Homework](#september-4th-homework)
   * [Review first maze](#review-first-maze)
   * [Improved Dragon Maze with Buttons](#improved-dragon-maze-with-buttons)
     * [Making the Maze in the Background](#making-the-maze-in-the-background)
@@ -169,7 +169,7 @@ Here is the code for the jumping birthday present.
 
 ## New Year's Day, 2021
 
-### Homework due Januay 8th
+### Homework due January 8th
 
 Keep working on your individual projects. 
 
@@ -702,7 +702,7 @@ You do not need to sign up, as I have created accounts for the students already,
 
 ## September 25th
 
-### Homework Due October 2nd
+### Homework Due Oct. 2nd
 
 The homework is to make a Halloween project using every single block. 
 
@@ -718,10 +718,10 @@ Today we had only one student. The student made a wonderful series of projects d
 
 
 <details>
-<summary>## Sept. 18th
+<summary>## September 18th
 </summary>
 
-## Sept. 18th
+## September 18th
 
 
 We started coding this screen in class. 
@@ -771,7 +771,7 @@ Screen 4 is for you to end the story the way you would like.
 
 ## September 11th
 
-### September 18 Homework 
+### September 18th Homework 
 
 The homework for next week is to continue the Knock Knock Joke Project, by adding the joke below. The Receiving block has to match the color of the Sending block before it. Making these colors **match** is the main point of the exercise.
 
@@ -844,14 +844,14 @@ A: [**Receive PURPLE**{: style="color: purple;background-color: yellow"}] Wooden
 </details>
 
 <details>
-<summary>## Sept. 4th 
+<summary>## September 4th 
 </summary>
 
-## Sept. 4th 
+## September 4th 
 
 
 
-### Sept. 4th Homework
+### September 4th Homework
 
 The homework for this class is to continue working on the Dragon Maze with Buttons (see below). The homework is to make 4 buttons, one for each direction. Then add the cake and dragon, like last week.
 
