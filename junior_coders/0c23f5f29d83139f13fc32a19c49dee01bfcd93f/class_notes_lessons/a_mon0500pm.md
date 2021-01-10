@@ -53,8 +53,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-  * [Homework due Jan 11th](#homework-due-jan-11th)
-  * [Recap for Jan 4th](#recap-for-jan-4th)
+* [January 4th, 2021](#january-4th-2021)
+  * [Homework due January 11th](#homework-due-january-11th)
+  * [Recap for January 4th](#recap-for-january-4th)
   * [Bridgit](#bridgit)
 * [December 28th](#december-28th)
   * [Homework due January 4th](#homework-due-january-4th)
@@ -98,16 +99,19 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
-<details>
-<summary>## Jan 4th
+
+<details markdown=1>
+<summary markdown=1>## January 4th, 2021
 </summary>
 
-## Jan 4th
+## January 4th, 2021
 
 
-### Homework due Jan 11th
+### Homework due January 11th
 
-### Recap for Jan 4th
+Keep working on Tutorials and Projects.
+
+### Recap for January 4th
 
 
 Haunted House
