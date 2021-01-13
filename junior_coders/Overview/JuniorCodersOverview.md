@@ -93,18 +93,21 @@ Platform Game
 ## Sample student projects
 
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5faa1a57917b660ea43ec872&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5ff8069b2220644dd30ca6fa&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="600" height="408" src="//www.tynker.com/ide/embedded?p=5f8aa4b217d87b2ac20e8c3a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5faa1a57917b660ea43ec872&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fd71e42cd557d56054fa1ae&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5f8aa4b217d87b2ac20e8c3a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5fd71e42cd557d56054fa1ae&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 
 
 ## Class Requirements
 
 
-ScratchJr. requires a tablet computer, as well as installation of the free ScratchJr. app. for iPad: [![App Store](./images/Apple_appstore.svg){: .appimage}](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8) or android: [![Google Play](./images/GooglePlay.svg){: .appimage}](https://play.google.com/store/apps/details?id=org.scratchjr.android)
+ScratchJr. requires a tablet computer, as well as installation of the free ScratchJr. app, for iPad: [![App Store](./images/Apple_appstore.svg){: .appimage}](https://itunes.apple.com/us/app/scratchjr/id895485086?ls=1&amp;mt=8) or android: [![Google Play](./images/GooglePlay.svg){: .appimage}](https://play.google.com/store/apps/details?id=org.scratchjr.android)
 
 Scratch and Tynker are web-based; for our purposes we require a laptop computer with a keyboard and mouse. In addition, to create a consistent interface among students, we recommend that Google Chrome be installed as the browser.

@@ -9,8 +9,8 @@ tags: []
 
 
 
-<details>
-<summary>## xxx
+<details markdown=1>
+<summary markdown=1>## xxx
 </summary>
 
 ## xxx
