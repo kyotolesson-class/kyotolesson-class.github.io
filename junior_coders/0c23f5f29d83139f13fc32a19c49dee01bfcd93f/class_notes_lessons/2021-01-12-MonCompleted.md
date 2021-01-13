@@ -20,7 +20,7 @@ Individually Assigned.
 ### Recap for January 11th
 
 Tic Tac Toe
-  : A students is working on a tic tac toe game. We talked about how it should be set up, and the student worked on making an introduction and rules. His homework is to create actors for each of the positions and give each 3 costumes (blank, X, O).
+  : A student is working on a tic tac toe game. We talked about how it should be set up, and the student worked on making an introduction and rules. His homework is to create actors for each of the positions and give each 3 costumes (blank, X, O).
 
 Tutorials
   : One child continues to work on tutorials and needed a little help with understanding if conditionals.
@@ -48,3 +48,30 @@ Peep and the Big Wide World
 
 
 </details>
+
+Hugh: 
+
+I was able to make your haunted house project. I am sorry I couldn't give you an answer in class. The answer is just not easy to explain in a few words. I created a revised project so now it works. You can keep working on the project in it. 
+
+I like the idea of the project, and it would be fun to work on it with you. If you plan out the idea a little more before you try to code it it will be easier to code, and for me to explain to you how to do it. Look at the project, which has lots of annotations. 
+
+: In the project, when it starts I delete all the tiles and add a platform. In the game I first do this with visible tiles so you can see the platform is. Then press c to get the same platform with invisible tiles.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5ffc1a203ab9a77e703c2363&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+<https://www.tynker.com/play/death-run2/5ffc1a203ab9a77e703c2363-566908Xsxu.,ItYhl2kKq9nS.gAf8k>
+
+Here are some of the ideas involved:
+  
+  : * "static" and "active" settings. Tynker doesn't explain these very well. If a player is static, he will not move; he will appear as if he is stapled to the background. If he is active, he gains mass: other characters can bump into him. 
+
+  : * Setting the world size to the appropriate number of tiles. If the world is larger than the stage, the stage will be extended (unless the stage is set to stretch, in which case the tiles are there but the image covers it completely). This means that characters can go outside of the stage image. For example, they can fall off screen.
+
+  : * For the stage not to fall, the platform has to be above the "center" of the screen, as the camera will want to center the main actor, and the platform stops him from moving before he falls below "center". The main character in a platform game will fall until he/she hits the either a platform of the bottom of the world. The camera will fall with the main hero, creating the effect that the characters are falling. 
+
+  : In practice these interact with each other, and finding the right settings can be a matter of trial and error. By playing with your project I was able to find a setting that kept the characters from moving. They key is to create a "blank" or invisible tiles that still keeps the player up, but prevents him from falling. 
+
+  : BUT, you can't create invisible tiles in the usual way. You have to code them  using the set tile block. 
+
+  
