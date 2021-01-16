@@ -23,8 +23,8 @@ h1, h2 {
 
 code {
     border: 2px dashed pink;
-    padding: 8px;
-    background-color: rgba(0,0,0,0.1);
+    padding: 4px 8px;
+    /* background-color: rgba(0,0,0,0.1); */
 }
 
 table {
