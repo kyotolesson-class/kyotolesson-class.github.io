@@ -56,6 +56,13 @@ dd  {
 margin: 0px 0px 10px 20px;
 }
 
+/* lists within definition lists . THe negative margin bottom compensates for the +10 margin bottom in the dd above */
+dd ul {
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+    padding-left:  10px;
+}
+
 #banner {
     right: 0%;
     top: 110px;
