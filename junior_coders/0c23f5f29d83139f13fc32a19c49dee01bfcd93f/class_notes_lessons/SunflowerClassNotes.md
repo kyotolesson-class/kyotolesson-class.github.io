@@ -16,10 +16,10 @@ tags: []
 <div id="toc">
 
 * [January 16th](#january-16th)
-  * [Homework due January 16th](#homework-due-january-16th)
+  * [Homework due January 23rd](#homework-due-january-23rd)
   * [Recap for January 16th](#recap-for-january-16th)
 * [January 9th](#january-9th)
-  * [Homework due January 16th](#homework-due-january-16th-1)
+  * [Homework due January 16th](#homework-due-january-16th)
   * [Recap for January 9th](#recap-for-january-9th)
 </div>
 
@@ -34,7 +34,7 @@ tags: []
 
 ## January 16th
 
-### Homework due January 16th
+### Homework due January 23rd
 
 
 The homework is to continue working on their project and bring one to share next week.
