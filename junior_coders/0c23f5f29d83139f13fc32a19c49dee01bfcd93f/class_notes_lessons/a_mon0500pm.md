@@ -124,7 +124,7 @@ Tutorials
 Haunted House
   : The Haunted House project hit a few snags as at first, characters kept "falling" when the program started. Sometimes students, especially creative ones, have problems or questions that are difficult to answer, not because there isn't an answer, but the answer or explanation is long, difficult, uncertain, and so on. This is an example. The answer turns out to depend on the following, among other things:  
   
-  : * "static" and "active" settings. 
+  : * The "static" and "active" settings. 
   : * The main fact that character in a platform game will fall until he/she hits the either a platform of the bottom of the world. 
   : * The fact that in this case you need to use an invisible platform, and invisible platforms are not available in the basic GUI. You CAN use them, but you have to program them.
   : * You also need to set the world size to an appropriate value, and this depends on the size of the stage and whether the stage is normal, stretched, or tiled.
