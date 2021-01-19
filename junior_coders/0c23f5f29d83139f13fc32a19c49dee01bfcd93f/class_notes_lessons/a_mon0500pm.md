@@ -152,7 +152,7 @@ Peep project, and Pet simulator
   : The Peep Nature Walk project was a bit difficult. The student made a good effort and learned some things. Here is what it could have looked like:
 
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6005f50a2e6d82407f707508&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-true{: .jsgif}
+{: .jsgif}
 
 Pet Simulator
   : Since it was difficult I gave her the option of trying a new project and she chose the Pet Simulator. This project uses the following series of if statements to choose a different reaction for the pet for each food. 
