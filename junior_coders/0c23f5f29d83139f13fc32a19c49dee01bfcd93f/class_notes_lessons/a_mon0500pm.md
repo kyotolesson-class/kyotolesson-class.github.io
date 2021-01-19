@@ -149,7 +149,7 @@ Here is an incomplete version:
 
 
 Peep project, and Pet simulator
-  : The Peep Nature Walk project was a bit difficult. The student made a good effort and learned some things. Here is what it could have looked like:
+  : The Peep Nature Walk project turned out to be more difficult than expected. The student made a good effort and learned some things. Here is what it could have looked like:
 
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6005f50a2e6d82407f707508&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
