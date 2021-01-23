@@ -14,8 +14,6 @@ tags: []
 
 ## January 22nd
 
-### Homework due January 29th
-
 ### Recap for January 22nd
 
 
