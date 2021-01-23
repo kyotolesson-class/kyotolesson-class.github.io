@@ -56,7 +56,7 @@ true{: .jsgif}
 Pet Simulator
   : Since it was difficult I gave her the option of trying a new project and she chose the Pet Simulator. This project uses the following series of if statements to choose a different reaction for the pet for each food. 
 
-![pet simulator](https://i.imgur.com/CCwp0qc.png)
+![pet simulator](https://i.imgur.com/CCwp0qc.png){: .jsgif}
 
 Shooting Game: 
   Another student had a an interesting goal. He wanted to make certain tiles disappear after the player captured a special ring. This is actually quite easy, though it sound difficult to do. The key block is this one:
