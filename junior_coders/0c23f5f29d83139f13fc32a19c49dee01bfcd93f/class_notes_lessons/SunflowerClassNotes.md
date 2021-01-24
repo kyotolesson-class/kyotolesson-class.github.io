@@ -38,7 +38,7 @@ tags: []
 
 ### Homework due January 30th
 
-Make a new project, this time with a chase. 
+Make a new project, this time with a chase, as given below. 
 
 
 ### Recap for January 23rd
@@ -55,7 +55,6 @@ The kids made their own version. As usual they had a lot of fun designing new ch
 {% include giphy.html link="https://media.giphy.com/media/j5DU2Njy0z4VC4KHBw/" %} 
 
 The homework is to make another square maze, but instead of collecting tokens, this time the characters play tag. As each character is bumped, they move on to the next character. Here is a sample.
-http://www.giphy.com/gifs/
 
 {% include giphy.html link="https://media.giphy.com/media/Bzk3VQVTfhZYcXro6c/" %} 
 
