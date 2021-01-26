@@ -115,7 +115,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ## January 25th 
 
-### Homework due February 1st
+### Homework due February 1st 
+
+Continue individual projects.
 
 ### Recap for January 25th 
 
@@ -141,9 +143,6 @@ Tic Tac Toe
   : After creating that variable, we initialized it and created the if else loop that tests to see who the player is before changing the costume.
   : All in all a lot of great work for one day!
 
-
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=6005537ab7669807061233e8&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
 
 First Project
   : A student working on their first Tynker project. They learned how to import costumes into Tynker but had a problem uploading the actor's costume. We learned that you must make sure you download as jpg/png and not as html.

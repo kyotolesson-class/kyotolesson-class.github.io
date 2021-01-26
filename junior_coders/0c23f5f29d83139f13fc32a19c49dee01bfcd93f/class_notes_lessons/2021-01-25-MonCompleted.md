@@ -15,7 +15,9 @@ tags: []
 
 ## January 25th 
 
-### Homework due February 1st
+### Homework due February 1st 
+
+Continue individual projects.
 
 ### Recap for January 25th 
 
