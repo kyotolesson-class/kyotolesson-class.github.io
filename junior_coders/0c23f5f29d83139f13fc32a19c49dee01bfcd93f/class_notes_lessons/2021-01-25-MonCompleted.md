@@ -42,9 +42,6 @@ Tic Tac Toe
   : All in all a lot of great work for one day!
 
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=6005537ab7669807061233e8&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
-
 First Project
   : A student working on their first Tynker project, Space Rush. They decided they wanted to change the rocket to an "Among Us" character and we talked about how to import costumes into Tynker but had a problem uploading the actor's costume. We learned that you must make sure you download as jpg/png and not as html.
 
