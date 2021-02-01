@@ -14,6 +14,8 @@ levelsToTop: "../"
 
 <div id="toc">
 
+* [January 29th](#january-29th)
+  * [Recap for January 29th](#recap-for-january-29th)
 * [January 22nd](#january-22nd)
   * [Homework due January 29th](#homework-due-january-29th)
   * [Recap for January 22nd](#recap-for-january-22nd)
@@ -131,6 +133,41 @@ levelsToTop: "../"
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details markdown=1>
+<summary markdown=1>## January 29th
+</summary>
+
+## January 29th
+
+
+### Recap for January 29th
+
+Technical problems
+
+  : Today class was a bit hectic. Some students have been using new computers and some still have some technical problems with them, such as logging in a getting internet. We also had a trial student.
+
+ScratchJr.
+  : Today's project was an animate your name project. Kids did a great job with it. They added their own name or other word as characters and created movements with both the green flag and for touch actions.
+
+{% include giphy.html link="https://media.giphy.com/media/2XTcSuvEVm8vnnax17/" %} 
+
+{% include giphy.html link="https://media.giphy.com/media/DuIY2c4LLWB7OQZN4z/" %} 
+
+
+Tutorials
+  : Some students are still working on tutorials. Using loops is still challenging, so we worked together on that. 
+
+
+Walking Guy
+  : One student discovered how to make a basic Platformer game and explored making different characters.
+
+Peep Nature Walk
+  : A student came up with a story about going shopping Peep Nature Walk. Today she worked mostly on deciding the layouts and actors and she drew a basic background for the store and we ended at the point where we could begin adding this to her project.
+
+
+</details>
+
+
+<details markdown=1>
 <summary markdown=1>## January 22nd
 </summary>
 
@@ -179,7 +216,7 @@ New Students and ScratchJr.
 {% include giphy.html link="https://media.giphy.com/media/FiuZiSeoLwol7qoqY9/" %} 
 
 Knock Knock Jokes
-  : After doing many tutorials, one girl started to work on a basic project, a knock knock joke project. She decided she wanted to change the stock actor the project came with, and got very excited at all teh characters, especially the mermaids, that are available in the media library. After exploring this for a while she asked if we could make the Mermaid King's flippers move as if he were swimming. This is actually hard to do in Tynker, but I walked through the simple cut, paste, and rotate actions that are part of partially creating that effect. She also made some other modifications to the Mermaid King, like changing the color of his sword.
+  : After doing many tutorials in Tynker, one girl started to work on a basic project, a knock knock joke project. She decided she wanted to change the stock actor the project came with, and got very excited at all the characters, especially the mermaids, that are available in the media library. After exploring this for a while she asked if we could make the Mermaid King's flippers move as if he were swimming. This is actually hard to do in Tynker, but I walked through the simple cut, paste, and rotate actions that are part of partially creating that effect. She also made some other modifications to the Mermaid King, like changing the color of his sword.
 
 Tutorials
   : Lastly, another student worked independently on finishing up the Barbie Pets Tutorial, and continuing on a Christmas-themed project. She had a small question about one section of the tutorial, but eventually got it. The ability to work independently is a sign of increased confidence and mastery.
