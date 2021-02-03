@@ -127,7 +127,7 @@ Space Rush
 
  ![Imgur](https://i.imgur.com/VE7LjNL.png){: .jsgif}
 
-d 
+
   
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 {: .jsgif}
