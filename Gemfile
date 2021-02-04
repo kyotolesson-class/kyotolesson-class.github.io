@@ -28,6 +28,9 @@ group :jekyll_plugins do
  
 end
 
+gem "kramdown", ">= 2.3.0"
+
+
 # creates smaller images for galleries,  looks like I need both?:
 # gem 'jekyll-srcset'
 #gem 'jekyll-srcset2'
