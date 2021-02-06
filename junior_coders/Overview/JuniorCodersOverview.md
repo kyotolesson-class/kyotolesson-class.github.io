@@ -33,6 +33,7 @@ siteurl: https://kyotolesson-class.github.io
 
 After some preliminaries introducing the goals of the class, the first coding projects we introduce are based on a program called [Scratch Jr.](https://www.scratchjr.org/about/info). Created by Tufts University, MIT and the Playful Invention Company, this platform teaches basic computing using simple blocks that control animated figures. In addition to the curriculum and projects offered on the [Bootup website](https://bootuppd.org/curriculum), we develop our own projects based on student interests and capabilities. 
 
+{% include giphy.html link="https://media.giphy.com/media/j5DU2Njy0z4VC4KHBw/" %} 
 
 ### Mazes
 
