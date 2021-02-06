@@ -167,7 +167,9 @@ Fruit Frog
 Race to the Finish
   : Today's ScratchJr. project was a variation of the race to the finish project. This served as a gentle introduction to using messages and making buttons. They both make a lot of progress but had a bit to finish for homework.
   
-{% include youtubelazy.html  videoID="0QY_rF8h6-Y" %}
+![Screen 1 of Race to the Finish](./scratchProjects/Images/Y1R25RaceToTheFinish/Story/Y1R25RacetotheFinish.gif "Screen 1 of Race to the Finish"){: .jsgif}
+
+![Screen 2 of Race to the Finish](./scratchProjects/Images/Y1R25RaceToTheFinish/Game/Y1R25RacetotheFinishGame.gif "Screen 2 of Race to the Finish"){: .jsgif} 
 
 
 </details>
