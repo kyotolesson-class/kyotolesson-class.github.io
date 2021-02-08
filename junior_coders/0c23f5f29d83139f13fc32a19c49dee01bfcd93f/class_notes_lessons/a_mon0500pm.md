@@ -131,7 +131,7 @@ Debugging
  
 ![Imgur](https://i.imgur.com/oQtpJcc.gif){: .jsgif}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 
 * Another student had a problem with the Space Rush Game. One of the asteroids wouldn't disappear, and there was not score. We started to discuss why this was happening and next week we will fix it. 
