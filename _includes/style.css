@@ -805,6 +805,23 @@ iframe[src^="https://turbowarp.org"] {
       background-color: var(--scrollbarBG);
 }
 
+div.imgurdiv iframe {
+    max-width: calc(100% - 19px)!important;
+    border-color: var(--thumbBG);
+    border: 9px solid var(--scrollbarBG);
+    border-radius: 12px;
+    background-color: var(--scrollbarBG);
+    /* width: calc(100% - 19px); */
+}
+
+div.imgurdiv iframe  #header {
+     max-height: 5px; padding: 0px; 
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffec9f;
+    max-height: 0px!important;
+}
+
 .jsgif canvas {
     width: 100%;
     position: relative;
