@@ -129,7 +129,10 @@ Debugging
 * In order to rename some functions in their code, a student had to reverse engineered the original function to find a suitable rename for it.
 * One student is working on an especially creative platform game. They created a Monster Museum and a special monster "cage" that opens when the character collects a certain coin. There was a bug where the tiles that make the door of the cage disappeared when the project was run. We reused a trick from last week to redraw the tiles when the program starts. We also talked about the goal of their project, and make a bunch of balloons appear when the hero collects the final star. 
  
-![Imgur](https://i.imgur.com/oQtpJcc.gifv)
+![Imgur](https://i.imgur.com/oQtpJcc.gifv#embed)
+
+
+<iframe class="imgur-embed" width="100%" height="364" frameborder="0" src="https://i.imgur.com/oQtpJcc.gifv#embed"></iframe>
 
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
 
