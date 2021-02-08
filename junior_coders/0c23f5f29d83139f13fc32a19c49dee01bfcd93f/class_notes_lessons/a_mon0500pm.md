@@ -144,7 +144,7 @@ we had to change the x-position.
 ![Imgur](https://i.imgur.com/mWoeYq4.png){: style="height: 80px;width: auto;" .jsgif}
 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6020fa6732ab521c4a5bbfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6020fa6732ab521c4a5bbfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 
 
@@ -171,8 +171,7 @@ Space Rush
 
 
   
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 Among Us
   : The student was very ambitious. They worked on planning the next stage of their an Among Us game. Watching another student, they were also inspired to start their own Platform game. 
@@ -190,8 +189,11 @@ Maze
 
   : In the example below, click the mouse to move the tiny fish.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6017cb9e365a4a4c562b881a&controls=full&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+Watch it here:
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6017cb9e365a4a4c562b881a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
 
 Tic Tac Toe
   : The Tic Tac Toe project continues. 
