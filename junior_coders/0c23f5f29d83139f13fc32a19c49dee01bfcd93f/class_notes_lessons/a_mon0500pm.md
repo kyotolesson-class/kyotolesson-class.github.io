@@ -127,15 +127,9 @@ Debugging
   
 * a Maze project was finished after fixing an error due to a missing minus sign. The student was able to code the 3rd part of the maze all by themselves.
 * In order to rename some functions in their code, a student had to reverse engineered the original function to find a suitable rename for it.
-* One student is working on an especially creative platform game. They created a Monster Museum and a special monster "cage" that opens when the character collects a certain coin. There was a bug where the tiles that make the door of the cage disappeared when the project was run. We reused a trick from last week to redraw the tiles when the program starts. We also talked about the goal of their project, and make a bunch of balloons appear when the hero collects the final star. 
+* One student is working on an especially creative platform game. They created a Monster Museum and a special monster "cage" that opens when the character collects a certain coin. There was a bug where the tiles that make the door of the cage disappeared when the project was run. We reused a trick from last week to redraw the tiles when the program starts. We also talked about the goal of their project, and make a bunch of balloons appear when the hero collects the final star, shich you can see at the end of this sample play. 
  
-![Imgur](https://i.imgur.com/oQtpJcc.gifv#embed)
-
-
-<iframe class="imgur-embed" width="100%" height="364" frameborder="0" src="https://i.imgur.com/oQtpJcc.gifv#embed"></iframe>
-
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-
+![Imgur](https://i.imgur.com/oQtpJcc.gif){: .jsgif}
 
 * Another student had a problem with the Space Rush Game. One of the asteroids wouldn't disappear, and there was not score. We started to discuss why this was happening and next week we will fix it. 
 * We worked on a Walk in the Park Game but Tynker's project template was set up for a tablet, so we had to figure out how to modify some of the code so it would work on a pc. Instead of changing the x-tilt:
