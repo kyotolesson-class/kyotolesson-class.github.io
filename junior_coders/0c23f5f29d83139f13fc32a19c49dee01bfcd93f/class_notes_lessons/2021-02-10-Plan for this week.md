@@ -8,7 +8,7 @@ date:
 ---
 
 
-{% newthought 'Week' %} {{ page.date | date: "%W" }} _{{ page.date | date: "%A"   }}, {% assign d = page.date | date: "%-d" %}{{ page.date | date: "%B" }} {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ page.date | date: "%Y" }}&nbsp;_{:  .marginnote}
+Week {{ page.date | date: "%W" }} _{{ page.date | date: "%A"   }}, {% assign d = page.date | date: "%-d" %}{{ page.date | date: "%B" }} {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ page.date | date: "%Y" }}&nbsp;_{:  .marginnote}
 
 
 # Friday
