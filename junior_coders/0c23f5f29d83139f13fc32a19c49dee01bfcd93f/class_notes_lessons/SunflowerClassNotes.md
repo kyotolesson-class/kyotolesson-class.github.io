@@ -54,7 +54,7 @@ Make a project like the one we did in class, using 2 buttons to control a face.
 
 Today the kids started off by coding for themselves. We worked on using the camera to take pictures. The kids had game cards, and they were putting the game cards on the screen to try to figure out how big the frame for the pictures. To get the dimensions right I taught them how to use the grid to figure out where to draw the frame. From there they could take the picture to fit in the 
 
-![Imgur](https://i.imgur.com/AK5yyj1.jpg){: .jsgif}
+![photo of card](https://i.imgur.com/AK5yyj1.jpg){: .jsgif}
 
 One student made an interesting "rotating moon" face that soon everyone was in on copying. You can see it here:
 
