@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [February 8th](#february-8th)
+  * [Recap for February 8th](#recap-for-february-8th)
 * [February 1st](#february-1st)
   * [Homework due February 7th](#homework-due-february-7th)
   * [Recap for February 1st](#recap-for-february-1st)
@@ -113,6 +115,46 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details markdown=1>
+<summary markdown=1>## February 8th
+</summary>
+
+## February 8th
+
+### Recap for February 8th
+
+Debugging
+  : Today students worked on debugging projects they were working on. 
+  
+* a Maze project was finished after fixing an error due to a missing minus sign. The student was able to code the 3rd part of the maze all by themselves.
+* In order to rename some functions in their code, a student had to reverse engineered the original function to find a suitable rename for it.
+* One student is working on an especially creative platform game. They created a Monster Museum and a special monster "cage" that opens when the character collects a certain coin. There was a bug where the tiles that make the door of the cage disappeared when the project was run. We reused a trick from last week to redraw the tiles when the program starts. We also talked about the goal of their project, and make a bunch of balloons appear when the hero collects the final star, which you can see at the end of this sample play. 
+ 
+![Imgur](https://i.imgur.com/oQtpJcc.gif){: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+* Another student had a problem with the Space Rush Game. One of the asteroids wouldn't disappear, and there was not score. We started to discuss why this was happening and next week we will fix it. 
+* We worked on a Walk in the Park Game but Tynker's project template was set up for a tablet, so we had to figure out how to modify some of the code so it would work on a pc. Instead of changing the x-tilt:
+
+![Imgur](https://i.imgur.com/REnzivA.png){: style="height: 80px;width: auto;" .jsgif}
+
+we had to change the x-position.
+
+![Imgur](https://i.imgur.com/mWoeYq4.png){: style="height: 80px;width: auto;" .jsgif}
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6020fa6732ab521c4a5bbfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+
+Fun
+  : For fun some students worked on making their own minecraft mods, which is a home feature of Tynker. 
+
+
+</details>
+
+<details markdown=1>
 <summary markdown=1>## February 1st
 </summary>
 
@@ -129,8 +171,7 @@ Space Rush
 
 
   
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 Among Us
   : The student was very ambitious. They worked on planning the next stage of their an Among Us game. Watching another student, they were also inspired to start their own Platform game. 
@@ -148,8 +189,11 @@ Maze
 
   : In the example below, click the mouse to move the tiny fish.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6017cb9e365a4a4c562b881a&controls=full&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+Watch it here:
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6017cb9e365a4a4c562b881a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
 
 Tic Tac Toe
   : The Tic Tac Toe project continues. 
