@@ -4,66 +4,71 @@ title: Getting Started with Scratch Jr. (Monday PM)
 title2: 
 levelsToTop: "../"
 tags: []
-date: 2021-02-09 00:00:00
-summary: Summary of the article
+date: 2021-02-15 00:00:00
+summary: Class Notes
 ---
 
- Week {{ page.date | date: "%W" }} _{{ page.date | date: "%A"   }}, {% assign d = page.date | date: "%-d" %}{{ page.date | date: "%B" }} {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, {{ page.date | date: "%Y" }}&nbsp;_{:  .marginnote}
+
+<details markdown=1>
+<summary markdown=1>## February 15th
+</summary>
+
+## February 15th
+
+### Homework due February 22nd
+
+Keep working on your class project.
+
+### Recap for February 15th
+
+#### Preliminary Activity
+
+We started off with an activity aimed at prompting some positivity and team spirit. Kids went around the room and tried to say one nice thing about one other person. Even though some kids struggled with this, I think it was helpful at getting them to think in those terms. Based on this I talked the positive qualities the kids in this class have. Then I talked about how these qualities can be part of becoming a good coder. I wanted them also to think of themselves as coders.
+
+Qualities that kids in this class have that are also good for coders
+  : Creativity 
+  : Energy and Excitement
+  : Getting in ideas from many places.
+  : Cleverness 
+  : Assiduousness 
+  : Learning independently.
+  : Thoughtfulness
+  : Kindness
+  : Willingness to ask questions and search for answers
+  : Concentration
+  : Working through difficulties
+  : Focus
 
 
-# Friday
+#### Project Review of the Day (February 15th)
 
-## scratchjr
-### Tynker
+Today we also started a project review series. At the beginning of each class we will spend some time reviewing a project that someone has made. As a class, we will then modify it to see how it works, and how to make it better.
 
-# Saturday
-## scratchjr
+Today's project was the Space Rush game.
 
-# Monday
-## Tynker 
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6021522f326cdc17cf2e10d4&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
+We looked at the code that controls how the Ship moves and adjust ed the the parameters to make the character move faser and more smoothly.
 
-Lots of fun exploring.
+By making how far the ship moves each time larger, the ship moves faster, but less smoothly. By decreasing the wait the ship goes faster.
 
-Today is a review day.
+!![Space Rush](https://i.imgur.com/XPCDm4h.png)
+</details>
 
-Say one nice thing about yourself. Something that makes you feel good. 
-Say one nice thing about someone else. Something that will make them feel good.
+Likewise for the Monn/Asteroid.
 
-You all have unique gifts fr programming
-* Hugh: Creative and exciting, energetic, pulls in ideas from many places.
-* Miki: Clever ideas for games, and works hard on it. Learns independently.
-* Anela: Thoughtful, kind. Why is that important. Family project.
-* Siwoo: Willing to ask questions and find answers
-* Akira: Concentrates well. Working thogh difficulties. Focus. It'S hard to say what your question is.
-* 
-YOu all have some of these qualities to some extent. 
+![Imgur](https://i.imgur.com/XTtlYMM.png)
 
 
-Projects get stuck: 
-* Hugh: Among us slow
-* MMiki: Great ideas, but unexplored possibilities
-* Anela: Is learning to do things, but there is more 
-* Siwoo: New, but learning from others
-* Akira: Understands a lot but aa gap bwteen what he wants and what he can . 
+Kids really enjoyed being able to modify the code to see what would happen, especially using "crazy" umbers like zero or 1000000. 
+
+#### Motivation System
+
+To help with motivation in the class I started an bonus points system where kids collect points for positive contributions such as cooperation, teamwork, and concentration and hard work. Ultimately the goal is to add a little fun and a rewards for their had work; given that they are still gaining skills and making mistakes and getting stuck from time to time, the intrinsic rewards of making something work are not as strong.
+
+#### Platformers are popular
+
+This week there was a sudden surge in interest in Platform games. One girl had come up with her own since last week, and another two kids decided to copy her effort!!
 
 
-Learn by reviewing as well as exploring, and listening and imitating
-
-I have fixed a lot of projects for you (hugh, anela, siwoo, miki, akira). Why? To show you by example what can be done.  To help show you the way ahead as coders. To encourage you to make the projects your own.
-
-### Steps:
-1. First I will go through one project (inspired) by each of you. I will highlight some good poimnt and some code you should all be able to understand.
-
-
-2.  I have made a project that shows off some simple examples of how to do things. I will walk through it. YOur job is try to understand it well enough to finish this project. We will do one screen as a group, and one screen is left for each of you to finish. I will give awards each day. I will take away awards for negative actions, give awards for positive actions.
-3. If you listen and have enough awards at the end of the day you get a prize. If you do something good and earn bonus awards you get a bonus prize.
-If you finish your project and have enough awards at end of the project, you get a bonus bonus award.
-
-THe awards are not too serious. It is just to add a little fun. Don't stress!
-
-At the end you will hae control and mastery.
-
-DDo 
-
-Start with siwoo
+</details>
