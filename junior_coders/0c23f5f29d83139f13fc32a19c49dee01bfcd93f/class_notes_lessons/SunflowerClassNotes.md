@@ -15,6 +15,9 @@ tags: []
 
 <div id="toc">
 
+* [February 20th](#february-20th)
+  * [Homework due February 27th](#homework-due-february-27th)
+  * [Recap for February 20th](#recap-for-february-20th)
 * [February 13th](#february-13th)
   * [Homework due February 20th](#homework-due-february-20th)
   * [Recap for February 13th](#recap-for-february-13th)
@@ -37,6 +40,42 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## February 20th
+</summary>
+
+## February 20th
+
+
+### Homework due February 27th
+
+Finish or make a new story project.
+
+### Recap for February 20th
+
+
+ScratchJr.
+  :Today in ScratchJr. we talked about the story of the 3 little pigs, which everyone seemed to know and enjoy telling me. Then I showed the kids this the the 3 little pigs project, which was derived from a student project done last year.
+
+![Imgur](https://i.imgur.com/MpHYbr7.gif){: .jsgif}
+
+This involves all the skills we have been working on so far, especially sending messages and all the movement and control blocks.
+
+Project of the day
+  : The project of the day was to tell a story, either a well-known one, or one you make up. Naturally some kids were interested in make Kimetsu no Yaiba stories, but they also made other stories, for example, this story is about a bear. He uses a time machine to go back in time 24 hours, but his time machine leaves him, so in the end he has to way a day for it to come back. The clever bit is that the story then repeats itself forever!
+
+![Imgur](https://i.imgur.com/UvV0AGG.gif){: .jsgif}
+
+Face Project:
+  : One kid also finished up his face project, which came out pretty well.
+
+![Imgur](https://i.imgur.com/uCg80sb.gif){: .jsgif}
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## February 13th
