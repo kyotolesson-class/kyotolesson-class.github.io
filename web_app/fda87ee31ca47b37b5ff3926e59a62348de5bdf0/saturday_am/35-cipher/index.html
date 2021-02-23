@@ -38,7 +38,7 @@
     <meta name="robots" content="index, follow">
 
     <!--favicon (used for icon on website's tab)-->
-    <link rel="shortcut icon" type="image/png" href="../../../img/00_Meta_favicon.png">
+    <link rel="shortcut icon" type="image/png" href="../../../../img/00_Meta_favicon.png">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
@@ -48,7 +48,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
     <link class="gf-headline" href='https://fonts.googleapis.com/css?family=Pacifico:400&subset=' rel='stylesheet'
         type='text/css'>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
 
     <!-- preconnect to google map for smoother page loading -->
     <link rel="preconnect" href="https://maps.gstatic.com">
@@ -57,7 +57,7 @@
 <body>
     <h1>
         <a class="navbar-brand" href="https://kyotolesson.com">
-            <img src="../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
+            <img src="../../../../img/01_Nav_stamp_namepacifio_blue_navbar1.png" width="300" class="img-fluid"
                 alt="Kyoto Lesson"></a>
     </h1>
 
@@ -65,50 +65,44 @@
     <div class="container-fluid">
         <div><a href="../index.html">( back )</a></div><br>
         <div class="row" id="curriculum">
-            <h2>Web App Builders - Saturday Morning Class</h2>
+            <h2>Saturday February 20th, 2021</h2>
         </div>
-        <div class="row">
-            <ul>
-                <li><a href="./35-cipher/">February 20th, 2021</a></li>
-                <li><a href="./34-game/">February 13th, 2021</a></li>
-                <li><a href="./33-game/">February 6th, 2021</a></li>
-                <li><a href="./32-project/">January 30th, 2021</a></li>
-                <li><a href="./31-review/">January 23rd, 2021</a></li>
-                <li><a href="./30-objects/">January 16th, 2021</a></li>
-                <li><a href="./29-objects/">January 9th, 2021</a></li>
-                <li><a href="./28-math/index.html">January 2nd, 2021</a></li>
-                <li><a href="./27-booleans/index.html">December 26th, 2020</a></li>
-                <li><a href="./26-booleans/index.html">December 19th, 2020</a></li>
-                <li><a href="./25-arrays/index.html">December 12th, 2020</a></li>
-                <li><a href="./24-dom/index.html">November 28th, 2020</a></li>
-                <li><a href="./23-dom/index.html">November 21st, 2020</a></li>
-                <li><a href="./22-dom/index.html">November 14th, 2020</a></li>
-                <li><a href="./21-dom/index.html">November 7th, 2020</a></li>
-                <li><a href="./20-javascript/index.html">October 31st, 2020</a></li>
-                <li><a href="./19-javascript/index.html">October 24th, 2020</a></li>
-                <li><a href="./18-javascript/index.html">October 17th, 2020</a></li>
-                <li><a href="./17-javascript/index.html">October 10th, 2020</a></li>
-                <li><a href="./16-javascript/index.html">October 3rd, 2020</a></li>
-                <li><a href="./15-personal-site/index.html">September 26th, 2020</a></li>
-                <li><a href="./14-personal-site/index.html">September 19th, 2020</a></li>
-                <li><a href="./13-personal-site/index.html">September 12th, 2020</a></li>
-                <li><a href="./12-figma/index.html">September 5th, 2020</a></li>
-                <li><a href="./11-figma/index.html">August 28th, 2020</a></li>
-                <li><a href="./10-figma/index.html">August 22nd, 2020</a></li>
-                <li><a href="./09-bootstrap/index.html">August 8th, 2020</a></li>
-                <li><a href="./08-browserVR/index.html">August 1st, 2020</a></li>
-                <li><a href="./07-browserVR/index.html">July 25th, 2020</a></li>
-                <li><a href="./06-browserVR/index.html">July 18th, 2020</a></li>
-                <li><a href="./05-more-cards/index.html">July 11th, 2020</a></li>
-                <li><a href="./04-card-review/index.html">July 4th, 2020</a></li>
-                <li><a href="./03-card/index.html">June 27, 2020</a></li>
-                <li><a href="./02-linked-buttons/index.html">June 20, 2020</a></li>
-                <li><a href="./01-button/index.html">June 13, 2020</a></li>
-            </ul>
+        <div>
+            <p>This week, we played a challenging, browser-based game that requires web, HTML, and CSS skills to beat each level. The game is called <a href="http://gamemastertips.com/cipher/cipher.htm" target="_blank">Cipher</a>.</p>
+            <p>It was fun trying to find the keyword that would unlock each new challenge. Doing so requires opening the browser inspector, reading the source code, and then manipulating the page in some way to reveal an answer.</p>
+            <p>For instance, on level 9, we see a picture of piano keys.</p>
+            <img class="cipher-img" src="../media/cipher/level9.jpg" alt="">
+            <br><br>
+            <p>In the inspector, there is an image titled "picture8ofdoom." 🤔</p>
+            <img class="cipher-img" src="../media/cipher/picture8.jpg" alt="">
+            <p>That's strange... because we're on level 9, not 8.</p>
+            <p>If we change the picture's name to "picture9ofdoom," the image swaps to a string of musical notes.</p>
+            <img src="../media/cipher/picture8-9.jpg" alt="" class="cipher-img"><br>
+            <img src="../media/cipher/picture9.jpg" alt="" class="cipher-img">
+            <p>And then, knowing that each note corresponds to an alphabetical letter, we can decipher the message, which ends up being "CABBAGE."</p>
+            <img src="../media/cipher/notes.jpg" alt="" class="cipher-img">
+            <p>Typing "cabbage" in the url will take us to the next challenge.</p>
+            <img src="../media/cipher/cabbage.jpg" alt="" class="cipher-img">
+            <p>We probably won't spend much time on this in the future, but it was a fun diversion that flexed our critical thinking muscles.</p>
+            <p>Making puzzles like this isn't too difficult and could be an interesting future project for us to work on.</p>
         </div>
 
         <br><br>
-    
+    <style>
+        .cipher-img {
+            width: 500px;
+            padding: 8px 0px 8px 0px;
+            margin-bottom: 8px;
+            border: 3px dashed red;
+            box-shadow: 4px 4px 4px rgba(0,0,0,0.1);
+        }
+
+        @media (max-width: 767px) {
+            .cipher-img {
+                width: 100%;
+            }
+        }
+    </style>
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
