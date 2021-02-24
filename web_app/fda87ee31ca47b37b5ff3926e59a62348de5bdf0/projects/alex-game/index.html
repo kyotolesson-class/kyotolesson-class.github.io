@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grab the bunny ears!</title>
+</head>
+<body>
+
+    <div>
+        <img id="bunny-ears-wearable" src="images/bunny-ears.png" alt="">
+        <img id="alex" src="images/alex.png" alt="">
+    </div>
+
+    
+    <img id="bunny-ears" src="images/bunny-ears.png" alt="">
+    
+
+    <style>
+        div {
+            height: 95vh;
+            width: 100px;
+            /* background-color: black; */
+            position: relative;
+            bottom: 0px;
+            display: flex;
+            align-items: flex-end;
+        }
+
+        .jumping {
+            animation-name: jump;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+        }
+
+        .jumping-big {
+            animation-name: jump-big;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+        }
+
+        @keyframes jump {
+            0% {
+                bottom: 0;
+            }
+
+            50% {
+                bottom: 100px;
+            }
+
+            100% {
+                bottom: 0px;
+            }
+        }
+
+        @keyframes jump-big {
+            0% {
+                bottom: 0;
+            }
+
+            60% {
+                bottom: 700px;
+            }
+
+            100% {
+                bottom: 0px;
+            }
+        }
+
+        img {
+            width: 300px;
+        }
+
+        #bunny-ears {
+            position: absolute;
+            bottom: 0;
+            right: 0px;
+        }
+
+        #bunny-ears-wearable {
+            position: absolute;
+            bottom: 175px;
+            visibility: hidden;
+        }
+
+        body {
+            background-image: url("images/forest.jpg");
+            background-size: cover;
+        }
+    </style>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+
+        let topPosition = 0
+        let leftPosition = 0
+        let goSpeed = 50
+        let alex = document.querySelector("div")
+        document.addEventListener('keydown', e => {
+            if (e.key === "ArrowRight") {
+                leftPosition += goSpeed
+                alex.style.left = `${leftPosition}px`
+                alex.style.transform = "rotate(5deg)"
+            } else if (e.key === "ArrowLeft") {
+                leftPosition -= goSpeed
+                alex.style.left = `${leftPosition}px`
+                alex.style.transform = "rotate(-5deg)"
+            }   
+        })
+
+        document.addEventListener('keyup', e => {
+            alex.style.transform = "scale(1)"
+            if (e.key === " " && document.querySelector("#bunny-ears-wearable").style.visibility === "visible") {
+                alex.classList.add('jumping-big')
+                setTimeout(function () {
+                    alex.classList.remove('jumping-big')
+                }, 1000)
+            } else if (e.key === " ") {
+                alex.classList.add('jumping')
+                setTimeout(function () {
+                    alex.classList.remove('jumping')  
+                }, 1000)
+            }
+        })
+
+        const getAlexPosition = function () {
+            return document.querySelector("#alex").getBoundingClientRect().x
+        }
+
+        const getBunnyPosition = function () {
+            return document.querySelector("#bunny-ears").getBoundingClientRect().x
+        }
+
+        setInterval(function () {
+            const alexPos = getAlexPosition()
+            const bunnyPos = getBunnyPosition()
+            if (alexPos > bunnyPos - 30 && alexPos < bunnyPos + 30) {
+                document.querySelector("#bunny-ears").style.visibility = "hidden";
+                document.querySelector("#bunny-ears-wearable").style.visibility = "visible";
+                goSpeed = 150
+            }
+        }, 1)
+
+
+    </script>
+</body>
+</html>
