@@ -153,12 +153,12 @@ levelsToTop: "../"
 
 ### Homework due February 26th
 
-Keep working on your projects.
+Keep working on your projects
 
 ### Recap for February 19th
 
 ScratchJr.
-  :Today in ScratchJr. we worked on the the 3 little pigs story. This involves all the skills we have been working on so far, especially sending messages and all the movement and control blocks.
+  : Today in ScratchJr. we worked on the the 3 little pigs story. This involves all the skills we have been working on so far, especially sending messages and all the movement and control blocks.
 
 I showed the kids the sample project, which was derived from a student project done last year.
 
