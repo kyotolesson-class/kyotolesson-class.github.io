@@ -141,7 +141,7 @@ Work on your ongoing personal project.
 Platform with balloons
   : Today we reviewed the "Platform with balloons" project (based on a student project) and I reviewed with the entire class how to set tiles inside Tynker to make a trap for meanies. 
   
-Teh meanies are in a trap, but we want to open the trap when the actor collects the ring. We use **the set tile at point** block. We initialize it closed at start, and then we change the tiles to empty when the character is collected. 
+The meanies are in a trap, but we want to open the trap when the actor collects the ring. We use **the set tile at point** block. We initialize it closed at start, and then we change the tiles to empty when the character is collected. 
 
 ![Imgur](https://i.imgur.com/FqAXFaB.jpg){: .jsgif}
 
