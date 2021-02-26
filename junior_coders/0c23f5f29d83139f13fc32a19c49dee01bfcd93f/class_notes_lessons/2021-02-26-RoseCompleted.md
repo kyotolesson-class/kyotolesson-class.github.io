@@ -65,11 +65,11 @@ Some kids started coding movement using **when key pressed** blocks
 ![Imgur](https://i.imgur.com/sLIBfBn.png)
 
 
-After making the girl moved, the question was how to know if she had found the candy. The **touching?** block:
+The **did I touch** function block in the picture means we have to test to see if the girl had found (is touching) the candy. We replace it with the following **if touching?** block:
 
 ![Imgur](https://i.imgur.com/TMK8ey7.png)
 
-can be used to send a message to the actor touched. (The break stops the motion of the girl.) Once the message touched is send, the good or bad candy can respond.
+This sends a message to the "candy" touched. (The break stops the motion of the girl.) The candy gets the message and reacts.
 
 ![Imgur](https://i.imgur.com/JubN3mw.png)
 
