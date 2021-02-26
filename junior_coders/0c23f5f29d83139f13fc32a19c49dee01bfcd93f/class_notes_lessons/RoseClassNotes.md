@@ -165,7 +165,7 @@ Today we focused on planning. As a group, the class came up with a project.
 <style>
 ol li ul li ol {
     margin-bottom: 0px;
-</style>
+</style><!-- fixes bad spacing here -->
 1. First we decided on the type fo project, a game. 
 2. Setting: The beach
 3. Story/Goal: Find and collect candy hidden in the sand.
@@ -188,7 +188,6 @@ ol li ul li ol {
          * smelly socks
          * smelly lollipop
          * coffee
-{: style="margin-bottom: 0px;"}
 
 The kids then started working on programming it. So far, the project is a simplified, modified version of the above.
 
@@ -208,16 +207,16 @@ Kids worked on making the characters the right size and placing them in various 
 
 Some kids started coding movement using **when key pressed** blocks
 
-![Imgur](https://i.imgur.com/sLIBfBn.png)
+![Imgur](https://i.imgur.com/sLIBfBn.png){: .jsgif}
 
 
 After making the girl moved, the question was how to know if she had found the candy. The **touching?** block:
 
-![Imgur](https://i.imgur.com/TMK8ey7.png)
+![Imgur](https://i.imgur.com/TMK8ey7.png){: .jsgif}
 
 can be used to send a message to the actor touched. (The break stops the motion of the girl.) Once the message touched is send, the good or bad candy can respond.
 
-![Imgur](https://i.imgur.com/JubN3mw.png)
+![Imgur](https://i.imgur.com/JubN3mw.png){: .jsgif}
 
 We will work on this next week.
 
