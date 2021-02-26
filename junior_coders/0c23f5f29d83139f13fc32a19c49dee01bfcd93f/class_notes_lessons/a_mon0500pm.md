@@ -38,7 +38,7 @@ tags: []
 # </div>
 
 
-# liquid variables used in image galleries to create thumnails, e.g.
+# liquid variables used in image galleries to create thumbnails, e.g.
 # [![ {{ page.gilabel-09 }} ]({{ page.weserve }}{{ page.siteurl }}/{{ page.dir }}{{ page.giurl-09 }}&w=477 )](./{{ page.giurl-09 }}){: target="_blank"}
 #{: #slide-09 }
 
@@ -163,7 +163,7 @@ How to make a character come to life again
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=603420aac319be37a801ac98&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 
-Debuggging Tic Tac Toe 
+Debugging Tic Tac Toe 
   : Kids then worked on their ongoing projects. The biggest challenge today was in teh Tic Tac Toe game. This required some debugging by the student, and the student was able to figure it out by themselves once I gave a hint as to where the problem code was. Great Job!!
 
 </details>
