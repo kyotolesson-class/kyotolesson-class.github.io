@@ -194,7 +194,7 @@ The kids then started working on programming it. So far, the project is a simpli
 ScratchJr.
   : The game was simplified for ScratchJr. For the protagonist, we used a little girl, for the antagonist, we used an Elephant, and for the MacGuffin we used starfish. In addition, we could only have one piece of candy on the screen.
 
-In Scratch Jr. the kids also needed to make a way for the actor to move, so we learned how to create buttons that send messages, as we had done a few weeks ago.
+In Scratch Jr. the kids also needed to make a way for the actor to move, so we repeated the control buttons using messages, as we had done  in the **Race To the Finish** project [a few weeks ago](http://localhost:4000/junior_coders/0c23f5f29d83139f13fc32a19c49dee01bfcd93f/class_notes_lessons/RoseClassNotes.html#february-5th).
 
 From there, we use bump blocks on the starfish, so that when the girl touches the starfish, the start fish says something, and then we move to the next screen.
 
@@ -283,7 +283,7 @@ Today I taught kids about [Knock Knock Jokes](../lessons/KnockKnockJokes.html) a
 
 #### ScratchJr.
 
-For the ScratchJr. kids, I showed them this project, and then they worked to create it themselves. They then added their own screens with more jokes.
+For the ScratchJr. kids, I showed them the project below, and then they worked to create it themselves. They then added their own screens with more jokes.
 
 This is the joke I started with. Notice the color of the [**Send and Receive Blocks**{: style="color: darkgreen;background-color: yellow"}]. 
 
