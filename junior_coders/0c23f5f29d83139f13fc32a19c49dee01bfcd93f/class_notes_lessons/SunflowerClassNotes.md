@@ -15,6 +15,9 @@ tags: []
 
 <div id="toc">
 
+* [February 27th](#february-27th)
+  * [Homework due March 6th](#homework-due-march-6th)
+  * [Recap for February 27th](#recap-for-february-27th)
 * [February 20th](#february-20th)
   * [Homework due February 27th](#homework-due-february-27th)
   * [Recap for February 20th](#recap-for-february-20th)
@@ -40,6 +43,37 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## February 27th
+</summary>
+
+## February 27th
+
+### Homework due March 6th
+
+Think of more Kimestu no Yaiba Questions!!!
+
+### Recap for February 27th
+
+
+Kimetsu no Yaiba Quiz Festival!
+  : Today we worked on making a Kimetsu no Yaiba Quiz Game. This provides practice in sending messages, creating buttons, **Bump** and **Touch** blocks, and creating closing screens, and logic. 
+  
+The basic game works by having a question posed, and the player navigates to the answer they choose. If the answer is right, they get one message, if the answer is wrong they get a different one.
+
+This is a demo project:
+![Imgur](https://i.imgur.com/8ZatmB2.gif){: .jsgif}
+
+Here are some of the projects kids created. Everyone worked hard and was able to finish the project!! 
+
+![Imgur](https://i.imgur.com/XYRaitn.gif){: .jsgif}
+![Imgur](https://i.imgur.com/r6XJk1y.gif){: .jsgif}
+![Imgur](https://i.imgur.com/VpFo9e5.gif){: .jsgif}
+![Imgur](https://i.imgur.com/NtprkRA.gif){: .jsgif}
+
+</details>
 
 
 <details markdown=1>
