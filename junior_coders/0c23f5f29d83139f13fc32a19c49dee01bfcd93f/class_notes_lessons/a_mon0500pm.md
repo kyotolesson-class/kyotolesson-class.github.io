@@ -142,7 +142,7 @@ Do the [tutorial](https://www.tynker.com/play/za-tutorial/60342b84e25d447d91562a
 Project Preview: Among Us
   : Today I looked at platform games, and how to give a character "lives". 
   
-Last week a studenta student asked how to make a character come to life again. There are several ways, and this week I showed how to do it using the **set** and **properties** blocks. 
+Last week a student asked how to make a character come to life again. There are several ways, and this week I showed how to do it using the **set** and **properties** blocks. 
 
 ![set lives](https://i.imgur.com/5VETctG.png){: .jsgif}
 

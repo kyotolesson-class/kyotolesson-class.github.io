@@ -30,7 +30,7 @@ Last week a studenta student asked how to make a character come to life again. T
 
 ![properties](https://i.imgur.com/1UQsWMO.png)
 
-We walked through a [tutorial](https://www.tynker.com/play/za-tutorial/60342b84e25d447d91562ac6-556329XkLKUhN7.xk1aXOsgIZT3cEk) that explains it in detail. The homework is to work through the tutorial again on your own, and try to add something new. Here is what it should look like in the end.
+We walked through a [tutorial](https://www.tynker.com/play/za-tutorial/60342b84e25d447d91562ac6-556329XkLKUhN7.xk1aXOsgIZT3cEk) that explains it in detail. The homework is to work through the tutorial again on your own, and try to add something new. Here is what it should look like in the end (press s to shoot, and right arrow to move closer). As you can see, the zombie comes back!!
 
 <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=603420aac319be37a801ac98&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
