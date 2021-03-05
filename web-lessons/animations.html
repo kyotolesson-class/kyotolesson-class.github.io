@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animations!!!</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="lib/codemirror.js"></script>
+    <link rel="stylesheet" href="lib/codemirror.css">
+    <script src="mode/css/css.js"></script>
+    <style></style>
+    <style></style>
+</head>
+<body>
+    <div class="container pt-5">
+        <div class="row">
+            <div class="col-6">
+                <div id="canvas">
+                    <img id="alex" src="./img/alex.png" alt="">
+                </div>
+            </div>
+            <div class="col-6">
+                <div id="code-mirror-0"></div>
+                <br>
+                <div id="code-mirror-1"></div>
+                <br>
+                <button id="start-animation" class="ml-3 btn btn-primary">Go!</button>
+                <button id="stop-animation" class="btn btn-danger" style="visibility: hidden;">Stop</button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script>
+        function addAnimation(body) {
+            let dynamicStyles = document.createElement('style');
+            dynamicStyles.type = 'text/css';
+            document.head.appendChild(dynamicStyles);
+            dynamicStyles.sheet.insertRule(body, dynamicStyles.length);
+        }
+
+        let codeMirror0 = CodeMirror(document.querySelector('#code-mirror-0'), {
+                lineNumbers: true,
+                value: `#alex {
+    animation-name: myAnimation;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}`
+            })
+
+        let codeMirror1 = CodeMirror(document.querySelector('#code-mirror-1'), {
+            lineNumbers: true,
+            value: `@keyframes myAnimation {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}`
+        })
+
+        const startAnimButton = document.getElementById("start-animation")
+        startAnimButton.onclick = function () {
+            document.head.removeChild(document.head.lastChild)
+            document.head.removeChild(document.head.lastChild)
+            addAnimation(codeMirror1.getValue());
+            addAnimation(codeMirror0.getValue());
+            stopAnim.style.visibility = "visible";
+        }
+
+        const stopAnim = document.getElementById("stop-animation")
+        stopAnim.onclick = function () {
+            document.head.removeChild(document.head.lastChild)
+            document.head.removeChild(document.head.lastChild)
+            addAnimation("p {} ");
+            addAnimation("p {} ");
+            stopAnim.style.visibility = "hidden";
+        }
+
+    </script>
+
+    <style>
+
+        #code-mirror-0 .CodeMirror {
+            height: max-content;
+        }
+        
+        #code-mirror-1 .CodeMirror {
+            height: max-content;
+        }
+
+        #alex {
+            width: 50%;
+            position: relative;
+            animation-iteration-count: infinite;
+        }
+
+        #canvas {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+    </style>
+</body>
+</html>
