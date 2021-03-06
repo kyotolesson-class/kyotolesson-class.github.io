@@ -63,7 +63,7 @@ Keep working on your project, or try a new project
 
 
 ScratchJr.
-  : We continued working on the Beach Game project, and i introduced a new Sword Game.
+  : We continued working on the Beach Game project, and I introduced a new Sword Game.
 
 For the beach project, one student made a project around finding a starfish. She had an opening screen, two game play screens and a final screen. She was able to complete a basic game where a rabbit uses buttons to move the rabbit towards a starfish. A bump block then has the starfish say you found me, and used messages in both the buttons and when the starfish is found. Then the rabbit finds the starfish hidden in some igloos while being watched by polar bears. 
 
@@ -76,7 +76,7 @@ The other student combined a story and a game. The main story is about a horse a
 Tynker:
   : This week kids continued and finished work on the beach game/candy hunt project. 
   
-Some kids started with setting up the main hero's movement, wither with move blocks or change blocks.
+Some kids started with setting up the main hero's movement, either with **move** blocks or **change** blocks.
 
 ![Imgur](https://i.imgur.com/sLIBfBn.png){: .jsgif}
 
