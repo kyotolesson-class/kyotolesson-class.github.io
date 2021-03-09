@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [March 6th](#march-6th)
+  * [Recap for March 6th](#recap-for-march-6th)
 * [February 27th](#february-27th)
   * [Homework due March 6th](#homework-due-march-6th)
   * [Recap for February 27th](#recap-for-february-27th)
