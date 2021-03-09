@@ -51,6 +51,12 @@ dt {
 }
 
 
+/* image captions */
+dt img.jsgif {
+    margin-left: -19px;
+    width: calc(100% - 1px);
+}
+
 
 dd  {
 margin: 0px 0px 10px 20px;
