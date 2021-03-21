@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [March 20th](#march-20th)
+  * [Recap for March 20th](#recap-for-march-20th)
 * [March 13th](#march-13th)
   * [Recap for March 13th](#recap-for-march-13th)
 * [March 6th](#march-6th)
@@ -48,6 +50,30 @@ tags: []
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details markdown=1>
+<summary markdown=1>## March 20th
+</summary>
+
+## March 20th
+
+### Recap for March 20th
+
+ScratchJr.
+  : Today the kids essentially continued making version of their projects from last week and tried to come up with original variations. 
+  
+  For example, one student make a project representing a short scene from a Mario game. 
+
+{% include giphy.html link="https://media.giphy.com/media/3Q6O6Rf3hMB4mDfBhQ/" %} 
+
+
+  Towards the end of the class I also introduced project of the day, a Mario Type game. The main actor has to jump over blocks that approach from the side of the screen. First we make a loop that moves clouds across the screen, with a wait before they reappear at the other side. We then use this to make the blocks approach the actor. 
+
+{% include giphy.html link="https://media.giphy.com/media/38GldpYjDiuKICGMPC/" %} 
+
+  Some kids were able to make this project, but it will need to be worked on more next week.
+  
+</details>
 
 
 <details markdown=1>

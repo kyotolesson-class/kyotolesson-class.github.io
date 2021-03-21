@@ -51,6 +51,46 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## March 19th
+</summary>
+
+## March 19th
+
+### Homework due March 26th
+
+Assigned individually.
+
+### Recap for March 19th
+
+Tynker
+  : Students worked on tutorials and continued the Beach Project
+  
+One student new to Tynker continued doing tutorials. She needed some help understanding loops, and pointing in directions. 
+  
+Another continued the Beach project. She had originally made the main character test to see if she touched the candies. It turned out that this did not work, probably due to a bug in Tynker, so we came up with a new algorithm (good practice), have the candies test to see if they are touching the main actor. 
+
+![Imgur](https://i.imgur.com/cndgFaq.png){: .jsgif}
+
+This worked! Though a bit of a detour, it did give the student lots of practice with getting the blocks and moving them to place, which for this student was very useful. At the end, we decided to make the actor return to the home place if she touches a bad candy, using messages.
+
+![Imgur](https://i.imgur.com/M84P92K.png){: .jsgif}
+
+![Imgur](https://i.imgur.com/ZvMJ9kh.png){: .jsgif}
+
+ScratchJr.
+  : The project of the day was a Mario Type game. The main actor has to jump over blocks that approach from the side of the screen. First we make a loop that moves clouds across the screen, with a wait before they reappear at the other side. We then use this to make the blocks approach the actor. 
+
+First, the student shared a project they had done for homework, based on last week's project.
+
+{% include giphy.html link="https://media.giphy.com/media/0hnqrS7nrT61XqF5cD/" %} 
+
+
+Then I walked the student through all the steps for the project of the day, and the student made their own version. 
+
+{% include giphy.html link="https://media.giphy.com/media/38GldpYjDiuKICGMPC/" %} 
+
+</details>
 
 
 <details markdown=1>
