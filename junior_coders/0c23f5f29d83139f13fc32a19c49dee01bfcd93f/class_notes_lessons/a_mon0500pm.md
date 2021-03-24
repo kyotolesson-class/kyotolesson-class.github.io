@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 22nd](#march-22nd)
+  * [Recap for March 22nd](#recap-for-march-22nd)
 * [March 15th](#march-15th)
   * [Homework due March 22nd](#homework-due-march-22nd)
   * [Recap for March 15th](#recap-for-march-15th)
@@ -132,6 +134,62 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## March 22nd
+</summary>
+
+## March 22nd
+
+### Recap for March 22nd
+
+Fun Mastered Project  
+  : One student, as in the project we reviewed in the February 22nd class, wanted a door that would open when the actor collected a coin. This time, instead of a coin, he wanted to make it a person. 
+
+The meanies are in a trap, but we want to open the trap when the actor collects the collectable. We use **the set tile at point** block to initialize the stage at start, and then we send a message when the collectable is collected to set the tiles to empty when the character is collected. 
+
+
+![Imgur](https://i.imgur.com/FqAXFaB.jpg){: .jsgif}
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=603a374854eef562025fc725&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Road Crossing
+  : This student modified the Chicken Crossing game to make it a Road Crossing game. I challenged her to make the game more different/interesting by adding a third road. This allowed me to show her how to add levels and use the Tynker backpack to move code from one level or project to another.
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604f2cfef14fce64b42e9f7b&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Gangnam Style
+  : Another student was able to finish his project, which involved making a character dance in Gangnam Style. sing animate blocks. He planned out the motions on paper and by looking at the available animations. The class enjoyed an impromptu dance session and learning what Gangnam meant from a student of Korean descent.
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=605861d9094f013b6b6674aa&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Working at home
+  : Another student demonstrated projects he had finished at home recently. He really has been able to learn a lot just by exploring on his own, and was delighted to share his discoveries with me and the other students. One important discovery for him was that you can copy all the code from one actor, like a stock actor, to your own actor to make them behave the same. He had a lot of fun switching characters to give them unexpected behavior.
+
+
+:star2: 1. Zonbi
+  : The first project was inspired by another student's Zombie game. The Zombie is a modified stock villain. I showed him how to add levels and use the backpack. He then added a top down maze level.
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604c254053b3cd09ca20c000&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+:star2: 2. Torening
+  : The student was very proud of his modified stock actors as well as various tile types in this project.
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604c39466920982ccb33dde7&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+:star2: 3. Rush
+  : This project involves multiple heros and using "a" to attack.
+
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604b36c3fd441f35d3725ae0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 15th
