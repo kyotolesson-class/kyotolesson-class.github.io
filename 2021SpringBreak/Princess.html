@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<title></title>
+		<meta name="description" content="" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="" />
+		<style>
+			.clicker {
+				background-color: transparent;
+				outline: none;
+				cursor: pointer;
+				color: black;
+				font-size: 2px;
+			}
+
+			.clicker,
+			.hiddendiv {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				font-family: fantasy;
+			}
+
+			.hiddendiv {
+				display: none;
+			}
+
+			.clicker .show {
+				height: 2px;
+				width: 2px;
+				border-radius: 10px;
+				overflow: hidden;
+				background: #f1f1f1;
+			}
+
+			.clicker:focus + .hiddendiv,
+			.clicker .show:hover {
+				display: block;
+				background-color: red;
+				border-radius: 10px;
+				height: auto;
+				width: 80vw;
+				position: absolute;
+				top: 0px;
+				padding: 20px;
+				/* display: flex; */
+				background-color: #7210a2;
+				border-radius: 10px;
+				/* height: auto; */
+				/* width: 80vw; */
+				/* position: absolute; */
+				/* top: 0px; */
+				/* left: 0px; */
+				padding: 40px;
+				overflow: auto;
+				margin: 2vw;
+				margin-top: 0px;
+				font-size: xx-large;
+				justify-content: center;
+				align-items: center;
+				font-family: fantasy;
+				text-align: justify;
+			}
+
+			a {
+				color: pink;
+				text-decoration: none;
+			}
+
+			.hidden {
+				margin-left: -99999px;
+				position: absolute;
+			}
+
+			input#cmn-toggle-7:checked + label + div {
+				display: block;
+			}
+
+			img {
+				padding: 10px;
+				border-radius: 20px;
+				width: 30%;
+			}
+
+			img.buzzo {
+				margin-right: 20px;
+				float: left;
+			}
+
+			img.princess {
+				margin-left: 20px;
+				float: right;
+        clear: left;
+        width: 40%;
+			}
+		</style>
+	</head>
+
+	<body>
+		<!--[if lt IE 7]>
+			<p class="browsehappy">
+				You are using an <strong>outdated</strong> browser. Please
+				<a href="#">upgrade your browser</a> to improve your experience.
+			</p>
+		<![endif]-->
+		<div>
+			<input id="cmn-toggle-7" class="hidden" type="checkbox" />
+			<label for="cmn-toggle-7" class="clicker center" tabindex="1"
+				><span class="show">
+				<img class="buzzo" src="ThinkingMonkey.gif" />			<img class="princess" src="PrincessPenelope.png" />
+
+<br>
+				<a href="https://www.tynker.com/ide/embedded?p=605c72a09e48f67c0f341067&controls=true&autostart=true"
+					target0"_blank"
+					>Hello. I am Buzzo the Bonobo Bobo. Nice to meet you at
+					last. You may call me Buzzo. Now it is time for us to see if
+					you are clever enough to save Princess Penelope. <br>
+          			</a><br>
+                
+                <br clear="left"><br>
+                <a href="https://www.tynker.com/ide/embedded?p=605c72a09e48f67c0f341067&controls=true&autostart=true"
+					target="_blank"
+					>
+          The
+					Princess is being kept inside a special game of hangman. You
+					must solve the message to rescue her. If you
+					win, she will reveal to you the location of the treasure. Click here to start.
+<br clear="both">
+				</a>
+          </span
+			></label>
+			<div class="hiddendiv">
+				<img class="buzzo" src="ThinkingMonkey.gif" />			<img class="princess" src="PrincessPenelope.png" />
+
+<br>
+				<a href="https://www.tynker.com/ide/embedded?p=605c72a09e48f67c0f341067&controls=true&autostart=true"
+					target="_blank"
+					>Hello. I am Buzzo the Bonobo Bobo. Nice to meet you at
+					last. You may call me Buzzo. Now it is time for us to see if
+					you are clever enough to save Princess Penelope. <br>
+          			</a><br>
+                
+                <br clear="left"><br>
+                <a href="https://www.tynker.com/ide/embedded?p=605c72a09e48f67c0f341067&controls=true&autostart=true"
+					target="_blank"
+					>
+          The
+					Princess is being kept inside a special game of hangman. You
+					must solve the message to rescue her. If you
+					win, she will reveal to you the location of the treasure. Click here to start.
+          <br clear="both">
+				</a>			</div>
+		</div>
+
+		<script src="" async defer></script>
+	</body>
+</html>
