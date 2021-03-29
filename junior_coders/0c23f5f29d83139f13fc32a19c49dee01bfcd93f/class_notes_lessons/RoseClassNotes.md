@@ -12,6 +12,11 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [March 25th](#march-25th)
+  * [Recap for March 25th](#recap-for-march-25th)
+* [March 19th](#march-19th)
+  * [Homework due March 26th](#homework-due-march-26th)
+  * [Recap for March 19th](#recap-for-march-19th)
 * [March 12th](#march-12th)
   * [Recap for March 12th](#recap-for-march-12th)
 * [March 5th](#march-5th)
@@ -50,6 +55,32 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+<details markdown=1>
+<summary markdown=1>## March 25th
+</summary>
+
+## March 25th
+
+
+### Recap for March 25th
+
+
+ScratchJr.
+  : Today I introduced the Walking Cat Project to one student. It has a walking cat, infinite motion, lots of waits to control timing, messages to control the action and make a conversation, bringing together skills students have learned recently.
+
+![Imgur](https://i.imgur.com/uumIRpL.gif){: .jsgif}
+
+Tynker
+  : Today students worked mostly on tutorials. One student had a problem with the cake decoration game because her stamp didn't seem to work. This was likely due to a bug in Tynker on iPads, and not the student's code, which was correct. Working together on it did give her a chance to experience debugging and testing.
+
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## March 19th
