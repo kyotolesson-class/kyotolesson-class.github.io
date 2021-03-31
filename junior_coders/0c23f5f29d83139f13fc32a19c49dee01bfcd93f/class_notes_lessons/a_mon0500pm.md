@@ -55,7 +55,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 
 * [March 29th](#march-29th)
-* [Recap for March 29th](#recap-for-march-29th)
+  * [Recap for March 29th](#recap-for-march-29th)
 * [March 22nd](#march-22nd)
   * [Recap for March 22nd](#recap-for-march-22nd)
 * [March 15th](#march-15th)
@@ -143,7 +143,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ## March 29th
 
-## Recap for March 29th
+### Recap for March 29th
 
 Today was an interesting class. The kids spontaneously decided to hold an impromptu coding contest after seeing one student's project. We all started out with the same basic project.
 
