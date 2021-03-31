@@ -88,4 +88,38 @@ Walking Cat
 
 
 
-</details>
+</details> 
+
+<details>
+<summary>## March 29th
+</summary>
+
+## March 29th
+
+## Recap for March 29th
+
+Today was an interesting class. The kids spontaneously decided to hold an impromptu coding contest after seeing one student's project. We all started out with the same basic project.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60618e1a410546550141113c&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+The challenge was to do something to modify the project to make it better. Students worked individually and we ended up with three different projects. We then scored the projects according to different criteria 
+
+    1. Creativity
+    2. Originality
+    3. Hard Work
+    4. Visual Effects
+    5. Easy to use and understand
+    6. Music
+
+and kids talked about which criteria each project did best on. Here are their projects.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6062d5a947abee171325be06&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60606ba496007e303a327162&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606192094a7a6167be37eda1&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606191f6fba51d65370005b3&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+</details> 

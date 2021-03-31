@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 29th](#march-29th)
+* [Recap for March 29th](#recap-for-march-29th)
 * [March 22nd](#march-22nd)
   * [Recap for March 22nd](#recap-for-march-22nd)
 * [March 15th](#march-15th)
@@ -133,6 +135,41 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## March 29th
+</summary>
+
+## March 29th
+
+## Recap for March 29th
+
+Today was an interesting class. The kids spontaneously decided to hold an impromptu coding contest after seeing one student's project. We all started out with the same basic project.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60618e1a410546550141113c&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+The challenge was to do something to modify the project to make it better. Students worked individually and we ended up with three different projects. We then scored the projects according to different criteria 
+
+    1. Creativity
+    2. Originality
+    3. Hard Work
+    4. Visual Effects
+    5. Easy to use and understand
+    6. Music
+
+and kids talked about which criteria each project did best on. Here are their projects.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6062d5a947abee171325be06&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60606ba496007e303a327162&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606192094a7a6167be37eda1&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606191f6fba51d65370005b3&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+</details> 
 
 <details markdown=1>
 <summary markdown=1>## March 22nd
