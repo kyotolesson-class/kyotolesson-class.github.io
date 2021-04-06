@@ -163,7 +163,7 @@ We then converted this into basic blocks. We created the bullet and then a new c
 
 ![Imgur](https://i.imgur.com/m2HRTMb.png){: .jsgif}
 
-After a false start involving clones, we simplified to one helicopter at first. Here is the final product. The next step would be to add more helicopters.
+After a false start involving clones, we simplified to one helicopter at first. When we got it working, we had one very excited student! The next step would be to add more helicopters.
 
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606aca1653b07445784897a0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
