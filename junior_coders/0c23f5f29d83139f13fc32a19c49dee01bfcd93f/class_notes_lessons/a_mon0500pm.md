@@ -175,7 +175,7 @@ Pet Simulator
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606ad4aeec926e63ac1d4c0a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
 Platformer Game
-  : She then decided to try her hand at a platformer game. This went swimmingly until she realized she wanted to delete the horde of bad guys she had put there first. Unfortunately in Tynker you have to laboriously delete each character. Not it is much more manageable.
+  : She then decided to try her hand at a platformer game. This went swimmingly until she realized she wanted to delete the horde of bad guys she had put there first. Unfortunately in Tynker you have to laboriously delete each character. Now it is much more manageable.
 
 <iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606add3c15183a5a9c6c29ea&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
