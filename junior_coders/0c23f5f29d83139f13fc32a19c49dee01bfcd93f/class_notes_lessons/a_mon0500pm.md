@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 5th](#april-5th)
+  * [Recap for April 5th](#recap-for-april-5th)
 * [March 29th](#march-29th)
   * [Recap for March 29th](#recap-for-march-29th)
 * [March 22nd](#march-22nd)
@@ -135,6 +137,55 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 5th
+</summary>
+
+## April 5th
+
+### Recap for April 5th
+
+Students were not able to agree on a project to work on together, so they started out on individual projects.
+
+Helicopter Shooting Game
+  : The biggest challenge of the day was a student who wanted to make a shooting game, only without using the pre-set shoot and attack blocks. While it is easy to just use the pre-set blocks, when you want to control things carefully, you sometimes have to biuld it on your own. We worked out together on the whiteboard the exact steps that shooting a bullet would involve:
+
+1. Triggering the action (when pressed)
+2. Appearing in the right place (go to and show)
+3. Moving to the next place (glide)
+4. Detecting contact (touching?)
+5. Reacting to the content (send and receive message)
+
+We then converted this into basic blocks. We created the bullet and then a new costume to show the enemy had been shot. Here is sample code (with errors to be fixed):
+
+![Imgur](https://i.imgur.com/rAztuI7.png){: .jsgif}
+
+![Imgur](https://i.imgur.com/m2HRTMb.png){: .jsgif}
+
+After a false start involving clones, we simplified to one helicopter at first. Here is the final product. The next step would be to add more helicopters.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606aca1653b07445784897a0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Pet Simulator
+  : This student decided she wanted to redo the pet simulator project. This was great, cause we realized she didn't quite understand where the location of the costumes was, and how to test when two characters are touching. Once she understood this, she was able to add the cupcake on her own. Apparently, the face doesn't like cupcakes.
+
+![Imgur](https://i.imgur.com/wfJMbRu.png){: .jsgif} 
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606ad4aeec926e63ac1d4c0a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Platformer Game
+  : She then decided to try her hand at a platformer game. This went swimmingly until she realized she wanted to delete the horde of bad guys she had put there first. Unfortunately in Tynker you have to laboriously delete each character. Not it is much more manageable.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606add3c15183a5a9c6c29ea&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+Dance Party
+  : Another student decided to work on a dance party. This is pretty straightforward, and a work in progress.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606add08f46a6a49cf61d668&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+</details>
 
 
 <details markdown=1>
