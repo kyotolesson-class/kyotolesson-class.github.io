@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [April 3rd](#april-3rd)
+  * [Recap for April 3rd](#recap-for-april-3rd)
 * [March 26th](#march-26th)
   * [Recap for March 26th](#recap-for-march-26th)
 * [March 20th](#march-20th)
@@ -51,6 +53,32 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 3rd
+</summary>
+
+## April 3rd
+
+### Recap for April 3rd 
+
+As was true last week, kids were into continuing to develop their previously learned skills, and sharing projects with each other to copy. One child made an attempt at the project of the day.
+
+This week's project was a classic **Chicken Crossing** game. Players the chicken to get past the cars. It includes several levels of successive difficulty. 
+
+{% include giphy.html link="https://media.giphy.com/media/4GOIrt8uOxBKfyp4FG/" %} 
+
+One child started to make an attempt at this project, but in the end the kids became quite busy project sharing and discussing their other recent projects. They then started recording themselves talking, and eventually recorded the currently popular song *Usseewa* into a project. Their homework is to turn this into a project. 
+
+(Note: we don't usually allow internet use unless it is directly related to a project. You might want to remind your child of that.)
+
+Looping Stars
+  : One child submitted an interesting experiment as homework. Clicking the black button sends the yellow star back and forth. However, each new level introduces more copies (2, 4, 6, 8) of the back and forth loop, which speeds up the movement. This kind of controlled speeding up is not possible otherwise in ScratchJr.
+
+![Imgur](https://i.imgur.com/GnQ3w9d.gif){: .jsgif}
+
+</details>
+
 
 
 <details markdown=1>

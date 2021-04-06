@@ -12,6 +12,9 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [April 2nd](#april-2nd)
+  * [Homework due April 9th](#homework-due-april-9th)
+  * [Recap for April 2nd](#recap-for-april-2nd)
 * [March 25th](#march-25th)
   * [Recap for March 25th](#recap-for-march-25th)
 * [March 19th](#march-19th)
@@ -56,7 +59,58 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## April 2nd
+</summary>
 
+## April 2nd
+
+### Homework due April 9th
+
+### Recap for April 2nd 
+
+ScratchJr.
+  : We did an introductory class for some new students focusing on using the image editor. For other ScratchJr. students, this week's project was a **Chicken Crossing** game. 
+
+Chicken Crossing
+  : In this classic game, click the chicken and get past the cars. Our version includes several levels. 
+
+{% include giphy.html link="https://media.giphy.com/media/4GOIrt8uOxBKfyp4FG/" %} 
+
+One student was able to recreate the project pretty well just by watching it run. The chicken gets across in stages, which adds challenge. Nice project.
+
+{% include giphy.html link="https://media.giphy.com/media/DDDMOrtKeBEyue6KVF/" %} 
+
+The project itself is simple, using just a few blocks
+
+![Imgur](https://i.imgur.com/mSFmW1f.png){: .jsgif}
+
+![Imgur](https://i.imgur.com/EiEUFxA.png){: .jsgif}
+
+but gives good practice in reusing code and also has many opportunities for variations. For example, the occasional back-step in the truck code adds a bit of challenge. 
+
+Tynker
+  : In Tynker, the **Beach Project** and variations made some headway.
+
+Snowboarder
+  : One student is working on a variation of the Beach Project where a snowboarder finds candy on the slopes. She was able to make the snowboard move, and is working on making the snowboarder react to the good and bad candy.
+
+![Imgur](https://i.imgur.com/FAIBe6b.png){: .jsgif}
+
+Mermaid
+  : Another student is working on sending messages when her mermaid touches the candy. When she touches the bad candy, she goes back to her home place. 
+
+![Imgur](https://i.imgur.com/CLIhAFX.png){: .jsgif}
+
+![Imgur](https://i.imgur.com/f0NOMxL.png){: .jsgif}
+
+She has also added code for the good candy. 
+
+![Imgur](https://i.imgur.com/U3znAKq.png){: .jsgif}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 25th
