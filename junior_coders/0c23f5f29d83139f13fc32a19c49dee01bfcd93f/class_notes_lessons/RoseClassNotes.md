@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [March 9th](#march-9th)
+  * [Recap for March 9th](#recap-for-march-9th)
 * [April 2nd](#april-2nd)
   * [Homework due April 9th](#homework-due-april-9th)
   * [Recap for April 2nd](#recap-for-april-2nd)
@@ -58,6 +60,49 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## March 9th
+</summary>
+
+## March 9th
+
+
+### Recap for March 9th
+
+Today students were very creative in coming up with their own ideas and solutions to problems. This is an important step in avoiding getting stuck or frustrated.
+
+Beach Project: Making Candy Disappear
+  : Continuing from last week, one student came up with what do when the good candy was found. Her idea which was for two of the good candies have all the bad candies disappear. This helped her learn how to use messages and how to broadcast a message and how to hide AKA disappear a character. We also worked on making the character a bit smaller, otherwise there is no way to win the game!!
+
+
+
+Beach Project: Moving hearts offscreen
+  : Another child worked on making hearts appear. To get the hearts to disappear again after a few seconds she had to learn about screen coordinates. THe student is now working on giving the player lives.
+
+
+Undocumented Tynker "bug": The bad guy that would not die
+  : Another student's Tynker project had a bad guy that would not die. He would reappear even though he was programmed to have only one life. The solution turned out, in an undocumented "feature" that the properties block needs to be part of the same block that has the run and set up character block. Once we fixed this, the program worked!
+
+![Imgur](https://i.imgur.com/dtQjCEH.png){: .jsgif}
+
+{% include giphy.html link="https://media.giphy.com/media/b63kqfVWSj0Rq0zaJK/" %} 
+
+![Imgur](https://i.imgur.com/5oQ9VP2.png){: .jsgif}
+
+{% include giphy.html link="https://media.giphy.com/media/5E5kBZ15XalZQPsYkV/" %} 
+
+
+ScratchJr. Chicken Crossing beginning steps
+  : Some beginner students are interested in doing the chicken crossing project that some more advanced students are doing. Lat week they had made interesting houses and characters for the project. This week, we worked on teaching them how to make characters the right size and run across the screen in different ways using the movement blocks. We also  how to use an infinite loop how to use a bump block and a touch block to start the chicken moving. The kids also worked on their own exploring various blocks.
+
+ScratchJr. Chicken Crossing advanced steps
+  : A more advanced student worked very hard on an alternate version of the chicken crossing game. The goal this time was to make the roads diagonal. After the basic idea (parallel code blocks) was explained, this student was able to create this project all by himself which was quite an achievement. One problem was making the characters move across the screen because the screen is not square. We didn't quite solve this problem, but we explored alternatives.
+  
+Tynker: Using a loop to change the size of a character
+  : another pupil working on Tynker had a question about how to make a character get larger. We used a loop to change the size of the character and a wait block to make the animation effect visible. In the end, though, she decided to just have the character get larger in one big jump.
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## April 2nd
