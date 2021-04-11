@@ -15,6 +15,7 @@ tags: []
 
 <div id="toc">
 
+* [April 10th](#april-10th)
 * [April 3rd](#april-3rd)
   * [Recap for April 3rd](#recap-for-april-3rd)
 * [March 26th](#march-26th)
@@ -53,6 +54,35 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 10th
+</summary>
+
+## April 10th
+
+Usseewa Day! (In case you have been living under a rock in Japan for the past few months, Usseewa is an extremely popular "pop" song by the singer Ado.) The kids in this class are obsessed with it (for this week), so today's project was to use the song in a project. The first step was to record the song using ScratchJr. and this led to a great exercise in cooperation, planning, timing, attention to detail, and other skills related to coding. 
+
+![usseewa sound recording](images/2021-04-10/PXL_20210410_072018627.jpg){: .jsgif}
+
+For example, this was the work flow we developed:
+
+1. Cue up the song at the start time.
+2. Run through the song to determine timing of the next endpoint. ScratchJr. can only record 30 seconds at at time, so we have to choose an endpoint near the 30 second mark. 
+3. Choose the endpoint.
+4. Get everyone in position to record.
+5. Call for silence.
+6. The countdown was 3, 2, 1, press record, wait 1 beat, start music.
+7. When the music reached the endpoint, students have to press the stop record button the right time. I also tried to stop the song at that time.
+
+We had to go through this steps several times as sometimes the recording didn't work, but we were able to get through 5 iterations.
+
+We also used the internet to take pictures from the song video to use as characters in the project. The kids then started working on their project.
+
+All in all the kids were very focused and motivated this week. I think they need to work a little more on developing the projects next week.
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 3rd

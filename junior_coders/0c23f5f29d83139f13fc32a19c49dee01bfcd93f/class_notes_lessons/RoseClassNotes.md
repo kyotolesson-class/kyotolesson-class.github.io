@@ -12,8 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
-* [March 9th](#march-9th)
-  * [Recap for March 9th](#recap-for-march-9th)
+* [April 9th](#april-9th)
+  * [Recap for April 9th](#recap-for-april-9th)
 * [April 2nd](#april-2nd)
   * [Homework due April 9th](#homework-due-april-9th)
   * [Recap for April 2nd](#recap-for-april-2nd)
@@ -62,13 +62,13 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
 <details markdown=1>
-<summary markdown=1>## March 9th
+<summary markdown=1>## April 9th
 </summary>
 
-## March 9th
+## April 9th
 
 
-### Recap for March 9th
+### Recap for April 9th
 
 Today students were very creative in coming up with their own ideas and solutions to problems. This is an important step in avoiding getting stuck or frustrated.
 
