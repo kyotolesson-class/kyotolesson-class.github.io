@@ -54,6 +54,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 12th](#april-12th)
 * [April 5th](#april-5th)
   * [Recap for April 5th](#recap-for-april-5th)
 * [March 29th](#march-29th)
@@ -137,6 +138,38 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 12th
+</summary>
+
+## April 12th
+
+Today we had 2 kids attending via Zoom. I gave kids feedback on their projects from last week and made suggestions for further steps. 2 of the kids took me up on this, and 2 started new projects.
+
+Dance Party
+  : For the dance party he added face movement when the character was speaking, and keys to press to adjust the background, as well as an instruction screen.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=607401d9d9a06f67ed14d15b&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Three Little Codeys
+  : One student was prompted to come up with a story to go with her project. Her story involved 3 little pigs (aka Codeys) who meet 3 bad guys. They are scared when they see the bad guys, so we programmed this into the characters. Then she decided to add a new level, and we tried to copy the actors from the first level using the backpack. For some reason this didn't work, so we  added new characters by using tynker and copied the code using the backpack. Her homework was to finish telling the story.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=607401cf2cb8fe6f4f607900&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+
+Platformer:
+One child continued working on his platformer project. He got stuck with a character who disappeared and I helped him locate his current coordinates and make a character show who has been invisible.
+
+<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6074145b139a1e11855c1bdf&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+Animated Butterfly
+  : We began to work on his game, but he decided he wanted to check out Scratch again. We suggested the idea of poriting  a project from Tynker to Scratch. He chose the among us project, and we talked about how to make animation from individual costumes. He made a simple animation for his project.  
+
+{% include giphy.html link="https://media.giphy.com/media/ka0hwE01mAvoMl4mGi/" %} 
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 5th
