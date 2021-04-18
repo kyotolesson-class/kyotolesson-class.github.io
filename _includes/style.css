@@ -824,6 +824,20 @@ iframe[src^="https://turbowarp.org"] {
 
 .tynker .giphyattribution {
 top: -18px;
+/* gets rid of hairline */
+background-color: transparent!important;
+}
+
+/* sizes the tynker attribution paragraph to fit nicely over the bottom right */
+p#tynkerattribution {
+border-radius: 11px 0px 11px 11px;/* note not the top right corner  to blend nicely with iframe border */
+background: var(--scrollbarBG);
+padding-left: 6px;
+width: 70%;
+float: right;
+position: relative;
+right: -1px;
+top: -18px;
 }
 
 .giphycontainer:hover .giphyattribution {
