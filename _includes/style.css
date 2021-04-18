@@ -51,7 +51,7 @@ dt {
 }
 
 
-/* image captions */
+/* image captions  set margin/dimension */
 dt img.jsgif {
     margin-left: -19px;
     width: calc(100% - 1px);
@@ -778,7 +778,7 @@ iframe[src^="https://turbowarp.org"] {
     min-height: 462px;
 }
 
-
+/* puts borders on images */
 .jsgif {
     position: relative;
     border-color: var(--thumbBG);
@@ -788,12 +788,27 @@ iframe[src^="https://turbowarp.org"] {
     width: calc(100% - 19px);
 }
 
+.tynker img {
+    height: 13px!important;
+    background: #286fc7;
+    padding: 1px 4px 2px 4px;
+    border-radius: 4px;
+    position: relative;
+    top: 3px;
+}
+
 .giphycontainer {
   background-color: var(--scrollbarBG);
   border-radius: 12px;
 }
 
+/* moves the next paragraph after a tynker embed down */
+.tynker {
+    margin-bottom: 17px;
+}
 
+
+/* puts the attribution in the right place */
 .giphycontainer .giphyattribution  {
   opacity: 0;
   float:right;
@@ -802,6 +817,13 @@ iframe[src^="https://turbowarp.org"] {
   padding:0px;
   position: relative;
   top: -14px;
+}
+
+
+/* adjusts position of tynker embed link */
+
+.tynker .giphyattribution {
+top: -18px;
 }
 
 .giphycontainer:hover .giphyattribution {
@@ -828,12 +850,16 @@ div.imgurdiv iframe  #header {
     max-height: 0px!important;
 }
 
+/* not sure what this does */
 .jsgif canvas {
     width: 100%;
     position: relative;
     top: 3px;
     border-radius: 12px;
+    background-color: blue;
 }
+
+
 
 .gifcontrol {
     position: absolute;
@@ -904,6 +930,7 @@ div.imgurdiv iframe  #header {
 
 a.external {
 background-color: var(--scrollbarBG);
+border-radius: 3px;
 }
 
 a.external:hover{

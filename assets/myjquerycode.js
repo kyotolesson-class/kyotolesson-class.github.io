@@ -165,8 +165,9 @@
                 })
                 .addClass("external")
                 .attr({
-                    target: "_blank", 
-                    title: "Opens in a new window"});
+                    target: "_blank",
+                    title: function() { return "Open in new window: " + $(this).attr("title") }
+                    });
                 //.append(' [^]');
 
             // END ANCHOR SECTION
