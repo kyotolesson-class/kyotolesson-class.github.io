@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [April 16th](#april-16th)
+  * [Recap for April 16th](#recap-for-april-16th)
 * [April 9th](#april-9th)
   * [Recap for April 9th](#recap-for-april-9th)
 * [April 2nd](#april-2nd)
@@ -60,6 +62,48 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## April 16th
+</summary>
+
+## April 16th
+
+
+### Recap for April 16th
+
+ScratchJr.
+  : Kids continued work on last week's project, and started the new project of the week.
+
+One kids continued working on the cat crossing project, to make it diagonal. Then I introduced this week's project, based on Flappy Bird.
+
+![Imgur](https://i.imgur.com/ThWtzp3.gif){: .jsgif}
+
+Then he started work on the flappy bird project. 
+
+[keigo flappy]
+
+Another kid made a rocket project. We worked on how to switch screen, and how to return to a screen with the rocket in the right place. He came up with the idea of making a copy of the original screen to go to. Then I taught him about the 3 types of mazes and how to make straight lines. He made a simple maze project
+
+![Imgur](https://i.imgur.com/fCLJ9WX.gif){: .jsgif}
+
+Another child created a simple beach project that shows an understanding of the bump and touch actor blocks.
+
+![Imgur](https://i.imgur.com/McY18mJ.gif){: .jsgif}
+
+tynker
+  : Kids finished the projects they were working on, and are now choosing their next project.
+
+One child finished his **maze and villian training** project. We worked detecting when a character is a certain distance away before giving a message.
+
+![Imgur](https://i.imgur.com/2MajNEI.png){: .jsgif}
+
+And he worked on giving the actors the right health and lives to make the game interesting. Here is how it ended up:
+
+{% include tynker.html Name="maze and villian training" ID="607a7245692178069c5fc0e1" %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 9th

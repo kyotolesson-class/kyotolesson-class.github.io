@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [April 17th](#april-17th)
+  * [Recap for April 17th](#recap-for-april-17th)
 * [April 10th](#april-10th)
 * [April 3rd](#april-3rd)
   * [Recap for April 3rd](#recap-for-april-3rd)
@@ -54,6 +56,30 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 17th
+</summary>
+
+## April 17th
+
+
+### Recap for April 17th
+
+Today's project was Flappy Bird. 
+
+![Imgur](https://i.imgur.com/ThWtzp3.gif){: .jsgif}
+
+Kids were able to make a simple version of the project. Making the moving striped rectangles involves some tricks with the drawing gui. We also recorded a special scream from the Usseewa for the character to 
+
+Kids also continued working on their Useewa Projects, including recording the final part of usseewa and making projects with the new sounds.
+
+One student recorded a segment of "_This is Me_" from the movie **The Greatest Showman** for a new project.
+
+One student suggested for next week's project we tell a story using a comic 4-frame format and started working on that project.
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 10th
