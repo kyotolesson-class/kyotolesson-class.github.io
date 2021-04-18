@@ -382,16 +382,13 @@ In Tynker the class information and homework is kept on the [classroom page](htt
 
 Some kids did a great job on the tutorials this week. Other kids focused on [different projects on the community board](https://www.tynker.com/dashboard/student/#/community). They thought about what kind of projects they would like to do and got used to the new interface. This Golf game is popular, and some kids are learning how to modify it. 
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f843bc8fb9ef85d50640350&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Golf game" ID="5f843bc8fb9ef85d50640350" %}
 
 ### The Tynker Class Page and Homework
 
 Our next project is the *Magical Pen Basic Tutorial* at the bottom of the classroom page. You can get a head start on it if you want! Here is what the final project will look like (hover over the stage to see it work) when it if finished:
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5f869c8ef597ea0370100525&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
-
+{% include tynker.html Name="Magical Pen Basic Tutorial" ID="5f869c8ef597ea0370100525" %}
 
 </details>
  

@@ -150,18 +150,18 @@ Today we had 2 kids attending via Zoom. I gave kids feedback on their projects f
 Dance Party
   : For the dance party he added face movement when the character was speaking, and keys to press to adjust the background, as well as an instruction screen.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=607401d9d9a06f67ed14d15b&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+{% include tynker.html Name="Dance Party" ID="607401d9d9a06f67ed14d15b" %}
 
 Three Little Codeys
   : One student was prompted to come up with a story to go with her project. Her story involved 3 little pigs (aka Codeys) who meet 3 bad guys. They are scared when they see the bad guys, so we programmed this into the characters. Then she decided to add a new level, and we tried to copy the actors from the first level using the backpack. For some reason this didn't work, so we  added new characters by using tynker and copied the code using the backpack. Her homework was to finish telling the story.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=607401cf2cb8fe6f4f607900&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="Three Little Codeys" ID="607401cf2cb8fe6f4f607900" %}
 
 Platformer:
-One child continued working on his platformer project. He got stuck with a character who disappeared and I helped him locate his current coordinates and make a character show who has been invisible.
+  : One child continued working on his platformer project. He got stuck with a character who disappeared and I helped him locate his current coordinates and make a character show who has been invisible.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6074145b139a1e11855c1bdf&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Platformer" ID="6074145b139a1e11855c1bdf" %}
 
 Animated Butterfly
   : We began to work on his game, but he decided he wanted to check out Scratch again. We suggested the idea of poriting  a project from Tynker to Scratch. He chose the among us project, and we talked about how to make animation from individual costumes. He made a simple animation for his project.  
@@ -182,7 +182,7 @@ Animated Butterfly
 Students were not able to agree on a project to work on together, so they started out on individual projects.
 
 Helicopter Shooting Game
-  : The biggest challenge of the day was a student who wanted to make a shooting game, only without using the pre-set shoot and attack blocks. While it is easy to just use the pre-set blocks, when you want to control things carefully, you sometimes have to biuld it on your own. We worked out together on the whiteboard the exact steps that shooting a bullet would involve:
+  : The biggest challenge of the day was a student who wanted to make a shooting game, only without using the pre-set shoot and attack blocks. While it is easy to just use the pre-set blocks, when you want to control things carefully, you sometimes have to build it on your own. We worked out together on the whiteboard the exact steps that shooting a bullet would involve:
 
 1. Triggering the action (when pressed)
 2. Appearing in the right place (go to and show)
@@ -198,25 +198,26 @@ We then converted this into basic blocks. We created the bullet and then a new c
 
 After a false start involving clones, we simplified to one helicopter at first. When we got it working, we had one very excited student! The next step would be to add more helicopters.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606aca1653b07445784897a0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+{% include tynker.html Name="Helicopter Shooting Game" ID="606aca1653b07445784897a0" %}
 
 Pet Simulator
   : This student decided she wanted to redo the pet simulator project. This was great, cause we realized she didn't quite understand where the location of the costumes was, and how to test when two characters are touching. Once she understood this, she was able to add the cupcake on her own. Apparently, the face doesn't like cupcakes.
 
 ![Imgur](https://i.imgur.com/wfJMbRu.png){: .jsgif} 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606ad4aeec926e63ac1d4c0a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Pet Simulator" ID="606ad4aeec926e63ac1d4c0a" %}
 
 Platformer Game
   : She then decided to try her hand at a platformer game. This went swimmingly until she realized she wanted to delete the horde of bad guys she had put there first. Unfortunately in Tynker you have to laboriously delete each character. Now it is much more manageable.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606add3c15183a5a9c6c29ea&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="Platformer Game" ID="606add3c15183a5a9c6c29ea" %}
 
 Dance Party
   : Another student decided to work on a dance party. This is pretty straightforward, and a work in progress.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606add08f46a6a49cf61d668&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+
+{% include tynker.html Name="Dance Party" ID="606add08f46a6a49cf61d668" %}
 
 </details>
 
@@ -231,7 +232,7 @@ Dance Party
 
 Today was an interesting class. The kids spontaneously decided to hold an impromptu coding contest after seeing one student's project. We all started out with the same basic project.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60618e1a410546550141113c&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Student Challenge for March 29th" ID="60618e1a410546550141113c" %}
 
 The challenge was to do something to modify the project to make it better. Students worked individually and we ended up with three different projects. We then scored the projects according to different criteria 
 
@@ -244,16 +245,16 @@ The challenge was to do something to modify the project to make it better. Stude
 
 and kids talked about which criteria each project did best on. Here are their projects.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6062d5a947abee171325be06&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60606ba496007e303a327162&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Student Challenge" ID="6062d5a947abee171325be06" %}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606192094a7a6167be37eda1&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Student Challenge" ID="60606ba496007e303a327162" %}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=606191f6fba51d65370005b3&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Student Challenge" ID="606192094a7a6167be37eda1" %}
 
+{% include tynker.html Name="Student Challenge" ID="I606191f6fba51d65370005b3" %}
 
-</details> 
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 22nd
@@ -263,7 +264,7 @@ and kids talked about which criteria each project did best on. Here are their pr
 
 ### Recap for March 22nd
 
-Fun Mastered Project  
+Fun Meanie Project  
   : One student, as in the project we reviewed in the February 22nd class, wanted a door that would open when the actor collected a coin. This time, instead of a coin, he wanted to make it a person. 
 
 The meanies are in a trap, but we want to open the trap when the actor collects the collectable. We use **the set tile at point** block to initialize the stage at start, and then we send a message when the collectable is collected to set the tiles to empty when the character is collected. 
@@ -271,44 +272,39 @@ The meanies are in a trap, but we want to open the trap when the actor collects 
 
 ![Imgur](https://i.imgur.com/FqAXFaB.jpg){: .jsgif}
 
-
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=603a374854eef562025fc725&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Fun Meanie Project" ID="603a374854eef562025fc725" %}
 
 Road Crossing
   : This student modified the Chicken Crossing game to make it a Road Crossing game. I challenged her to make the game more different/interesting by adding a third road. This allowed me to show her how to add levels and use the Tynker backpack to move code from one level or project to another.
 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604f2cfef14fce64b42e9f7b&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Road Crossing" ID="604f2cfef14fce64b42e9f7b" %}
 
 Gangnam Style
   : Another student was able to finish his project, which involved making a character dance in Gangnam Style. sing animate blocks. He planned out the motions on paper and by looking at the available animations. The class enjoyed an impromptu dance session and learning what Gangnam meant from a student of Korean descent.
 
-
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=605861d9094f013b6b6674aa&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Gangnam Style" ID="605861d9094f013b6b6674aa" %}
 
 Working at home
   : Another student demonstrated projects he had finished at home recently. He really has been able to learn a lot just by exploring on his own, and was delighted to share his discoveries with me and the other students. One important discovery for him was that you can copy all the code from one actor, like a stock actor, to your own actor to make them behave the same. He had a lot of fun switching characters to give them unexpected behavior.
 
 
-:star2: 1. Zonbi
+&#127775; 1. Zonbi
   : The first project was inspired by another student's Zombie game. The Zombie is a modified stock villain. I showed him how to add levels and use the backpack. He then added a top down maze level.
 
+{% include tynker.html Name="Zonbi" ID="604c254053b3cd09ca20c000" %}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604c254053b3cd09ca20c000&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
 
-
-:star2: 2. Torening
+&#127775; 2. Torening
   : The student was very proud of his modified stock actors as well as various tile types in this project.
 
+{% include tynker.html Name="Torening" ID="604c39466920982ccb33dde7" %}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604c39466920982ccb33dde7&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
-
-:star2: 3. Rush
+&#127775; 3. Rush
   : This project involves multiple heros and using "a" to attack.
 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604b36c3fd441f35d3725ae0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Rush" ID="604b36c3fd441f35d3725ae0" %}
 
 </details>
 
@@ -335,7 +331,7 @@ The final challenge was to make the Ninja jump over a tree. Because this game di
 
 It was fun to see the kids get very excited when they suddenly had an insight or figured out the answer. We will probably revisit this project soon but here it is in its unfinished state. Press right arrow or up arrow to move, and "j" to jump over the tree.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=604fca0e9e0af2303e33e542&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Me Super ninja Jump Heart Ninja Dinosaur Volcano" ID="604fca0e9e0af2303e33e542" %}
 
 </details>
 
@@ -353,20 +349,19 @@ Today kids worked on their own projects.
 Platformer Game: Making a Bad Guy React to an Approaching Good Guy
   : Platformers are still popular, but kids are now starting to want to customize their games more. 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=603cb6e0a3e768462a1caa4f&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{% include tynker.html Name="Making a Bad Guy React to an Approaching Good GuyME" ID="603cb6e0a3e768462a1caa4f" %}
 
 One question that came up for several students was how to make the bad guy react when the good guy is near. For example, the bad guy could tell him about the presence of awards and bad guys, or could make clones of himself, or give a riddle to be solved. 
 
 ![Imgur](https://i.imgur.com/bV3fU0Y.png){: .jsgif}
   : * A **when [] occurs** holding a  **distance to []** block can detect the good guy, and then we can code our reaction.
 
-<iframe width="100%660" height="408" src="//www.tynker.com/ide/embedded?p=603a374854eef562025fc725&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Making a Bad Guy React to an Approaching Good Guy" ID="603a374854eef562025fc725" %}
 
 Brickbreaker
   : Another student worked hard on a classic brickbreaker game. The tutorial she was working off of was rather fast and hard to follow, so we walked through it together. It involved the very difficult concept of nested loops. We also reviewed static and active blocks, and true versus false.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6046e39fa763df276940ef2c&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-  : * The brickbreaker game is a classic
+{% include tynker.html Name="The brickbreaker game is a classic game!" ID="6046e39fa763df276940ef2c" %}
 
 ![Imgur](https://i.imgur.com/2jQj6wh.png){: .jsgif}
   : * **This loop** draws the bricks. It draws all the columns in one row and then the next. Getting the numbers right is tricky.
@@ -382,9 +377,7 @@ Brickbreaker
 Doodle Jump
   : Another tutorial was not that difficult but had outdated code in it for making a scoreboard, and I had to create an up-to-date version. Luckily, the newer method is much simpler. Note the nice scoreboard in the final project.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6045e166a5f379517660b9eb&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
-
+{% include tynker.html Name="Doodle Jump" ID="6045e166a5f379517660b9eb" %}
 
 </details>
 
@@ -411,7 +404,7 @@ Last week a student asked how to make a character come to life again. There are 
 
 We walked through a [tutorial](https://www.tynker.com/play/za-tutorial/60342b84e25d447d91562ac6-556329XkLKUhN7.xk1aXOsgIZT3cEk) that explains it in detail. The homework is to work through the tutorial again on your own, and try to add something new. Here is what it should look like in the end (press s to shoot, and right arrow to move closer). As you can see, the zombie comes back!!
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=603420aac319be37a801ac98&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Among Us" ID="603420aac319be37a801ac98" %}
 
 Aftwerwards, some kids started the homework, and I reviewed how to set uup a platform game from scratch for some students. 
 
@@ -453,8 +446,7 @@ In this case the actor tells the main actor that he has to collect a ring before
 How to make a character come to life again
   : A student had an interesting question about how to make a character come to life again. Next week we will talk about two ways to do this, but here is a preview:
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=603420aac319be37a801ac98&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="come to life again" ID="603420aac319be37a801ac98" %}
 
 Debugging Tic Tac Toe 
   : Kids then worked on their ongoing projects. The biggest challenge today was in teh Tic Tac Toe game. This required some debugging by the student, and the student was able to figure it out by themselves once I gave a hint as to where the problem code was. Great Job!!
@@ -498,7 +490,7 @@ Today we also started a project review series. At the beginning of each class we
 
 Today's project was the Space Rush game.
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6021522f326cdc17cf2e10d4&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Space Rush" ID="6021522f326cdc17cf2e10d4" %}
 
 We looked at the code that controls how the Ship moves and adjust ed the the parameters to make the character move faser and more smoothly.
 
@@ -542,8 +534,7 @@ Debugging
  
 ![Imgur](https://i.imgur.com/oQtpJcc.gif){: .jsgif}
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=60216ff63c0daf6d42090fd5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="Monster Museum" ID="60216ff63c0daf6d42090fd5" %}
 
 * Another student had a problem with the Space Rush Game. One of the asteroids wouldn't disappear, and there was not score. We started to discuss why this was happening and next week we will fix it. 
 * We worked on a Walk in the Park Game but Tynker's project template was set up for a tablet, so we had to figure out how to modify some of the code so it would work on a pc. Instead of changing the x-tilt:
@@ -555,9 +546,7 @@ we had to change the x-position.
 ![Imgur](https://i.imgur.com/mWoeYq4.png){: style="height: 80px;width: auto;" .jsgif}
 
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6020fa6732ab521c4a5bbfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
-
+{% include tynker.html Name="Park Game" ID="6020fa6732ab521c4a5bbfd0" %}
 
 Fun
   : For fun some students worked on making their own minecraft mods, which is a home feature of Tynker. 
@@ -580,9 +569,7 @@ Space Rush
 
  ![Imgur](https://i.imgur.com/VE7LjNL.png){: .jsgif}
 
-
-  
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=600e8c3d4359961a9571f83a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Space Rush" ID="600e8c3d4359961a9571f83a" %}
 
 Among Us
   : The student was very ambitious. They worked on planning the next stage of their an Among Us game. Watching another student, they were also inspired to start their own Platform game. 
@@ -602,8 +589,7 @@ Maze
 
 Watch it here:
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6017cb9e365a4a4c562b881a&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="Maze" ID="6017cb9e365a4a4c562b881a" %}
 
 
 Tic Tac Toe
@@ -635,16 +621,12 @@ Continue individual projects.
 Platformer Game
   : Student finished shooting game and the other students had a lot of fun playing the game. It was very challenging, and everyone had fun trying to beat the game. The student really enjoyed explaining all the special features of the game.
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5ff2d7d79b253560ca4078b5&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
-
+{% include tynker.html Name="Platformer Game" ID="5ff2d7d79b253560ca4078b5" %}
 
 Pet Project and Art Studio
   : The student finished up the last part of their Pet Project. We looked at some other projects together and found one she would like. For this Art Studio we worked through sending and receiving a message to change the costume of the pen actor when the colored squares are clicked. The student added some actors and tried to recreate the code, and we focused on making sure the new names and references were right. 
 
-
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=6005537ab7669807061233e8&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Art Studio" ID="6005537ab7669807061233e8" %}
 
 Tic Tac Toe
   : The student made a lot of progress on this project today. First we had a problem locating the position of the actors. Due to a quirk in Tynker, hidden AND blank characters are not visible or clickable even when not running the program, so you need to make the character visible by changing costume. In the code, therefore, instead of showing and hiding the characters, we changed the costumes to blank instead. 
@@ -701,15 +683,13 @@ broadcast (hide rules) :: events
 
 Here is an incomplete version:
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5ffc0b612e79c31472478897&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Tic Tac Toe" ID="5ffc0b612e79c31472478897" %}
 
 
 Peep project, and Pet simulator
   : The Peep Nature Walk project turned out to be more difficult than expected. The student made a good effort and learned some things. Here is what it could have looked like:
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=6005f50a2e6d82407f707508&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Peep project" ID="6005f50a2e6d82407f707508" %}
 
 Pet Simulator
   : Since it was difficult I gave her the option of trying a new project and she chose the Pet Simulator. This project uses the following series of if statements to choose a different reaction for the pet for each food. 
@@ -759,8 +739,7 @@ Haunted House
 
 The following project shows how it works. When it starts, it creates a visible platform. If you press c, it replaces the visible platform with an invisible one that the player can walk on:
 
-<iframe width="100%" height="408" src="//www.tynker.com/ide/embedded?p=5ffc1a203ab9a77e703c2363&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
-
+{% include tynker.html Name="Haunted House" ID="5ffc1a203ab9a77e703c2363" %}
 
 Platform Game
   : Another student continued to make a complex platform game with various platforms, enemies, and even a dead-end trap. While it is easy and fun to just add new characters to shoot at, I suggested making the game more interesting by adding a story to it, such as a goal or endpoint, or an object to collect. Perhaps next week.
@@ -792,9 +771,10 @@ Haunted House
 Tutorials
   : One student worked through some tutorials, including a challenging one about navigating a maze.  She chose her next project, which is based on a project from [Peep and the Big Wide World](https://www.youtube.com/channel/UCPq6g4Q4-SFMIJ048IXmupA). 
   
-  : <iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5ff176f0657ea54613390f5b&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif}
+{% include tynker.html Name="Peep" ID="5ff176f0657ea54613390f5b" %}
   
-  : This is a great show for kids and I heartily recommend it.
+By the way:
+  : Peep and the Big Wide World is a great show for kids and I heartily recommend it.
 
 {% include youtubelazy.html  videoID="PEqp2bnbURA" %} 
 {: .jsgif}
@@ -850,8 +830,7 @@ I highlighted the difference, since I was asked, between copying on a test and c
 
 I asked kids if it was hard to find a goal or project to work on, and most said yes. I said that the goal of this class is to learn how to use every block in Tynker. To get started on that goal, we work through the tutorial about basic blocks.
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fe9dd92fc762c07fc1acfd0&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif }
+{% include tynker.html Name="Block Heads Tutorial" ID="5fe9dd92fc762c07fc1acfd0" %}
 
 <https://www.tynker.com/play/block-heads-version-2-partially-completed/5fe9dd92fc762c07fc1acfd0-788525XlWhzbbxd4ml.IpdPRLJ3Xsk>
 
@@ -962,8 +941,7 @@ Some students are still in the process of planning their next project. As it typ
 
 For the first, we are able to go to the community tab of our Tynker page and look for similar projects to give us some ideas. If we find an idea we like, we can incorporate it into our project, which is what we will do next week. Here is a sample Pong project, with music included:
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fce8639861d357f4b6dedfe&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Pong" ID="5fce8639861d357f4b6dedfe" %}
 
 #### Magic: The Gathering Intro
 
@@ -1004,8 +982,7 @@ The MTG game is a bit challenging. While I don't think we are ready to code the 
 
 * All together it looks like this. Note that you can click and drag the individual cards to look at them more closely. Also, each time you run the program a different hand is created. It also shows the number of cards remaining in the deck.
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fce4d52333b937d7b1c9773&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Magic" ID="5fce4d52333b937d7b1c9773" %}
 
 Next class I will review this with the student, and we can think of ways we might change it and what to do next. The goal is not to understand all the details, but to see how the steps fit together logically and get a sense what the different types of blocks can do.
 
@@ -1065,8 +1042,7 @@ Kids continued working on the conversation project. First we continued adding mo
 ![animate](https://i.imgur.com/t0Dp1Ip.png)
 {: .jsgif}
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fbd4ebbf72982269962912e&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
-{: .jsgif}
+{% include tynker.html Name="Conversation" ID="5fbd4ebbf72982269962912e" %}
 
 Kids enjoyed exploring the different animations available, and also jazzing up the appearance of the actors using the character editor. 
 
@@ -1119,7 +1095,8 @@ Keep modifying your version of the class project.
 
 This class involved a step by step review of one student's version "Homework for 11/2: Platformer Guided Tour and Tutorial" 
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5fa8f7ebbc826b7c937b9a6e&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{% include tynker.html Name="Homework for 11/2" ID="5fa8f7ebbc826b7c937b9a6e" %}
+
 
 It involved me asking a lot of questions to test and reinforce students' understanding of how to create and modify a platform game. I was really impressed that kids really seemed to understand almost everything they needed to get started. We did some some troubleshooting for parts of the game that didn't work as expected, and then added some further modifications, such as a changing background and mus
 
@@ -1130,7 +1107,7 @@ Inspired by this, kids worked on modifying their own version of the tour and tut
 
 I have created a [basic platform template](https://www.tynker.com/play/template-for-platformer-game/5faa1a57917b660ea43ec872-870472XjXUOUxJ827BEY8mRzbYS2Ek) for students to use when they want to make a new game from scratch. The stage has been set up and the platform module has been added. It has score and health meters. It has one good guy who can make basic mostions. It has one bad guy, awards, health and power, and a small platform.
 
-<iframe width="660" height="408" src="//www.tynker.com/ide/embedded?p=5faa1a57917b660ea43ec872&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>
+{% include tynker.html Name="Platformer Template" ID="5faa1a57917b660ea43ec872" %}
 
 
 </details>
@@ -1151,8 +1128,7 @@ Keep working on the "[Homework for 11/2: Platformer Guided Tour and Tutorial"](h
 
 Today we went through the "Homework for 11/2: Platformer Guided Tour and Tutorial". This was intended as an overview to show the key points. As we work on individual projects I will begin to explain in more detail. 
 
-<iframe width="660"  height="408" src="//www.tynker.com/ide/embedded?p=5fa04a722d202205ec5a6750&controls=true&autostart=false" frameborder="0" allowfullscreen></iframe>{: .jsgif }
-
+{% include tynker.html Name="Homework for 11/2" ID="5fa04a722d202205ec5a6750" %}
 
 I created the basic setting, but we quickly reviewed together how to: 
 
