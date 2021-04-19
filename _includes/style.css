@@ -755,7 +755,7 @@ img.gif {
 /* not really used anymore */
 iframe[src^="https://forkphorus.github.io"] {
     position: relative;
-    border-color: var(--thumbBG);
+    border-color: var(--scrollbarBG);
     border-top: 9px solid var(--scrollbarBG);
         border-bottom: 9px solid var(--scrollbarBG);
     border-radius: 12px;
@@ -769,7 +769,7 @@ iframe[src^="https://forkphorus.github.io"] {
 
 
 iframe[src^="https://turbowarp.org"] {
-     border-color: var(--thumbBG);
+     border-color: var(--scrollbarBG);
     border-top: 9px solid var(--scrollbarBG);
         border-bottom: 9px solid var(--scrollbarBG);
     border-radius: 12px;
@@ -833,12 +833,27 @@ p#tynkerattribution {
 border-radius: 11px 0px 11px 11px;/* note not the top right corner  to blend nicely with iframe border */
 background: var(--scrollbarBG);
 padding-left: 6px;
-width: 70%;
+min-width: 50%;
+max-width:70%;
 float: right;
 position: relative;
 right: -1px;
 top: -18px;
+    text-align: right;
 }
+
+p#turboattribution {
+border-radius: 11px 0px 11px 11px;/* note not the top right corner  to blend nicely with iframe border */
+background: var(--scrollbarBG);
+padding-left: 6px;
+min-width: 50%;
+float: right;
+position: relative;
+right: -1px;
+top: -18px;
+    text-align: right;
+}
+
 
 .giphycontainer:hover .giphyattribution {
   opacity: 1;
