@@ -788,24 +788,14 @@ iframe[src^="https://turbowarp.org"] {
     width: calc(100% - 19px);
 }
 
-.tynker img {
-    height: 13px!important;
-    background: #286fc7;
-    padding: 1px 4px 2px 4px;
-    border-radius: 4px;
-    position: relative;
-    top: 3px;
-}
 
+/* this is the frame from iframe, tynker, turboplus, images and so on.  */
 .giphycontainer {
   background-color: var(--scrollbarBG);
   border-radius: 12px;
+  margin-bottom: 17px;
 }
 
-/* moves the next paragraph after a tynker embed down */
-.tynker {
-    margin-bottom: 17px;
-}
 
 
 /* puts the attribution in the right place */
@@ -821,29 +811,42 @@ iframe[src^="https://turbowarp.org"] {
 
 
 /* adjusts position of tynker embed link */
-
 .tynker .giphyattribution {
 top: -18px;
 /* gets rid of hairline */
 background-color: transparent!important;
 }
 
-/* sizes the tynker attribution paragraph to fit nicely over the bottom right */
+/* styles the tynker attribution paragraph to fit nicely over the bottom right */
 p#tynkerattribution {
-border-radius: 11px 0px 11px 11px;/* note not the top right corner  to blend nicely with iframe border */
-background: var(--scrollbarBG);
-padding-left: 6px;
-min-width: 50%;
-max-width:70%;
-float: right;
-position: relative;
-right: -1px;
-top: -18px;
+    /* round,  */
+    border-radius: 11px 0px 11px 0px;
+    background: var(--scrollbarBG);
+    padding-left: 6px;
+    padding-right: 11px;
+    padding-bottom: 3px;
+    /* max-width: 70%; */
+    float: right;
+    position: relative;
+    right: -9px;
+    top: -23px;
     text-align: right;
+    overflow: auto;
+    /* border: 1px solid red;
+    line-height: 25px!important; */
+    width: 100%;
+}
+
+p#tynkerattribution img {
+/* dont overflow line add background for visibility pad round edges */
+    height: 13px!important;
+    background: #286fc7;
+    padding: 1px 4px 2px 4px;
+    border-radius: 4px;
 }
 
 p#turboattribution {
-border-radius: 11px 0px 11px 11px;/* note not the top right corner  to blend nicely with iframe border */
+border-radius: 11px 0px 11px 0px;/* not the top right/bottom left to blend nicely with iframe border */
 background: var(--scrollbarBG);
 padding-left: 6px;
 min-width: 50%;
@@ -851,9 +854,15 @@ float: right;
 position: relative;
 right: -1px;
 top: -18px;
-    text-align: right;
+text-align: right;
 }
 
+#tynkerattributionimagespan {
+    /* set this just left and inline with links */
+    position: relative;
+    left: -10px;
+    top: 3px;
+}
 
 .giphycontainer:hover .giphyattribution {
   opacity: 1;

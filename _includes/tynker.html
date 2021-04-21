@@ -1,13 +1,16 @@
+<!-- This creates the attribution links at the bottom of the tynker iframes.
+*** SUPERCEDED by  tynkerprojectpage.html,  which takes as input a raw share link and creates links to the project page and the fullscreen version. tynker.html only shows the id as originally I was only giving it the shortened (24 character) project ID as input, and this isn't enough to create the project page link. This version will accept full http links as ID, but shows only the ID part -->
 <div class="giphycontainer jsgif tynker">
-  <iframe width="516" height="322"
-    src="//www.tynker.com/ide/embedded?p={{include.ID}}&controls=true&autostart=false"
-    frameborder="0" allowfullscreen></iframe>
-  <div class="giphyattribution" style=""><p id="tynkerattribution">**{{include.Name}}** {{include.ID}}
-    <a
-      href="https://www.tynker.com/ide/embedded?p={{include.ID}}&controls=true&autostart=false"
-      target="_blank" title="Name of project: {{include.Name}} Project ID:
-      {{include.ID}}" style="text-decoration: none;"><br>*open in* <img
-        class="" style="" src="/assets/tynkerattribution.png" alt="Name of
-        project: {{include.Name}} Project ID: {{include.ID}}"></a></p>
-  </div>
+<iframe width="516" height="322" src="//www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
+frameborder="0" allowfullscreen></iframe>
+<div class="giphyattribution" style="">
+<p id="tynkerattribution">**{{include.Name}}**<br>
+<span id="tynkerattributionimagespan"><img class="" style="" src="/assets/tynkerattribution.png" alt="Name of
+project: {{include.Name}} Project ID: {{include.ID}}"></span> ID:
+{{ include.ID | split: "/" | last }} <a
+href="https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
+target="_blank" title="Name of project: {{include.Name}} Project
+ID:{{include.ID}}" style="text-decoration: none;">*fullscreen*</a>
+</p>
+</div>
 </div>
