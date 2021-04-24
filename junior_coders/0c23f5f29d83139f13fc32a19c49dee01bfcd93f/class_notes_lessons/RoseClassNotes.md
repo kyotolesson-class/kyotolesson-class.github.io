@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [April 23rd](#april-23rd)
+  * [Recap for April 23rd](#recap-for-april-23rd)
 * [April 16th](#april-16th)
   * [Recap for April 16th](#recap-for-april-16th)
 * [April 9th](#april-9th)
@@ -62,6 +64,58 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## April 23rd
+</summary>
+
+## April 23rd
+
+### Recap for April 23rd
+
+Tynker
+  : The project this week was a maze game. 
+
+![Imgur](https://i.imgur.com/PCrNSUO.gif){: .jsgif}
+
+Straight Lines
+  : One key skill for this is knowing how to make straight lines, as described in the [Dragon Maze](../lessons/DragonMazept1.html). 
+  
+1. First click the select arrow and then click a line. 
+2. The line will appear with dots. 
+3. Click on a dot to remove it. 
+4. Remove all the dots except 2 to make a perfectly straight line. 
+5. Drag 2 dots directly over each other to make a sharp corner. 
+6. Drag the dots around to modify the path of the line. 
+7. Using a set of lines, make a maze.
+
+![the path of a line in the background](./images/2020-04-13/linearPaths.png){: .bordered width="300px"}
+
+Today I really emphasized step 5, to make a sharp corner. Student Y became very ambitious in his maze and it had long lines, with lots of twists and spirals. This required precision handling of all the dots, and counting the dots needed. I thought this would be discouraging, especially because he wasn't using a stylus, but just his finger. But in the end he kept at it and worked very hard to get what he wanted. Great Job! 
+
+Student K finished his maze and moved on to making the [Dragon Maze](../lessons/DragonMazept1.html). He also worked on. 
+
+Student R was also able to complete the maze, and had a lot of fun adding music.
+
+Exploring Tynker
+  : Student Y spent today's class exploring various tutorials and projects looking for his next project to complete. He seems to have settled on make a comic strip project.
+
+Beach Project
+  : Student A continued working on her Beach project. She realized that is was a bit hard to get to some of the candy, so she started working on making a basket that the candy could go in when you collect it. We chose a basket image from Google, and used [Pixlr](pixlr.com) to remove the background. Then we inserted it into the project.
+
+![Imgur](https://i.imgur.com/juFElCI.png){: .bordered height="300px"}
+
+{% include tynkerprojectpage.html Name="Beach Project" ID="https://www.tynker.com/play/mermaid-2-revised/6083e6babce7316a2c7167de-564164XpgMLsXuzFhi8BJS.JfT3n4k" caption="A mockup of the **Beach Project** in action. When she hits the good candy, the bad candy disappears and the good candy goes to the basket. She goes back to the starting point." %}
+
+Snowboarder
+  : For the snowboarder project, student C continued working on a "life" system for kids. When a player collects bad candy, she loses one life. Before she was using separate actors for each life, and I suggested making each life be a costume. That way she can use the "next costume" block to keep score.  This is a simple alternative to using variables.
+
+![Imgur](https://i.imgur.com/gvDFoZI.png){: .bordered width="300px" }
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 16th
