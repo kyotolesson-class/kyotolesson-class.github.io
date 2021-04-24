@@ -16,8 +16,9 @@ _Skill: Modifying a path in the background_
 2. The line will appear with dots. 
 3. Click on a dot to remove it. 
 4. Remove all the dots except 2 to make a perfectly straight line. 
-5. Drag the dots to modify the path of the line. 
-6. Using a series of lines, make a maze in the background.
+5. Put 2 dots directly over each other to make a sharp corner. 
+6. Drag the dots to modify the path of the line. 
+7. Using a series of lines, make a maze in the background.
 
 ![the path of a line in the background](./images/2020-04-13/linearPaths.png){:height="200px"}
 
