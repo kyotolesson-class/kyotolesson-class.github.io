@@ -788,6 +788,13 @@ iframe[src^="https://turbowarp.org"] {
     width: calc(100% - 19px);
 }
 
+/* adds border to sized images, for example */
+.bordered {
+    border-color: var(--thumbBG);
+    border: 9px solid var(--scrollbarBG);
+    border-radius: 12px;
+    background-color: var(--scrollbarBG);
+}
 
 /* this is the frame from iframe, tynker, turboplus, images and so on.  */
 .giphycontainer {
@@ -796,7 +803,10 @@ iframe[src^="https://turbowarp.org"] {
   margin-bottom: 17px;
 }
 
-
+.giphycontainer.tynker {
+  margin-bottom: 0px;
+  border-radius: 12px 12px 0px 0px ;
+}
 
 /* puts the attribution in the right place */
 .giphycontainer .giphyattribution  {
@@ -818,7 +828,7 @@ background-color: transparent!important;
 }
 
 /* styles the tynker attribution paragraph to fit nicely over the bottom right */
-p#tynkerattribution {
+p.tynkerattribution {
     /* round,  */
     border-radius: 11px 0px 11px 0px;
     background: var(--scrollbarBG);
@@ -829,7 +839,7 @@ p#tynkerattribution {
     float: right;
     position: relative;
     right: -9px;
-    top: -23px;
+    top: -11px;
     text-align: right;
     overflow: auto;
     /* border: 1px solid red;
@@ -837,7 +847,7 @@ p#tynkerattribution {
     width: 100%;
 }
 
-p#tynkerattribution img {
+p.tynkerattribution img {
 /* dont overflow line add background for visibility pad round edges */
     height: 13px!important;
     background: #286fc7;
@@ -845,7 +855,7 @@ p#tynkerattribution img {
     border-radius: 4px;
 }
 
-p#turboattribution {
+p.turboattribution {
 border-radius: 11px 0px 11px 0px;/* not the top right/bottom left to blend nicely with iframe border */
 background: var(--scrollbarBG);
 padding-left: 6px;
@@ -857,13 +867,41 @@ top: -18px;
 text-align: right;
 }
 
-#tynkerattributionimagespan {
+.tynkerattributionimagespan {
     /* set this just left and inline with links */
     position: relative;
     left: -10px;
     top: 3px;
 }
 
+/* this adjusts the usual blockquote margin padding and border around captions */
+blockquote.tynkercaption {
+    margin: 0 0 0 0;
+    border-left: unset;
+    padding: 0px 20px 0px 20px;
+}
+
+/* if no caption, this is just here to put a margin at the bottom */
+div.tynkercaptiondiv {
+    border: 5px solid var(--scrollbarBG);
+    border-top: 9px solid var(--scrollbarBG);
+    font-style: italic;
+    border-radius: 0 0 12px 12px;
+margin: 0 0 17px 0;
+}
+
+/* this puts a margin around captions */
+blockquote.tynkercaption p {
+margin-top: 4px;
+margin-bottom: 5px;
+font-size: 90%;
+text-align: justify;
+    line-height: normal;
+    font-style: normal;
+    font-family: Cochin, Times, "Times New Roman", serif;
+}
+
+/* adds the attribution for giphy and other iframes */
 .giphycontainer:hover .giphyattribution {
   opacity: 1;
   float:right;
