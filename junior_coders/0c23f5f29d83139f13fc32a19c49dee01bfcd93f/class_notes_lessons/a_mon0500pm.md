@@ -54,6 +54,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 26th](#april-26th)
+  * [Recap for April 26th](#recap-for-april-26th)
+  * [Makeup Class](#makeup-class)
 * [April 19th](#april-19th)
   * [Recap for April 19th](#recap-for-april-19th)
     * [In-person class](#in-person-class)
@@ -142,6 +145,144 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<!-- MONDAY -->
+<details markdown=1>
+<summary markdown=1>## April 26th
+</summary>
+## April 26th
+
+### Recap for April 26th
+
+Back to Scratch
+  : Some kids moved back to Scratch after a long time with Tynker. I had loosely offered this a while back, and the kids have asked for it since then. This will allow us to focus more on details and specific steps. 
+
+Virus Shooting
+  : Student H continued working on his Virus Shooting Project. Today we worked in the photo editor making his character into a silhouette but cutting part out, and painting over it. Then we moved to coding. We worked on making the gun follow the mouse pointer and limiting the motion to certain directions. This required 2 if block, an a condition block to test tthe diretion and point in the right direction.
+
+
+```
+when @greenFlag clicked
+forever
+    point towards [mouse-pointer v]
+    if <(direction) > [20]> then
+        point in direction (20)
+    end
+    if <(direction) < [-41]> then
+        point in direction (-41)
+    end
+end
+
+when I receive [message2 v]
+play sound [Squish Pop v] until done
+
+when @greenFlag clicked
+forever
+    say (direction)
+end
+
+```
+{: .msb}
+
+{% include turbowarp.html Name="Virus Shooter" ID="517634593" caption="The spraygun's motion is limited to between -30 and 35 degrees" %}
+
+
+Tutorials
+  : Student M worked in Tynker. As a warmup, he made mouse follow the mousepointer and a cat follow the rat . He made the game stop if the cat caught the mouse. The key was using touching blocks, with forever loops  to do the testing
+
+```
+when @greenFlag clicked 
+forever
+    glide (1) secs to [Mouse1 v]
+end
+
+// Cat follows mouse
+
+
+when @greenFlag clicked 
+forever
+    go to [mouse-pointer v]
+end
+
+// Mouse follows pointer
+
+
+when @greenFlag clicked 
+forever
+    if <touching [Cat v]?> then
+        say [help] for (2) seconds
+        stop [all v]
+    end
+end
+
+// when touched game stops
+```
+{: .msb}
+
+{% include turbowarp.html Name="mouse run" ID="521123023" caption="" %}
+
+
+Pong
+  : Then he finished a tutorial for a pong like game. We experimented with different rebound angles for the ball, e.g. 200 degrees instead of 180 degrees.
+
+
+```
+when @greenFlag clicked
+forever
+    if <touching [Magic Wand v]?> then
+        change [score v] by (1)
+        turn @turnRight (200) degrees::motion // 200 degrees instead of 180 degrees
+        move (15) steps
+        wait (0.5) seconds
+    end
+end
+```
+{: .msb}
+
+
+{% include turbowarp.html Name="Pong" ID="521128840" caption="" %}
+
+
+### Makeup Class
+There was also a makeup class.
+
+Joke Game
+  : Student A1 finished his comic strip joke class. He added more characters and conversation, as well as a cute "Fin" end card. The project is below but beware, the volume is high, so turn it down before you play the project.
+
+{% include tynkerprojectpage.html Name="Joke" ID="https://www.tynker.com/play/joke/607e7e767499e620f9630a0c-610559XroM3d00DC4i3IC,ulTdk.Yk" %}
+
+
+
+Comic 
+  : Student A2 was also working on a comic. This time we revised it 
+
+We moved the font and color information to a separate initializion block
+
+![Imgur](https://i.imgur.com/BugB9tz.png){: .jsgif}
+
+
+We talked about loops. For example, we used a loop to move the caveman towards the karate kid and to change the karate kid's costume while he kicks. We counted the number of costumes so that we would end on a high kick.
+
+![Imgur](https://i.imgur.com/3JC5plC.png){: .jsgif .autoimage}
+![Imgur](https://i.imgur.com/OJpPkM8.png){: .jsgif .autoimage}
+
+We also used a broadcast to hide the Karate Kid and the Caveman at the end.
+
+![Imgur](https://i.imgur.com/YRRQ5GU.png){: .jsgif .autoimage}
+
+Here is the final product
+
+{% include tynkerprojectpage.html Name="comic-4-27" ID="https://www.tynker.com/play/comic-4-27/6088e7ea80013e53d132cf33-275401XiWac.P.Q1B8NzfXYjpChQgk" %}
+
+### Happy Golden Week
+
+Here is some fun to wish everyone a wonderful golden week. Watch it to the end!!
+
+{% include youtubelazy.html  videoID="dOxlEwX9lbA" %}
+
+See you after the holiday.
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## April 19th
@@ -236,7 +377,7 @@ We then converted this into basic blocks. We created the bullet and then a new c
 
 ![Imgur](https://i.imgur.com/rAztuI7.png){: .jsgif}
 
-![Imgur](https://i.imgur.com/m2HRTMb.png){: .jsgif}
+![Imgur](https://i.imgur.com/m2HRTMb.png){: .jsgif .autoimage}
 
 After a false start involving clones, we simplified to one helicopter at first. When we got it working, we had one very excited student! The next step would be to add more helicopters.
 

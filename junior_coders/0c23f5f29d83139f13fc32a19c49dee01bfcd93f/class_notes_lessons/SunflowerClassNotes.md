@@ -15,6 +15,9 @@ tags: []
 
 <div id="toc">
 
+* [April 24th](#april-24th)
+  * [Recap for April 24th](#recap-for-april-24th)
+  * [Happy Golden Week](#happy-golden-week)
 * [April 17th](#april-17th)
   * [Recap for April 17th](#recap-for-april-17th)
 * [April 10th](#april-10th)
@@ -56,6 +59,39 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 24th
+</summary>
+
+## April 24th
+
+### Recap for April 24th
+
+Students H and M continued making variations of the *Usseewa* projects. This included adding dancing characters that if you touch will do extra actions. We also began exploring other music to include in their project. 
+
+Student H plans to a Brontosaurus versus Tyrannosaurus game next.
+
+Student N 
+  : For homework, Student N made a storyboard involving several projects representing levels. Some of these were mario type jumping games with coins and so on. Others had original ideas, like having a character can disappear and then appear alternately. This required some fancy messaging. This student has been moving along quickly and is now ready for Scratch.
+
+![Imgur](https://i.imgur.com/IHBcLlP.gif){: .jsgif}
+
+Makeup Class
+  : There was also interest in a Mario Clone devised by one of our teachers. During a makeup up class on Monday, I walked through this project with student Y (slowly, via Zoom). This is a work in progress and will continue next class. Here is the prototype:
+
+![Mario](https://i.imgur.com/sGTxRqP.gif){: .jsgif}
+
+### Happy Golden Week
+
+Here is some fun to wish everyone a wonderful golden week. Watch it to the end!!
+
+{% include youtubelazy.html  videoID="dOxlEwX9lbA" %}
+
+See you after the holiday.
+
+</details> 
+
 
 <details markdown=1>
 <summary markdown=1>## April 17th

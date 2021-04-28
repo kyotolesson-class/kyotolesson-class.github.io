@@ -14,6 +14,7 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 * [April 23rd](#april-23rd)
   * [Recap for April 23rd](#recap-for-april-23rd)
+  * [Happy Golden Week](#happy-golden-week)
 * [April 16th](#april-16th)
   * [Recap for April 16th](#recap-for-april-16th)
 * [April 9th](#april-9th)
@@ -65,7 +66,6 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
-
 <details markdown=1>
 <summary markdown=1>## April 23rd
 </summary>
@@ -113,8 +113,16 @@ Snowboarder
 
 ![Imgur](https://i.imgur.com/gvDFoZI.png){: .bordered width="300px" }
 
+### Happy Golden Week
+
+Here is some fun to wish everyone a wonderful golden week. Watch it to the end!!
+
+{% include youtubelazy.html  videoID="dOxlEwX9lbA" %}
+
+See you after the holiday.
 
 </details>
+
 
 
 <details markdown=1>
