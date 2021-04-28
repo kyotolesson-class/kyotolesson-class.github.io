@@ -774,9 +774,13 @@ iframe[src^="https://turbowarp.org"] {
         border-bottom: 9px solid var(--scrollbarBG);
     border-radius: 12px;
     background-color: var(--scrollbarBG);
-    width: calc(100% - 9px)!important;
-    min-height: 462px;
+    width: calc(100% - 0px)!important;
+    min-height: 432px;
+    left: 0px;
+    position: relative;
+
 }
+
 
 /* puts borders on images */
 .jsgif {
@@ -786,6 +790,12 @@ iframe[src^="https://turbowarp.org"] {
     border-radius: 12px;
     background-color: var(--scrollbarBG);
     width: calc(100% - 19px);
+}
+
+/* This is for small image links */
+.autoimage {
+height: auto;
+    width: auto;
 }
 
 /* adds border to sized images, for example */
@@ -803,7 +813,7 @@ iframe[src^="https://turbowarp.org"] {
   margin-bottom: 17px;
 }
 
-.giphycontainer.tynker {
+.giphycontainer.tynker, .giphycontainer.turbowarp  {
   margin-bottom: 0px;
   border-radius: 12px 12px 0px 0px ;
 }
@@ -820,9 +830,16 @@ iframe[src^="https://turbowarp.org"] {
 }
 
 
-/* adjusts position of tynker embed link */
+/* adjusts position of tynker hover overlay embed block */
 .tynker .giphyattribution {
 top: -18px;
+/* gets rid of hairline */
+background-color: transparent!important;
+}
+
+/* adjusts position of turbowarp hoveroverlay embed block */
+.turbowarp .giphyattribution {
+top: 0px;
 /* gets rid of hairline */
 background-color: transparent!important;
 }
@@ -863,7 +880,8 @@ min-width: 50%;
 float: right;
 position: relative;
 right: -1px;
-top: -18px;
+/* note diff to above this adjust position */
+top: -6px;
 text-align: right;
 }
 
@@ -883,11 +901,15 @@ blockquote.tynkercaption {
 
 /* if no caption, this is just here to put a margin at the bottom */
 div.tynkercaptiondiv {
-    border: 5px solid var(--scrollbarBG);
-    border-top: 9px solid var(--scrollbarBG);
+    border: 9px solid var(--scrollbarBG);
+    border-top: 19px solid var(--scrollbarBG);
     font-style: italic;
     border-radius: 0 0 12px 12px;
 margin: 0 0 17px 0;
+}
+/* remoes hairline */
+div.tynkercaptiondiv:empty {
+background:var(--scrollbarBG);
 }
 
 /* this puts a margin around captions */
