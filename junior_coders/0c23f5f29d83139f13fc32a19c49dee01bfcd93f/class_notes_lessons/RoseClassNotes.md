@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [May 7th](#may-7th)
+  * [Recap for May 7th](#recap-for-may-7th)
 * [April 23rd](#april-23rd)
   * [Recap for April 23rd](#recap-for-april-23rd)
   * [Happy Golden Week](#happy-golden-week)
@@ -67,6 +69,36 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
 <details markdown=1>
+<summary markdown=1>## May 7th
+</summary>
+
+## May 7th
+
+
+### Recap for May 7th
+
+Tynker
+  : Today I introduced the following project demonstrating how to use animate blocks and idle blocks so that speech is natural. 
+
+The key to this was using an Animate block paired with "time-consuming" blocks (like wait, glide, or say) that has the same duration.
+
+![Imgur](https://i.imgur.com/MQlWOxn.png){: .jsgif}
+  : * The animation lasts for 4 seconds, and the say, glide, and wait take up 4 seconds.
+
+{% include tynkerprojectpage.html Name="Animate and Idle blocks" ID="https://www.tynker.com/play/walking-and-talking-with-animate-with-odd-characters/6097b882c3e2144ace08f576-820002XqrMo2SwyZj..a7Nj6z7Dc4k" caption="lick the actors to see them in action. You can see the code above in action when the second actor moves back from the center. The fourth and fifth actors were for kids to code themselves, and they worked individually on this. The kids also mischievously enjoyed adding new characters, like dinosaurs, to my project while I wasn't looking. " %}
+
+
+
+Scratch Jr.
+  : Student K worked on making a path maze from a linear maze. He added the idea of moving cars to make the game more challenging!
+
+![Maze](https://i.imgur.com/fdoZqNB.gif){: .jsgif}
+  : * Watch out for traffic!
+
+</details>
+
+
+<details markdown=1>
 <summary markdown=1>## April 23rd
 </summary>
 
@@ -74,7 +106,7 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 ### Recap for April 23rd
 
-Tynker
+ScratchJr
   : The project this week was a maze game. 
 
 ![Imgur](https://i.imgur.com/PCrNSUO.gif){: .jsgif}

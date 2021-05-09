@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [May 8th](#may-8th)
+  * [Recap for May 8th](#recap-for-may-8th)
 * [April 24th](#april-24th)
   * [Recap for April 24th](#recap-for-april-24th)
   * [Happy Golden Week](#happy-golden-week)
@@ -59,6 +61,72 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## May 8th
+</summary>
+
+## May 8th
+
+### Recap for May 8th
+Intro to Scratch
+  : Today was an introduction to Scratch day for students M and N. There was some setup involved, such as installing Chrome, adding the "Scratch Addons" extension to help them use scratch. I have assigned each student a login ID and password, that they should use for all their classwork. Using an assigned account allows me to better manage and track their progress. Once they were successfully logged in, we went to we started a blank project we walked through the first tutorial. 
+
+  : Students M and N then learned how to use the move block, play sounds. We worked through adding sounds from the music library and from files on your hard drive. Likewise for costumes, we learned how to add costumes from the costume library and the kids started working on drawing their favorite characters.
+
+{% include turbowarp.html Name="Abu" ID="527538040" caption="Student N's favorite character uses a simple say and move blocks" %}
+
+![Imgur](https://i.imgur.com/IgPJ73F.png){: .jsgif .autoimage}
+  : * Student M played with the image editor to make a cat in a basket!
+
+Cat and Panther Game
+  : Student R, a more advanced scratch student continued worked on a chase game involving a cat chasing a panther protecting a crystal from a cat and getting points. He had some questions about how to play sounds and how to change the background. He was able to make it keep score.
+  
+```
+when gf clicked
+forever 
+if <touching (1 v) ?> then 
+change [スコア v] by (1)
+end
+if <(スコア) > (49)> then 
+switch backdrop to (1 v) ::looks
+hide
+play sound (1 v) until done
+end
+end
+
+```
+{: .msb}
+
+
+We worked together on code that would allow it the game to stop once it reached a certain score. We will need to talk about how to reset the game when it starts/finishes. We made a list of the things would be that would happen when the target score was reach, and we used a conditional if block with a test operator block to code the motion.
+
+{% include turbowarp.html Name="Cat and Panther" ID="527942138" caption="Use the arrow keys to make the panther touch the cat and get points. Once you get more than 50 pts, the game ends. If the cat touches the crystal, the points are reset!" %}
+
+
+ScratchJr.
+  : The scratch junior kids worked on making mazes. Student Y continued working on his maze from last week. Student R made a new maze based on the linear maze turning a linear maize into a traditional pathway maze. Student H worked on various projects on his own.
+
+![Imgur](https://i.imgur.com/iVFIeZR.png){: .jsgif}
+  : * This is a linear maze
+
+![Imgur](https://i.imgur.com/tJykOLL.png){: .jsgif}
+  : * Here we surround the linear maze with blue walls
+
+![Imgur](https://i.imgur.com/0lc87hg.png){: .jsgif}
+  : * Next we remove the original maze, leaving just the walls
+
+![Imgur](https://i.imgur.com/3k8pIib.jpg){: .jsgif}
+  : * Here is a more complicated example. The black is the solution path, and the blue are false paths. The red is the walls. 
+  
+
+![Imgur](https://i.imgur.com/319Pib8.jpg){: .jsgif}
+  : * If we remove the black and blue lines, we get the final maze.
+
+  
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 24th
