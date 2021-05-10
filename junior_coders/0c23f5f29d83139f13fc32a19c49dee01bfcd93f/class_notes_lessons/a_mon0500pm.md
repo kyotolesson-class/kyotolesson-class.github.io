@@ -54,9 +54,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 9th](#may-9th)
+  * [Recap for May 9th](#recap-for-may-9th)
 * [April 26th](#april-26th)
   * [Recap for April 26th](#recap-for-april-26th)
   * [Makeup Class](#makeup-class)
+  * [Happy Golden Week](#happy-golden-week)
 * [April 19th](#april-19th)
   * [Recap for April 19th](#recap-for-april-19th)
     * [In-person class](#in-person-class)
@@ -146,7 +149,61 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
-<!-- MONDAY -->
+<details markdown=1>
+<summary markdown=1>## May 9th
+</summary>
+
+## May 9th
+
+### Recap for May 9th
+
+My Favorite Things
+  : Student A1 worked adapted the "My Favorite Things" project focusing on his favorite things: Blue, Golf, and Korean Food. The project is still incomplete, but the section on Korean food is working.
+  
+{% include tynkerprojectpage.html Name="05 11 My Favorite Things" ID="https://www.tynker.com/play/05-11-my-favorite-things/60998bf30381e277a77bbb74-348138Xkq1kH5Cm1FI2LoHeTOoiIck" caption="" %}
+
+
+Comic Book Project
+  : Student A2 is working on her comic book project. We worked very closely to make the characters reappear in the second panel and then make the characters choose the right costumes, talk and move. She is becoming more comfortable using messages to sequence activities, but needed to be reminded to give each message a unique name. 
+
+![Imgur](https://i.imgur.com/8MEvYl9.png){: .jsgif}
+
+{% include tynkerprojectpage.html Name="Comic Book" ID="[ID](https://www.tynker.com/play/comic-2/60998a2851664a207b702339-436607XpCn7VEjF9rdOksv37WZlc8k)" caption="The main characters hide and then reappear in the second panel." %}
+
+Rocket Ship Game
+  : With Student M started a new project. First he did a project that was mostly about making as much noise as possible. We then tried to work on a project that would involve more direct coding, and came up with a project about two ships shooting at each other. Below is a sample of how that game might work. This is mostly stock code, but the critical change is that the explosion should happen only if the character is hit by the correct laser, not by just *any* actor:
+
+![Imgur](https://i.imgur.com/nRC0aSI.png){: .jsgif style="width:200px"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Imgur](https://i.imgur.com/tqxB5Y4.png){: .jsgif style="width:200px"} 
+  : * Default condition is "**touching &lt;any&gt;**", but we want "**touching &lt;green laser&gt;**"
+
+Among Us 
+  : Student H continued working on a Scratch project. He imported some Among Us characters, and we worked on making the character appear to walk by switching costumes using code like this:
+```
+when @greenFlag clicked
+go to x: (0) y: (0)
+repeat (10)
+    next costume
+    move (10) steps
+    wait (.2) seconds
+end
+```
+{: .msb}
+
+The student was challenged to explain why the the character was starting in the middle of the screen, and we talked about how to find the x and y coordinates of a character. Change the goto does the trick:
+
+```
+go to x: (-275) y: (0)
+```
+{: .msb}
+
+{% include turbowarp.html Name="Among Us" ID="432635997" caption="The Among Us character can walk across the screen." %}
+  
+
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## April 26th
 </summary>

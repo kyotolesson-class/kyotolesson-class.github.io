@@ -60,6 +60,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Forkphorus](#forkphorus-1)
   * [Turbowarp](#turbowarp)
   * [s3blocks](#s3blocks)
+  * [parse-sb3-blocks](#parse-sb3-blocks)
   * [scratch-viewer.zak.io](#scratch-viewerzakio)
   * [Sulphurous](#sulphurous)
   * [Leopard](#leopard)
@@ -205,6 +206,13 @@ https://s3blocks.github.io/generator/?id=423771093
 where the id is the id of the **shared** project.
 
 https://scratch.mit.edu/projects/423771093/editor
+
+
+### parse-sb3-blocks
+another version. Does one character at a time
+
+https://apple502j.github.io/parse-sb3-blocks/demo.html
+
 
 ### scratch-viewer.zak.io
 

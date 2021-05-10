@@ -85,7 +85,7 @@ The key to this was using an Animate block paired with "time-consuming" blocks (
 ![Imgur](https://i.imgur.com/MQlWOxn.png){: .jsgif}
   : * The animation lasts for 4 seconds, and the say, glide, and wait take up 4 seconds.
 
-{% include tynkerprojectpage.html Name="Animate and Idle blocks" ID="https://www.tynker.com/play/walking-and-talking-with-animate-with-odd-characters/6097b882c3e2144ace08f576-820002XqrMo2SwyZj..a7Nj6z7Dc4k" caption="lick the actors to see them in action. You can see the code above in action when the second actor moves back from the center. The fourth and fifth actors were for kids to code themselves, and they worked individually on this. The kids also mischievously enjoyed adding new characters, like dinosaurs, to my project while I wasn't looking. " %}
+{% include tynkerprojectpage.html Name="Animate and Idle blocks" ID="https://www.tynker.com/play/walking-and-talking-with-animate-with-odd-characters/6097b882c3e2144ace08f576-820002XqrMo2SwyZj..a7Nj6z7Dc4k" caption="Click the actors to see them in action. You can see the code above in action when the second actor moves back from the center. The fourth and fifth actors were for kids to code themselves, and they worked individually on this. The kids also mischievously enjoyed adding new characters, like dinosaurs, to my project while I wasn't looking. " %}
 
 
 
