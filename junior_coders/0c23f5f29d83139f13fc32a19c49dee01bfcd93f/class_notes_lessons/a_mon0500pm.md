@@ -171,10 +171,12 @@ Comic Book Project
 {% include tynkerprojectpage.html Name="Comic Book" ID="[ID](https://www.tynker.com/play/comic-2/60998a2851664a207b702339-436607XpCn7VEjF9rdOksv37WZlc8k)" caption="The main characters hide and then reappear in the second panel." %}
 
 Rocket Ship Game
-  : With Student M started a new project. First he did a project that was mostly about making as much noise as possible. We then tried to work on a project that would involve more direct coding, and came up with a project about two ships shooting at each other. Below is a sample of how that game might work. This is mostly stock code, but the critical change is that the explosion should happen only if the character is hit by the correct laser, not by just *any* actor:
+  : With Student M started a new project. First he did a project that was mostly about making as much noise as possible. This students is very creative at working with stock actors and I tried to lead him in a direction involving more direct coding and modifications to the stock code, and came up with a project about two ships shooting at each other. Below is a sample of how that game might work. This is still mostly stock code, but the critical change is that the explosion should happen only if the character is hit by the correct laser, not by just *any* actor:
 
 ![Imgur](https://i.imgur.com/nRC0aSI.png){: .jsgif style="width:200px"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Imgur](https://i.imgur.com/tqxB5Y4.png){: .jsgif style="width:200px"} 
   : * Default condition is "**touching &lt;any&gt;**", but we want "**touching &lt;green laser&gt;**"
+
+Hopefully next class I will be able to develop this project more, such as into a two person game.
 
 Among Us 
   : Student H continued working on a Scratch project. He imported some Among Us characters, and we removed the background using the [Pixlr online tool](https://pixlr.com/remove-background/). We made the character appear to walk by switching costumes using code like this:
