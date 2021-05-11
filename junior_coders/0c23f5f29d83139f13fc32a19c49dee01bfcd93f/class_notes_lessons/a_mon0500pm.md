@@ -177,7 +177,7 @@ Rocket Ship Game
   : * Default condition is "**touching &lt;any&gt;**", but we want "**touching &lt;green laser&gt;**"
 
 Among Us 
-  : Student H continued working on a Scratch project. He imported some Among Us characters, and we worked on making the character appear to walk by switching costumes using code like this:
+  : Student H continued working on a Scratch project. He imported some Among Us characters, and we removed the background using the [Pixlr online tool](https://pixlr.com/remove-background/). We made the character appear to walk by switching costumes using code like this:
 ```
 when @greenFlag clicked
 go to x: (0) y: (0)
@@ -198,8 +198,6 @@ go to x: (-275) y: (0)
 
 {% include turbowarp.html Name="Among Us" ID="432635997" caption="The Among Us character can walk across the screen." %}
   
-
-
 
 </details>
 
