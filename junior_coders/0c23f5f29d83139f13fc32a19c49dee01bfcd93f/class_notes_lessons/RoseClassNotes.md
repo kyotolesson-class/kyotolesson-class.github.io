@@ -173,9 +173,7 @@ One kids continued working on the cat crossing project, to make it diagonal. The
 
 ![Imgur](https://i.imgur.com/ThWtzp3.gif){: .jsgif}
 
-Then he started work on the flappy bird project. 
-
-[keigo flappy]
+The student then started work on the flappy bird project. 
 
 Another kid made a rocket project. We worked on how to switch screen, and how to return to a screen with the rocket in the right place. He came up with the idea of making a copy of the original screen to go to. Then I taught him about the 3 types of mazes and how to make straight lines. He made a simple maze project
 
