@@ -15,6 +15,13 @@ tags: []
 
 <div id="toc">
 
+* [May 15th](#may-15th)
+  * [Overview for May 15th](#overview-for-may-15th)
+  * [Importing Characters](#importing-characters)
+  * [The Backpack](#the-backpack)
+  * [Ghost game](#ghost-game)
+  * [Moving a Sprite and Using the Fill](#moving-a-sprite-and-using-the-fill)
+  * [Using the Fill](#using-the-fill)
 * [May 8th](#may-8th)
   * [Recap for May 8th](#recap-for-may-8th)
 * [April 24th](#april-24th)
@@ -61,6 +68,118 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## May 15th
+</summary>
+
+## May 15th
+
+
+### Overview for May 15th
+All of our kids (in both our classes) were either ready or nearly ready to move to the next level. Yesterday, some kids were doing makeup classes so almost everyone was in the same room. This meant that yesterday was the perfect opportunity to do a group introduction to Scratch (the daddy-app of ScratchJr.) for everyone at the same time. Using Scratch will greatly improve their potential, and eliminate the limitations of ScratchJr. I am very glad we have reached this milestone. 
+
+The first thing most students learn when starting Scratch is how to make a sprite move when you press a key. The first project most kids do is the Animate My Name Project. Some kids worked on other things.
+
+
+
+
+
+### Importing Characters
+Student M worked on importing characters for his project.
+
+{% include turbowarp.html Name="NAME" ID="527529590" caption="Using a google search we imported images into a project." %}
+
+### The Backpack
+Student N learned how to use the Scratch "backpack" to copy his favorite sprite from one of his other projects into this project. 
+
+{% include turbowarp.html Name="NAME" ID="530905586" caption="Click the right arrow to move the broom" %}
+
+### Ghost game
+More advanced Student R worked on a "Chicken Crossing " type game. 
+
+{% include turbowarp.html Name="NAME" ID="530891031" caption="Use the w key to move the ghost." %}
+
+This project uses the w and s keys to move the ghost.
+
+```
+when [w v] key pressed
+change y by (10)
+
+when [s v] key pressed
+change y by (−10)
+
+```
+{: .msb}
+
+
+We talked about what should happen when the ghost hits one of the balls. We wanted the character to spin.
+
+```
+when I receive [turn ghost v]
+turn @turnRight (100000) degrees::motion
+```
+{: .msb}
+
+This didn't work. Why? The "rotation style" is important, or the character can't spin. We have to explicitly set it to "all around". The game also includes music. This is initialized here.
+
+```
+when @greenFlag clicked
+set rotation style [all around v]
+point in direction (0)
+play sound [Jim Yosef & Anna Yvette - Linked [NCS Release] (320 kbps) v] until done
+```
+{: .msb}
+
+This makes the ghost return to the bottom when he touches the line.
+```
+when @greenFlag clicked
+forever
+    if <touching [Line v]?> then
+        go to x: (-9) y: (-130)
+    end
+end
+```
+{: .msb} 
+
+For the balls, we worked together on making the balls return when they reached the edge. This is also where the balls tell the ghost to spin if he is touched.
+
+```
+when @greenFlag clicked
+point in direction (-90)
+forever
+    if <touching [edge v]?> then
+        go to x: (215) y: (-119)
+    else
+        if <touching [Ghost v]?> then
+            broadcast [turn ghost v]
+        end
+    end
+    move (5) steps
+end
+```
+{: .msb}
+
+
+
+### Moving a Sprite and Using the Fill
+Student Y made a simple project to move a sprite.
+
+
+```
+when [right arrow v] key pressed
+move (10) steps
+```
+{: .msb}
+
+
+{% include turbowarp.html Name="Mover" ID="530904302" caption="Use the arrow keys to move the sprite" %}
+
+### Using the Fill
+One difference between Scratch and ScratchJr. is that the fill tool works differently. Student Y encountered the problem that, in ScratchJr., you can fill in partial shapes, but in Scratch you can only fill in closed curves. You can see this in the triangular shape at the bottom of this project.
+{% include turbowarp.html Name="Ongoing Project" ID="530889948" caption="The bent line at the bottom has to be filled in by hand. YOu can see this in progress in the solid purple triangle." %}
+
+</details>
 
 
 <details markdown=1>

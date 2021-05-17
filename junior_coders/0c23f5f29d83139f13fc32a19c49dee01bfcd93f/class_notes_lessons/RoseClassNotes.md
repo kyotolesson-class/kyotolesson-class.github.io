@@ -12,6 +12,13 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [May 14th](#may-14th)
+  * [Putting the bad candy in a basket](#putting-the-bad-candy-in-a-basket)
+  * [Clara](#clara)
+  * [Easy Training Game](#easy-training-game)
+  * [Soccer Game](#soccer-game)
+  * [Drawing a Complex Maze](#drawing-a-complex-maze)
+  * [Disappearing Characters](#disappearing-characters)
 * [May 7th](#may-7th)
   * [Recap for May 7th](#recap-for-may-7th)
 * [April 23rd](#april-23rd)
@@ -67,6 +74,85 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## May 14th
+</summary>
+
+## May 14th
+
+### Putting the bad candy in a basket 
+
+Student A wanted the bad candy to go into a basket when it was touched. We spent some time debugging this. You can see it in action if you touch the upside down candied Apple at the bottom right.
+
+{% include tynkerprojectpage.html Name="Putting the bad candy in a basket " ID="[ID](https://www.tynker.com/play/mermaid-2/60544ed19136e31635119118-223215XnfCrPFlG.Uzqs7RrvPrrBEk)" caption=" The key block is this. <br>  ![Imgur](https://i.imgur.com/upIX1Qu.png){: .jsgif}" %}
+
+### Clara 
+
+Here we talked about what to do when the character loses lives. We did a simple flowchart of the "if then else" on the board. If we have only one life (blank2 costume), then send the you lose message, and then go to the next (zero lives). decrease lives (next costume).
+
+![Imgur](https://i.imgur.com/Pd8qq8R.png){: .jsgif}
+
+### Easy Training Game
+Student Y made an "easy training" game for playing shooting games. 
+
+{% include tynkerprojectpage.html Name="NAME" ID="https://www.tynker.com/play/easy-training/609e300ab9de5956dd4d61eb-847165Xgraq9eGT1QsDX3OHJAKJ44k" caption="Use the arrow keys to move the character. Use the a key to shoot. Each actor has a different strength and health." %}
+
+### Soccer Game
+
+Student R made a soccer game. He used bump blocks to control the flow of the game. For example, the two black "field lines" send teh character to the "No Goal!!!" screen. If the ball hits the soccer net, the player goes to the "Goooooool!" screen. 
+
+![Imgur](https://i.imgur.com/ub1RkeM.png){: .jsgif}
+
+Using a yellow message block, when the black button is pushed...
+
+![Imgur](https://i.imgur.com/mp24vC6.png){: .jsgif}
+...the ball flies diagonally (the yellow blocks happen in parallel) towards the goal. The player has to choose the right moment.
+
+![Imgur](https://i.imgur.com/xjyHMok.jpg){: .jsgif}
+
+### Drawing a Complex Maze
+Student Y really wanted to make a very complicated maze. Unfortunately one limitation in ScratchJr. is that the stage is only 20 by 15 blocks wide. I brought out the graph paper and I outlined a square of half of those dimensions. Each grid square represented 2 blocks, which is wide enough for a character to pass through. we drew the maze within these bounds on paper and then transferred them to the character.
+![Imgur](https://i.imgur.com/qLmkiqU.png){: .jsgif}
+
+Then he began making the maze game itself using buttons and message blocks to control the sprite. When finished the sprite will get a you won message if they complete the maze. Also, if the sprite touches the maze he will be sent back to the start.
+
+![Imgur](https://i.imgur.com/rxFxUmE.jpg){: .jsgif}
+
+
+### Disappearing Characters
+Students K and R did a makeup class on Saturday, where we held an **introduction to Scratch** class. They worked together on a project inspired by the **Animate My Name** Tutorial.  When game starts, some characters are shown, others are hidden.
+
+```
+when gf clicked
+show
+
+when gf clicked
+hide
+```
+{: .msb}
+
+When the Stage is clicked, the backdrop changes and a message is sent. Some letters appear and some letters disappear. 
+
+```
+event_whenstageclicked
+switch backdrop to (1 v) ::looks
+broadcast (change v)
+
+when i receive [change v]
+hide
+
+when i receive [change v]
+show
+```
+{: .msb}
+
+{% include turbowarp.html Name="Disappearing Names" ID="530893183" caption="Next week they will make the letters reappear." %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 7th
