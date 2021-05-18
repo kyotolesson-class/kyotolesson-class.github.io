@@ -907,7 +907,7 @@ div.tynkercaptiondiv {
     border-radius: 0 0 12px 12px;
 margin: 0 0 17px 0;
 }
-/* remoes hairline */
+/* removes hairline */
 div.tynkercaptiondiv:empty {
 background:var(--scrollbarBG);
 }

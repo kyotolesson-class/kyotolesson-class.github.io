@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 17th](#may-17th)
+  * [My Favorite Things](#my-favorite-things)
+  * [Comic Project](#comic-project)
+  * [Saving Trees](#saving-trees)
 * [May 9th](#may-9th)
   * [Recap for May 9th](#recap-for-may-9th)
 * [April 26th](#april-26th)
@@ -148,6 +152,72 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## May 17th
+</summary>
+
+## May 17th
+
+
+### My Favorite Things
+
+Student Ak continued working on his favorite things project, finishing a section on Golf.
+
+{% include tynkerprojectpage.html Name="My Favorite Things" ID="https://www.tynker.com/play/5-17-remix-my-favorite-things/60a249d7a96e0314a65a6d12-463027XgzgXuSniLYhRE7Ce2VE,h4k" caption="" %}
+
+
+### Comic Project
+
+Student An finished her comic project and was able to make the character move to the 4th screen. We also talked about the difference between glide and go to blocks.
+{% include tynkerprojectpage.html Name="Comic Project" ID="https://www.tynker.com/play/comic/607e81cc46dc2f545e4ad525-497336XnbMFYj.jb5PjdlcyCo5zPUk
+" caption="" %}
+
+She plans to adapt the following project next time.
+{% include tynkerprojectpage.html Name="Doodle Jump" ID="https://www.tynker.com/play/5-17-remix-doodle-jump/60a249cecba4be18822fed62-853539XjouC3UL1C1NP6nHMtdvIvEk" caption="" %}
+
+
+### Saving Trees
+Student H was very excited that he had a new idea for a project involving a conversation about the importance of planting trees for global warming. I encouraged him to write his script first before coding and he diligently put together script and chose images to illustrate the conversation. As class closed he began to code it.
+
+{% include turbowarp.html Name="Saving Trees" ID="531547089" caption="" %}
+
+
+We talked about the difference between using plain say ```say [] ```{: .msb style="display: inline-block; height: 0px;"} and ```say () for () seconds```{: .msb style="display: inline-block; height: 0px;"} blocks. He decided to use the former. We also talked about whether to broadcast ```broadcast ()```{: .msb style="display: inline-block; height: 0px;"} to go between speakers, or to use say and wait ``` wait () seconds ```{: .msb style="display: inline-block; height: 0px;"} blocks. He again decided on the former.
+<br><br>
+```
+when @greenFlag clicked
+say [its so hot...] for (3) seconds
+wait (4) seconds
+say [why do we need to plant more trees !?!?] for (5) seconds
+wait (15) seconds
+say [yeah right blah blah blah] for (3) seconds
+```
+{: .msb}
+
+
+My Explosion
+
+Student M worked on improving his two-player shooting game. We made it so that the bad ships could move 
+
+![Imgur](https://i.imgur.com/w3HZEtk.jpg){: .jsgif}
+
+and that when the ships die they can't shoot any more. This required creating a variable and testing the variable to keep track of whether the actor was alive or not. 
+
+![Imgur](https://i.imgur.com/MiXdGZ0.jpg){: .jsgif}
+![Imgur](https://i.imgur.com/nm5SwEC.jpg){: .jsgif}
+
+I made several suggestions for improvements to the project, but in the end he came up with his own: there will be a heart and if one ship touches the heart the other ship has to hit them more times before they die. We began this by creating another variable. Also, we will make it so you can continue to play after dying.
+
+![Imgur](https://i.imgur.com/v6fB9oj.png){: .jsgif}
+
+We will continue working on this next week.
+
+{% include tynkerprojectpage.html Name="My Explosion" ID="[ID](https://www.tynker.com/play/5-17-remix-my-explosion/60a249d73ca26a022f6a6aa2-195483XuNeRZLgoaDMV8oQN4ugLS4k)" caption="Use the space bar and mouse to shoot. Use the mouse and arrow keys to move. Touch the heart to see the power change." %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 9th
