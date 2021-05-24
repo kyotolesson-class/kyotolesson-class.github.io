@@ -15,6 +15,8 @@ tags: []
 
 <div id="toc">
 
+* [May 22nd](#may-22nd)
+  * [Recap for May 22nd](#recap-for-may-22nd)
 * [May 15th](#may-15th)
   * [Overview for May 15th](#overview-for-may-15th)
   * [Importing Characters](#importing-characters)
@@ -68,6 +70,97 @@ tags: []
 
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## May 22nd
+</summary>
+
+## May 22nd
+
+### Recap for May 22nd
+
+Castle and Dragons
+  : Student H came up with a project based on the castle and dragons app. He was able to get some sprites and we discussed how to make it so when you press the opening screen the rocket shoots up. This involves message blocks:
+
+```
+when this sprite clicked
+broadcast [message1 v]  
+```
+{: .msb}
+
+```
+when I receive [message1 v]
+point in direction (0)
+repeat (100)
+    move (1) steps
+end
+```
+{: .msb}
+
+We also had a problem that the rocket he had was in the wrong direction,s o it has to be rotated so it would be looking up when we go up. This is what it will look like.
+
+{% include turbowarp.html Name="Rocket ship" ID="534434931" caption="Click the Cat Sprite" %}
+
+
+
+
+
+Kimetsu No Yaiba Race 
+  : Student M worked on a project where there is a race between sprites. First we created a repeat loop that moves the character from the start to the finish. Then we put this in a forever loop to keep the race going. Next week we will create a finish line that will stop the race.
+
+```
+when @greenFlag clicked
+forever
+    go to x: (-189) y: (-89)
+    repeat (45)
+        move (10) steps
+    end
+end
+```
+{: .msb} 
+
+
+
+{% include turbowarp.html Name="Kimetsu no Yaiba Race" ID="531077045" caption="Shinobu and Kyoujuro are racing. Who will win??" %}
+
+
+{: .msb}
+
+
+Cat Flying
+  : Student N worked on amking this cat flying tutorial. First he created a loop to make the building go from one side to the next. Then we added speed variable and we controlled the variable using keyboard inputs. 
+
+```
+when @greenFlag clicked
+set [speed v] to [-10]
+forever
+    show
+    set x to (250)
+    repeat (50)
+        change x by (speed)
+    end
+    hide
+end
+
+when [s v] key pressed
+set [speed v] to [-20]
+
+when [a v] key pressed
+set [speed v] to [-5]
+
+```
+{: .msb}
+
+{% include turbowarp.html Name="Flying Cat" ID="534416918" caption="Press s to go fast, a to go slow" %}
+
+Flying Bird
+  : Student Y worked on some tutorials, including one to make this bird fly and speak.
+{% include turbowarp.html Name="Flying Bird" ID="534417112" caption="Click teh left and right arrows to make it move" %}
+
+He is currently working on a Pong game.
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 15th

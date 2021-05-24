@@ -12,9 +12,11 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [May 21st](#may-21st)
+  * [Recap for May 21st](#recap-for-may-21st)
 * [May 14th](#may-14th)
   * [Putting the bad candy in a basket](#putting-the-bad-candy-in-a-basket)
-  * [Clara](#clara)
+  * [Snowboarder](#snowboarder)
   * [Easy Training Game](#easy-training-game)
   * [Soccer Game](#soccer-game)
   * [Drawing a Complex Maze](#drawing-a-complex-maze)
@@ -77,6 +79,41 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 
 <details markdown=1>
+<summary markdown=1>## May 21st
+</summary>
+
+## May 21st
+
+### Recap for May 21st
+
+
+Candy Project
+  : Student A asked how to make the bad candy look like it is IN the basket. The trick is to use a tool like pixlr to cut the basket into a front and back part. We put the front basket in different layers. Then we can put the item between the two layers. I have created the basket pieces for her, and next week we will work on the code.
+
+Jumping Game
+  : I showed them a math game (a simplified clone of a popular app). She was inspired by this to create a storyboard for her own her own jumping game. She began creating the characters and next week we will make the magic happen.
+
+
+
+Android Chase
+  : She started a project where two androids will chase a heroine. She was able to code the keyboard movements for the main actor.
+
+{% include tynkerprojectpage.html Name="NAME" ID="https://www.tynker.com/play/move-gus-web-5-24-r/60aa99a345a06426286720d6-866713XkkZCoS6SqpokcxpgO8oVRQk" caption="Use the arrow keys to move the fairy" %}
+
+
+Mario Projects
+  : Some students finshed their maze projects and were able to make a first stab at the Mario project. Most were were able to make the opening screens and first screen, but some had problems making Mario jump over the gap in the third screen. Next week we will improve their jumps, and make them collect coins.
+
+![Imgur](https://i.imgur.com/gt7YvIV.gif){: .jsgif}
+  : * The first two screens work, but the jump in the last screen is still not high enough.
+
+Sword Fighting
+  : Student Y came up with an idea for his next project, a story of a sword fighting tournament. We talked about the project and he completed his script and storyboard in clas, and started creating his actors.
+</details>
+
+
+
+<details markdown=1>
 <summary markdown=1>## May 14th
 </summary>
 
@@ -88,7 +125,7 @@ Student A wanted the bad candy to go into a basket when it was touched. We spent
 
 {% include tynkerprojectpage.html Name="Putting the bad candy in a basket " ID="[ID](https://www.tynker.com/play/mermaid-2/60544ed19136e31635119118-223215XnfCrPFlG.Uzqs7RrvPrrBEk)" caption=" The key block is this. <br>  ![Imgur](https://i.imgur.com/upIX1Qu.png){: .jsgif}" %}
 
-### Clara 
+### Snowboarder 
 
 Here we talked about what to do when the character loses lives. We did a simple flowchart of the "if then else" on the board. If we have only one life (blank2 costume), then send the you lose message, and then go to the next (zero lives). decrease lives (next costume).
 
