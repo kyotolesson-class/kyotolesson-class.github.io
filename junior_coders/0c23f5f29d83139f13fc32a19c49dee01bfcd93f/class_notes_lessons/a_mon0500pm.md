@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 24th](#may-24th)
+  * [Recap for May 24th](#recap-for-may-24th)
 * [May 17th](#may-17th)
   * [My Favorite Things](#my-favorite-things)
   * [Comic Project](#comic-project)
@@ -153,6 +155,53 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details markdown=1>
+<summary markdown=1>## May 24th
+</summary>
+
+## May 24th
+
+### Recap for May 24th
+
+
+My Favorite Things
+  : Student A has finished the first round of his "My Favorite Things" project. After looking at it, I suggested some improvements, especially to have more things happen during the presentation times, which he added.
+
+{% include tynkerprojectpage.html Name="My Favorite Things" ID="https://www.tynker.com/play/my-favorite-things/6096039467a5911837198325-505513Xr1l0wHQPl9X7nOYSm5yP.Yk" caption="" %}
+
+I like his version very much, and I was inspired to come up with an alternative version of his sections to show how animation and other effects can be used. I hope to discuss it more next week.
+
+
+{% include tynkerprojectpage.html Name="Revised Favorite Things" ID="https://www.tynker.com/play/my-favorite-things-5-24-improveed/60ab89cf560d5004eb78391c-811626XuHxiHkxE9eZ9jV11vivbPYk" caption="" %}
+
+
+Pinball and using **When** blocks
+  : Student A did the Pinball game tutorial. The project is a little advanced, but she was able to complete it. The main tool was using **When** blocks that perform actions at the right moment.
+
+![Imgur](https://i.imgur.com/TpwsvQo.png){: .jsgif}
+  : * The touching , set viewport, and apply impulse blocks are used to send the ball flying. 
+
+
+![Imgur](https://i.imgur.com/mQkRtV6.png){: .jsgif}
+  : * Each award or bumper or actor has a different actions attached to it that ball collides with it, it reacts.
+
+
+Environment Video
+  : Student H added sound and visual effects to enhance the dialogue.
+
+{% include turbowarp.html Name="Saving Trees" ID="531464477" caption="" %}
+
+My Explosion Game
+  : Student M added a new feature: when the player touches the heart, the other player needs to hit him more times before he can do the kill shot.
+
+![Imgur](https://i.imgur.com/HXZPYXx.png){: .jsgif}
+  : * The if loop test if the number of hits the other player needs to shoot is 1 before causing the explosion.
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## May 17th
 </summary>
@@ -197,8 +246,7 @@ say [yeah right blah blah blah] for (3) seconds
 
 
 My Explosion
-
-Student M worked on improving his two-player shooting game. We made it so that the bad ships could move 
+ : Student M worked on improving his two-player shooting game. We made it so that the bad ships could move 
 
 ![Imgur](https://i.imgur.com/w3HZEtk.jpg){: .jsgif}
 
