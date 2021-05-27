@@ -1,0 +1,30 @@
+<!-- This creates the attribution links at the bottom of the tynker iframes.
+This is a revised version of tynker.html,  which takes as input a raw share link (i.e. full http links) and creates links
+to the project page and the fullscreen version. tynker.html only shows the id as originally I was only giving it the shortened (24 character) project ID as input, and this isn't enough to create the project page link. -->
+
+### {{ include.Name }}
+
+Share link: <{{ include.ID }}>
+
+Project Page: <https://www.tynker.com/community/projects/play/{{ include.ID | split: "/" | last }}></https:> 
+
+Full Screen/Embed: <https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false>
+
+<div class="giphycontainer jsgif tynker">
+<iframe width="516" height="322" src="//www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
+frameborder="0" allowfullscreen></iframe>
+<div class="giphyattribution" style="">
+<p class="tynkerattribution">**{{include.Name}}**<br>
+<span class="tynkerattributionimagespan"><img class="" style="" src="/assets/tynkerattribution.png" alt="Name of project: {{include.Name}} Project ID: {{include.ID | split: "/" | last}}"></span> 
+<a href="https://www.tynker.com/community/projects/play/{{ include.ID | split: "/" | last }} " title="Name of project: {{include.Name}} Project ID:{{include.ID | split: "/" | last}}" >*Project page*</a> <a
+href="https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
+target="_blank" title="Name of project: {{include.Name}} Project ID:{{include.ID }}" style="text-decoration: none;">*fullscreen*</a>
+</p>
+</div>
+</div>
+<div class="tynkercaptiondiv">
+{%- if include.caption != "" and include.caption -%}
+<blockquote class="tynkercaption"><span>{{- include.caption | default: "" -}}</span>
+</blockquote>{% else %} {%- endif -%}
+</div>
+<!-- tynkercaptiondiv is just here to put margin at bottom for empty or missing caption -->
