@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [May 28th](#may-28th)
+  * [Recap for May 28th](#recap-for-may-28th)
 * [May 21st](#may-21st)
   * [Recap for May 21st](#recap-for-may-21st)
 * [May 14th](#may-14th)
@@ -77,6 +79,36 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## May 28th
+</summary>
+
+## May 28th
+
+### Recap for May 28th
+
+Beach Project
+  : Student A learned about layers to help put the bad candy in the basket.
+
+Platform Project
+  : I reviewed some corrections Student C's project, including making sure the actor costumes are centered and adding physics and gravity. I will continue to review these with her next week.
+
+Scratch Jr.
+  The scratch Jr. Prjoect of the week was The Alien Comes to Visit project. Students K, R, and Y each made different version. Here is one version by student K.
+
+{% include imgurmp4.html link="https://i.imgur.com/YsOgS4T.mp4" %}
+
+Move Gus
+  : Student R made a lot of progress in her fairy chase project based on "Move Gus" tutorial. She finished the first level with one chaser, and moved on to level 2 with more chasers. She included a timer, and signal for when the game is over. 
+
+{% include tynkerprojectpage.html Name="Move Gus" ID="https://www.tynker.com/play/move-gus-web-5-29/60b2b21e1664507b230992f3-831271Xrq4kW7i6RpNGEE44EC4Rvkk" caption="She also made the fairy cry when she loses. Great ideas!" %}
+
+Swordfighting Contest
+  : I reviewed with student Y some suggestions for how to bring the characters on stage using animate and glide blocks which he incorporated into his project. 
+
+{% include tynkerprojectpage.html Name="Swordfighting Contest" ID="https://www.tynker.com/play/sword-fight-5-29/60b2b512bc5cdf551309de4c-283030XlXdAHRcsEUM2iUuyNabBkEk" caption="He also made the judge walk on stage and the the other characters separate." %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## May 21st

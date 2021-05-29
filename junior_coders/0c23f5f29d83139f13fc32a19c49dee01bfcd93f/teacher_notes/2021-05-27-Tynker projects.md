@@ -1,16 +1,15 @@
 ---
 layout: junior_coders_default
-title: Tynker Projects posted in class notes
+title: Teacher's Guide Tynker Projects posted in class notes
 title2: 
 levelsToTop: "../"
 tags: []
 ---
 
 
-
-Because of Tynker Annoyance whatever, I was forced to use two project link formats on the website. In the newer one I added captions, project page/share links and embed links, while in the older one I used only the ID and embed.
-
 The list below is an automated extract of all the projects I shared on the website as of 5/27/21 (in reverse chronological order). Please ignore the line numbers and stray text. 
+
+As the year progressed, I ended up using two Tynker "project link" formats on the website. In the newer one I included captions, project page/share links and embed links, while in the older one I used only the ID and embed.
 
 A curated list of notable projects will appear elsewhere at some point.
 
