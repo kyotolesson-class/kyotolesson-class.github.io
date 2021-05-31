@@ -1,11 +1,16 @@
+<!---
+THIS IS A N ATTEMPT TO FIX SLOW LOADING AND SUDDEN STOPS. IT USES THE PROJECTURL PARAMATER TO DOWNLOAD THE PROJECT ITSELF FROM SCRATCH. WORKS PARTLY BUT BUGGY AND NEEDS TESTING.
+-->
+
+
 <div class="giphycontainer jsgif turbowarp">
-<iframe src="https://turbowarp.org/embed.html#{{include.ID}}?username"
-width="482" height="393" allowtransparency="true" frameborder="0"
+<iframe src="http://turbowarp.org/embed?project_url=projects.scratch.mit.edu/{{include.ID}}"
+width="100%" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
 <div class="giphyattribution" style=""><p class="turboattribution">**{{include.Name}}**
 {{include.ID}}
 <a
-href="https://turbowarp.org/embed.html#{{include.ID}}?username"
+href="http://turbowarp.org/embed?project_url={{include.ID}}"
 target="_blank" title="Name of project: {{include.Name}} Project ID:
 {{include.ID}}" style="text-decoration: none;">&nbsp;*open in* <svg
 aria-hidden="true" viewBox="0 0 1024 1024" style="position: relative; top: -.7px; vertical-align: text-top;" height="20px"
@@ -142,8 +147,7 @@ fill="#fff">
 </svg><span style="z-index: 22; position: relative;     left: -4px;
 background: #ff5a5a;    color: white; border-bottom: 1px solid #cc3c3c; border-radius: 0px 2px 2px 0px;
 padding-right: 2px;
-border-top: .2px solid #ffa785;
-">*urbowarp*</span></a></p>
+border-top: .2px solid #ffa785;">*urbowarp*</span></a></p>
 </div>
 </div>
 <div class="tynkercaptiondiv">
