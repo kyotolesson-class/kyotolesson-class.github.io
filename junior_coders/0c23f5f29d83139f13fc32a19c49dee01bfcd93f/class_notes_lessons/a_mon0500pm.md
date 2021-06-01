@@ -54,6 +54,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 31st](#may-31st)
+  * [Junior Coders Beginner's Challenge](#junior-coders-beginners-challenge)
+  * [Recap for May 31st](#recap-for-may-31st)
 * [May 24th](#may-24th)
   * [Recap for May 24th](#recap-for-may-24th)
 * [May 17th](#may-17th)
@@ -154,6 +157,112 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## May 31st
+</summary>
+
+## May 31st
+
+### Junior Coders Beginner's Challenge
+
+Today I introduced the **Junior Coders Beginner's Challenge** [please see this page for details](./BeginnerChallenge.html). The goal is to motivate students  to do the Scratch and Tynker tutorials. Students all began or continued working on their first entries, with most completing at least one tutorial today. Here is a Scratch studio with all the Scratch [Beginner's Challenge Projects](https://scratch.mit.edu/studios/29818873/). 
+
+### Recap for May 31st
+
+Trees
+  : Student H worked on several projects today, including the following. He created an illustration for his Tree project of a tree sprouting. 
+
+{% include zakviewer.html Name="Trees" ID="https://scratch.mit.edu/projects/538648051/" caption="A remix of the student's project showing his tree blooming" %}
+
+He also created a sound project using musical sprites and learned how to make the music stop before playing the next sound.
+
+```
+when this sprite clicked
+stop all sounds
+play sound (this sound)
+```
+{: .msb}
+
+{% include zakviewer.html Name="Robot Music" ID="https://scratch.mit.edu/projects/538649820/" caption="Click the robots to hear the sound. The music is great!" %}
+
+
+Dancer
+  :Student A's first entry for the challenge was this remix of the "Getting Started" Tutorial.
+{% include zakviewer.html Name="Dancer" ID="https://scratch.mit.edu/projects/538650608/" caption="Look at my moves!" %}
+
+
+Pong Tutorial
+  : Student A2 did the Pong tutorial. Her modification was adding a game over message, and adding sound and stopping the sound when the game was over. 
+
+```
+
+when @greenFlag clicked
+change [Score v] by (0)
+forever // ball makes sound
+    play sound [Dance Funky v] until done
+end
+
+
+
+
+when @greenFlag clicked 
+forever
+    if <touching [Ball v]?> then // stop music and say game over
+        stop all sounds 
+        say [Game over] for (2) seconds
+        stop [all v]
+    end
+end
+```
+{: .msb}
+
+{% include zakviewer.html Name="Pong with stops" ID="https://scratch.mit.edu/projects/538651827" caption="" %}
+
+
+Cow runs away 
+  : Student M did the Storytelling tutorial. In his version, the Cow runs away, and there is an alien who hacks at the owl.
+
+{% include tynkerprojectpage.html Name="Cow Runs Away" ID="https://www.tynker.com/play/cow-joke-5-31/60b563e87cdb837a7656df67-909386Xk8pOV6iFE3Zxo5Xjfc5X68k" caption="That is one scared Owl!" %}
+
+
+Flying Raptor?
+  : Student M remixed the flying cat project and is working on adding more characters to it for his Challenge submission.
+
+{% include zakviewer.html Name="Name" ID="https://scratch.mit.edu/projects/538665153" caption="Eventualy the space ships will move." %}
+
+
+Hacking Scratch Loops
+  : Student Y was playing around with the character editor by mangling the basic Flying Cat character. 
+
+{% include imgur.html title="original version" ID="https://i.imgur.com/IWrER1z.png" caption="" width="200px" height="" %}{% include imgur.html title="changed version" ID="https://i.imgur.com/37NeFgv.png" caption="" width="200px" height="" spacer=" "  %}
+
+I showed him how to turn this into a basic animation, and he had a lot of fun hacking an animation"bug" in Scratch. 
+
+```
+when gf clicked
+forever
+next costume
+wait (.1) seconds // ballerina
+```
+{: .msb}
+
+The ballerina animation is changing every tenth of a second. Usually, Scratch prevents you from putting anything but a number into wait blocks.  However, the student changed the '.1' to '.e', probably by accident. You can see what happened in the cat. 
+
+{% include zakviewer.html Name="Crazy Cat" ID="https://scratch.mit.edu/projects/538616373" caption="Watch them go!!" %}
+
+
+As it turns out, Scratch does allow scientific notation, as in '.1e1' to mean .1 X 10^1, or 1. Therefore, aside from the numbers, the letter e is allowed as input. Furthermore, by design or as a bug, it even allows some nonsense values like just plain 'e' or '.E' or 'eeee', which is why the cat works. The taco and the man are flashing at '.1E1' and '.01e2' seconds each, i.e. at 1 second intervals.
+
+```
+// for other characters 
+wait (.e) seconds // cat
+wait (.1E1) seconds // man
+wait (.01e2) seconds //taco
+```
+{: .msb}
+
+</details>
 
 
 <details markdown=1>
