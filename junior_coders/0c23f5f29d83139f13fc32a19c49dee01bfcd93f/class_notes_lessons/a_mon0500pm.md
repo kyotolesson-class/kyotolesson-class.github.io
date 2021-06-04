@@ -226,41 +226,7 @@ Cow runs away
 {% include tynkerprojectpage.html Name="Cow Runs Away" ID="https://www.tynker.com/play/cow-joke-5-31/60b563e87cdb837a7656df67-909386Xk8pOV6iFE3Zxo5Xjfc5X68k" caption="That is one scared Owl!" %}
 
 
-Flying Raptor?
-  : Student M remixed the flying cat project and is working on adding more characters to it for his Challenge submission.
 
-{% include zakviewer.html Name="Name" ID="https://scratch.mit.edu/projects/538665153" caption="Eventualy the space ships will move." %}
-
-
-Hacking Scratch Loops
-  : Student Y was playing around with the character editor by mangling the basic Flying Cat character. 
-
-{% include imgur.html title="original version" ID="https://i.imgur.com/IWrER1z.png" caption="" width="200px" height="" %}{% include imgur.html title="changed version" ID="https://i.imgur.com/37NeFgv.png" caption="" width="200px" height="" spacer=" "  %}
-
-I showed him how to turn this into a basic animation, and he had a lot of fun hacking an animation"bug" in Scratch. 
-
-```
-when gf clicked
-forever
-next costume
-wait (.1) seconds // ballerina
-```
-{: .msb}
-
-The ballerina animation is changing every tenth of a second. Usually, Scratch prevents you from putting anything but a number into wait blocks.  However, the student changed the '.1' to '.e', probably by accident. You can see what happened in the cat. 
-
-{% include zakviewer.html Name="Crazy Cat" ID="https://scratch.mit.edu/projects/538616373" caption="Watch them go!!" %}
-
-
-As it turns out, Scratch does allow scientific notation, as in '.1e1' to mean .1 X 10^1, or 1. Therefore, aside from the numbers, the letter e is allowed as input. Furthermore, by design or as a bug, it even allows some nonsense values like just plain 'e' or '.E' or 'eeee', which is why the cat works. The taco and the man are flashing at '.1E1' and '.01e2' seconds each, i.e. at 1 second intervals.
-
-```
-// for other characters 
-wait (.e) seconds // cat
-wait (.1E1) seconds // man
-wait (.01e2) seconds //taco
-```
-{: .msb}
 
 </details>
 
