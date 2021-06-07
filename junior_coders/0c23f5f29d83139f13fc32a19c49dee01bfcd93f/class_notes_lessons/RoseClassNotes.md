@@ -12,8 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
-* [June 5th](#june-5th)
-  * [Recap for June 5th](#recap-for-june-5th)
+* [June 4th](#june-4th)
+  * [Recap for June 4th](#recap-for-june-4th)
 * [May 28th](#may-28th)
   * [Recap for May 28th](#recap-for-may-28th)
 * [May 21st](#may-21st)
@@ -82,12 +82,12 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
 <details markdown=1>
-<summary markdown=1>## June 5th
+<summary markdown=1>## June 4th
 </summary>
 
-## June 5th
+## June 4th
 
-### Recap for June 5th
+### Recap for June 4th
 
 Swordfighting
   : Student Y continued updating his swordfighting project. After the fighters move to the side of the screen, the first two fighters approach each other to fight. We added a broadcast message block to start the sequence. 

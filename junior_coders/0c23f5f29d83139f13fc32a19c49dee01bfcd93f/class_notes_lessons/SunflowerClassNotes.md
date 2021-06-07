@@ -48,12 +48,12 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 <details markdown=1>
-<summary markdown=1>## June 6th
+<summary markdown=1>## June 5th
 </summary>
 
-## June 6th
+## June 5th
 
-### Recap for June 6th
+### Recap for June 5th
 
 Today there were just two students. 
 
