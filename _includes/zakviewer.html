@@ -1,9 +1,16 @@
+{% comment %}
+Works with zakviewer since turbowarp stopped working correctly at times.
+uses rstrip to remove spaces to make sure bold works
+uses truncate to shorten the name, and doesn't display the ID(link)
+the ID is aactually the link to the project. 
+THe name is whatever you want to call it, not the actual project name.
+The caption can be blank.
+{% endcomment %}
 <div class="giphycontainer jsgif turbowarp">
 <iframe src="https://scratch-viewer.zak.io/view#project={{include.ID}}&backgroundColor=#ffec9f&width=515"
 width="482" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
-<div class="giphyattribution" style=""><p class="turboattribution">**{{include.Name}}**
-{{include.ID}}
+<div class="giphyattribution" style=""><p class="turboattribution"><a title="{{include.Name}}" href="{{ include.ID}}">**{{include.Name | rstrip | truncate: 25 }}**</a>
 <a
 href="https://scratch-viewer.zak.io/view#project={{include.ID}}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}"
 target="_blank" title="Name of project: {{include.Name}} Project ID:
