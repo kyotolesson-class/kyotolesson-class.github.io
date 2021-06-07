@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [June 5th](#june-5th)
+  * [Recap for June 5th](#recap-for-june-5th)
 * [May 28th](#may-28th)
   * [Recap for May 28th](#recap-for-may-28th)
 * [May 21st](#may-21st)
@@ -78,6 +80,57 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## June 5th
+</summary>
+
+## June 5th
+
+### Recap for June 5th
+
+Swordfighting
+  : Student Y continued updating his swordfighting project. After the fighters move to the side of the screen, the first two fighters approach each other to fight. We added a broadcast message block to start the sequence. 
+![Imgur](https://i.imgur.com/2BLEJ6a.png){: .jsgif}
+
+
+The next question is how to get the players to alternate kicks. The answer was to use a wait and an animate/wait on one character,
+
+![Imgur](https://i.imgur.com/6JUSI6D.png){: .jsgif}
+
+but a animate/wait and *then* a wait on the other.
+
+![Imgur](https://i.imgur.com/IIC87a6.png){: .jsgif}
+
+
+{% include tynkerprojectpage.html Name="Swordfighting" ID="https://www.tynker.com/play/sword-fight/60b09ae7a0f91e26d64634e5-947497XmM5C2icx.8pki3SEhT8bMMk" caption="We added a set rotation style and point towards blocks to make the pharaoh look at the first fighter properly." %}
+
+Fairy Treasure Game
+  : I suggested Student R add a storyline to her fairy chase game. She added an opening level to her game where the robot steals the fairy's treasure. 
+
+{% include tynkerprojectpage.html Name="Fairy Treasure Game" ID="https://www.tynker.com/play/move-gus-web-5-24-r-0604/60ba823b2cda3f526a7b545c-643764Xtz32bt,CZA8DVWzaHI.78Ek" caption="The robot will send the fairy on an adventure in order to get her treasure back." %}
+
+Mermaid
+  : Student A continued adding code to move the candies to the baskets. 
+![](https://i.imgur.com/v3ik2Cl.png){: .jsgif}
+  : * The key is setting the layer to a value between 50 and 100.
+
+{% include tynkerprojectpage.html Name="NAME" ID="https://www.tynker.com/play/mermaid-2-new-baskets-and-layers-06-04/60ba84f9d0783c791201cd79-705926XrHbQjgfTt4gfF3G0RP31DYk" caption="This time she added the code to the soda bottle." %}
+
+Making Rain
+  : Student K started on the making rain project. He was able to make the rain fall fairly easily. I challenged him to add an introductory part and turn it into more of a story.
+
+
+Maze 
+  : Students Y and R continued working on ScratchJr projects. Student Y worked on finding characters for his next project. Student R worked on this rather complex maze project. 
+
+![Imgur](https://i.imgur.com/BSrB9A2.png){: .jsgif}
+
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 28th

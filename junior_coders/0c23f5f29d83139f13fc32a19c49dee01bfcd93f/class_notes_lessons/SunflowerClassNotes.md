@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 6th](#june-6th)
+  * [Recap for June 6th](#recap-for-june-6th)
 * [May 31st](#may-31st)
   * [Recap for May 31st](#recap-for-may-31st)
 * [May 29th](#may-29th)
@@ -44,6 +46,58 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## June 6th
+</summary>
+
+## June 6th
+
+### Recap for June 6th
+
+Today there were just two students. 
+
+Ghost Balloon Crossing
+  : Student R Continued making his ghost balloon crossing game. He made each ball produce a different effect when it touched the ghost. 
+
+* purple rotate once
+* pink: push
+* green: enlarge
+* yellow: rotate many times
+* blue: send to beginning
+
+He also added a score variable and made the background switch to a new level when the score reached 50.
+
+There were some coding errors in his version that we will fix next week. Here is a corrected version:
+
+{% include zakviewer.html Name="Ghost Balloon Crossing Game (fixed)" ID="https://scratch.mit.edu/projects/541030216/" caption="Use the s, w, and t keys to move the ghost." %}
+
+
+Dragon and Castle
+  : Student H worked on porting his ScratchJr. **Dragon and Castle** project to Scratch. He was able to make the rocket move up if the right character was pressed, and to make the rocket turn left smoothly. His homework is to continue the path of the rocket.
+
+
+```
+when I receive [fire rocket v]
+point in direction (0) 
+repeat (10) // moves 100 steps up
+    move (10) steps
+end
+repeat (10) /// turn left 90 degrees
+    turn @turnLeft (9) degrees::motion
+end
+
+when @greenFlag clicked
+point in direction (0) //rocket has been adjusted to point up in direction 0
+switch costume to [rocketship-a2 v] // adjusted costume
+go to x: (166) y: (4)
+```
+{: .msb}
+
+{% include zakviewer.html Name="Rocket Game" ID="https://scratch.mit.edu/projects/534419787/" caption="Click the character at right to see the rocket fly." %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## May 31st
