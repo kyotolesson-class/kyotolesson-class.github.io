@@ -176,7 +176,7 @@
             // SCRATCHBLOCKS: in concert with scratchblocks-v3.5-min.js renders beautiful scratchblocks from simple markdown. Hooray!
             // use as:
             //``` pre ```
-            //{: .myscratcblocks}
+            //{: .msb}
             scratchblocks.renderMatching('.msb pre', {
                 style: 'scratch3',
                 languages: ['en'],

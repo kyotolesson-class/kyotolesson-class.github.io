@@ -530,7 +530,7 @@ div.slider {
 }
 
 
-/* Don't need button navigation */
+/* Don't need button navigation in niceimage-gallery and niceimage-gallerywerserve (bad for sass?) */
 
 @supports (scroll-snap-type) {
     .slider>a {
@@ -883,6 +883,7 @@ right: -1px;
 /* note diff to above this adjust position */
 top: -6px;
 text-align: right;
+display: flex;
 }
 
 .tynkerattributionimagespan {
@@ -906,7 +907,10 @@ div.tynkercaptiondiv {
     font-style: italic;
     border-radius: 0 0 12px 12px;
 margin: 0 0 17px 0;
+background:var(--scrollbarBG);
+
 }
+
 /* removes hairline */
 div.tynkercaptiondiv:empty {
 background:var(--scrollbarBG);
@@ -1010,7 +1014,7 @@ div.imgurdiv iframe  #header {
 }
 
 
-}
+
 .gifcontrol.paused {
     background: rgba(255, 255, 255, 0.5);
 }
@@ -1094,7 +1098,7 @@ background-size: 1em 2.8em;
 display: block;
 padding-left: 10px;
 padding-right: 10px;
-    }
+}
 
 div.highlight {
 width:90%;
