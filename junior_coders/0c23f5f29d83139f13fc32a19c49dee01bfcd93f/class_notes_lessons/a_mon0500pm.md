@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 7th](#june-7th)
+  * [Recap for June 7th](#recap-for-june-7th)
 * [May 31st](#may-31st)
   * [Junior Coders Beginner's Challenge](#junior-coders-beginners-challenge)
   * [Recap for May 31st](#recap-for-may-31st)
@@ -157,6 +159,77 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+<details markdown=1>
+<summary markdown=1>## June 7th
+</summary>
+
+## June 7th
+
+### Recap for June 7th
+
+Code a Cartoon
+  : Student A has completed several projects for the Scratch Beginner'S Challenge, including the Animate My Name and Code a Cartoon.
+
+This is an old project she did a long time ago.
+
+{% include zakviewer.html Name="Elegant Animate My Name" ID="https://scratch.mit.edu/projects/427349997/" caption="This Animate My Name is quite clever." %}
+
+
+Today, she worked on the Code a Cartoon Remix. After setting up the initial project, we added initializations and animation block sets.
+
+```
+when @greenFlag clicked // initialization
+go to x: (-197) y: (-104)
+
+when this sprite clicked
+repeat (10) // simple animation
+    next costume
+    wait (.1) seconds
+end
+```
+{: .msb}
+
+
+{% include zakviewer.html Name="Code a Cartoon Remix" ID="https://scratch.mit.edu/projects/541287336/" caption="We also added click actions, such as for the superhero.
+ 
+```
+when this sprite clicked
+change y by (100)
+wait (0.2) seconds
+change y by (-100)
+start sound [Kelsey-Haha v]
+say [This is fun!] for (2) seconds
+```
+{: .msb }
+
+<span>" %}{% comment %}for some reason we need a span here because of the scratchblock, perhaps!{% endcomment %}
+
+2 Great Projects
+  : Student A2 was able to complete two tutorials. Animate My Name included sequencing with messages, clickable letters, a background change, random positions, and sounds. A fine project!
+
+{% include zakviewer.html Name="Animate My Name Plus Alpha" ID="https://scratch.mit.edu/projects/541288180/" caption="Click the letters for more actions." %}
+
+
+The second was a Make Music tutorial. The crowd sounds make this project fun. 
+
+{% include zakviewer.html Name="Make Music Tutorial with extras" ID="https://scratch.mit.edu/projects/541319256" caption="Click the sprites to hear the sounds. The Singer moving over to the right is a nice touch as well." %}
+
+The Cow Comes Back
+  : Student M worked on his Cow Joke tutorial. 
+{% include tynkerprojectpage.html Name="The Cow Comes Back" ID="https://www.tynker.com/play/cow-joke/60b4a6d9ff76927f9549307c-928211Xk.v5BbKXkc5Fjh9zM,CZDYk" caption="He finished the story by making the Cow comes back!" %}
+
+User Friendly Messages
+  : Student H worked first on the Animate my Name tutorial. At first the characters did not appear in sequence. We talked about using more user friendly message names, and he was able to make it work. He also added motions and sounds on clicks, to make the project more interesting.
+
+{% include zakviewer.html Name="Animate My Name" ID="https://scratch.mit.edu/projects/425309020" caption="Don't touch teh letter G, you will regret it." %}
+
+While starting a text-to-speech project, he also played around with the sprite editor to create some funny characters.
+
+{% include zakviewer.html Name="Text to Speech" ID="https://scratch.mit.edu/projects/541698128" caption="(slightly adapted from the original)" %}
+
+
+</details> 
+
 
 <details markdown=1>
 <summary markdown=1>## May 31st
