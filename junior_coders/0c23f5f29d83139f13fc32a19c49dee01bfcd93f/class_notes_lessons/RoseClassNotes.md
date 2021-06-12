@@ -12,6 +12,14 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [June 11th](#june-11th)
+  * [Recap for June 11th](#recap-for-june-11th)
+  * [Complicated Maze](#complicated-maze)
+  * [Mario project](#mario-project)
+  * [Changing Directions](#changing-directions)
+  * [Move Gus](#move-gus)
+  * [Jumping Princess](#jumping-princess)
+  * [Mermaid Layers](#mermaid-layers)
 * [June 4th](#june-4th)
   * [Recap for June 4th](#recap-for-june-4th)
 * [May 28th](#may-28th)
@@ -80,6 +88,90 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+<details markdown=1>
+<summary markdown=1>## June 11th
+</summary>
+
+## June 11th
+
+### Recap for June 11th
+
+
+### Complicated Maze
+Student R has been trying to make a maze. I reviewed with him how to make lines straighter and remove dots. He was having some difficulty because his lines were too close to each other and not straight. 
+
+The source of the problem is that the ScratchJr. interface is very limited in size and detail and available tools. When we move to the more advanced interface in Scratch, this will not be a problem. But, for now, here we are.
+
+We took out a sheet of graph paper and I showed him how to draw a pattern by filling in the squares on the graph paper. The key to using lines in ScratchJr. is identifying the individual lines in the drawing. Each line needs to be handled separately. For example a simple cross can be to lines at right angles, or two L shapes touching at the corner. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/EZ3Airf.png" caption="" width="250px" height="" spacer="" %}
+
+
+
+Once you know the lines, then you know how modify them to make the shape you want.
+
+
+### Mario project
+Student Y continued working on his Mario-type game. He chose some characters 
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/nt80hzl.png)" caption="" width="250px" height="" spacer="" %}
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/HweHM3w.png" caption="" width="250px" height="" spacer="" %}
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/f6KXVCH.png" caption="" width="250px" height="" spacer="" %}
+
+
+and made buttons. We worked together on putting backgrounds to the buttons. 
+
+Then he described what he wanted the characters to do and I showed him how to code it. When we click the button, it sends a message mario and to the kuribos. There are several kuribo characters, but only one is visible. They all move together, but only one is visible at a time. The message makes Mario moves right, and all the kuribo characters move left. Then if the visible kuribo and mario are touching, a message is sent:
+
+1. Hide and return mario to his original spot.
+2. visible kuribo disappears 
+3. next kuribo returns to his origin and appears 
+
+This repeats until there are no more kuribos and Mario can escape. This video shows how it works, without the mario characters.
+
+{% include imgur.html title="" ID="https://i.imgur.com/x5EkELD.gif" caption="" width="250px" height="" spacer="" %}
+
+
+
+### Changing Directions
+
+Student Y continued working on a swrrdfighting project. He wanted his actor to face in different directions so we reviewed the rotation style and point in direction blocks.
+
+### Move Gus
+
+We made some improvements to her Move Gus Project, such as adding a score and switching levels. We also talked about the idle animation.
+
+{% include imgur.html title="" ID="https://i.imgur.com/1DuvIEE.png" caption="This changes the score, ends the game if the score is 5." width="250px" height="" spacer="" %}
+
+
+
+### Jumping Princess
+
+I showed her how to make the coins make a sound and disappear when the actor touches them. 
+
+{% include imgur.html title="Disappearing coins" ID="https://i.imgur.com/YkVzxVf.png" caption="" width="250px" height="" spacer="" %}
+
+
+I showed her how to copy code from one character to another and she started copying the code to all her coins.
+
+{% include imgur.html title="Making coins ding" ID="https://i.imgur.com/lyX68lj.png" caption="The same code works for all her coins" width="250px" height="" spacer="" %}
+
+
+### Mermaid Layers
+She continued working on making bad candy flow to the basket. She asked a good question: what happens if characters are set to the same level? This is a very simple and good question, with a complicated answer, which we will save for another day. We walked through writing the code for one more actor.
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## June 4th

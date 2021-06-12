@@ -13,8 +13,16 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
-* [June 6th](#june-6th)
-  * [Recap for June 6th](#recap-for-june-6th)
+* [June 12th](#june-12th)
+* [Recap for June 12th](#recap-for-june-12th)
+  * [Ghost Baloon](#ghost-baloon)
+  * [Moving Ball](#moving-ball)
+  * [Walking and Talking](#walking-and-talking)
+  * [Jukebox](#jukebox)
+  * [Black Ninja](#black-ninja)
+  * [Pong](#pong)
+* [June 5th](#june-5th)
+  * [Recap for June 5th](#recap-for-june-5th)
 * [May 31st](#may-31st)
   * [Recap for May 31st](#recap-for-may-31st)
 * [May 29th](#may-29th)
@@ -46,6 +54,123 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## June 12th
+</summary>
+
+## June 12th
+
+## Recap for June 12th
+
+### Ghost Baloon
+Student R's project had a bug. His character changed the background. However, the Party background kept reappearing. The problem was that his code didn't reset the score after switching to the party:
+  
+```
+when @greenFlag clicked
+forever
+    if <(スコア) > [100]> then
+        switch backdrop to [Party v]
+    end
+    set [スコア v] to [0] // He needed to add this block
+end
+```
+{: .msb}  
+
+After figuring that out he added the second stage of his project, including adding a goalie. We added  blocks that moved to the second stage right away, to make it easier to debug. We added initializations so the goalie would appear in the right place. He made the goalie move from side to side.
+
+{% include zakviewer.html Name="Ghost Balloon Stage 2" ID="https://scratch.mit.edu/projects/530891031/" caption="Use the w key to move the ghost up" %}
+
+
+### Moving Ball 
+Student N first did a tutorial involving clicking a moving ball.
+
+{% include zakviewer.html Name="Moving Ball" ID="https://scratch.mit.edu/projects/540979288/" caption="" %}
+
+### Walking and Talking
+Soon after though he switched to a tutorial using voices. We added a simple animation to show the characters speaking. 
+
+```
+when @greenFlag clicked
+go to x: (10) y: (-37)
+show
+repeat (4)
+    switch costume to [costume2 v]
+    wait (.1) seconds
+    switch costume to [costume1 v]
+    wait (.1) seconds
+end
+
+```
+{: .msb}
+
+Since the characters started walking, we then make the characters walk using messages.
+
+```
+when I receive [go walk v]
+repeat until <touching [edge v]?>
+    move (10) steps
+    wait (.1) seconds
+end
+hide
+
+```
+{: .msb}
+
+
+We talked about initializing the characters. We made the characters hide at the edge, and then return from the other edge. 
+ 
+```
+
+when I receive [come back from walk v]
+go to x: (-240) y: (-37)
+show
+glide (1) secs to x: (0) y: (-37)
+wait (4) seconds
+```
+{: .msb}
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/540981217" caption="" %}
+
+
+
+
+### Jukebox
+Student N. made a music jukebox project. He wanted each song to play until the end and then play the next songs, so we used `play sound [] until done`{: .msb} blocks. 
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/543633250/" caption="" %}
+
+He also started a project using Pokemon cards and we worked on resizing the cards.
+
+
+### Black Ninja
+Student Y gathered a collection of Black Ninjas from the internet and worked in the editor to break them into individual sprites. Then he taught the ninja to change costume and move.
+
+
+```
+when [right arrow v] key pressed
+switch costume to [haruki-right v]
+move (10) steps
+
+when @greenFlag clicked
+switch costume to [haruki v]
+
+when [left arrow v] key pressed
+move (-10) steps
+```
+{: .msb}
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/543623161" caption="Use left and right arrow keys to move" %}
+
+
+### Pong
+Student H worked on a pong tutorial. He added several balls to make the game more interesting, and we made the scoring work.
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/543621246" caption="" %}
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## June 5th
