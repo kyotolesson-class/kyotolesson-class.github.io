@@ -14,7 +14,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 <div id="toc">
 
 * [June 12th](#june-12th)
-* [Recap for June 12th](#recap-for-june-12th)
+  * [Recap for June 12th](#recap-for-june-12th)
   * [Ghost Baloon](#ghost-baloon)
   * [Moving Ball](#moving-ball)
   * [Walking and Talking](#walking-and-talking)
@@ -61,7 +61,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 ## June 12th
 
-## Recap for June 12th
+### Recap for June 12th
 
 ### Ghost Baloon
 Student R's project had a bug. His character changed the background. However, the Party background kept reappearing. The problem was that his code didn't reset the score after switching to the party:
