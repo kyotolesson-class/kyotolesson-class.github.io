@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 14th](#june-14th)
+  * [Recap for June 14th](#recap-for-june-14th)
 * [June 7th](#june-7th)
   * [Recap for June 7th](#recap-for-june-7th)
 * [May 31st](#may-31st)
@@ -159,6 +161,105 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+**Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## June 14th
+</summary>
+
+## June 14th
+
+### Recap for June 14th
+
+
+Ghosts and Singers
+  : Student A told a sad tale of a boy who meets a ghost. This was another entry in his tutorial submissions.
+
+
+{% include turbowarp.html Name="Boy Meets Ghost" ID="544133805" caption="He added the text to speech on the second screen" %}
+
+He also made some additions to his Best Singer project.  
+ 
+
+{% include turbowarp.html Name="Best Singer" ID="541319256" caption="He added narration and user directions" %}
+ 
+
+&nbsp;
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/MdgPEo6.png" caption="text to speech" width="200px" height="" spacer="" %}{% include imgur.html title="" ID="https://svgshare.com/i/YEZ.svg" caption="This helps users know how to use the program" width="200px" height="" spacer="" %}
+
+
+Bowties, and Diamonds
+  : Student A2 involved clicking bowties and diamonds. 
+
+ 
+{% include imgur.html title="" ID="https://i.imgur.com/pExRKeL.png" caption="Her personalization was making it so that you had to touch twice to get a point. This required an initialization routine and a testing loop" width="" height="" spacer="" %} 
+
+ 
+&nbsp;
+
+
+
+{% include turbowarp.html Name="Bow Ties and Diamonds" ID="541323243" caption="She also added a color effect. There is a duplicate stack." %}
+ 
+
+This Ghost Can Dance
+  : Student H made a dance project. His challenge was making the dancing stop when the music stopped. Using the repeat until block with a flag (variable) accomplished this. Here is the Ghosts' code:
+
+```
+when @greenFlag clicked
+set [stopped music v] to [0] // initialize  variable
+broadcast [message1 v]
+play sound [Dance Around v] until done
+set [stopped music v] to [1] // set flag
+
+when I receive [message1 v]
+repeat until <(stopped music) = [1]> // test flag
+    next costume
+    wait (1) seconds
+end
+```
+{: .msb}
+ 
+
+{% include turbowarp.html Name="I Am A Giant" ID="425310342" caption="Interestingly, the boy uses a different method to stop. He just plays enough times to seem like he is stopping with the music.
+
+```
+when I receive [message1 v]
+repeat (15)
+    next costume
+    wait (1) seconds
+endH
+```
+{: .msb}
+<span>" %}
+
+
+
+
+Spooky Sounds
+  : Getting a (very) head start on Halloween, Student M worked on a spooky sounds project. He animated each actor using animate blocks and set part blocks.
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/TtrTmwo.png" caption="The Zommbie kicks 5 times" width="300px" height="" spacer="" %}
+
+ 
+&nbsp;
+
+
+
+<div markdown=1 style="height: 200px; overflow:auto;">
+{% include imgur.html title="" ID="https://i.imgur.com/3buwyjU.png" caption="This changes the face of the vampire with each click" width="300px" height="" spacer="" %}
+</div>
+
+&nbsp;
+
+{% include tynkerprojectpage.html Name="Spooky Sounds" ID="https://www.tynker.com/play/spooky-sounds/60bdec2110fa382fb943e38c-225593XiBt68oJiK00r0t0S6bd61Qk" caption="" %}
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## June 7th
 </summary>
@@ -221,12 +322,12 @@ The Cow Comes Back
 User Friendly Messages
   : Student H worked first on the Animate my Name tutorial. At first the characters did not appear in sequence. We talked about using more user friendly message names, and he was able to make it work. He also added motions and sounds on clicks, to make the project more interesting.
 
-{% include zakviewer.html Name="Animate My Name" ID="https://scratch.mit.edu/projects/425309020" caption="Don't touch teh letter G, you will regret it." %}
+{% include turbowarp.html Name="Animate My Name" ID="https://scratch.mit.edu/projects/425309020" caption="Don't touch the letter G, you will regret it." %}
+
 
 While starting a text-to-speech project, he also played around with the sprite editor to create some funny characters.
 
-{% include zakviewer.html Name="Text to Speech" ID="https://scratch.mit.edu/projects/541698128" caption="(slightly adapted from the original)" %}
-
+{% include turbowarp.html Name="I Am A Giant" ID="541322476" caption="(slightly adapted from the original)" %}
 
 </details> 
 
