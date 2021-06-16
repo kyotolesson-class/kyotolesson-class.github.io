@@ -224,7 +224,7 @@ end
 {: .msb}
  
 
-{% include turbowarp.html Name="I Am A Giant" ID="425310342" caption="Interestingly, the boy uses a different method to stop. He just plays enough times to seem like he is stopping with the music.
+{% include turbowarp.html Name="I Am A Giant" ID="425310342" caption="Interestingly, the boy uses a different method to stop. He just plays enough times to appear like he is stopping with the music.
 
 ```
 when I receive [message1 v]
@@ -243,20 +243,20 @@ Spooky Sounds
   : Getting a (very) head start on Halloween, Student M worked on a spooky sounds project. He animated each actor using animate blocks and set part blocks.
 
 
-{% include imgur.html title="" ID="https://i.imgur.com/TtrTmwo.png" caption="The Zommbie kicks 5 times" width="300px" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/TtrTmwo.png" caption="The Zombie kicks 5 times" width="300px" height="" spacer="" %}
 
  
 &nbsp;
 
 
 
-<div markdown=1 style="height: 200px; overflow:auto;">
-{% include imgur.html title="" ID="https://i.imgur.com/3buwyjU.png" caption="This changes the face of the vampire with each click" width="300px" height="" spacer="" %}
+<div class="jsgif" markdown=1 style="height: 200px; margin-bottom: 5px; overflow:auto;">
+{% include imgur.html title="" ID="https://i.imgur.com/3buwyjU.png" caption="" width="300px" height="" spacer="" %}
 </div>
+This changes the face of the vampire with each click.
+{: .jsgif}
 
-&nbsp;
-
-{% include tynkerprojectpage.html Name="Spooky Sounds" ID="https://www.tynker.com/play/spooky-sounds/60bdec2110fa382fb943e38c-225593XiBt68oJiK00r0t0S6bd61Qk" caption="" %}
+{% include tynkerprojectpage.html Name="Spooky Sounds" ID="https://www.tynker.com/play/spooky-sounds/60bdec2110fa382fb943e38c-225593XiBt68oJiK00r0t0S6bd61Qk" caption="Click the actors to see them dance." %}
 </details>
 
 
