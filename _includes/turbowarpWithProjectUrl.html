@@ -4,7 +4,7 @@ THIS IS A N ATTEMPT TO FIX SLOW LOADING AND SUDDEN STOPS. IT USES THE PROJECTURL
 
 
 <div class="giphycontainer jsgif turbowarp">
-<iframe src="http://turbowarp.org/embed.html#{{ include.ID | split: "/" | last  }}?username"
+<iframe src="https://turbowarp.org/{{ include.ID | split: "/" | last  }}/embed?username"
 width="100%" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
 <div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name}}**{%- endif -%}<a href="{{include.ID}}" target="_blank">ID: {{ include.ID | split: "/" | last  }}</a>
