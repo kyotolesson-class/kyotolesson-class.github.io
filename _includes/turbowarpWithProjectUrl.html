@@ -7,7 +7,7 @@ THIS IS A N ATTEMPT TO FIX SLOW LOADING AND SUDDEN STOPS. IT USES THE PROJECTURL
 <iframe src="https://turbowarp.org/{{ include.ID | split: "/" | last  }}/embed?username"
 width="100%" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
-<div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name}}** {%- endif -%}<a href="{{include.ID}}" target="_blank">ID: {{ include.ID | split: "/" | last  }}</a>
+<div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name}}**&nbsp;{%- endif -%}<a href="{{include.ID}}" target="_blank">ID: {{ include.ID | split: "/" | last  }}</a>
 <a
 href="https://turbowarp.org/embed?project_url=projects.scratch.mit.edu/{{ include.ID | split: "/" | last  }}"
 target="_blank" title="Name of project: {{include.Name}} Project ID:
