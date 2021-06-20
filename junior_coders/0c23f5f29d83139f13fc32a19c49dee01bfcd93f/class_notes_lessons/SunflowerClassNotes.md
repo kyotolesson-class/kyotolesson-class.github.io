@@ -68,19 +68,19 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 Jukebox
   : Student M made great strides on his Jukebox Project. He learned how to make all the characters disappear when you touch one character and then how to make them reappear when you touch the stage.
 
-{% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/543633250/" caption="Click on one of the first two Actors to see them change. Click on the stage to have the actors reappear" %}
+{% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/543633250" caption="Click on one of the first two Actors to see them change. Click on the stage to have the actors reappear" %}
  
 
 Talking and Cat and Apple
   : Student N finished his Talking Project. We talked about how to use messages to create the main Loop.
-{% include turbowarpWithProjectUrl.html Name="Walking" ID="https://scratch.mit.edu/projects/540981217/" caption="" %}
+{% include turbowarpWithProjectUrl.html Name="Walking" ID="https://scratch.mit.edu/projects/540981217" caption="" %}
 
 
 ![Imgur](https://i.imgur.com/bEh5Nd7.png){: .jsgif}
 
 He also started a Chase Game tutorial, which he called Cake and Apple. He started to add a new level when the score reaches 30
 
-{% include turbowarpWithProjectUrl.html Name="Cake and Apple" ID="https://scratch.mit.edu/projects/546211814/" caption="The next level will have another apple and other changes to make it more difficult." %}
+{% include turbowarpWithProjectUrl.html Name="Cake and Apple" ID="https://scratch.mit.edu/projects/546211814" caption="The next level will have another apple and other changes to make it more difficult." %}
 
 Soccer Game
   : Student R and I talked about how to make the second level of his game, the soccer game. To make the ghost play, we needed blocks for left and right movement. We fixed sum code because of a Japanese ー instead of a hyphen -. We had to repurpose the w key ofr this screen to shoot the ball, not move up, so we added a a test for which layer you were on and changing he function accordingly.
@@ -96,29 +96,29 @@ Prolific Output
   : Student Y has been quietly working on many projects. I am not sure which of these were made last class, but recently made ones include:
 
   a partially completed Animate My Name
-    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546210860/" caption="Click the letters" %}
+    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546210860" caption="Click the letters" %}
 
   a more complete variation of this
-    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546351149/" caption="click the characters, or press space to see the action" %}
+    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546351149" caption="click the characters, or press space to see the action" %}
 
   a simple text to speech project
     : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546208990" caption="The cat says hello is you press space" %}
 
   A project about a witch going running
-    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546215665/" caption="Note how the wizard hides when the background switches. Clever.
+    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546215665" caption="Note how the wizard hides when the background switches. Clever.
     ![Imgur](https://i.imgur.com/UI6jWRE.png)
     " %}
 
   a Jellyfish Catching a Starfish
-    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546217276/" caption="Catching the starfish makes a bubbling sound. Scoring is not working yet. Usee arrow keys to move the jellyfish." %}
+    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546217276" caption="Catching the starfish makes a bubbling sound. Scoring is not working yet. Usee arrow keys to move the jellyfish." %}
 
   Ninja Project
-    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/543623161/" caption="Press right arrow to see the ninja change." %}
+    : {% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/543623161" caption="Press right arrow to see the ninja change." %}
 
 Math Project
   : Student H modified the pong game to use a baseball as a ball. He also started working a math project. 
 
-{% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546220338/" caption="" %}
+{% include turbowarpWithProjectUrl.html Name="" ID="https://scratch.mit.edu/projects/546220338" caption="" %}
 
 </details>
 
