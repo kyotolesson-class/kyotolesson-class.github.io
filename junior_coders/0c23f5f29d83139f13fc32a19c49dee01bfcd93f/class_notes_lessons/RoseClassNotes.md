@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [June 18th](#june-18th)
+  * [Recap for June 18th](#recap-for-june-18th)
 * [June 11th](#june-11th)
   * [Recap for June 11th](#recap-for-june-11th)
   * [Complicated Maze](#complicated-maze)
@@ -89,6 +91,37 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+
+<details markdown=1>
+<summary markdown=1>## June 18th
+</summary>
+
+## June 18th
+
+### Recap for June 18th
+
+
+Combining Projects
+  : Student R used the backpack to import the Actors from another tutorial into this one to make the 4th level of her Moving Gus project. This is still a work in progress.
+
+
+Swordfight
+  : After I had made some cleanup to his code, student YY found a bug and worked hard to find the source. I showed him how to sequence the routines with a main loop, and he began adding further routines.
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/122oYUt.png" caption="Using a sequence of broadcast messages it is easy to follow the main flow of the program." width="" height="" spacer="" %}
+
+
+ScratchJr.
+  : Several ScratchJr. students worked on a variant of Mario. The project involved sending messages to more than one sprite at a time to make them appear and disppear in sequence. We went step by step and most were able to complete it. 
+
+
+Mermaid
+  : Student A's achievement for the day was finally being able to log in all by herself (an ongoing struggle)! Together we reviewed some code for putting her candy at the right level, and she worked on making a "game over" screen.
+
+
+</details>
 
 
 <details markdown=1>

@@ -4,13 +4,12 @@ THIS IS A N ATTEMPT TO FIX SLOW LOADING AND SUDDEN STOPS. IT USES THE PROJECTURL
 
 
 <div class="giphycontainer jsgif turbowarp">
-<iframe src="http://turbowarp.org/embed?project_url=projects.scratch.mit.edu/{{include.ID}}"
+<iframe src="http://turbowarp.org/embed.html#{{ include.ID | split: "/" | last  }}?username"
 width="100%" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
-<div class="giphyattribution" style=""><p class="turboattribution">**{{include.Name}}**
-{{include.ID}}
+<div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name}}**{%- endif -%}<a href="{{include.ID}}" target="_blank">ID: {{ include.ID | split: "/" | last  }}</a>
 <a
-href="http://turbowarp.org/embed?project_url={{include.ID}}"
+href="http://turbowarp.org/embed?project_url=projects.scratch.mit.edu/{{ include.ID | split: "/" | last  }}"
 target="_blank" title="Name of project: {{include.Name}} Project ID:
 {{include.ID}}" style="text-decoration: none;">&nbsp;*open in* <svg
 aria-hidden="true" viewBox="0 0 1024 1024" style="position: relative; top: -.7px; vertical-align: text-top;" height="20px"
