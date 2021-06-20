@@ -10,7 +10,7 @@ The caption can be blank.
 <iframe src="https://scratch-viewer.zak.io/view#project={{include.ID}}&backgroundColor=#ffec9f&width=515"
 width="482" height="393" allowtransparency="true" frameborder="0"
 scrolling="no" allowfullscreen></iframe>
-<div class="giphyattribution" style=""><p class="turboattribution"><a title="{{include.Name}}" href="{{ include.ID}}">**{{include.Name | rstrip | truncate: 25 }}**</a> <a
+<div class="giphyattribution" style=""><p class="turboattribution"><a title="{{include.Name}}" href="{{ include.ID}}">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}} {%- endif -%} </a> <a
 href="https://scratch-viewer.zak.io/view#project={{include.ID}}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="Name of project: {{include.Name}} Project ID:
 {{include.ID}}" style="text-decoration: none;">&nbsp;*open in* <span style="background: #ff5a5a; color: white; border-bottom: 1px solid #cc3c3c; border-radius: 0px 2px 2px 0px; padding-right: 2px; border-top: .2px solid #ffa785;">*Zakviewer*</span></a></p>
 </div>
