@@ -54,6 +54,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 20th](#june-20th)
+  * [Farewell Party](#farewell-party)
+  * [Recap for June 20th](#recap-for-june-20th)
+    * [Project of the Day: Slash Knight](#project-of-the-day-slash-knight)
+    * [Show and Tell](#show-and-tell)
 * [June 14th](#june-14th)
   * [Recap for June 14th](#recap-for-june-14th)
 * [June 7th](#june-7th)
@@ -163,6 +168,99 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## June 20th
+</summary>
+
+## June 20th
+
+### Farewell Party
+
+Next week we will have a small farewell party for one of our students, with, per request, popcorn and jelly beans. It will be low-key, and so students don't need to bring anything special for it, unless they want to.
+
+
+### Recap for June 20th
+
+#### Project of the Day: Slash Knight
+
+We started out with a review of the game Slash Knight. This game is popular now among the students, and I showed them a EZ version of the game. The purpose was give them some insight into how a real, complete game is coded. I walked through a stepped set of projects showing how the game is build up in stages. These have been collected in this [Studio](https://scratch.mit.edu/studios/29935748/). Here is the simplified game.
+
+{% include zakviewer.html Name="SKEZ (2 level) - template" ID="https://scratch.mit.edu/projects/544335258/" caption="" %}
+
+We then showed how (relatively easy it is) to add a new level to my simplified game by making a group project.
+
+{% include zakviewer.html Name="SKEZ (3 level) Group Work" ID="https://scratch.mit.edu/projects/546680246/" caption="" %}
+
+Adding a level is easy.
+
+1. Find the 3 `ADD NEW LEVEL here::custom`{: .msb}  blocks. There is one in the KNIGHT, the door, and the interactives(heart). Add just above it a block similar to this one:
+
+```
+if <(the number of the level we are on) = [3]> then // In this case 3, 
+set [x v] to [-120] // change this to the new starting x 
+set [y v] to [48] // and y
+end
+```
+{: .msb}
+
+
+SKEZ with green knight and bus
+  : Student H started his own mod of my SKEZ project. He changed the KNIGHT to a green guy, and the door for a bus. 
+
+{% include zakviewer.html Name="green knight and bus" ID="https://scratch.mit.edu/projects/546697575" caption="Next stop, adventure!" %}
+
+Independence and Creativity
+  : Student A finished some projects on her own last week. Great Job! Her creativity is wonderful.
+
+For the Animal Contest, I helped her add a tts voice.
+
+{% include zakviewer.html Name="Animal Contest" ID="https://scratch.mit.edu/projects/546686958/" caption="Nice mix of effects. Click the character or press any of space, up arrow, or 'a' to play" %}
+
+Here there is some nice storytelling.
+
+{% include zakviewer.html Name="Animal School" ID="https://scratch.mit.edu/projects/546363712" caption="Nice change of backdrop!" %}
+
+She also worked on the Chase Game tutorial today.
+
+{% include zakviewer.html Name="Chase Game" ID="https://scratch.mit.edu/projects/546695203" caption="" %}
+
+
+
+
+Busy Busy
+:   Student M was quite busy today. He started by adding some music to his my Explosion Game.
+
+{% include tynkerprojectpage.html Name="My Explosion" ID="https://www.tynker.com/play/my-explosion/60a2252a80d8ae28ef4d39bd-615569XvCnThKOYDo,Ri1Vo9qWo2Uk" caption="" %}
+
+Then he completed the Falling Trails   and Cats and Dogs tutorials
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/falling-trails/60d05eeafe3eea3e5c666e57-996147Xguh98QU1XJvYwnyutvOv4Ak" caption="" %}
+
+{% include tynkerprojectpage.html Name="Cats and Dogs" ID="https://www.tynker.com/play/cats-and-dogs/60d0552816eaf502404f75f7-554264Xiq6gGDaxWMQ8SyT1S3B62gk" caption="" %}
+
+Finally, he even put in some work on Space Cowboy
+
+{% include tynkerprojectpage.html Name="Space Cowboy" ID="https://www.tynker.com/play/space-cowboy/60d065a21c374747b51a999c-639273Xt6771UM,ATWD7r6Tumt6EYk" caption="" %}
+
+Wrong Pong Strong Pong
+  : Student A added another paddle to his Pong Project. He got a little stuck because his paddles were moving in all sorts of directions. A quick explanation of  `point in direction ()`{: .msb} soon fixed that. 
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/546207368/" caption="Nice Game over screen! Use the arrow and w/s keys to move the paddles." %}
+
+Cheesy Show and Tell
+  : We also had a new student today, who will be joining us for a few weeks. They (preferred pronoun) made their first scratch project today, but it was a hit during today's show and tell. We worked together on making the letters flash. Great first project. 
+
+{% include zakviewer.html Name="cheeseland dancing cricket center" ID="https://scratch.mit.edu/projects/546680316/" caption="" %}
+
+
+
+#### Show and Tell
+
+Several student, who had been working very hard on various projects the past few weeks, shared their projects at the end of class today.
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## June 14th
