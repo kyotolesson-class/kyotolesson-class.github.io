@@ -5,7 +5,7 @@ to the project page and the fullscreen version. tynker.html only shows the id as
 <iframe width="516" height="322" src="//www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
 frameborder="0" allowfullscreen></iframe>
 <div class="giphyattribution" style="">
-<p class="tynkerattribution">**{{include.Name}}**<br>
+<p class="tynkerattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name }}** {% else %}(untitled){%- endif -%}<br>
 <span class="tynkerattributionimagespan"><img class="" style="" src="/assets/tynkerattribution.png" alt="Name of project: {{include.Name}} Project ID: {{include.ID | split: "/" | last}}"></span> 
 <a href="https://www.tynker.com/community/projects/play/{{ include.ID | split: "/" | last }} " title="Name of project: {{include.Name}} Project ID:{{include.ID | split: "/" | last}}" >*Project page*</a> <a
 href="https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"

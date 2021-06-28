@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 26th](#june-26th)
+  * [Recap for June 26th](#recap-for-june-26th)
 * [June 19th](#june-19th)
   * [Recap for June 19th](#recap-for-june-19th)
 * [June 12th](#june-12th)
@@ -56,6 +58,109 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## June 26th
+</summary>
+
+## June 26th
+
+### Recap for June 26th
+
+
+Music Box
+  :  Student M made all his music covers clickable. We simplified his idea so that every character disappears. This means we can use the same code for every character. When clicked, they each disappear and a large background for that song will appear. 
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/543633250/" caption="The first four appear to be working." %}
+
+Pong and Jumping
+  ; Student N added a second level to his pong game, where the color of the apple changes. He plans to make the second level more difficult. 
+
+He also created a jumping project. By using touching color, he makes the sprite fall into the white hole. 
+
+
+```
+when @greenFlag clicked
+forever // if it is not touching the ground, fall
+    if <not <touching color [#663b00]?>> then
+        wait (.01) seconds
+        change y by (-10)
+    end // when low enough , return home
+    if <(y position) = [-227]> then
+        go to x: (-175) y: (-104)
+    end // if too far right, return home
+    if <(x position) > [243]> then
+        go to x: (-175) y: (-104)
+        broadcast [message1 v]
+    end
+end
+```
+{: .msb}
+
+
+Various Projects 
+Student Y started various projects today:
+
+...a video motion detection project
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/548443054/" caption="Visit the scratch link to see the effect." %}
+
+
+...A flying cat tutorial. 
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/548441244/" caption="I  am not sure what the heart is doing...." %}
+
+and this
+
+{% include zakviewer.html Name="House under Attack" ID="https://scratch.mit.edu/projects/548443916/" caption="Press c or space to see actions." %}
+
+
+
+Car Project
+  : Student H explored making various projects scratch and scratchjr, including a sports car. He explored recording various sound effects to make the car sound (not audible below). The project is still unfinished.
+
+{% include giphy.html link="https://media.giphy.com/media/m9UB6b6p6X7nT5A6rz/" %} 
+
+
+Goalie
+  : Today Student R worked on making his goalie be able to defend the goal. He understood that he had to make the character move from side to side, but needed some help realizing that the character starts from the middle, so the first motion is just halfway. This was more difficult because of what appears to be a bug in Scratch. The following code should work without the first wait, but it doesn't.
+
+  This project is coming along. Next we will have to do some cleaning up, such as what to do when teh ball goes out of bounds, and how to register the score. It also needs better instructions for the user.
+
+```
+when backdrop switches to [Soccer v]
+wait (1) seconds // this seems unnecessary, but
+goto x: (-50) y: (-6) // without it this doesn't happen
+repeat (100000)
+    wait (1) seconds
+    glide (1) secs to x: (100) y: (-6)
+    wait (1) seconds
+    glide (1) secs to x: (-100) y: (-6)
+end
+```
+{: .msb}
+
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/548760698" caption="We also worked on adding a goal line to register the score. Use the w key to move the ghost and to shoot." %}
+
+
+
+
+
+Space Invaders
+Scratch Jr. Students Y and R worked on a simplified version of Space invaders. This is really an exercise in using messages to have one character control another. The kids seem to understand the concept, but have difficulty knowing exactly where to put the elements. Nonetheless they are good at adding their own creative elements, such as this interesting missile, and are excited about making the project:
+
+{% include imgur.html title="" ID="https://i.imgur.com/YEz1ket.gif" caption="Note how the left arrow moves the 2 sprites, but the right arrow makes the 'missile' shoot. Fixing this is one of things we worked on in this class." width="" height="" spacer="" %}
+
+
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## June 19th

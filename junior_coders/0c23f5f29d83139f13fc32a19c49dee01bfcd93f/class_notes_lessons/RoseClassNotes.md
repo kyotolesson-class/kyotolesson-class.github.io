@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [June 25th](#june-25th)
+  * [Recap for June 25th](#recap-for-june-25th)
 * [June 18th](#june-18th)
   * [Recap for June 18th](#recap-for-june-18th)
 * [June 11th](#june-11th)
@@ -91,6 +93,31 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## June 25th
+</summary>
+
+## June 25th
+
+### Recap for June 25th
+
+
+The Final Battle
+  : Student Y is doing well using sequential messaging to structure the action in his Sword Fight project, adding the final battle to his Sword Fight project, and also some dramatic music. He has worked very hard on this project, and I think learned a lot from it.
+
+{% include tynkerprojectpage.html Name="Sword Fight Final Battle" ID="https://www.tynker.com/play/sword-fight-6-25/60d8db806ae5ef1432533cda-873665XnwD4pJ1z,h5nfKMSM1HG1ok" caption="" %}
+
+Crossy Road
+  : This week, Student C decided to start a new project called Crossy Road, but it is still in the early stages. She may return to her previous project later.
+
+How Levels Work
+  : Student A had some more questions about how levels work, especially in our code. I explained that the code does this: Whenever a candy is touched, it broadcasts a message to every character. It says, if I am not the character who was touched, keep moving back until I am at layer 93. If I am the character who was touched, go to level 95." This way the last character touched is always in front of the basket. This explanation really helped her. She started adding this code to the characters and modifying the messages to suit each candy. She also added sound to the project.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/mermaid-2-6-28/60d8e4ea34737063b97fc5cb-955616XvHyLqk2mIvEEg,fFKZSEVgk" caption="" %}
+
+
+
+</details>
 
 
 <details markdown=1>
