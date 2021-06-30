@@ -54,9 +54,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [June 20th](#june-20th)
+* [June 28th](#june-28th)
+  * [Recap for June 28th](#recap-for-june-28th)
+* [June 21st](#june-21st)
   * [Farewell Party](#farewell-party)
-  * [Recap for June 20th](#recap-for-june-20th)
+  * [Recap for June 21st](#recap-for-june-21st)
     * [Project of the Day: Slash Knight](#project-of-the-day-slash-knight)
     * [Show and Tell](#show-and-tell)
 * [June 14th](#june-14th)
@@ -169,18 +171,78 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
 
+
 <details markdown=1>
-<summary markdown=1>## June 20th
+<summary markdown=1>## June 28th
 </summary>
 
-## June 20th
+## June 28th
+
+### Recap for June 28th
+
+Chase Games
+  : Two students independently completed the chase game tutorial. They added sound when a point is scored, and displayed the score. Everyone had a lot of fun playing the completed game.
+
+
+{% include zakviewer.html Name="Jellyfish diamond" ID="https://scratch.mit.edu/projects/548873955/" caption="" %}
+
+{% include zakviewer.html Name="Cat and Rabbit" ID="https://scratch.mit.edu/projects/548875135" caption="" %}
+
+Flapping Dove
+  : Student A was very proud that she could make the dove in this project flap it's wings (when the left and rigt arrow are pressed.
+
+{% include zakviewer.html Name="Flapping Dove" ID="https://scratch.mit.edu/projects/549451274/" caption="I'm proud of her too!" %}
+
+
+Falling Bird Attempt
+  : Student H was very excited to emulate a falling bird type project, and we started to code it by copying some code using the Backpack.
+
+{% include zakviewer.html Name="Falling Bird step `" ID="https://scratch.mit.edu/projects/548887931" caption="He added the opening 3..2..1 message and downward motion of gravity. We havent quite finished making it go up!" %}
+
+Slashnight remod
+  : He made one small correction to his attempted remod of Slashknight. 
+
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/546697575/editor/" caption="We went over how to find the x and y of a point, and he changed the x and y of the ruler, when it appears in level 2, to the position of the arrow below. The arrow is just there to help him find the coordinates he needs. " %}
+
+
+Growing Tynker Platform Collection
+  : Student M really likes Tynker platfrom type games, and he was very excited to show me that, independently, he had added another to his collection. 
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/untitled/600e8ebaa9d0ae018c19dd61-827684Xp7XUDUpcIJ2gK6xonvSU18k" caption="" %}
+
+Grumpy Cat
+  : He also worked on the Grumpy cat tutorial.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/grumpy-cat/60d9974fda04ff4ee202afa8-792495Xi5wEOeiH7jidpWb68Tvw,ok" caption="" %}
+
+Congratulations and Farewells
+  : Lastly but not leastly, student A made this congratulatory Scratch Card. 
+
+{% include zakviewer.html Name="Congratulations" ID="https://scratch.mit.edu/projects/548887241/" caption="A will be on 'sabbatical' abroad after this class, and we wish him all the best!!! " %}
+
+At the end of the class we held a small farewell for him, and played as a group a new scratch game called Headlight. 
+
+{% include zakviewer.html Name="Hatlight" ID="https://scratch.mit.edu/projects/122190314/" caption="Use the Left and Right arrow keys to move. Use the Up, Spacebar or Z key to jump! Find batteries to power your Hatlight!" %}
+
+
+
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## June 21st
+</summary>
+
+## June 21st
 
 ### Farewell Party
 
 Next week we will have a small farewell party for one of our students, with, per request, popcorn and jelly beans. It will be low-key, and so students don't need to bring anything special for it, unless they want to.
 
 
-### Recap for June 20th
+### Recap for June 21st
 
 #### Project of the Day: Slash Knight
 
