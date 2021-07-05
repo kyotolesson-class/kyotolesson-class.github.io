@@ -12,8 +12,11 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [July 2nd](#july-2nd)
+  * [Recap for June 2nd](#recap-for-june-2nd)
 * [June 25th](#june-25th)
   * [Recap for June 25th](#recap-for-june-25th)
+  * [Updated on June 2nd](#updated-on-june-2nd)
 * [June 18th](#june-18th)
   * [Recap for June 18th](#recap-for-june-18th)
 * [June 11th](#june-11th)
@@ -93,6 +96,55 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## July 2nd
+</summary>
+
+## July 2nd
+
+### Recap for June 2nd
+
+Omission from last week.
+  : I omitted a discussion of the Space Invaders ScratchJr. Project in last week's class notes. Please see last week's entry for the omitted information.
+
+
+Space invaders
+  : At the start of class, some ScratchJr. students continued working on space invaders. To make it easier, we divided the project into 2 parts, and the kids worked on each part.
+
+{% include imgur.html title="Shooting Cat" ID="https://i.imgur.com/2JXGFL0.gif" caption="This moves the player and shoots the arrow" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="Invader" ID="https://i.imgur.com/0a25min.gif" caption="This is the invader, who also shoots" width="" height="" spacer="" %}
+
+{% include imgur.html title="Student R Space Invader" ID="https://i.imgur.com/FhuRjCO.gif" caption="Student Y seemed to get the basic idea, with some bugs. Nice Invader!" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/EStSDFs.gif" caption="Student Y enjoyed making the barber pole." width="" height="" spacer="" %}
+
+
+
+Quiz
+  : Today's project was a quiz game. The children started on it by making questions. Some did math questions, another did Curious George Questions.
+
+{% include imgur.html title="" ID="https://i.imgur.com/TjuRtL1.gif" caption="This is the demo project." width="" height="" spacer="" %}
+
+Sword Fight
+  : Continuing on his excellent work, Student Y added the "last team fight" and "trophy time" stages to his Sword Fight project. We got trophies from the internet and I showed him how to remove the background with pixlr background remover. 
+
+  {% include tynkerprojectpage.html Name="Sword Fight with Trophies" ID="https://www.tynker.com/play/sword-fight-202107-02/60e229277871f55db87bc66b-297240XqKDy7eade6MjY0DsFwVkvwk" caption="There are 2 semifinal matches, and then a grand championship. The winner does a victory dance with his trophies." %}
+
+Doodle Jump
+  : Student R continued working on the Doodle jump tutorial. This tutorial has a few mistakes in it: 
+  
+{% include imgur.html title="" ID="https://i.imgur.com/01fv5Cl.jpg" caption="note the y position at right is erroneously x position in the tutorial at left." width="" height="" spacer="" %}
+
+{% include tynkerprojectpage.html Name="Doodle Jump" ID="https://www.tynker.com/play/doodle-jump-2021-07-02/60e22f7702828872ca53a1f4-652426XouG1WE4EknOv4xTKVdiKRck" caption="We also added some more Kid actor costumes. The game now works, but will need too be incorporated into the main project." %}
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## June 25th
 </summary>
@@ -114,6 +166,14 @@ How Levels Work
   : Student A had some more questions about how levels work, especially in our code. I explained that the code does this: Whenever a candy is touched, it broadcasts a message to every character. It says, if I am not the character who was touched, keep moving back until I am at layer 93. If I am the character who was touched, go to level 95." This way the last character touched is always in front of the basket. This explanation really helped her. She started adding this code to the characters and modifying the messages to suit each candy. She also added sound to the project.
 
 {% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/mermaid-2-6-28/60d8e4ea34737063b97fc5cb-955616XvHyLqk2mIvEEg,fFKZSEVgk" caption="" %}
+
+### Updated on June 2nd
+  : This was orignally omitted here:
+
+Space Invaders
+  : Scratch Jr. Students Y and R worked on a simplified version of Space invaders. This is really an exercise in using messages to have one character control another. The kids seem to understand the concept, but have difficulty knowing exactly where to put the elements. Nonetheless they are good at adding their own creative elements, such as this interesting missile, and are excited about making the project:
+
+{% include imgur.html title="" ID="https://i.imgur.com/YEz1ket.gif" caption="Note how the left arrow moves the 2 sprites, but the right arrow makes the 'missile' shoot. Fixing this is one of things we worked on in this class." width="" height="" spacer="" %}
 
 
 

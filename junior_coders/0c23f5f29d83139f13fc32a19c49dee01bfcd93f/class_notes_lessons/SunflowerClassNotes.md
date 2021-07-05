@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 3rd](#july-3rd)
+  * [Recap for July 3rd](#recap-for-july-3rd)
 * [June 26th](#june-26th)
   * [Recap for June 26th](#recap-for-june-26th)
 * [June 19th](#june-19th)
@@ -60,7 +62,57 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 
+<details markdown=1>
+<summary markdown=1>## July 3rd
+</summary>
 
+## July 3rd
+
+### Recap for July 3rd
+
+
+
+Soccer Game
+  : During the makeup class for student R, I showed him how to clean up his project by combining stacks. Instead of several green flag stacks and several forever loops, we combined them all. The next day we worked on finishing the soccer game level. One problem was that the ball would get stuck in a corner sometimes; we prevented this by moving the ball away when it touched the goalkeeper. 
+
+{% include zakviewer.html Name="Soccer Game" ID="https://scratch.mit.edu/projects/530891031/" caption="We also made the ball return when a goal is scored. I also showed him how to use a repeated move block to make the ball glide. This helps make recording goals and deflections work better." %}
+
+Jukebox
+  : Student M did a great job making the last few songs on his jukebox work. 
+  
+{% include zakviewer.html Name="Juke Box" ID="https://scratch.mit.edu/projects/550655784/" caption="He go so excited, he decided to add 4 more songs, which need to be coded." %}
+
+Another Jukebox
+  : Student Y was inspired from watching this Jukebox to begin making his own. 
+
+
+
+
+Crazy Animation
+  : Student N has been learning how to make animations, and produced this Crazy Animation Project.
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/550356223/" caption="It uses both color effects and costume changes for the transitions" %}
+
+Learning ABC
+  : He also taught Abu, his favorite character, to speak.
+
+{% include zakviewer.html Name="Learning ABC" ID="https://scratch.mit.edu/projects/550490430/" caption="press any letter to say the letter" %}
+
+
+
+
+Clickers
+  : A popular game this week was a clicker game, which several students played or worked on. These are very simple. Just click until you drop. Simple, but popular.
+
+{% include zakviewer.html Name="Student N Basic Clicker" ID="https://scratch.mit.edu/projects/550657465/" caption="" %}
+
+
+
+
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## June 26th

@@ -952,6 +952,14 @@ div.imgurdiv iframe  #header {
     max-height: 0px!important;
 }
 
+/* puts space below imgur captions */
+.imgur.jsgif {
+    margin-bottom: 20px;
+}
+/* joins caption to image */
+.imgurspacerdiv {
+margin-bottom: -7px;
+}
 /* not sure what this does */
 .jsgif canvas {
     width: 100%;
