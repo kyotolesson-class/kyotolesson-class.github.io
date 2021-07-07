@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 4th](#july-4th)
+  * [Recap for July 4th](#recap-for-july-4th)
 * [June 28th](#june-28th)
   * [Recap for June 28th](#recap-for-june-28th)
 * [June 21st](#june-21st)
@@ -170,6 +172,54 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## July 4th
+</summary>
+
+## July 4th
+
+### Recap for July 4th
+
+Today we worked as a group on a new project, based on Mario Galaxy 4. I broke the orignal project down into steps, and we walked through them as a group. The kids were really focused and we managed to get through 2 1/2 steps. The kids were able to individualize their projects, and, even if the code is almost the same, each one has a unique character to it. 
+
+{% include zakviewer.html Name="Super Mario Galaxy V4" ID="https://scratch.mit.edu/projects/550673084/" caption="This is the original project " %}
+
+
+
+
+{% include zakviewer.html Name="Galaxy 4 step 1" ID="https://scratch.mit.edu/projects/550487306/" caption="" %}
+
+
+{% include zakviewer.html Name="Galaxy 4 step 2" ID="https://scratch.mit.edu/projects/550496185/" caption="" %}
+
+
+{% include zakviewer.html Name="Galaxy 4 step 3" ID="https://scratch.mit.edu/projects/550505531/" caption="We are halfway through here" %}
+
+
+
+Here are the results so far:
+
+{% include zakviewer.html Name="crab is going around the earth" ID="https://scratch.mit.edu/projects/551067988/" caption="Student S" %}
+
+
+{% include zakviewer.html Name="Walkingchick " ID="https://scratch.mit.edu/projects/551054675/" caption="Student Y" %}
+
+
+{% include zakviewer.html Name="Move Dot around" ID="https://scratch.mit.edu/projects/551091293/" caption="Student A" %}
+
+
+{% include zakviewer.html Name="Taco Bird" ID="https://scratch.mit.edu/projects/551092574/" caption="Student M" %}
+
+
+{% include zakviewer.html Name="a leaning thingy... for a class" ID="https://scratch.mit.edu/projects/551052199/" caption="Student H" %}
+
+
+
+</details>
+
+
 
 
 <details markdown=1>
