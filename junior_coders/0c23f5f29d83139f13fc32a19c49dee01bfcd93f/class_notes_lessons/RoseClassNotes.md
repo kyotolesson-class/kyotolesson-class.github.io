@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [July 9th](#july-9th)
+  * [Recap for July 9th](#recap-for-july-9th)
 * [July 2nd](#july-2nd)
   * [Recap for June 2nd](#recap-for-june-2nd)
 * [June 25th](#june-25th)
@@ -95,6 +97,38 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## July 9th
+</summary>
+
+## July 9th
+
+
+### Recap for July 9th
+ 
+ 
+ScratchJr
+  : Two of the ScratchJr. kids continued working on the Space invaders game, specifically making the space invader appear and descend. This was challenging for them, and we walked through it a few times, including using the white board to map out the different actions needed. Student R was able to finish it after sorting out a problem with his left and right arrow buttons. 
+  
+  Student Y is about halfway finished, but became interested in a frog jumping game some other kids were working on, so he tried his hand at that. This was really a very simple project with the goal of getting the kids to think of ways of making it more interesting. For example, student H turned the frogs into a herd of elephants.
+
+Sword Fight  
+  : The sword fight project continues, with some debugging cause the fighters wouldn't get up after fighting. Were they fighting too hard? No, they just needed an idle animation block. The fighters now also get awards.  This is still a work in progress.
+
+Move Gus
+  : Level 4 of Gus move project was having some problems. One problem was that an extra stage was somehow introduced, and it took some detective work to figure it out. In addition, some special settings had to be adjusted. She had copied the actors without copying the settings such as making the platforms static active so they would stay still and stop the actors, but making the heroine not static or active, so she would feel gravity.  We also made the game move to level 5 when the heroine falls, which in this game she will. 
+
+Crossy Road 
+  : A Tynker kid started working on a road crossing game. We chose a road costume for her to use, and she coded some cars crossing the road and a character who crosses it.
+
+{% include tynkerprojectpage.html Name="Crossy Road" ID="https://www.tynker.com/play/crossy-road-7-11/60eaa2ee9a37a764174e271e-593343Xt41tnrp1GGdprof4yWKsWUk" caption="Nexxt will make her return home when she is hit." %}
+
+Mermaid
+  : The mermaid game is almost finished. Once the last candy is taken, the mermaid takes the basket to the center of the stage and then drops all the candy. I explained to her how to make this happen with messages and glide blocks, and we will start coding it next week.
+
+</details>
+
 
 
 <details markdown=1>

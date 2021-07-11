@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 10th](#july-10th)
+  * [Recap for July 10th](#recap-for-july-10th)
 * [July 3rd](#july-3rd)
   * [Recap for July 3rd](#recap-for-july-3rd)
 * [June 26th](#june-26th)
@@ -60,6 +62,37 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## July 10th
+</summary>
+
+## July 10th
+
+### Recap for July 10th
+
+Today we worked on the Mario Galaxy four project. 
+
+
+{% include zakviewer.html Name="Galaxy 4 step 01" ID="https://scratch.mit.edu/projects/550487306/" caption="" %}
+
+
+
+Everybody was able to get to the first step. We did have a few technical issues but we resolve them and that will make going forward easier from now on. After the break some kids expolored for their next project while others finished projects that they had been working on before. 
+
+
+
+{% include zakviewer.html Name="MG4 Step 01 H" caption="Press right arrow to see it move." ID="https://scratch.mit.edu/projects/552334899/" %}
+
+{% include zakviewer.html Name="MG4 Step 01 Y" caption="Press right arrow to see it move." ID="https://scratch.mit.edu/projects/552334188/" %}
+
+{% include zakviewer.html Name="MG4 Step 01 R" caption="Press right arrow to see it move." ID="https://scratch.mit.edu/projects/552333802/" %}
+
+{% include zakviewer.html Name="MG4 Step 01 M" caption="Press right arrow to see it move." ID="https://scratch.mit.edu/projects/552333323/" %}
+
+{% include zakviewer.html Name="MG4 Step 01 N" caption="Press right arrow to see it move." ID="https://scratch.mit.edu/projects/552332799/" %}
+
+</details>
 
 
 <details markdown=1>
