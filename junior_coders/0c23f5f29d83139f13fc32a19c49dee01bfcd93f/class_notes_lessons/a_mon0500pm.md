@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 11th](#july-11th)
+  * [Recap for July 10th](#recap-for-july-10th)
 * [July 4th](#july-4th)
   * [Recap for July 4th](#recap-for-july-4th)
 * [June 28th](#june-28th)
@@ -172,6 +174,58 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## July 11th
+</summary>
+
+## July 11th
+
+### Recap for July 10th
+
+
+Today's main lesson was to continue the Mario Galaxy 4 project, finishing step 3 and starting step 4. First, students installed an addon to the chrome browser to make it easier to edit in scratch. We added code to go to a new level when the donut is eaten by kuma. We also added some sound, and made the donut move to a new location. 
+
+```
+when @greenFlag clicked // in the donut
+forever
+    if <touching [kuma v]?> then
+        start sound [Chomp v]
+        broadcast [next level v]
+        point in direction (pick random (-179) to (180))
+        wait (0.5) seconds
+    end
+end
+```
+{: .msb}
+
+We then added a variable called level. We initialized the level, and updated it each time we reached a new level. We learned how to show the level. 
+
+```
+when @greenFlag clicked // in the earth, we 
+set [Level v] to [1]
+switch costume to [earth v]
+go to x: (0) y: (0)
+
+when I receive [next level v] // in the earth
+change [Level v] by (1) 
+next costume
+```
+{: .msb}
+
+We also briefly touched on how to make characters larger and smaller in the paint editor using the onionskin tool.
+
+
+{% include zakviewer.html Name="a leaning thingy\.\.\. for a class revised 0711" ID="https://scratch.mit.edu/projects/552682487/" caption="" %}
+
+{% include zakviewer.html Name="Move Dot around 4" ID="https://scratch.mit.edu/projects/552544825/" caption="" %}
+
+{% include zakviewer.html Name="Crab is going around the earth" ID="https://scratch.mit.edu/projects/550765576/" caption="" %}
+
+{% include zakviewer.html Name="bird taco revised dc 07 11 copy" ID="https://scratch.mit.edu/projects/552693376/" caption="" %}
+
+</details>
+
 
 
 <details markdown=1>
