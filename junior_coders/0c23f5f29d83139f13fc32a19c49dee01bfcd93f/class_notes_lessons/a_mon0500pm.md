@@ -54,8 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [July 11th](#july-11th)
-  * [Recap for July 10th](#recap-for-july-10th)
+* [July 12th](#july-12th)
+  * [Recap for July 12th](#recap-for-july-12th)
 * [July 4th](#july-4th)
   * [Recap for July 4th](#recap-for-july-4th)
 * [June 28th](#june-28th)
@@ -176,12 +176,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
 
 <details markdown=1>
-<summary markdown=1>## July 11th
+<summary markdown=1>## July 12th
 </summary>
 
-## July 11th
+## July 12th
 
-### Recap for July 10th
+### Recap for July 12th
 
 
 Today's main lesson was to continue the Mario Galaxy 4 project, finishing step 3 and starting step 4. First, students installed an addon to the chrome browser to make it easier to edit in scratch. We added code to go to a new level when the donut is eaten by kuma. We also added some sound, and made the donut move to a new location. 
