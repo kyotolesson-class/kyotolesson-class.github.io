@@ -12,6 +12,9 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [July 16th](#july-16th)
+  * [Reminder](#reminder)
+  * [Recap for July 16th](#recap-for-july-16th)
 * [July 9th](#july-9th)
   * [Recap for July 9th](#recap-for-july-9th)
 * [July 2nd](#july-2nd)
@@ -97,6 +100,46 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 16th
+</summary>
+
+## July 16th
+
+### Reminder 
+### Recap for July 16th
+
+ScratchJr.
+  : This week we had a student visiting us, which gave an opportunity for kids to show off some of their projects to him, as well as to teach him the basics of ScratchJr.
+
+  THe most popular of the games they worked with was the mario project from a few weeks ago. The student needed some help explaining how to make the characters disappear.
+
+Sword Fight
+  : The Sword Fight project is effectively finished. The student added a bronze match, and then a final goodbye and thank you for all the characters.  We discussed future projects, including a fainting project and a Harry Potter Project.
+
+{% include tynkerprojectpage.html Name="Sword Fight, Final" ID="https://www.tynker.com/play/sword-fight-7-16/60f300f24eead70c053d828a-983637Xud.F.fZlNKUUl61lzS.Cc0k" caption="A lot of good independent work and problem solving went into this, so job well done." %} 
+
+
+Move Gus 
+  : The Move Gus project is also nearing completion. The student what is planned to be the last level, with the final battle. We talked about how the project would go from here and she began coding it.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/move-gus-web-07-16/60f30173bce1af444960d5b4-199724XkSoFoy1ZZ9p9z434V2Dctwk" caption="" %}
+
+
+Mermaid
+  : This week we added a flashing "Good Job" when the character gets the good candy. I explained how we would make it flash.
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/qBwOVzO.jpg" caption="We will call this routine when she catches good candy." width="200px" height="" spacer="" %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## July 9th

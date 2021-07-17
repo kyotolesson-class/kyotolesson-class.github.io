@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 17th](#july-17th)
+  * [Recap for July 17th](#recap-for-july-17th)
 * [July 10th](#july-10th)
   * [Recap for July 10th](#recap-for-july-10th)
 * [July 3rd](#july-3rd)
@@ -62,6 +64,46 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## July 17th
+</summary>
+
+## July 17th
+
+### Recap for July 17th
+
+Today kids worked on their own projects.
+
+Student Y started a shooting game. He began to learn how to make bullets using clones, and how to make actors disappear when they are hit.
+
+{% include zakviewer.html Name="112rtrtrtrtrtr" ID="https://scratch.mit.edu/projects/553917494/" caption="Press space to shoot" %}
+
+Student N began a version of pacman. He made little munching characters, and we worked on drawing a maze for the background. We also made the main actor move right and left, and then blocked its motion when it reached the edge so it wouldn't fall of the edge.
+
+{% include zakviewer.html Name="Untitled\-43" ID="https://scratch.mit.edu/projects/553917616/" caption="" %}
+
+Student M learned how to change the position of the actors using the x and y boxes in the actor area. This was necessary because he couldn't drag his characters because part of his game codes them to disappear if touched. 
+
+
+Student R started planning a Minecraft quiz game. We talked about learning to plan on paper before trying to code, which he began to do. I also helped him import some images from the web that couldn't be copied the usual way. 
+
+
+Student H worked on importing characters from other projects into his project.
+
+Kids also enjoyed coding and playing at a video project; 
+
+
+{% include zakviewer.html Name="Untitled\-15" ID="https://scratch.mit.edu/projects/548449723/" caption="" %}
+
+and a Jelly project. I showed them a simplified version, and perhaps next week we will try to code it together.
+
+
+{% include zakviewer.html Name="JJ step 01" ID="https://scratch.mit.edu/projects/552696678/" caption="" %}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## July 10th
