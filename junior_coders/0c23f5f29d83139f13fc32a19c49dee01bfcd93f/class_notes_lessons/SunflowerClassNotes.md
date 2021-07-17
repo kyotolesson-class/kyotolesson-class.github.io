@@ -77,7 +77,7 @@ Today kids worked on their own projects.
 
 Student Y started a shooting game. He began to learn how to make bullets using clones, and how to make actors disappear when they are hit.
 
-{% include zakviewer.html Name="112rtrtrtrtrtr" ID="https://scratch.mit.edu/projects/553917494/" caption="Press space to shoot" %}
+{% include zakviewer.html Name="112rtrtrtrtrtr" ID="https://scratch.mit.edu/projects/553917494/" caption="Press space to shoot. Right now the actors are invisible, and the student's homework is to make them appear again" %}
 
 Student N began a version of pacman. He made little munching characters, and we worked on drawing a maze for the background. We also made the main actor move right and left, and then blocked its motion when it reached the edge so it wouldn't fall of the edge.
 
@@ -91,12 +91,7 @@ Student R started planning a Minecraft quiz game. We talked about learning to pl
 
 Student H worked on importing characters from other projects into his project.
 
-Kids also enjoyed coding and playing at a video project; 
-
-
-{% include zakviewer.html Name="Untitled\-15" ID="https://scratch.mit.edu/projects/548449723/" caption="" %}
-
-and a Jelly project. I showed them a simplified version, and perhaps next week we will try to code it together.
+Kids also enjoyed coding and playing at a video sensing project and a Jelly project. I showed them a simplified version, and perhaps next week we will try to code it together.
 
 
 {% include zakviewer.html Name="JJ step 01" ID="https://scratch.mit.edu/projects/552696678/" caption="" %}
