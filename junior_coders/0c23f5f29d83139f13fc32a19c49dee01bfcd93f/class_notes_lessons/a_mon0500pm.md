@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 19th](#july-19th)
+  * [Recap for July 19th](#recap-for-july-19th)
 * [July 12th](#july-12th)
   * [Recap for July 12th](#recap-for-july-12th)
 * [July 4th](#july-4th)
@@ -174,6 +176,34 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## July 19th
+</summary>
+
+## July 19th
+
+### Recap for July 19th
+
+Today we started off with a series of tests ([test 1](https://scratch.mit.edu/studios/30066443), [test 2](https://scratch.mit.edu/studios/30066443), [test 3](https://scratch.mit.edu/studios/30066443))based on the recent Mario galaxy 4 projects. Students were given a set of blocks and instructions to turn those blocks into particular actions. For example, these blocks
+
+![Imgur](https://i.imgur.com/8aIbtoh.jpg)
+
+were used to make the actor go up and down and touch the donut:
+
+![Imgur](https://i.imgur.com/YpYX7o5.jpg)
+
+The first test was pretty easy, but the last one required some thinking. I was pleased that they were all able to complete it, with a little help.
+
+After that, kids continued their own projects and tutorials. I also showed them this video sensing project, which inspired at least one kid to develop his own version, which kids enjoyed.
+
+{% include zakviewer.html Name="video jukebox sample 01" ID="https://scratch.mit.edu/projects/553933754/" caption="follow link to see it in action" %}
+
+We closed the day with a new game, ["Hackenbush"](http://www.papg.com/show?1TMP=). In addition to being fun, it helps teaches about thinking ahead and basic logic.
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## July 12th
