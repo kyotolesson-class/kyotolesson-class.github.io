@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 26th](#july-26th)
+  * [Recap for July 26th](#recap-for-july-26th)
 * [July 19th](#july-19th)
   * [Recap for July 19th](#recap-for-july-19th)
 * [July 12th](#july-12th)
@@ -176,6 +178,54 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## July 26th
+</summary>
+
+## July 26th
+
+### Recap for July 26th
+
+
+Today kids worked on their own projects mostly. 
+
+Importing GIFs
+  : Student H learned that he could import gif files easily into Scratch, and it would extract the images inside it. This inspired him to make a "comical" project with some of his favorite gifs.
+
+{% include zakviewer.html Name="smg4" ID="https://scratch.mit.edu/projects/554323778/" caption="" %}
+
+Singer
+  : For this project, Student H made the singer sing using if key pressed and repeat until not pressed blocks. 
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556368023/editor/" caption="If the left arrow and up arrow key are pressed, the actor will 'speak' as long as the up arrow key is being pressed." %}
+
+Duck Breaks Egg
+  : Student S invented his own Duck Breaks Egg game, where the arrow keys are used to make the Duck break the egg. At first one could only break one egg per game. I challenged him to make it so we could press space button to keep playing. We also displayed the score. Once he managed that I challenged him ot make the game progressively harder, such as by changing the speed of the egg's getaway.
+
+{% include zakviewer.html Name="2021 07 26 SAK Duck Breaks Egg" ID="https://scratch.mit.edu/projects/556368677/" caption="This project charges up a ball when you press it, and launches it at a skeleton when you let go. The ball's speed increases the longer the player holds down the ball." %}
+
+
+Spin Launcher 
+: Student M completed the following Spin Launcher Tutorial. This project teaches about program physics, such as velocity, friction, and restitution.
+
+{% include tynkerprojectpage.html Name="Spin Launcher" ID="https://www.tynker.com/play/2021-07-26-mik-spin-launcher/6100d80493bf41446c04b533-999387XkCuOoYBQ1YqqRoYdthlbOEk" caption="" %}
+
+He also continued his favorite activity, making impossible projects with large number fo actors, and no  way to win! 
+
+{% include tynkerprojectpage.html Name="Grump Cat" ID="https://www.tynker.com/play/grumpy-cat/60d9974fda04ff4ee202afa8-830018XszwO9pv0L399RbGoSTSaXAk" caption="The boss characters are too strong and too many for our hero to win." %}
+
+and this one
+
+{% include tynkerprojectpage.html Name="BIRD MAYHEM" ID="https://www.tynker.com/play/2021-07-26-mik-bird-mayhem/6100da164042174b3b3333f5-598836XlXu8svDuKL4jLU7z2ZuL0Qk" caption="This project is also baboutaout physics" %}
+
+Singer, Piano, and Guitar
+  : Student A completed this music tutorial. For our modification of it, she learned how to change the costume color of the singer when we click her. 
+
+{% include zakviewer.html Name="Singer, Piano, and Guitar" ID="https://scratch.mit.edu/projects/554319119/" caption="" %}
+
+
+</details>
 
 
 <details markdown=1>

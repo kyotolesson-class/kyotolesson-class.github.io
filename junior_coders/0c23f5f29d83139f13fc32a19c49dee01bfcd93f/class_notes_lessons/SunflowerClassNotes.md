@@ -13,6 +13,11 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 26th Makeup](#july-26th-makeup)
+  * [Recap for July 26th](#recap-for-july-26th)
+* [July 24th](#july-24th)
+  * [Homework due July 24th](#homework-due-july-24th)
+  * [Recap for July 24th](#recap-for-july-24th)
 * [July 17th](#july-17th)
   * [Recap for July 17th](#recap-for-july-17th)
 * [July 10th](#july-10th)
@@ -64,6 +69,56 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+</details>
+
+<details markdown=1>
+<summary markdown=1>## July 26th Makeup
+</summary>
+
+## July 26th Makeup
+
+### Recap for July 26th
+
+Student M did a makeup class today. He came up with the idea of making  a roulette game. This gave us a chance to use the wait until and repeat until blocks blocks.
+
+![wait until and repeat until](https://i.imgur.com/6mYCvDw.png){: .jsgif .autoimage}
+
+
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556373760/editor/" caption="To start game press space, then the up arrow, left arrow, and right arrow keys. This starts the wheels turning. Pressing a, b, or c, stops the respective roulette." %}
+
+
+</details>
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 24th
+</summary>
+
+## July 24th
+
+### Homework due July 24th
+
+### Recap for July 24th
+
+Today we had only 2 students. Student H worked on the Chase Game tutorial. He was very creative in modifying the cat character, and made a rather fun project.
+
+{% include zakviewer.html Name="looking for eyeglasses" ID="https://scratch.mit.edu/projects/553913239/" caption="He also added a score for each time the cat caught the glasses." %}
+
+Student R and I had an extensive conversation about the [Tech Kids Grand Prix](https://techkidsschool.jp/grandprix/), which he plans to participate in. We discussed the basic criteria of the contest, Vision, Product, and Presentation, and I told him that first we will work on Vision. This is the moment where we seek inspiration and creativity to create an original and inventive project. 
+
+One way to do this is to look at what other people have done, and he looked at several projects by other participants. Then I asked him to critique the projects, to develop his analytical ability and help him be able to see projects from an outside  point of view such as a judge or a player. I asked him to rate the projects according to the contest criteria, and then we focused on what he particularly liked about one project. Then we decided to build our own test project that would include these qualities. 
+
+To come up with a theme for this test project, I encouraged him to come up with a topic that is interesting and inspiring for him. This led him to suggest electronics. After asking him to tell me a little about this, we talked about what is electricity. With some improvements for realism, we had a basic model of electricity in a wire, and we then began to develop how this could be a game. We made a rough mockup of the screen, and then once we were happy with that, I gave him the homework of making a more accurate mock up. We talked about how the user would interact with the game, and what the object of the game would be.
+
+All in all, in one class, we were able to run throught the basic first steps involved in creating an original project. The test project is not intended as his final project, but I think it will help him understand the steps that help take something from nothing, to first idea, to first model, to first prototype. This was a great first step and he did a great job moving through it though we were going rather quickly.
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## July 17th
