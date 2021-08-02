@@ -94,6 +94,11 @@ This involves
 * initializing the pill and pacman
 * teaching the pill to hide when pacman touches it<span>" %}
 
+One notable project was this variation on the classic game:
+
+{% include zakviewer.html Name="Dragon Pacman" ID="https://scratch.mit.edu/projects/557134894/" caption="The dragons are friendly though. Use arrow key to capture the one near the center to see." %}
+
+
 
 After that kids worked on their ongoing projects. Kids are developing more confidence and the ability to come up with and develop their own ideas independently, though there is a tendency for kids to also get lost playing games rather than coding. The fact that they are enjoying Scratch and engaged with it is great, and we will try to encourage a healthy balance between exploring and creating!
 
