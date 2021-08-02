@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 31st](#july-31st)
+  * [Recap for July 31st](#recap-for-july-31st)
 * [July 26th Makeup](#july-26th-makeup)
   * [Recap for July 26th](#recap-for-july-26th)
 * [July 24th](#july-24th)
@@ -69,6 +71,32 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## July 31st
+</summary>
+
+## July 31st
+
+### Recap for July 31st
+
+Today we walked through a basic Pacman game. Kids went through it at different paces, with some just completing the first few steps, others nearly reaching the end. However, we will continue with this project as it teaches valuable skills.
+
+{% include zakviewer.html Name="PAC 2021 08 02 class project" ID="https://scratch.mit.edu/projects/557526249/" caption="
+
+This involves
+
+* making the pacman, including 'painting with transparency' 
+* making the background and maze
+* teaching the pacman to move
+* teaching it to bounce off walls
+* adding a pill
+* initializing the pill and pacman
+* teaching the pill to hide when pacman touches it<span>" %}
+
+
+After that kids worked on their ongoing projects. Kids are developing more confidence and the ability to come up with and develop their own ideas independently, though there is a tendency for kids to also get lost playing games rather than coding. The fact that they are enjoying Scratch and engaged with it is great, and we will try to encourage a healthy balance between exploring and creating!
+
 
 </details>
 

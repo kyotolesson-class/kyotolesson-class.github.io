@@ -12,6 +12,10 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [August 2nd (Make-up)](#august-2nd-make-up)
+  * [Recap for August 2nd (Make-up)](#recap-for-august-2nd-make-up)
+* [July 30th](#july-30th)
+  * [Recap for July 30th](#recap-for-july-30th)
 * [July 16th](#july-16th)
   * [Reminder](#reminder)
   * [Recap for July 16th](#recap-for-july-16th)
@@ -102,6 +106,52 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
 
+<details markdown=1>
+<summary markdown=1>## August 2nd (Make-up)
+</summary>
+
+## August 2nd (Make-up)
+
+### Recap for August 2nd (Make-up)
+
+Today we had a make-up class where Student R, working mostly on her own, conceived, coded and completed this lovely project. She has clearly come a long way, showing an understanding of different level, animating characters, sequencing conversations, using "flash screens" and other story framing devices, not to mention concentration, creativity, and attention to detail. Wonderful work! 
+
+{% include tynkerprojectpage.html Name="Dance Party!!!" ID="https://www.tynker.com/play/dance-party-07-02-/6108392e455ee85bfb52d87c-881370XgfuKcB6ZcdNQjm.enhfZMQk" caption="Let's Dance!" %}
+
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## July 30th
+</summary>
+
+## July 30th
+
+### Recap for July 30th
+
+
+Two ScratchJr. students graduated to Scratch this week. we worked on signing them in, and doing some basic tutorials. As is typical, they became very interested in importing their favorite pictures and characters into projects.
+
+Another ScratchJr. student worked on a speed test project. The idea is to see how adding more copies of a block changes the way the block performs, such as going faster. The project is open-ended so as to encourage creativity and exploration.
+
+In Tynker,  Sword fighting project is still very near completion. Student Y ran into a problem that he couldn't tell what his broadcast blocks were doing. I suggested he use more descriptive names for them.
+
+Tynker student R finally completed her Moving Gus Project! It is great! 
+
+{% include tynkerprojectpage.html Name="Moving Gus Final" ID="https://www.tynker.com/play/move-gus-web-7-31/6108377fe7e0956a7666ccf2-778692XikzY5tGEKYZStauM5G8GT4k" caption="Great Work!" %}
+
+After that she began exploring for other projects to do next.
+
+
+Two Tynker students are going on break, and I made a last minute push to finish their projects as much as possible before they left. 
+
+For the Crossy Road project we added a test to see if the main actor was touching the cars, using an "or" conditional. We changed from having the game end when she touches the cars to her going back to the start when she touches the cars. We also added a "You Win" message when she touches the flag. We also added jeep that nudges you move if you take too long. These were some great ideas and the game is a nice success.
+
+For the Mermaid Project, we talked about some options for her game, her modification of the day was to add a score when you catch the good candy, such as the blue candy. This taught her a bit about creating, setting, and changing variables.
+
+
+</details>
 
 
 <details markdown=1>

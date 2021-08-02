@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 2nd](#august-2nd)
+  * [Recap for August 2nd](#recap-for-august-2nd)
 * [July 26th](#july-26th)
   * [Recap for July 26th](#recap-for-july-26th)
 * [July 19th](#july-19th)
@@ -178,6 +180,35 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## August 2nd
+</summary>
+
+## August 2nd
+
+### Recap for August 2nd
+
+Today we walked through a basic Pacman game. There were only 2 kids today, so it went very smoothly and we make a lot of progress. The kids worked hard straight to the end, with only a short break!
+
+{% include zakviewer.html Name="PAC 2021 08 02 class project" ID="https://scratch.mit.edu/projects/557526249/" caption="
+
+This involves
+
+* making the pacman, including 'painting with transparency' 
+* making the background and maze
+* teaching the pacman to move
+* teaching it to bounce off walls
+* adding a pill
+* initializing the pill and pacman
+* teaching the pill to hide when pacman touches it<span>" %}
+
+To everyone who wasn't here, hope everyone is having a nice Summer, and see you all soon!
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## July 26th
