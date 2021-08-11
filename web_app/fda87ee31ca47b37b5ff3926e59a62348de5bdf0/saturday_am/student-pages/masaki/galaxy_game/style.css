@@ -1,0 +1,218 @@
+body{
+    overflow: hidden;
+    background-image: url("galaxy.png");
+}
+
+
+#score{
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: left;
+    align-items: center;
+    display: flex;
+    position: relative;
+    background-color: red;
+}
+
+#score-number{
+    width: 50px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    left: 64px;
+    bottom: 50px;
+    
+    align-items: center;
+    display: flex;
+    position: relative;
+    background-color: yellow;
+}
+
+.Actor{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+
+.Actor img {
+    width: 100%;
+}
+
+#spaceship{
+    position: relative;
+}
+
+.heart{
+    width: 250px;
+    height: 50px;
+    top: 20px;
+    right: -30px;
+    position: absolute;
+}
+
+.heart-full{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.heart-half{
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    display: none;
+}
+
+.arrow{
+    width: 50px;
+    height: 50px;
+    top: 400px;
+    position: relative;
+}
+
+#left{
+    top: 350px;
+    left: 1030px;
+}
+
+#up{
+  top: 300px;  
+  left: 1030px;
+}
+
+#right{
+    top: 350px;
+    left: 970px;
+}
+#down{
+    left: 975px;
+}
+
+.laser{
+    width: 5px;
+    height: 40px;
+    background-color: lightgreen;
+    border-radius: 3px;
+    display: flex;
+    position: absolute;
+    display: show;
+    z-index: -1000;
+    left: 45px;
+    top: 10px;
+}
+
+.firebutton{
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    
+}
+
+#firebutton{
+    width: 60px;
+    height: 90px;
+    top: 280px;
+    left: 1200px;
+}
+
+.fire{
+    width: 60px;
+    height: 70px;
+}
+
+.enemy{
+    width: 110px;
+    height: 60px;
+    position: relative;
+    display: flex;
+}
+
+#level-1-E-1{
+    top: -250px;
+    left: 20px;
+}
+
+#locker-open {
+    background-color: rgb(6, 29, 241);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    top: 10px;
+    left: 155px;
+    text-align: center;
+    color: white;
+}
+
+#locker-open p{
+    width: 100%;
+}
+
+#skin-background{
+    background-color: rgb(132, 171, 255);
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 60vw;
+    height: 70vh;
+    left: 20vw;
+    top: 15vh;
+    display: none;
+}
+
+#locker-close{
+    background-color: rgb(6, 29, 241);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100px;
+    height: 60px;
+    left: 20px;
+    top: 20px;
+    text-align: center;
+    color: white;
+}
+
+#locker-close p{
+    width: 100%;
+}
+
+.Actor-in-locker{
+    width: 80px;
+    height: 80px;
+    padding: 7px;
+}
+
+#ship1{
+    z-index: -50px;
+    display: none;
+}
+
+#ship2{
+    z-index: -60px;
+    display: none;
+}
+
+#ship1ex{
+
+}
+
+#ship2ex{
+
+}
+
+#skin-setting{
+    display: flex;
+}
+
+#default-ship{
+    
+}
