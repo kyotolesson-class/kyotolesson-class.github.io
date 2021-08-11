@@ -128,10 +128,6 @@ Student Y ran up against a particularity of Tynker. He wanted to make the copies
 
 {% include tynkerprojectpage.html Name="Super Fight" ID="https://www.tynker.com/play/super-fight-yuk-08-06/610eb31036ffcf2a0f47ac74-853791XlupTH,ffxDCyIs7,Om4MCAk" caption="If you change one copy of the stock character, they all get changed. They are all clones of each other rather than separate copies." %}
 
-Student M worked on a new project with a twist: The hero is very very small! He had a lot of fun with it, and the result is quite funny!
-
-{% include tynkerprojectpage.html Name="Super Jumper" ID="https://www.tynker.com/play/super-jumper-08-06/610eb4f84836c2133c732123-777519XmMFnBZXdIRXfzmWYUilUaIk" caption="Though he is small, codey can beat the giant bad guys if he runs out of their range quickly enough." %}
-
 </details>
 
 
