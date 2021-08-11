@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [August 7th](#august-7th)
+  * [Recap for August 7th](#recap-for-august-7th)
 * [July 31st](#july-31st)
   * [Recap for July 31st](#recap-for-july-31st)
 * [July 26th Makeup](#july-26th-makeup)
@@ -71,6 +73,38 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## August 7th
+</summary>
+
+## August 7th
+
+### Recap for August 7th
+
+
+Today we had only 3 students.
+
+Two of the Scratch kids did the Nature Watching project. The fist step is erasing the "binocular" of a solid foreground so that we can see what is behind. Even I had a little trouble doing this until another teacher helped me. Once we had that, the rest of the project proceeded smoothly. We make the binoculars follow the mouse, and then add a game scene that includes various animals moving for us to watch. The student added a play button that dissolves using the ghost effect to reveal the game scene. 
+
+
+{% include zakviewer.html Name="Nature watching" ID="https://scratch.mit.edu/projects/559297885/" caption="" %}
+
+
+The other student worked on an electricity game. 
+
+{% include zakviewer.html Name="See inside" ID="https://scratch.mit.edu/projects/555066266/" caption="" %}
+
+
+
+Originally his project just sent out various balls that travelled from the anode to the cathode. I suggested he add an element that the player could use to direct the balls. In doing that we noticed that his balls were bouncing off at weird angles because he was turning the balls, not pointing them in a different direction. At first this was a random direction, but I suggested it might look more realistic to have them bounce at the correct angle. However, doing this involves some special math. It is not difficult and next class I will show the the correct formula. 
+
+{% include zakviewer.html Name="2021 08 07  Electricity" ID="https://scratch.mit.edu/projects/559308970/" caption="This modification shows how the balls can be made to bounce. The key formula is 'reflected angle = 2 * angle of wall - direction of ball' " %}
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## July 31st
