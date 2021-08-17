@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [August 6th](#august-6th)
+  * [Recap for August 6th](#recap-for-august-6th)
 * [August 2nd (Make-up)](#august-2nd-make-up)
   * [Recap for August 2nd (Make-up)](#recap-for-august-2nd-make-up)
 * [July 30th](#july-30th)
@@ -104,6 +106,29 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## August 6th
+</summary>
+
+## August 6th
+
+### Recap for August 6th
+
+
+Student K graduated up to Scratch this week. We worked together on making this falling ball project, including code for making the ball move right and experience gravity. 
+
+{% include imgur.html title="Falling Ball" ID="https://i.imgur.com/2BoMLiH.png" caption="If the ball is touching the blocks, it 'undoes' gravity, else gravity continues." width="" height="" spacer="" %}
+
+Student R explored animation blocks and made this little introduction to dance project. 
+
+{% include tynkerprojectpage.html Name="Dance Party" ID="https://www.tynker.com/play/dance-party-/6103bd59e5cb674df461d19d-663860XvL.ca0P8JcWsZdImn7gIk4k" caption="Student M has made great progress in the past few weeks. " %}
+
+Student Y ran up against a particularity of Tynker. He wanted to make the copies of the stock Tynker character, some of which woudl be bad guys, some of which would be good guys. Though it seems logical that one should be able to do this, in fact Tynker prevents this. 
+
+{% include tynkerprojectpage.html Name="Super Fight" ID="https://www.tynker.com/play/super-fight-yuk-08-06/610eb31036ffcf2a0f47ac74-853791XlupTH,ffxDCyIs7,Om4MCAk" caption="If you change one copy of the stock character, they all get changed. They are all clones of each other rather than separate copies." %}
+
+</details>
 
 
 <details markdown=1>

@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 7th Makeup](#august-7th-makeup)
+  * [Recap for August 7th Makeup](#recap-for-august-7th-makeup)
 * [August 2nd](#august-2nd)
   * [Recap for August 2nd](#recap-for-august-2nd)
 * [July 26th](#july-26th)
@@ -180,6 +182,22 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## August 7th Makeup
+</summary>
+
+## August 7th Makeup
+
+### Recap for August 7th Makeup
+
+Student M worked on a new project with a twist: The hero is very very small! He had a lot of fun with it, and the result is quite funny!
+
+{% include tynkerprojectpage.html Name="Super Jumper" ID="https://www.tynker.com/play/super-jumper-08-06/610eb4f84836c2133c732123-777519XmMFnBZXdIRXfzmWYUilUaIk" caption="Though he is small, codey can beat the giant bad guys if he runs out of their range quickly enough." %}
+
+
+</details>
+
 
 
 <details markdown=1>
