@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [August 14th](#august-14th)
+  * [Recap for August 14th](#recap-for-august-14th)
 * [August 7th](#august-7th)
   * [Recap for August 7th](#recap-for-august-7th)
 * [July 31st](#july-31st)
@@ -73,6 +75,52 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## August 14th
+</summary>
+
+## August 14th
+
+### Recap for August 14th
+
+Today 3 beginner Scratch students worked on an easy Cat Training project, based on a  student's original project. we taught the cat to sit, lie down, run, and roar. 
+
+{% include zakviewer.html Name="Cat Training" ID="https://scratch.mit.edu/projects/560505433" caption="" %}
+
+
+Student N worked on a Red Light project. The player uses the right arrow to move right. First we made the bus reappear at the left when we hit the edge. 
+
+```
+when [right arrow v] key pressed
+move (10) steps
+if <(x position) > (270)> then
+switch backdrop to (Blue Sky v) ::looks
+set x to (-278)
+broadcast [switch v]
+end
+```
+{: .msb}
+
+Then we used a variable ('red bue or yellow') to keep track of the condition of the light, and we detect if we are touching the light while the light is red. If he hits the red light, the game over message appears. 
+
+
+```
+if <<touching (Light  v) ?> and <(red blue or yellow) = (red)>> then 
+switch backdrop to (Blue Sky2 v) ::looks
+broadcast (a v) and wait
+ else 
+next costume
+end
+```
+{: .msb}
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/560546663/" caption="Use the right arrow to move the bus. " %}
+
+
+
+
+</details>
 
 
 <details markdown=1>

@@ -106,6 +106,50 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+<details markdown=1>
+<summary markdown=1>## August 13th
+</summary>
+
+## August 13th
+
+
+### Recap for August 13th
+
+Student R made a Dance Project on her own. This project showcases some of the things she learned in the Moving Gus Project, such as changing levels, changing directions, and animating conversations.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/my-favorite-song-muzic-08-13/611ab3d7acb9f23a1f1e6566-227373XqmvLPHbAbnbTWlW4HW5Y,wk" caption="wait 3 seconds once clicking for the project to begin. I have modified it slightly to protect privacy." %}
+
+
+Student Y contemplated making a Harry Potter project, based on the comic book tutorial project. He created a storyboard for the project, but finding a way to make the Harry Potter Actors (that is to say the graphics) was difficult. I suggested importing images from gifs, but this does require quite a bit of work. Student R will have to decide whether to do the storyboard with stock characters, draw his own characters, or modify his project in some other way.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/comic-joke-for-y/611ab7ad524a7540e6483287-167044XqasJPI1c4zFNt8xMzz1ZeUk" caption="This is a modifications of the orginal project to show how Baby Harry Potter could be part of it." %}
+
+
+Student K continued working on his Falling Ball game. We talked a little about incorporating user actions into his game. He decided that clicking the ball would send the player to ahe next level. 
+
+```
+when this sprite clicked
+if <<(x position) = [200]> and <(y position) = [-150]>> then
+    broadcast [New Level v] and wait
+end
+```
+{: .msb}
+
+We noticed that his ball bounced a bit too far to the right and down. We used the following standard method of keeping the ball within limits:
+
+```
+if <touching color [#83fffc]?> then
+        change y by (5)
+    end
+    if <(y position) < [-150]> then
+        go to x: (x position) y: (-150)
+    end
+```
+{: .msb}
+
+Then he began deciding what would happen on his next level.
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 6th

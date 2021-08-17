@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 16th](#august-16th)
+  * [Recap for August 16th](#recap-for-august-16th)
 * [August 7th Makeup](#august-7th-makeup)
   * [Recap for August 7th Makeup](#recap-for-august-7th-makeup)
 * [August 2nd](#august-2nd)
@@ -182,6 +184,31 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## August 16th
+</summary>
+
+## August 16th
+
+### Recap for August 16th
+
+
+Today we continued working on the pacman project. We added a score keeper. We added pills and ghosts. 
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/8cAUTZr.png" caption="
+We made the ghost randomly look for Pacman. As it does, if it hits a wall, it changes direction." width="" height="" spacer="" %}
+
+We almost have a working Pacman game. 
+
+{% include zakviewer.html Name="PAC 2021 08 17 class project" ID="https://scratch.mit.edu/projects/561047033/" caption=" We still have to add more pills, ghosts, and levels. We have to make the ghosts be able to detect Pacman, and we need super pills, and intro and game over screens." %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## August 7th Makeup
