@@ -12,10 +12,10 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [August 23rd Makeup](#august-23rd-makeup)
+  * [Recap for August 23rd](#recap-for-august-23rd)
 * [August 20th](#august-20th)
   * [Recap for August 20th](#recap-for-august-20th)
-* [August 20th Makeup](#august-20th-makeup)
-  * [Recap for August 20th](#recap-for-august-20th-1)
 * [August 14th Makeup](#august-14th-makeup)
   * [Recap for August 14th](#recap-for-august-14th)
 * [August 13th](#august-13th)
@@ -115,6 +115,24 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## August 23rd Makeup
+</summary>
+
+## August 23rd Makeup
+
+### Recap for August 23rd
+
+Student Y learned how to import gif files into Tynker and started a Harry Potter project.
+
+
+{% include tynkerprojectpage.html Name="Harry Potter Gifs" ID="https://www.tynker.com/play/harry-potter-gifs-/61235abf1ca85a315c557f2a-968910XpFFFTCfrRYrqXvp7yJ3rsok" caption="" %}
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## August 20th
 </summary>
@@ -146,22 +164,6 @@ Student K worked on a Scratch Basket Catching Game. He learned a little about x 
 ![Imgur](https://i.imgur.com/R7QZdAb.png)
 
 {% include zakviewer.html Name="Basket Game 08 20" ID="https://scratch.mit.edu/projects/562223681/" caption="" %}
-
-</details>
-
-
-<details markdown=1>
-<summary markdown=1>## August 20th Makeup
-</summary>
-
-## August 20th Makeup
-
-### Recap for August 20th
-
-Student Y learned how to import gif files into Tynker and started a Harry Potter project.
-
-
-{% include tynkerprojectpage.html Name="Harry Potter Gifs" ID="https://www.tynker.com/play/harry-potter-gifs-/61235abf1ca85a315c557f2a-968910XpFFFTCfrRYrqXvp7yJ3rsok" caption="" %}
 
 </details>
 
