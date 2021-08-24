@@ -85,8 +85,6 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 ## August 21st
 
 Several announcements:
-  : To ease communication, I have added a translation service to the class Line group. Messages will be automatically translated to and from Japanese and English. Do be aware that there are occasionally mistranslations.
-
   : The class notes for last weekend are on the website. We have had a lot of makeup classes recently, and, to avoid confusion, let me explicitly state that class notes for your child's makeup classes are on the page for their usual class, not for the day they attended. For example a Monday student who attends a makeup on Friday will have any notes relevant to him/her on the Monday Page. 
 
   : Since we are heading into another Emergency Period, we will be strictly enforcing our Covid guidelines around hand washing, social distancing and mask wearing, etc. If you could remind your child these are important rules and of the need to cooperate with them that would be helpful. In addition, seating and snack times will be staggered accordingly.
