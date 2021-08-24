@@ -77,6 +77,29 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 <details markdown=1>
+<summary markdown=1>## August 21st
+</summary>
+
+## August 21st
+
+### Recap for August 21st
+
+
+Student N and Y made a first steps towards Cat World War (にゃんこ大戦争) games. TThis game starts out with the player clicking boxes to make "soldiers" appear. In the game the soldierss fight each other and you get points if you kill them all or reach the other team's base. This project by Student N is a very good beginning.
+
+{% include zakviewer.html Name="Cat World War (にゃんこ大戦争)" ID="https://scratch.mit.edu/projects/563074874/" caption="click on the squares to make more fighter appear." %}
+
+Student R is working on an Electricity project. Today we worked on improving the code that makes how the clones are created. Unfortunately creating a clone within a clone creates an infinite loop, and there doesn't seem to be an easy way around that, so we had to give up. Deciding that perhaps he had taken this project as far as possible, we gave up and he began looking for his next project. 
+
+{% include zakviewer.html Name="Electricity 08 21" ID="https://scratch.mit.edu/projects/563078843/" caption="" %}
+
+Student S worked on a clever ScratchJr. story about rabbits.
+
+</details> 
+
+
+
+<details markdown=1>
 <summary markdown=1>## August 14th
 </summary>
 
@@ -84,7 +107,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 ### Recap for August 14th
 
-Today 3 beginner Scratch students worked on an easy Cat Training project, based on a  student's original project. we taught the cat to sit, lie down, run, and roar. 
+Today student H worked on an easy Cat Training project, based on a  student's original project. We taught the cat to sit, lie down, run, and roar. 
 
 {% include zakviewer.html Name="Cat Training" ID="https://scratch.mit.edu/projects/560505433" caption="" %}
 

@@ -12,6 +12,14 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [August 20th](#august-20th)
+  * [Recap for August 20th](#recap-for-august-20th)
+* [August 20th MMakeup](#august-20th-mmakeup)
+  * [Recap for August 20th](#recap-for-august-20th-1)
+* [August 14th Makeup](#august-14th-makeup)
+  * [Recap for August 14th](#recap-for-august-14th)
+* [August 13th](#august-13th)
+  * [Recap for August 13th](#recap-for-august-13th)
 * [August 6th](#august-6th)
   * [Recap for August 6th](#recap-for-august-6th)
 * [August 2nd (Make-up)](#august-2nd-make-up)
@@ -106,6 +114,63 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## August 20th
+</summary>
+
+## August 20th
+
+### Recap for August 20th
+
+
+Today Student R made some corrections to her Dance Party and My Favorite Song Tynker projects, including adding animations for some of the characters. Then she did the Spin Draw Tutorial, and added some keypress actions to make the stamp bigger and smaller when s and b are pressed, and to change the stamp costume when a is pressed. She also added some background music. 
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/spin-draw-08-20/611f8971fca07666a526cbf5-640424Xl5jRCPCMlUehbh1z,jkRMQk" caption="" %}
+
+
+Student K worked on a Scratch Basket Catching Game. He learned a little about x and y coordinates He made the y coordinate of all his balls the specific y value so he could see them in  a line at the top of the screen. When his balls hit the bottom of the screen, by choosing a random position, but setting the y value to that specific value, they would all fall again from the same place.. 
+
+![Imgur](https://i.imgur.com/R7QZdAb.png)
+
+{% include zakviewer.html Name="Basket Game 08 20" ID="https://scratch.mit.edu/projects/562223681/" caption="" %}
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## August 20th Makeup
+</summary>
+
+## August 20th Makeup
+
+### Recap for August 20th
+
+Student Y learned how to import gif files into Tynker and started a Harry Potter project.
+
+
+{% include tynkerprojectpage.html Name="Harry Potter Gifs" ID="https://www.tynker.com/play/harry-potter-gifs-/61235abf1ca85a315c557f2a-968910XpFFFTCfrRYrqXvp7yJ3rsok" caption="" %}
+
+</details>
+
+
+
+<details markdown=1>
+<summary markdown=1>## August 14th Makeup
+</summary>
+
+## August 14th Makeup
+
+
+### Recap for August 14th
+
+Scratch students Y  and R worked on an easy Cat Training project, based on a  student's original project. We taught the cat to sit, lie down, run, and roar. 
+
+{% include zakviewer.html Name="Cat Training" ID="https://scratch.mit.edu/projects/560505433" caption="" %}
+
+
+</details>
+
 <details markdown=1>
 <summary markdown=1>## August 13th
 </summary>
