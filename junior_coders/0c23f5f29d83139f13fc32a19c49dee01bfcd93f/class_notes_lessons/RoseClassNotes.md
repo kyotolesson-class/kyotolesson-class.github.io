@@ -14,7 +14,7 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 * [August 20th](#august-20th)
   * [Recap for August 20th](#recap-for-august-20th)
-* [August 20th MMakeup](#august-20th-mmakeup)
+* [August 20th Makeup](#august-20th-makeup)
   * [Recap for August 20th](#recap-for-august-20th-1)
 * [August 14th Makeup](#august-14th-makeup)
   * [Recap for August 14th](#recap-for-august-14th)

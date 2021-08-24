@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 23rd](#august-23rd)
+  * [Recap for August 23rd](#recap-for-august-23rd)
+* [August 20th Makeup](#august-20th-makeup)
+  * [Recap for August 20th Makeup](#recap-for-august-20th-makeup)
 * [August 16th](#august-16th)
   * [Recap for August 16th](#recap-for-august-16th)
 * [August 7th Makeup](#august-7th-makeup)

@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [August 21st](#august-21st)
+  * [Recap for August 21st](#recap-for-august-21st)
 * [August 14th](#august-14th)
   * [Recap for August 14th](#recap-for-august-14th)
 * [August 7th](#august-7th)
