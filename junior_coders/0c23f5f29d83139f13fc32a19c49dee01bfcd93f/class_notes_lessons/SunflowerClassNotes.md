@@ -84,6 +84,20 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 ## August 21st
 
+Several announcements:
+  : To ease communication, I have added a translation service to the class Line group. Messages will be automatically translated to and from Japanese and English. Do be aware that there are occasionally mistranslations.
+
+  : The class notes for last weekend are on the website. We have had a lot of makeup classes recently, and, to avoid confusion, let me explicitly state that class notes for your child's makeup classes are on the page for their usual class, not for the day they attended. For example a Monday student who attends a makeup on Friday will have any notes relevant to him/her on the Monday Page. 
+
+  : Since we are heading into another Emergency Period, we will be strictly enforcing our Covid guidelines around hand washing, social distancing and mask wearing, etc. If you could remind your child these are important rules and of the need to cooperate with them that would be helpful. In addition, seating and snack times will be staggered accordingly.
+
+  : We are pleased that for the most part students are focused and attentive during class, and with their cooperation we are creating a fun, relaxed, yet productive learning environment. However, to maintain this, it would be a good time to remind your child that the main activity in class should be working on assignments and projects, i.e. learning to code. I want to avoid ending the day with a child not having made any tangible progress.  Exploring games and playing them, while educational and part of our goal, is better done at home.
+
+  : (To clarify: We do encourage students to explore the many games that Scratch and Tynker make available, and investigating and hacking other projects is a valid part of learning. We also understand the temptation to play them in class is very strong. However, this can easily become a distraction (for them and others) and a gentle reminder from parents would help me better keep these factors in balance. We do provide free time during breaks, and this is not meant as a ban, but a reminder.)
+
+  : Lastly, our class policy is that students should make an effort to communicate, even amongst themselves, in English, as much as practicable, especially during the first section of class. We understand the limitations around this, but we want to be sure this expectation is clearly understood by all so that we can help support them with this. 
+
+
 ### Recap for August 21st
 
 
