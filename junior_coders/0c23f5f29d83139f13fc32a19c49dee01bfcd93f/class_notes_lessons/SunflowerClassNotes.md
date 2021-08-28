@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [August 21st](#august-21st)
+  * [Recap for August 21st](#recap-for-august-21st)
 * [August 14th](#august-14th)
   * [Recap for August 14th](#recap-for-august-14th)
 * [August 7th](#august-7th)
@@ -77,6 +79,41 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 <details markdown=1>
+<summary markdown=1>## August 21st
+</summary>
+
+## August 21st
+
+Several announcements:
+  : The class notes for last weekend are on the website. We have had a lot of makeup classes recently, and, to avoid confusion, let me explicitly state that class notes for your child's makeup classes are on the page for their usual class, not for the day they attended. For example a Monday student who attends a makeup on Friday will have any notes relevant to him/her on the Monday Page. 
+
+  : Since we are heading into another Emergency Period, we will be strictly enforcing our Covid guidelines around hand washing, social distancing and mask wearing, etc. If you could remind your child these are important rules and of the need to cooperate with them that would be helpful. In addition, seating and snack times will be staggered accordingly.
+
+  : We are pleased that for the most part students are focused and attentive during class, and with their cooperation we are creating a fun, relaxed, yet productive learning environment. However, to maintain this, it would be a good time to remind your child that the main activity in class should be working on assignments and projects, i.e. learning to code. I want to avoid ending the day with a child not having made any tangible progress.  Exploring games and playing them, while educational and part of our goal, is better done at home.
+
+  : (To clarify: We do encourage students to explore the many games that Scratch and Tynker make available, and investigating and hacking other projects is a valid part of learning. We also understand the temptation to play them in class is very strong. However, this can easily become a distraction (for them and others) and a gentle reminder from parents would help me better keep these factors in balance. We do provide free time during breaks, and this is not meant as a ban, but a reminder.)
+
+  : Lastly, our class policy is that students should make an effort to communicate, even amongst themselves, in English, as much as practicable, especially during the first section of class. We understand the limitations around this, but we want to be sure this expectation is clearly understood by all so that we can help support them with this. 
+
+
+### Recap for August 21st
+
+
+Student N and Y made a first steps towards Cat World War (にゃんこ大戦争) games. TThis game starts out with the player clicking boxes to make "soldiers" appear. In the game the soldierss fight each other and you get points if you kill them all or reach the other team's base. This project by Student N is a very good beginning.
+
+{% include zakviewer.html Name="Cat World War (にゃんこ大戦争)" ID="https://scratch.mit.edu/projects/563074874/" caption="click on the squares to make more fighter appear." %}
+
+Student R is working on an Electricity project. Today we worked on improving the code that makes how the clones are created. Unfortunately creating a clone within a clone creates an infinite loop, and there doesn't seem to be an easy way around that, so we had to give up. Deciding that perhaps he had taken this project as far as possible, we gave up and he began looking for his next project. 
+
+{% include zakviewer.html Name="Electricity 08 21" ID="https://scratch.mit.edu/projects/563078843/" caption="" %}
+
+Student S worked on a clever ScratchJr. story about rabbits.
+
+</details> 
+
+
+
+<details markdown=1>
 <summary markdown=1>## August 14th
 </summary>
 
@@ -84,7 +121,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 ### Recap for August 14th
 
-Today 3 beginner Scratch students worked on an easy Cat Training project, based on a  student's original project. we taught the cat to sit, lie down, run, and roar. 
+Today student H worked on an easy Cat Training project, based on a  student's original project. We taught the cat to sit, lie down, run, and roar. 
 
 {% include zakviewer.html Name="Cat Training" ID="https://scratch.mit.edu/projects/560505433" caption="" %}
 

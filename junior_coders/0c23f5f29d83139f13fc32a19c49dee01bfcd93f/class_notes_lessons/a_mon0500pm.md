@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 23rd](#august-23rd)
+  * [Recap for August 23rd](#recap-for-august-23rd)
+* [August 20th Makeup](#august-20th-makeup)
+  * [Recap for August 20th Makeup](#recap-for-august-20th-makeup)
 * [August 16th](#august-16th)
   * [Recap for August 16th](#recap-for-august-16th)
 * [August 7th Makeup](#august-7th-makeup)
@@ -184,6 +188,66 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## August 23rd
+</summary>
+
+## August 23rd
+
+Several announcements:
+  : The class notes for last weekend are on the website. We have had a lot of makeup classes recently, and, to avoid confusion, let me explicitly state that class notes for your child's makeup classes are on the page for their usual class, not for the day they attended. For example a Monday student who attends a makeup on Friday will have any notes relevant to him/her on the Monday Page. 
+
+  : Since we are heading into another Emergency Period, we will be strictly enforcing our Covid guidelines around hand washing, social distancing and mask wearing, etc. If you could remind your child these are important rules and of the need to cooperate with them that would be helpful. In addition, seating and snack times will be staggered accordingly.
+
+  : We are pleased that for the most part students are focused and attentive during class, and with their cooperation we are creating a fun, relaxed, yet productive learning environment. However, to maintain this, it would be a good time to remind your child that the main activity in class should be working on assignments and projects, i.e. learning to code. I want to avoid ending the day with a child not having made any tangible progress.  Exploring games and playing them, while educational and part of our goal, is better done at home.
+
+  : (To clarify: We do encourage students to explore the many games that Scratch and Tynker make available, and investigating and hacking other projects is a valid part of learning. We also understand the temptation to play them in class is very strong. However, this can easily become a distraction (for them and others) and a gentle reminder from parents would help me better keep these factors in balance. We do provide free time during breaks, and this is not meant as a ban, but a reminder.)
+
+  : Lastly, our class policy is that students should make an effort to communicate, even amongst themselves, in English, as much as practicable, especially during the first section of class. We understand the limitations around this, but we want to be sure this expectation is clearly understood by all so that we can help support them with this. 
+
+### Recap for August 23rd
+
+Student H made an original Basketball project. He was able to code the motion of the ball, including the initial wait with minimal prompting. He began to understand how to connect the idea in his head with the blocks and code in his project.
+
+{% include zakviewer.html Name="Basketball 08 23" ID="https://scratch.mit.edu/projects/562811122/" caption="" %}
+
+Student A continued working on her Pacman project. She added many more pills and ghosts. She was able to figure out by herself how to implement the code so the the ghosts to not go through walls. However they would get stuck on the wall, and with a some very minor help in debugging, she got it working. Great job!
+
+{% include zakviewer.html Name="Pacman 08 23" ID="https://scratch.mit.edu/projects/557526306/" caption="" %}
+
+
+
+Student M continue his Dragon Vs. Choppers game. He got stuck at one point as there was a mysterious bug in Tynker where one clone wouldn't delete. After much effort by both us us, we just replaced the actor with annoher one and rewrote the code. AAll fixed.
+
+{% include tynkerprojectpage.html Name="Dragon Vs. Choppers" ID="https://www\.tynker\.com/play/graveyard\-rampage/6123885ae568236c9d623d8d\-869768XriVAxMUwYYOIZvB1MrX3YAk" caption="" %}
+
+
+</details>
+
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## August 20th Makeup
+</summary>
+
+## August 20th Makeup
+
+### Recap for August 20th Makeup
+
+
+Student M made many modifications to a Tynker Dragon and Choppers Tutorial. He added many more attackers, and also another Dragon. He made the new attackers able to attack new dragon, and created new weapons for the dragon, including a fireball and a bomb, and created keypresses for firing them. We also debugged the bomb to so it wouldn't explode if it was touching the dragon. At first he was merely copying and pasting code, his modifications show an understanding of how the code worked.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/dragon-vs-choppers-08-20-mik/611fcca602bc001a954d4412-162984XtGNywA74aIqiRRaeZbzLMsk" caption="the b and v and space keys shoot different weapons. The arrow keys rotate and move the dragons." %}
+
+Student S designed his own Clicker Game. He made some very creative movements, and we talked about how to add more levels to the game later.
+
+{% include zakviewer.html Name="Untitled\-4" ID="https://scratch.mit.edu/projects/562106841/" caption="Click the shapes to get points." %}
+
+
+</details>
 
 
 <details markdown=1>
