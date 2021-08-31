@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [August 30th](#august-30th)
+  * [Recap for August 30th](#recap-for-august-30th)
 * [August 23rd](#august-23rd)
   * [Recap for August 23rd](#recap-for-august-23rd)
 * [August 20th Makeup](#august-20th-makeup)
@@ -188,6 +190,30 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+
+<details markdown=1>
+<summary markdown=1>## August 30th
+</summary>
+
+## August 30th
+
+### Recap for August 30th
+
+Today we worked a group on a very basic platformer project based on a project called Grey.  It includes only the essentials, but it introduces concepts like variables, My Blocks, if blocks to detect keypresses, gravity,  and "pulling up out of the ground" particle physics, and even a little tutorial on drawing triangles. This project forms the basis of most platform and scrolling projects and can be easily modified to suit almost any project.
+
+
+{% include zakviewer.html Name="Basic Platformer Based on Grey" ID="https://scratch.mit.edu/projects/564896968/" caption="So far we have created the player, added gravity, and pulled the character out of the ground when it falls." %}
+
+We had a lot of kids working on it and once, with some technical issues, a few mistakes by me, and the occasional distraction, so it was slow going. The good news is the hard part is over, and it gets easier from here. Next week we start movement.
+
+
+Students also worked on individual projects, such as a clicker game, a basketball project, and a shooting game in Tynker.
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## August 23rd

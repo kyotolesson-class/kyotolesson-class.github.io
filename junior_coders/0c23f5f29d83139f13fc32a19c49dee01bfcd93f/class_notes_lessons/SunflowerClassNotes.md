@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [August 28th](#august-28th)
+  * [Recap for August 28th](#recap-for-august-28th)
 * [August 21st](#august-21st)
   * [Recap for August 21st](#recap-for-august-21st)
 * [August 14th](#august-14th)
@@ -77,6 +79,24 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## August 28th
+</summary>
+
+## August 28th
+
+### Recap for August 28th
+
+
+Today we worked a group on a very basic platformer project based on a project called Grey.  It includes only the essentials, but it introduces concepts like variables, My Blocks, if blocks to detect keypresses, gravity,  and "pulling up out of the ground" particle physics, and even a little tutorial on drawing triangles. This project forms the basis of most platform and scrolling projects and can be easily modified to suit almost any project.
+
+
+{% include zakviewer.html Name="Grey Mario Platformer 08 28" ID="https://scratch.mit.edu/projects/564441951/" caption="The students did a great job paying attention and began to talk about adding customizations like villains and obstacles, which we will try next week. " %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## August 21st

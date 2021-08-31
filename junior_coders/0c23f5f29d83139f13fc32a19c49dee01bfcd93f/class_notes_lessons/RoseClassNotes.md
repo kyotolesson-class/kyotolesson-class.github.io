@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [August 27th](#august-27th)
+  * [Recap for August 27th](#recap-for-august-27th)
 * [August 23rd Makeup](#august-23rd-makeup)
   * [Recap for August 23rd](#recap-for-august-23rd)
 * [August 20th](#august-20th)
@@ -114,6 +116,32 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## August 27th
+</summary>
+
+## August 27th
+
+### Recap for August 27th
+
+Today we had kids doing a variety of projects. Some kids were working on modifying the Cat Training project from last week. We added jumps and costume changes. The project is primarily a demo project to explain broadcasts, it includes some repeat loops and motion scripts. 
+
+{% include zakviewer.html Name="Cats v2" ID="https://scratch.mit.edu/projects/560505433/" caption="" %}
+
+
+
+A Tynker student continued gathering items for a Harry Potter project. We talked about you could make a simple Harry potter project using the images he was collecting. The idea was to have a narrator who would tell the story and the action would be illustrated to the side using the gifs. As an incentive, we agreed to each a make a Harry Potter project to share with each other. I showed him the first part of my project:
+
+{% include tynkerprojectpage.html Name="Voldermort" ID="https://www.tynker.com/play/voldermort-is-a-scary-dude/612aeeda49d5e357891e2e6e-361824Xr3j3haFusUHp9,HBzlsFYck" caption="" %}
+
+Another student added a sequel to her Favorite Song Project. I like this kind of project that shows the student's individuality. 
+
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/my-favorite-song-part-2/612c55cf419e6a561c1e0c3a-822927XndSxgcLe294xaBv1RPco6Ak" caption="This kind of project depends on using levels and simple say blocks, but is a good beginning for larger projects." %}
+
+
+</details>
 
 
 <details markdown=1>
