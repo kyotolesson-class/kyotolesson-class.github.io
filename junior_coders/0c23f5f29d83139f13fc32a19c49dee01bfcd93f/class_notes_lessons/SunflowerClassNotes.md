@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [September 4th](#september-4th)
+  * [Recap for September 4th](#recap-for-september-4th)
 * [August 28th](#august-28th)
   * [Recap for August 28th](#recap-for-august-28th)
 * [August 21st](#august-21st)
@@ -79,6 +81,47 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## September 4th
+</summary>
+
+## September 4th
+
+### Recap for September 4th
+
+
+Projects we worked on this week: 
+
+First Person Shooter
+  : We made the gun for the shooter, and talked about make the gun pointing in the direction of the mouse. We also made a bad guy.
+
+{% include imgur.html title="" ID="https://i.imgur.com/U8NjtrC.png" caption="" width="" height="" spacer="" %}
+
+ 
+
+Going down the road
+  : We made a car and a road for this project, and learned how to make the road move past us.
+
+{% include zakviewer.html Name="Untitled\-125" ID="https://scratch.mit.edu/projects/566674798/" caption="press space and e to see it in action" %}
+
+
+
+A crazy project 
+  : The joy of forever loops.
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/550356223/" caption="" %}
+
+Mario Projects
+  : Students are intrigued by these but they are a bit beyond their skill. We have covered some of the basic steps in class, and kids will often modify these.
+
+{% include zakviewer.html Name="Untitled\-21" ID="https://scratch.mit.edu/projects/557767891/" caption="This project is not fully the student's own creation, but features some additions by the student." %}
+
+
+Solar Panel Project
+  : A student is developing a project to model a solar panel. It includes the influence of weather (reducing output, breakage), maintenance costs, and a power meter. We talked about general goals of the project, such as how user input would change the game. This projecct is a candidate for entry in a coding competition.
+
+</details>
 
 
 <details markdown=1>

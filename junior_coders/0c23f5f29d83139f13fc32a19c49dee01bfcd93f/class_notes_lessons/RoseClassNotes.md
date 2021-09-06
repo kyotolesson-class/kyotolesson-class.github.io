@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [September 3rd](#september-3rd)
+  * [Recap for September 3rd](#recap-for-september-3rd)
 * [August 27th](#august-27th)
   * [Recap for August 27th](#recap-for-august-27th)
 * [August 23rd Makeup](#august-23rd-makeup)
@@ -116,6 +118,34 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## September 3rd
+</summary>
+
+## September 3rd
+
+### Recap for September 3rd
+
+Today students worked on individual projects. Projects included
+
+Basket Game
+  : The student added more balls ot his game. The project uses conditionals, screen wrapping, movement blocks
+
+First Person Shooter
+  : We made the gun for the shooter, and talked about drawing and object placement, direction angles and limiting movement, following the mouse. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/7PD2m9f.png" caption="This keeps the gun pointing within a given sector" width="" height="" spacer="" %}
+
+Harry Potter Game 
+  : This student started making an introduction to Harry Potter Project, based on a model I gave him.
+
+Beginning ScratchJr.
+  : A new student joined this week, and I gave him an introduction to ScratchJr that included using the green flag and touch blockss, and various other blocks. Based on the fishtank sample project he make his own project
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## August 27th
