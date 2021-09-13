@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [September 11th](#september-11th)
+  * [Recap for September 11th](#recap-for-september-11th)
 * [September 4th](#september-4th)
   * [Recap for September 4th](#recap-for-september-4th)
 * [August 28th](#august-28th)
@@ -81,6 +83,34 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## September 11th
+</summary>
+
+## September 11th
+
+### Recap for September 11th
+
+Basic Scratch
+  : Today, for the elementary level Scratch students there was a lot of interest in racing games and Mario Athletic (Sky) games. Kids mostly tried looking for projects they could do together, but interests diverged, so there was a tendency for kids to distract each other. Next week some different seating arrangements may help with this. 
+
+Solar Panel 
+  : This week a lot of progress was made on this advanced level Scratch project. Since the student is a capable and independent coder, our teacher Alex spent some time looking at the student work and making small suggestions on improving the game design, such as developing other things for the money the player collects  to be spent on and adding visual feedback and effects.
+
+ScratchJr.
+  : The ScratchJr kids worked mostly on mazes. For one kid demonstrated how to make a square maze, and for other we worked on a Dragon Maze. Mazes are good for teaching using messages and various motions and Looks blocks. There was also a Street crossing game
+
+
+{% include giphy.html link="https://media.giphy.com/media/m6ezGzJCt8J835euv3/" %} 
+
+{% include imgur.html title="" ID="https://i.imgur.com/L1r67ht.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/GmIRnX5.jpg" caption="" width="" height="" spacer="" %}
+
+
+</details>
 
 
 <details markdown=1>

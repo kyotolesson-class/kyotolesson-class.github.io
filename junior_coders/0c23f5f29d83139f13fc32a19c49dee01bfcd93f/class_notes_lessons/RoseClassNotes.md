@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [September 10th](#september-10th)
+  * [Recap for September 10th](#recap-for-september-10th)
 * [September 3rd](#september-3rd)
   * [Recap for September 3rd](#recap-for-september-3rd)
 * [August 27th](#august-27th)
@@ -118,6 +120,30 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## September 10th
+</summary>
+
+## September 10th
+
+### Recap for September 10th
+
+
+Music Jukebox
+  : Student R adapted a Music Jukebox project on Tynker. She worked on using the when this actor clicked blocks. She chose and imported some music, and made buttons that would play the music when clicked. In addition she learned to use broadcasting to make the other buttons disappear when one piece of music is playing. We talked about the advantages and disadvantages of putting text on the background or in the character itself.  
+
+Harry Potter 
+  : Student Y continued working on his Harry Potter Project, adding more narration and action. He used the set size block to control the size and swith costume blocks to change the character as the story proceeded.
+
+First Person Shooter
+  : The Scratch kids did a First Person Shooter Tutorial that involves movement and forever loops.
+
+{% include zakviewer.html Name="rabbit FPS simplified tutorial 1 setting up the bad guy" ID="https://scratch.mit.edu/projects/568671949" caption="" %}
+
+</details>
+
+
 
 
 <details markdown=1>

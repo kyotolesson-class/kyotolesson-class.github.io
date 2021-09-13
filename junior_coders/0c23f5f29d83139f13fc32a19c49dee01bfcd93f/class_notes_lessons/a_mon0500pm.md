@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [September 6th](#september-6th)
+  * [Recap for September 6th](#recap-for-september-6th)
 * [August 30th](#august-30th)
   * [Recap for August 30th](#recap-for-august-30th)
 * [August 23rd](#august-23rd)
@@ -191,7 +193,43 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
 
+<details markdown=1>
+<summary markdown=1>## September 6th
+</summary>
 
+## September 6th
+
+
+
+### Recap for September 6th
+
+Today we (nearly) finished making the basic Mario game based on Grey. We added more levels and made the flag switch the levels.
+
+
+{% include zakviewer.html Name="Student A" ID="https://scratch.mit.edu/projects/564896769/" caption="Great project!" %}
+
+
+{% include zakviewer.html Name="Student M" ID="https://scratch.mit.edu/projects/564897209/" caption="" %}
+
+{% include zakviewer.html Name="Student H" ID="https://scratch.mit.edu/projects/564897884/" caption="" %}
+
+{% include zakviewer.html Name="Student S" ID="https://scratch.mit.edu/projects/564896942/" caption="" %}
+
+One student learned how to change his profile and downsize and image. We talked about the fact that the move block needs to know which direction to move, and that moving in a negative direction moves backwards.
+
+Student K joined us for the first time today. They made a somewhat different version of the game, focusing more on blocks they were familiar with. For example, they struggled with making the cat move up and down, and hardcoded the movement with set y blocks rather than using change y by blocks. They worked on making the cat face in different dirrections.
+
+
+Instead of levels, they made individual platforms. This is just a different way of doing this project, and a good way to reinforce what you know while building to new skills. Towards the end we added some new blocks, such as if and sensing blocks to test for contact.
+
+
+{% include zakviewer.html Name="beeps adventure" ID="https://scratch.mit.edu/projects/567151154/" caption="" %}
+
+We also had a ScratchJr. Student who continued working on their Issun-bōshi (Tom Thumb) Story, and remaking sample projects. 
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 30th
