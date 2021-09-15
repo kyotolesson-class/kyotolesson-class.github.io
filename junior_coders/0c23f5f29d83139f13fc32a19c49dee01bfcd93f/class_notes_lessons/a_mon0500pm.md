@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [September 13th](#september-13th)
+  * [Recap for September 13th](#recap-for-september-13th)
 * [September 6th](#september-6th)
   * [Recap for September 6th](#recap-for-september-6th)
 * [August 30th](#august-30th)
@@ -192,6 +194,36 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+
+<details markdown=1>
+<summary markdown=1>## September 13th
+</summary>
+
+## September 13th
+
+### Recap for September 13th
+
+Today kids worked on their own projects. 
+
+One kid finished his Basketball Project. Another made great strides in his clicker game,a test project to test out various blocks and techniques, and apply tricks used in the Pacman Project. This project uses skills such as sending messages, forever loops, my blocks, repeats. 
+
+{% include zakviewer.html Name="Space clicker" ID="https://scratch.mit.edu/projects/562106841/" caption="" %}
+
+Student K explored the sounds interface in the scratch editor, sampling and tweaking a variety of sounds to create bizarre effects.
+
+Some kids who were looking for a new project became interested in Battle Cats project I recently made. The game had one interesting feature: It was programmed to so the player would always lose. This was as an incentive to get kids to want to change it. I encouraged them to open it up and they hacked it right away. 
+
+After playing with it a while they started asking for help making it better and adding other characters and changing the interface. 
+
+{% include zakviewer.html Name="Battle Cats simple no shop 2 remix" ID="https://scratch.mit.edu/projects/569638451/" caption="" %}
+
+Lastly, ScratchJr. student J completed a maze project mostly on his own with occasional prompting. We worked on using the drawing interface, especially in drawing straight line and corners. This is a bit buggy in scratch junior so it needs special attention and he did great mastering it. He seemed comfortable with all the parts of this project, and I will give him something more challenging next week.
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## September 6th
