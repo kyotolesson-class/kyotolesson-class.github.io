@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [September 18th](#september-18th)
+  * [Recap for September 18th](#recap-for-september-18th)
 * [September 11th](#september-11th)
   * [Recap for September 11th](#recap-for-september-11th)
 * [September 4th](#september-4th)
@@ -83,6 +85,46 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+<details markdown=1>
+<summary markdown=1>## September 18th
+</summary>
+
+## September 18th
+
+
+### Recap for September 18th
+
+
+Battle Cats
+  : Student Y worked on remaking the Battle Cats project on his own. 
+
+{% include zakviewer.html Name="Student Y Battle Cats" ID="https://scratch.mit.edu/projects/571919266/" caption="He added his own characters and began setting up the shop" %}
+
+Flappy Bird
+  : another popular project is Flappy Bird, and some kids worked on variations of that, including this one below, and a Fortnite Flappy Bird Project that is not quite finished
+{% include zakviewer.html Name="Student N Flappy Bird" ID="https://scratch.mit.edu/projects/571917316/" caption="" %}
+
+
+Slash Knight
+  : Student H worked a little bit on a Slash Knight Tutorial, but found it too easy. He explored other projects like Battle Cats after that.  
+
+
+ScratchJr. 
+  : The main project for these kids was variations on a Chicken Crossing game, where the player has to cross intersecting streets , not parallel streets (like below). This evoked many variations, including one that incorporates a sophisticated story line involving frogs and other creatures.
+
+  
+{% include giphy.html link="https://media.giphy.com/media/DDDMOrtKeBEyue6KVF/" %} 
+
+
+
+Advanced Scratch Jr. 
+  The Electricity project continues. This week the student added more kinds of weather and we talked about giving the player challenges to encourage energy conservation, such as turning out lights. 
+
+</details>
+
 
 
 <details markdown=1>

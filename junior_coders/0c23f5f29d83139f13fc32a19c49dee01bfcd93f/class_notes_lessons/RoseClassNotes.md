@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [September 19th](#september-19th)
+  * [Recap for September 19th](#recap-for-september-19th)
 * [September 10th](#september-10th)
   * [Recap for September 10th](#recap-for-september-10th)
 * [September 3rd](#september-3rd)
@@ -120,6 +122,48 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## September 19th
+
+</summary>
+
+## September 19th
+
+
+### Recap for September 19th
+
+Songs
+  :: The main challenge for today in the Songs project was making the buttons disappear when the music is playing, and come back when the music is done. We needed to create several blocks like the ones below. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/levL7MS.png" caption="Careful attention has to be paid to the names of the clear screen messages to make it work." width="" height="" spacer="" %}
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/sounds/6147b5b9d4521b44ce1131fd-830031XqxXMOfnZAtG8fyaCQg80dok" caption="" %}
+
+Harry Potter
+  : Student Y added more to his story about Harry Potter, especially working on playing with the size and timing of Voldermort's appearance.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter/611629f32b927977910a841a-201699XsSKPbkDjEPUhfEOGx5,qQkk" caption="" %}
+
+
+Scratch
+  : The scratch kids explored and "hacked" a few drawing projects such as the following one. 
+
+{% include zakviewer.html Name="Drawing Shapes v2 needs fix" ID="https://scratch.mit.edu/projects/570379323/"  caption="The original code was too difficult for them, but the goal was to demonstrate some of Scratch's capabilities." %}
+
+
+ScratchJr 
+  : Student J Created a Road Crossing project, with a little help from me, a bit similar to this one:
+
+  
+{% include giphy.html link="https://media.giphy.com/media/DDDMOrtKeBEyue6KVF/" %} 
+
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## September 10th
