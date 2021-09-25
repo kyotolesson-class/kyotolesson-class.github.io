@@ -86,7 +86,53 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## September 25th
+</summary>
 
+## September 25th
+
+
+### Recap for September 25th
+
+
+
+Scratch 
+  : Children worked on individual projects this week. 
+  
+Student Y worked on Battle cats. He continued making different player sprites appear at different money levels. He also begane making the cats move.
+
+{% include zakviewer.html Name="Battle Cats" ID="https://scratch.mit.edu/projects/571919266/" caption="" %}
+
+Student M is I introduced some videos to Student M about flappy bird, and he chose to work on reverse engineering a Fortnite Flappy Bird project. He added two characters to his project and began adding code to make the game over effect and 
+
+{% include zakviewer.html Name="Fortnite Flappy Bird Step 1 2021 09 25" ID="https://scratch.mit.edu/projects/575071918/" caption="I have fixed some errors in his code to demonstrate what he is trying to achieve." %}
+
+
+Student N completed his own basic Flappy bird project and we talked about how to make it better, such as adding levels or obstacles.
+
+Student K1 began her first journeys into Scratch by completing her first tutorial, a chase game. 
+
+{% include zakviewer.html Name="Chase Game" ID="https://scratch.mit.edu/projects/574941151/" caption="She did a great job learning about 'change x' and 'if touching' and 'adding variables'." %}
+
+
+Student H1 studied various projects in search of inspiration for his next project. 
+
+Student R made the players of his Solar Panel game able to buy more panels when they had enough coins. He was able to figure out the code himself but needed a little help transferring a color from one character to another. 
+
+{% include zakviewer.html Name="Untitled\-5 \(9\)" ID="https://scratch.mit.edu/projects/572503120/" caption="" %}
+
+ScratchJr.
+  : Students K2 and H2 worked on their own projects this week. 
+
+
+Student H1 continued developing his multilevel game in Scratch Jr. He has many original ideas and worked well independently and joyfully.
+
+
+Student K2 worked on an original project idea I am calling his "Policeman"  project. After some trial and error, I figured out he wanted to make more squares appear when the policeman bumped into some squares. He understood what he wanted and was almost able to get it on his own. With a little tweaking we were able to get it to begin to work, and will continue next week.
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## September 18th
