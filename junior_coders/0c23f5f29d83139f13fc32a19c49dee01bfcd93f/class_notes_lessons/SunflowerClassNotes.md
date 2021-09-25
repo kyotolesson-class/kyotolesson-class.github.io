@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [September 25th](#september-25th)
+  * [Recap for September 25th](#recap-for-september-25th)
 * [September 18th](#september-18th)
   * [Recap for September 18th](#recap-for-september-18th)
 * [September 11th](#september-11th)
