@@ -12,8 +12,10 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
-* [September 19th](#september-19th)
-  * [Recap for September 19th](#recap-for-september-19th)
+* [September 24th](#september-24th)
+  * [Recap for September 24th](#recap-for-september-24th)
+* [September 17th](#september-17th)
+  * [Recap for September 17th](#recap-for-september-17th)
 * [September 10th](#september-10th)
   * [Recap for September 10th](#recap-for-september-10th)
 * [September 3rd](#september-3rd)
@@ -125,14 +127,52 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 
 <details markdown=1>
-<summary markdown=1>## September 19th
+<summary markdown=1>## September 24th
+</summary>
+
+## September 24th
+
+### Recap for September 24th
+
+
+Tynker
+  : Kids worked on individual projects today
+
+Harry Potter
+  : Student Y continued adding narration to his Harry Potter Project. 
+  
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter/611629f32b927977910a841a-472026Xlb4Tl6yYlIoqM.VtCi6FPok" caption="" %}
+
+He was very excited to be able to synchronize the sound to his animation.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter-gifs-/61235abf1ca85a315c557f2a-271496XoqbvdhcgmU.xD8jIYm04Sgk" caption="" %}
+
+
+Student R started working on a Kimestu no Yaiba project. T
+
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/-/614d79dbb118f97fa74957f4-858201XlqaX9QXu6DPKDAgUcWZLD0k" caption="" %}
+
+Scratch
+  : Students Y and R worked on exploring various Scratch Projects for future projects. 
+
+Farewells
+  : During the break time, we celebrated the last day of some of our students. We wish them good luck and good fortune on their travels, and look forward to seeing them again in the future.
+
+
+</details>
+
+
+
+<details markdown=1>
+<summary markdown=1>## September 17th
 
 </summary>
 
-## September 19th
+## September 17th
 
 
-### Recap for September 19th
+### Recap for September 17th
 
 Songs
   :: The main challenge for today in the Songs project was making the buttons disappear when the music is playing, and come back when the music is done. We needed to create several blocks like the ones below. 
