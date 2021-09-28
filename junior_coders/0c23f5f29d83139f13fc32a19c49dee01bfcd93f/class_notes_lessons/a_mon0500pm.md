@@ -54,8 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
-* [September 25th](#september-25th)
-  * [Recap for September 25th](#recap-for-september-25th)
+* [September 27th](#september-27th)
+  * [Recap for September 27th](#recap-for-september-27th)
 * [September 13th](#september-13th)
   * [Recap for September 13th](#recap-for-september-13th)
 * [September 6th](#september-6th)
@@ -88,6 +88,37 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
 
+<details markdown=1>
+<summary markdown=1>## September 27th
+</summary>
+
+## September 27th
+
+### Recap for September 27th
+
+Today we started out by taking an bird's eye view of a project, to understand how a project is made from beginning to end.  I briefly reviewed [this breakdown](./../lessons/BattleCats.html). The purpose was to demonstrate:
+
+   * How to think about their projects as a whole. Children sometimes get lost in details or in the early steps of a project, without a clear idea of where the project is heading.
+  * At the same time, helping them see how the details need to work together to reach that goal. 
+  * How to translate their project ideas from the image in their minds into the object language they are programming in, in this case Scratch. This is a crucial step in coding, but is not merely a question of knowing the object language, but of the previous elements. Developing both of these is what this exercise promoted.
+  * This leads to a sense of the importance and benefits of planning games beforehand
+  * I also touched on some of the common elements of many games, such as initialization and game over screens, and to begin including them in their games.
+  * In addition, I tried to encourage them to focus more on the player experience, which many of our students struggle with or neglect.
+
+After a brief discussion, I had children put away their computer and gave them a sheet of paper. They were asked to write down an overview of their current project incorporating the elements we had talked about. Once they completed this, they could start working on their projects again.
+
+For example:
+
+  * Student A was able to add Money Buttons to a Battle Cats project she had started last week. She also made sure that the player began with no money at the start of the game. 
+  * Student S made a concrete plan for his project including a game over screen and a clear way for the player to win or lose based on timing the player's clicks.
+  * In addition to planning out their overall game, Student K began planning out a character design stage, including choosing 5 hats, wings and tails. We worked out how many characters she would need to make, as well as how many possible characters could be designed.
+  * Student M took an existing project and came up with ideas for adding balloons that would pop out when a character defeated an enemy.
+  * Student H plotted out his game including 3 different ways (falling, fighting) the player could lose points, and began designing his characters.
+  * Student J came up with an original idea for a ScratchJr Project, a puzzle game. We talked about how this could be done within ScratchJr.'s limitations, and I showed him a trick in the paint screen that would allow him to have his pieces fit together nicely.
+
+In the end I think this was a very successful exercise. It was clear from the way kids proceeded on their projects that they were now thinking more actively and purposefully about their projects, not merely copying code or focusing on one step at a time. 
+
+</details>
 
 
 <details markdown=1>
