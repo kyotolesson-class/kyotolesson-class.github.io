@@ -63,9 +63,7 @@ levelsToTop: "../"
 
 This is a breakdown of the Scratch Game [Battle Cats](https://scratch.mit.edu/projects/571503168), to show the steps involved in making a game like this from scratch. 
 
-The end product can be found here
-
-{% include zakviewer.html Name="BC2 Basic Game" ID="https://scratch.mit.edu/projects/571503168" caption="" %}
+{% include zakviewer.html Name="Battle Cats Basic Game" ID="https://scratch.mit.edu/projects/571503168" caption="" %}
 
 # 2 Money and Cats
 - Shop starts set up Current money, Max money, income
