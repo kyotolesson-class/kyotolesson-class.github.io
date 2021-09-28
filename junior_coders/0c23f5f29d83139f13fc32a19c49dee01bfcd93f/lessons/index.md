@@ -21,3 +21,4 @@ levelsToTop: "../"
 * ### [Dragon Maze Part 2](./DragonMazePart2.html) 
 * ### [Early Skills test](./20200427SkillsTest.html) 
 * ### [Teacher Says for Zoom](./TeacherSays.html) 
+* ### [Battle Cats](./BattleCats.html) 
