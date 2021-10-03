@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [October 1st](#october-1st)
+  * [Recap for October 1st](#recap-for-october-1st)
 * [September 24th](#september-24th)
   * [Recap for September 24th](#recap-for-september-24th)
 * [September 17th](#september-17th)
@@ -124,6 +126,31 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## October 1st
+</summary>
+
+## October 1st
+
+### Recap for October 1st
+
+The theme of the day was user input. Student discovered ways that adding user input can make a game more fun.
+
+Harry Potter
+  : Student Y made me a list of Harry Potter projects that he enjoyed. He learned how to copy and paste urls and made a list including a short description of what he liked about each project. He seem to especially enjoy a project about dueling Harry Potter's that involved user clicking certain keys. 
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter/611629f32b927977910a841a-793091XqZg8j,6OqLt2LgDVUqsO28k" caption="Hopefully he will incorporate some of that into his ongoing Harry Potter project.,, which has been extended since last time." %}
+
+
+
+Fighting Game
+  : Student K also continued working on his recent Fighting Game. He combined two sprite into one with two costumes, and also learned how to make the character respond to keep presses to control the characters who are fighting.
+
+{% include zakviewer.html Name="Untitled\-2" ID="https://scratch.mit.edu/projects/530894339/" caption="This now includes a health bar as well, but it doesn't quite work." %}
+
+
+</details>
 
 
 <details markdown=1>
