@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 4th](#october-4th)
+  * [Recap for October 4th](#recap-for-october-4th)
 * [September 27th](#september-27th)
   * [Recap for September 27th](#recap-for-september-27th)
 * [September 13th](#september-13th)
@@ -87,6 +89,53 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## October 4th
+</summary>
+
+## October 4th
+
+### Recap for October 4th
+
+Drawing
+  : Today there was some interest in drawing and costume design.
+
+Student K focused on very detailed drawing of "a bag of flesh". They asked for some help making "tears" and I suggested using variable length/width lines. 
+
+{% include imgur.html title="draw" ID="https://i.imgur.com/umAvVfe.png" caption="" width="200px" height="" spacer="" %}
+
+
+
+Somewhat inspired by the above, we installed the Scratch Addons Extension on student H's computer so he could use onionskinning to copy images, and he began to copy images he drew, somewhat inspired by Student K's image. 
+
+{% include imgur.html title="Bag of flesh" ID="https://i.imgur.com/izeWT7Y.png" caption="" height="" width="200px"  spacer="" %}
+
+
+He also spent some time drawing his own character for a "madness combat deimos" game. The first step will be creating skins and weapons for the player to choose.
+Student S  made attractive game over screens for his clicker game. We talked about the relative merits of using individual sprites over costumes, and how to track time in order to decide when the player loses.
+
+{% include imgur.html title="" ID="https://i.imgur.com/tu52quK.png" caption="" width="200px" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Vl2MPjq.png" caption="" width="200px" height="" spacer="" %}
+
+
+So close and yet so far.
+  : Student S was quite puzzled when his "red ball" character did not disappear at the edge like it was supposed to. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/1Lc6DVi.png" caption="The red ball is right at the edge. Or is it??" width="200px" height="" spacer="" %}
+
+It turned out, after being led on many false trails, that the ball was exactly 1 pixel off from the edge, just not quite close enough to register as touching. Despite the trouble, it was a good opportunity to demonstrate some debugging/problem solving strategies.
+
+
+Hacking
+  : Students M, H, and A explored projects in Scratch in search of ideas for future projects. They hacked the health points of projects so they could play indefinitely. Student M also added more music to his music jukebox.
+
+Making It Rain
+  : Student J started making a Space Invaders game in ScratchJr. He made 31 "dot" characters (we counted) and we worked together to make the dots behave like rain by using move blocks, a message block, some speed blocks, and some infinite loop blocks.
+
+</details> 
+
 
 <details markdown=1>
 <summary markdown=1>## September 27th
