@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [October 8th](#october-8th)
+  * [Recap for October 8th](#recap-for-october-8th)
 * [October 1st](#october-1st)
   * [Recap for October 1st](#recap-for-october-1st)
 * [September 24th](#september-24th)
@@ -126,6 +128,36 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## October 8th
+</summary>
+
+## October 8th
+
+
+### Recap for October 8th
+ Student K worked on his Kimetsu No Yaiba game. We discussed how th game would be played. We focused on dividing the game into Actors, Objects, and Events. 
+
+* Actors: Hero and Bad Guy
+* Objects: Buttons for different Attacks
+* Events:
+  * Bad guy attacks when the Hero is too close
+  * Hero attacks when the space bar is pressed
+  * Hero dies if Health points are less thaan 0
+  * Bad guy dies if Health points are less than 0
+  * When Wather Breath button is pressed, the Water Breath Attack happens.
+
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 10 08" ID="https://scratch.mit.edu/projects/581149671/" caption="Clicking the 2nd Actor makes the arrows fly as a  Water Breath" %}
+
+Student Y added more action to his Harry Potter game. In addition to adding a new chapter, he added a 'flash of light' effect as Voldermort attack Harry. He also helped the other student explain his game.
+
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter-2021-10-08/6163d7e312456d08885b576b-673006XuO18akfLPQHFuhFPvZaZcQk" caption="" %}
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## October 1st

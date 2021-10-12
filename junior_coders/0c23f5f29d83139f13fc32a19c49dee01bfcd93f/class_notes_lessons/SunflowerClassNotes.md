@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [October 9th](#october-9th)
+  * [Recap for October 9th](#recap-for-october-9th)
 * [September 25th](#september-25th)
   * [Recap for September 25th](#recap-for-september-25th)
 * [September 18th](#september-18th)
@@ -87,6 +89,40 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## October 9th
+</summary>
+
+## October 9th
+
+
+### Recap for October 9th
+
+
+We played a game based on a lecture by [Professor 井本陽久](https://logmi.jp/business/articles/322794).
+The game is very good for teaching logic, independent thinking, and other useful skillls. Thought they could understand the basic idea, it was a little bit difficult, so after a while we stopped and had a break and then we went on to individual projects. 
+
+* Student Y worked on a few projects. We worked on finding costumes for his roadblocks hero project and he also worked a little bit on his Battle Cats project. 
+* Student M started making a flappy bird project and completed  the first two steps. 
+
+{% include zakviewer.html Name="Flapy Bird" ID="https://scratch.mit.edu/projects/581606705/" caption="" %}
+
+* Student R and I discussed how to make his game more user-friendly. He liked the idea of adding a store to his project. He designed it first and then collected or and created the images he needed
+{% include zakviewer.html Name="Flappy Bird" ID="https://scratch.mit.edu/projects/581606705/" caption="" %}
+
+* Student N started working on an original platformer game.
+* Student H looked for new ideas in Scratch. 
+* Student K learned about sensing blocks, specifically the mouse down block. 
+  
+{% include zakviewer.html Name="Untitled" ID="https://scratch.mit.edu/projects/581610847/" caption="Click and hold the mouse, and the girl will go towards you" %}
+
+* Student K worked on telling a story in ScratchJr. 
+* Student H in Scratch Jr. continued working on his multi project game. He was eager to give me a full explanation of what he intends, and he demonstrated his progress so far. It was clear that he has mastered many skills, such as using buttons to control characters, and different kinds of transitions between scenes. He has developed a solid foundation, and is eagerly exploring all the consequences of what he has learned in various ways. 
+Stud
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## September 25th

@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 11th](#october-11th)
+  * [Recap for October 11th](#recap-for-october-11th)
 * [October 4th](#october-4th)
   * [Recap for October 4th](#recap-for-october-4th)
 * [September 27th](#september-27th)
@@ -89,6 +91,36 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+
+<details markdown=1>
+<summary markdown=1>## October 11th
+</summary>
+
+## October 11th
+
+
+### Recap for October 11th
+
+We played a game based on a lecture by [Professor 井本陽久](https://logmi.jp/business/articles/322794). The game consists of a 6x6 grid. Student place a "1" in 6 of the squares. The remaining squares in the grid automatically receive higher number based on the game rules. The goal is to produce the highest possible number in the grid. If the "1"s represent people who have a virus in a room, people who "get sick" (higher numbers) are ones standing next to 2 or more sick people. The later numbers represent people who get sick after so many days. The goal of the game is both to get everyone sick, but as slowly as possible. 
+
+The game is very good for teaching logical thinking, problems solving, concentration, amongst other other mental skills. Kids worked on their own, with some kids being able to beat the minimum score of 6. The game is open ended in that no one knows what the highest possible number is. In fact, after working very hard on it for an hours, student S was able to get to 18, beat the highest number given in the original lecture, 17. I have read that 23 is possible, but have 
+
+In the leftover time, students then also worked on their own projects. Some notable progress included:
+
+* Student J learned how to make messages by adding movement buttons to a ScratchJr. Space Invaders Game.
+* Student A began a "string figures" game in Scratch.
+* Student S continued his Clicker game.
+* Student H contemplated a Carnage Symbiote project
+* Student M worked on a video sensing jukebox. 
+
+{% include giphy.html link="https://media.giphy.com/media/QU6INb6ibeI7NcF3c8/" %} 
+
+* Student K played with various sounds in scratch
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## October 4th
