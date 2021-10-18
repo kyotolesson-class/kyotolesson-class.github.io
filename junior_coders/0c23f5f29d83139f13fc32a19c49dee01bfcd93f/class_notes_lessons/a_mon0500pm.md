@@ -112,8 +112,8 @@ In the leftover time, students then also worked on their own projects. Some nota
 * Student J learned how to make messages by adding movement buttons to a ScratchJr. Space Invaders Game.
 * Student A began a "string figures" game in Scratch.
 * Student S continued his Clicker game.
-* Student H contemplated a Carnage Symbiote project
-* Student M worked on a video sensing jukebox. 
+* Student H contemplated a Carnage Symbiote project.
+* Student M worked on a video sensing jukebox: 
 
 {% include giphy.html link="https://media.giphy.com/media/QU6INb6ibeI7NcF3c8/" %} 
 

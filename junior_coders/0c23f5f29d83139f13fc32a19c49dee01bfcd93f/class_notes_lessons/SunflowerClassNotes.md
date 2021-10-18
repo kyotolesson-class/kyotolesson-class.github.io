@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [October 16th](#october-16th)
+  * [Recap for October 16th](#recap-for-october-16th)
 * [October 9th](#october-9th)
   * [Recap for October 9th](#recap-for-october-9th)
 * [September 25th](#september-25th)
@@ -89,6 +91,45 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## October 16th
+</summary>
+
+## October 16th
+
+### Recap for October 16th
+
+
+The main event today was playing a Collect-a-card Coding Game: 
+
+Collect-a-card Coding Game
+  : The purpose of the game is to get kids to demonstrate their understanding of various steps in coding a simple project. The format is as follows:
+1. Review the target project code. This is not a test, but a game, so kids are taught the code or other answers beforehand. The game is for review.
+2. Each student gets 1 or two cards to start with.
+3. The teacher opens a blank game, or a game ready to accept the target code. 
+4. The teacher walks through coding the game and stops to ask questions, such as what is the next step, what does this block do, etc.
+5. Students can volunteer to answer by raising their hand with a card in it. If they answer the question correctly they get 2 cards. If not, 1 card.
+6. The teacher can also "volunteer" students, for example if no one answers. You get 1 card for a correct answer.
+7. Volunteers must wait out 2 turns give others a chance.
+8.  Cards for right answers only, but no penalty for a wrong answer.
+9.  At the end, (an unspecified number of) cards gets rewards, such as YouTube time. The number is based on the collective level of input. 
+10. Those who were volunteered can ask for help but costs them their card. The card for a correct answer goes to person who helps.
+11. Top volunteers may get an additional prize based on effort, original contribution, or other criteria.
+12. Prizes include in-class YouTube time, select from the toy box, candy, or negotiable prizes. Often students will defer getting any prize.
+
+The target game for today was Flappy Cat game, part 1. Everyone participated and did a good job of playing along and answering questions. After that, kids continued working on existing projects as usual.
+
+{% include zakviewer.html Name="FCS step 1 gravity 2021 10 16 Classroom version \(Flappy Cat Simplest\)" ID="https://scratch.mit.edu/projects/584810491/" caption="" %}
+
+
+</details>
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## October 9th

@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [October 15th](#october-15th)
+  * [Recap for October 15th](#recap-for-october-15th)
 * [October 8th](#october-8th)
   * [Recap for October 8th](#recap-for-october-8th)
 * [October 1st](#october-1st)
@@ -128,6 +130,30 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## October 15th
+</summary>
+
+## October 15th
+
+### Recap for October 15th
+
+Kimetsu no Yaiba
+  : Today Student K aimed to make his character jump across the stream in a parabola. I showed him how to make gravity and I gave him the code for small loop that makes a parabola. He spent some time carefully copying it which I think was a very good practice using the interface, for example, typing, finding blocks, and distinguishing blocks from each other, as well as getting a sense of what the blocks do. 
+  
+  : Once he got that coded, we had to do a little troubleshooting. Instead of jumping in a parabola, his character jumped up and down. I prompted him to describe carefully what had gone wrong and what block would have an effect on that. By doing this, he was able to notice that he had used a set block instead of a change block. 
+
+Harry Potter
+  : Student Y took to the blackboard and in very good detail gave a broad picture of his entire project especially the final section that involves a game between Voldemort and Dumbledore. 
+
+
+  : In the game, people use the keyboard to increase the strength of different aspects of the actor, such as the wand, the "thoughts", the bravery, and the strength of the character. When you press the space key the two characters cast a spell and attack each other with a flash of light. 
+
+  : This looks like it might be a very very interesting game and having an overview of where the game will go will help us be able to coded. In addition he worked on the latter part of Section 2. by fine tuning how the character of Dumbledore appears and speaks. I showed him how to use the same block with an exciting excited thought bubble to make it look more interesting. 
+
+</details>
+
 
 
 <details markdown=1>
