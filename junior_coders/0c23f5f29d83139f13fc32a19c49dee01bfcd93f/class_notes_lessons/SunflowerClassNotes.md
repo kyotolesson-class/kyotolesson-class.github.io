@@ -108,6 +108,7 @@ The main event today was playing a Collect-a-card Coding Game:
 
 Collect-a-card Coding Game
   : The purpose of the game is to get kids to demonstrate their understanding of various steps in coding a simple project. The format is as follows:
+  
 1. Review the target project code. This is not a test, but a game, so kids are taught the code or other answers beforehand. The game is for review.
 2. Each student gets 1 or two cards to start with.
 3. The teacher opens a blank game, or a game ready to accept the target code. 

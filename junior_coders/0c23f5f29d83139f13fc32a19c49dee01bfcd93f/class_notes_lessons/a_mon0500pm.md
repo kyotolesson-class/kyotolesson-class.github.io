@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 18th](#october-18th)
+  * [Recap for October 18th](#recap-for-october-18th)
 * [October 11th](#october-11th)
   * [Recap for October 11th](#recap-for-october-11th)
 * [October 4th](#october-4th)
@@ -91,6 +93,37 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## October 18th
+</summary>
+
+## October 18th
+
+### Recap for October 18th
+
+
+* Student J worked on developing his ScratchJr. Space Invaders into a story with a game. The story begins with a villain disrupting 2 by-standers. A hero comes and the villain and hero fight (i.e. the Space Invaders game). When the player wins the game, the hero then returns to the bystanders. The coding involved a variety of blocks, including the introduction of the change scene block.
+
+
+* Student A completed a new String Figures game and began planning her next project.
+
+{% include zakviewer.html Name="Ayatori" ID="https://scratch.mit.edu/projects/582228901/" caption="The student learned how to add project instructions ot the background using the text box control in the paint editor." %}
+
+* Student S continued his Clicker game. This week he added a timer, which involved identifying the places where the timer needed to be reset and where it should be tested to trigger the game over condition. 
+
+
+* Student H found a model for a project from a modification of the Friday Night Funk Music Rhythm game, and began to recreate the model by importing characters, coding basic movement, and designing his home screen and how it would function. 
+
+{% include zakviewer.html Name="FNF vs. Mickey" ID="https://scratch.mit.edu/projects/586292667/" caption="In addition to this inital coding, he developed a clear set of events and actions for the beginning of his game that he will implement next class." %}
+
+
+* Student M worked on modifying a Tower Defense game. He added a new character and attempted to recreate the bullet firing event by reusing and modifying code. He began to understand (with a little help) how to identify the relevant pieces of code. As class ended however, he introduced a coding error that will give him a chance to practice troubleshooting next week. This is still a work in progress but an interesting challenge. 
+
+
+* Student K was introduced to using a drawing tablet and made several new characters using it.
+
+</details>
 
 
 
