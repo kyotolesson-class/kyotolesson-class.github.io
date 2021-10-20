@@ -121,6 +121,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Student M worked on modifying a Tower Defense game. He added a new character and attempted to recreate the bullet firing event by reusing and modifying code. He began to understand (with a little help) how to identify the relevant pieces of code. As class ended however, he introduced a coding error that will give him a chance to practice troubleshooting next week. This is still a work in progress but an interesting challenge. 
 
 
+* Student H2 worked on a project inspired by the Battle Cats project. 
+
 * Student K was introduced to using a drawing tablet and made several new characters using it.
 
 </details>
