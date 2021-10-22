@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [October 22nd](#october-22nd)
+  * [Recap for October 22nd](#recap-for-october-22nd)
 * [October 15th](#october-15th)
   * [Recap for October 15th](#recap-for-october-15th)
 * [October 8th](#october-8th)
@@ -130,6 +132,39 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## October 22nd
+</summary>
+
+## October 22nd
+
+### Recap for October 22nd
+
+
+Kimetsu no Yaiba Game
+  : Something really special happened in our class today. Today's goal was to make a character move when the first button was clicked. The student chose a path for the character like a slanted letter N. To show how to make the character glide slowly up and to the right, I was effectively teaching the student simple (cartesian) geometry. And, by using variables to code it I was introducing simple algebra. What was amazing that this would normally be considered several years beyond this student's math level, but by using Scratch (and going in small incremental steps) he was able to understand the basic concepts **naturally**. It was really great! This was a perfect example of how learning coding can enhance, even accelerate, learning in other fields. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/IheZ66y.png" caption="Algebra and geometry meet Scratch:<br> X' = X + A, Y' = Y + B " width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 10 22 Wave Motion in an N on Scratch" ID="https://scratch.mit.edu/projects/588211736/" caption="Click on the top left button to see the wave move in an N shape" %}
+
+Harry Potter
+  : This week worked on creating a better green flash of light for Voldermort's spell against Baby Harry Potter. First I showed how we could use clones to create the effect:
+
+{% include zakviewer.html Name="Death Ray Demo on Scratch" ID="https://scratch.mit.edu/projects/587873991/" caption="Demo of death ray. Click anywhere on stage to cast the spell. Click many times with short waits to create cool effects. Click Voldermort to toggle the color effect." %}
+
+We added a wand to the Voldemort character, which involved good paint tool practice, carefully reshaping and positioning the wand. Then we identified the start and stop points of the spell and were able to make it go to the end of the wand.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter-demo-2021-10-23-just-the-awntd/61731384c8677e39b447baee-812897Xj9fAi8gyKTrhyWBqQ2AZzok" caption="This is a demo. The green dot that appears after 5 seconds will be a death ray. " %}
+
+Duel to the Death
+  : During the break we all had a lot of fun playing Harry Potter Death Duel together.
+
+{% include zakviewer.html Name="Harry Potter Duel on Scratch" ID="https://scratch.mit.edu/projects/123453890/" caption="" %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## October 15th
