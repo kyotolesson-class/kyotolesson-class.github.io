@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [October 25th](#october-25th)
+  * [Recap for October 25th](#recap-for-october-25th)
 * [October 18th](#october-18th)
   * [Recap for October 18th](#recap-for-october-18th)
 * [October 11th](#october-11th)
@@ -93,6 +95,50 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## October 25th
+</summary>
+
+## October 25th
+
+### Recap for October 25th
+
+
+
+Clicker Game and Shooting Game
+  : Student S finished his Space Clicker Game, and began a new project. The first challenge in the new game was how to make the balls take random positions only in the upper half of the screen. I encouraged him to define exactly where he wanted the balls to go in words, and as he did it he figured out how to do it.
+
+{% include zakviewer.html Name="Shootgame 2021 10 25 S original slightly modified" ID="https://scratch.mit.edu/projects/589645847/" caption="" %}
+
+{% include zakviewer.html Name="Space clicker" ID="https://scratch.mit.edu/projects/562106841/" caption="" %}
+
+FNF
+  : Student H started out by analyzing several versions of Friday Night Funkin', and making list of resources, actors, events, and features he wanted to include in his own version of the game. After doing that, he began designing his own main character. 
+
+
+Corrections and Hacks
+  : Student M's specialty is hacking existing projects to make them infinitely playable or behave interestingly. Last week he made some changes to one project, but it didn't quite work the way he wanted. This week we worked through how to get the bullets to fly at the right angle by pointing the second shooter in the right direction, and getting the bullet to point in the same direction. He also worked on hacking some more projects. He had gained wide experience on how different games work.
+
+{% include zakviewer.html Name="TD for M 2021 10 18 Fixed" ID="https://scratch.mit.edu/projects/586318215/" caption="" %}
+
+Platformer with Lava
+  : Student A picked up on project that you've made quite some time ago we added traps lava and spikes to her project we started out with a simple lava and then we I showed her how to make it appear only on a particular screen when she understood that basic method she then on her own created similar pitfalls on all the other screens
+
+ScratchJr. Music Project
+  : Student J in ScratchJr. had an original idea for a music project where a drum of hammer would hit a drum and make a sound. We then expanded this by adding more drums and by making the hammer twirl across the screen
+
+{% include imgurmp4.html link="https://i.imgur.com/8IClyf8.mp4" %}
+
+
+Soundtrap
+  : Student K opened a new Sountrap account and began exploring adding tracks and modifying them to make interesting sounds. Today was mostly an exploration day, and maybe next week we will try some more guided work.
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## October 18th

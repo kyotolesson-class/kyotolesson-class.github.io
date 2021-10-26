@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [October 23rd](#october-23rd)
+  * [Recap for October 23rd](#recap-for-october-23rd)
 * [October 16th](#october-16th)
   * [Recap for October 16th](#recap-for-october-16th)
 * [October 9th](#october-9th)
@@ -92,7 +94,43 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## October 23rd
+</summary>
 
+## October 23rd
+
+
+### Recap for October 23rd
+
+Squid Game 1
+  : Student Y worked on making the player's eyes open and close and the button flash from red to green. He also added and edited the music. He originally tried a first person viewpoint, but settled for this top iiewpoint version.
+
+{% include zakviewer.html Name="Squid Game 2021 10 23 Student Y" ID="https://scratch.mit.edu/projects/588925585/" caption="Use left and right arrows to move the character (project has had some corrections added.) " %}
+
+Squid Game 2
+  : Student M wanted an opening screen before the game would start, so I showed him how to achieve that.
+
+{% include zakviewer.html Name="Untitled\-138" ID="https://scratch.mit.edu/projects/588366141/" caption="Press 1 to see background change" %}
+
+
+Scratch Mario Multilevel Game
+  : More details have emerged about player H's project. He is making a multi-stage Mario-like platformer. He's made overworld maps and sub-levels. In ScratchJr. each project only has 4 screens, so he's building his game over several projects, each corresponding to a different "land" such as a desert level and a haunted house level.
+
+Electricity Shop
+  : Student R's focus continues to be make a shop for people to buy various ways of using or gaining energy. He's setting up the project so that when the shop backdrop appears, all foreground items hide. And when the backdrop changes, all foreground items appear again.
+
+Tower Defense/Battle Cats
+  : Some students are still looking for a project to do. Student K2 began working on a Tower Defense project. His focus was on learning how to use the paint editor to make circles and rectangles to put together to make a tank. Student H considered doing a Tower Defense project, but then changed his mind and explored various other potential projects. 
+
+{% include zakviewer.html Name="Untitled\-4 Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="" %}
+
+Pong Game
+  : Student K1 completed a Pong Tutorial.
+
+{% include zakviewer.html Name="Untitled\-4 on Scratch" ID="https://scratch.mit.edu/projects/588369489/" caption="" %}
+
+</details>
 
 
 <details markdown=1>
