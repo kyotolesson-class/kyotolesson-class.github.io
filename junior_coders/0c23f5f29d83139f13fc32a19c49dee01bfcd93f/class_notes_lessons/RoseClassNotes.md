@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [October 29th](#october-29th)
+  * [Recap for October 29th](#recap-for-october-29th)
 * [October 22nd](#october-22nd)
   * [Recap for October 22nd](#recap-for-october-22nd)
 * [October 15th](#october-15th)
@@ -132,6 +134,32 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## October 29th
+</summary>
+
+## October 29th
+
+
+### Recap for October 29th
+
+Harry Potter
+  : Today we used clones to send a death ray to Baby Harry Potter. We modified the shape of the bullet and controlled how many bullets and where they came and went to. As always, very precise work from Student Y.
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/harry-potter-2020-10-29/6180aaa636af7560642df6fc-530578XiQM9kLUL7hfGOBYQHcUyEok" caption="" %}
+
+
+Kimetsu no Yaiba 
+  : Student K worked on making the sword, tanjiro, and water breath all move together. This involved making all of them respond to  a flash broadcast, as well as making sure they were properly positioned together in relation to each other with change x and y blocks before the main movement started. Next week we will add a fire breath.
+
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 10 29 KEI" ID="https://scratch.mit.edu/projects/593605807/" caption="" %}
+
+</details>
+
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## October 22nd

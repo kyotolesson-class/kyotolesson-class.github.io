@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 1st](#november-1st)
+  * [Recap for November 1st](#recap-for-november-1st)
 * [October 25th](#october-25th)
   * [Recap for October 25th](#recap-for-october-25th)
 * [October 18th](#october-18th)
@@ -95,6 +97,44 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## November 1st
+</summary>
+
+## November 1st
+
+
+### Recap for November 1st
+
+Underwater Sea Slug Project 
+  : Following on their interest in Sea Slugs, Student K made the beginnings of and undersea themed project. They used pixlr to remove the background from an image of a sea slug. They used a lot of when key pressed and switch backdrop and backdrop changed blocks to control the visible items, and included an instructions page. They also began using the ask block.
+
+{% include zakviewer.html Name="Sea Slug Project" ID="https://scratch.mit.edu/projects/593633417/" caption="Press any key to see the instructions page" %}
+
+Soccer game
+  : Student J made their first Scratch Project, a soccer game project.
+
+
+{% include zakviewer.html Name="Soccer Game 2021 11 01" ID="https://scratch.mit.edu/projects/593083121/editor/" caption="press the green flag to see the player move." %}
+
+
+Space Shooter 
+  : Student S made great strides on his space shooter. We discussed the advantages and disadvantages of using individual sprites and of using clones for this type of project. After thinking about it he chose to use individual sprites, and meticulously copied and verified his code in each one. By using glides instead of move blocks for the balls this project became quite challenging and different than the usual Space invaders game. Other students really enjoyeed watching and playing this game.
+
+{% include zakviewer.html Name="Space Invaders 2021 11 01 on Scratch" ID="https://scratch.mit.edu/projects/593635410/" caption="Press left and right arrow to move shooter and up arrow to shoot." %}
+
+Remix and Hack
+  : Student M continues to explore a variety of games. He enjoys in changing them so they are more playable. Today's favorite was a Submarine game.
+{% include zakviewer.html Name="Submarin remix on Scratch" ID="https://scratch.mit.edu/projects/593081843/" caption="" %}
+
+FNF 
+  : Student H continues his FNF game. He spent some time collecting and selecting resources for the project. In addition, he developed a plan for the opening sequence, and began walking through coding the initial sequence together. 
+
+{% include zakviewer.html Name="FNF resources remix copy on Scratch" ID="https://scratch.mit.edu/projects/593081941/editor" caption="Press Story to start the opening sequence." %}
+
+
+</details>
 
 
 <details markdown=1>

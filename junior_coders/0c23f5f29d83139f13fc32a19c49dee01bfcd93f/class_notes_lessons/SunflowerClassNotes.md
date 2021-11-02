@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [October 30th](#october-30th)
+  * [Recap for October 30th](#recap-for-october-30th)
 * [October 23rd](#october-23rd)
   * [Recap for October 23rd](#recap-for-october-23rd)
 * [October 16th](#october-16th)
@@ -93,6 +95,63 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+<details markdown=1>
+<summary markdown=1>## October 30th
+</summary>
+
+## October 30th
+
+
+### Recap for October 30th
+
+A Day in the Life 
+  : Student Y designed a "Day in the Life project in detail, including actors, scenes, and actions. He began designing the first background. After being unable to find a preset background he liked, he drew his own on paper. He tried to trace it using a drawing tablet, but found it was easier to draw it in the the scratch editor using squares and other shapes. The result was quite good, and exactly what he had in mind.
+
+
+{% include zakviewer.html Name="A Day in the Life 2021 10 30" ID="https://scratch.mit.edu/projects/592280068/" caption="" %}
+
+Squid Game 
+  : Student M learned how to use clones. Inspired by this project, 
+
+{% include zakviewer.html Name="Death Ray Demo" ID="https://scratch.mit.edu/projects/587873991/" caption="" %}
+
+he added his own "death ray" to his project. 
+
+{% include zakviewer.html Name="Squid Game 2021 10 30" ID="https://scratch.mit.edu/projects/588366653/" caption="press 1 to get past the opening screen, and then space to fire." %}
+
+
+Solar panel 
+  : Student R's Solar Panel project now has a shop. In the shop you are able to by more solar panels. He used if blocks and backdrop sensors to control the visibility of the shop and shop items. 
+
+{% include zakviewer.html Name="Solar Panel 2021 10 29 on Scratch" ID="https://scratch.mit.edu/projects/593628239/editor" caption="" %}
+
+Kanna 
+  : Student K1 was very productive working on tutorials in Scratch. She made a Halloween project (with sounds), a Balloon Popping project (with 2 balloons), and an Underwater Starfish Chase (with a score). She needed some encouragement in modifying or going beyond the basic tutorials.
+
+{% include zakviewer.html Name="Halloween project" ID="https://scratch.mit.edu/projects/592276602/" caption="" %}
+
+
+{% include zakviewer.html Name="balloon Popping" ID="https://scratch.mit.edu/projects/592263638/" caption="" %}
+
+{% include zakviewer.html Name="Underwater Starfish Chase (with a score)" ID="https://scratch.mit.edu/projects/574941151/" caption="" %}
+
+Tank Game
+  : Student K2 continued his  Scratch Tank Game. He added Towers, a Shop, and a Man character. I guided him through how to clone the bullets when the shop is clicked, and make bullet fire to the edge.
+
+{% include zakviewer.html Name="Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="Click the small black squares tto shoot." %}
+
+{% include zakviewer.html Name="Untitled\-4 Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="" %}
+
+ScratchJr. Mario
+  : Student H worked on his longform ScratchJr. Mario project as usual. He had some problems making a character repeat an action 3 times, so I showed him how  to use the repeat block and waits to get the effect he wanted. He picked it up quickly.
+
+</details>
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## October 23rd
