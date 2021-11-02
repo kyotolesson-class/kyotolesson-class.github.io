@@ -6,7 +6,7 @@
     <title>Edit me!</title>
 </head>
 <body>
-    <h1>Make me red</h1>
+    <h1>Make me red <span class="help" title="In your console, enter: document.querySelector('___').style.color='___'"></span></h1>
     <p>Make me reeeeeaaaaaalllly big!</p>
     <button>Make my background green and my text white</button>
 
@@ -23,13 +23,40 @@
     </ol>
 
 
+    <style>  
+        .help {
+            border: 1px solid black;
+            border-radius: 100%;
+            padding: 3px 10px;
+        }
 
-    <style>
+        .help::before {
+            content: "?";
+        }
+
+        .help:hover {
+            cursor: help;
+        }
+
         div {
             height: 100px;
             width: 100px;
             background-color: black;
             color: white;
+        }
+
+        details {
+            background-color: whitesmoke;
+            width: max-content;
+        }
+
+        summary {
+            background-color: yellow;
+            width: max-content;
+        }
+
+        summary:hover {
+            cursor: pointer;
         }
     </style>
 </body>
