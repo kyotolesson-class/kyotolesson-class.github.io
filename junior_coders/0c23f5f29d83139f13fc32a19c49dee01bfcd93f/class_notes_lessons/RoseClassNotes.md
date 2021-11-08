@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [November 5th](#november-5th)
+  * [Recap for November 5th](#recap-for-november-5th)
 * [October 29th](#october-29th)
   * [Recap for October 29th](#recap-for-october-29th)
 * [October 22nd](#october-22nd)
@@ -134,6 +136,35 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## November 5th 
+</summary>
+
+## November 5th 
+
+
+
+### Recap for November 5th 
+
+Kimetsu No Yaiba
+  : Two classes ago we made a water breath that jumps in a parabola across the screen. This week we modified it so the fire breath gets larger and then smaller as it moves along the parabola. The key is understanding that the velocity is positive as it rises, and negative as it falls. So it changes size along with the velocity.
+
+{% include imgur.html title="Kimetsu No Yaiba 2021 11 05 KEI on Scratch" ID="" caption="https://i.imgur.com/9rk9i7p.png" width="" height="" spacer="" %}
+  
+  
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 11 05" ID="https://scratch.mit.edu/projects/595753085/editor" caption="" %}
+
+Harry Potter
+  : Student Y worked on improving Voldermort's death ray. His goal was to make the ray get larger and larger until it turned totally white. We were finally able to create the effect using the brightness and invert effects. When Harry survives the curse, he 
+  gets a scar. He also added some trees to add texture to the project.
+
+  
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/change-backdrop/6184ed36b8e619673c62e17a-135807XkA7t8ErUBDELEmfqe3DsyAk" caption="The effect can be seen here." %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## October 29th
