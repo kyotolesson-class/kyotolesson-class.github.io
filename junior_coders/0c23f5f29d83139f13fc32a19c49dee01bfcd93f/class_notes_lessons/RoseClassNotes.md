@@ -154,7 +154,7 @@ Kimetsu No Yaiba
 {% include imgur.html title="Kimetsu No Yaiba 2021 11 05 KEI on Scratch" ID="" caption="https://i.imgur.com/9rk9i7p.png" width="" height="" spacer="" %}
   
   
-{% include zakviewer.html Name="Kimetsu No Yaiba 2021 11 05" ID="https://scratch.mit.edu/projects/595753085/editor" caption="" %}
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 11 05" ID="https://scratch.mit.edu/projects/595753085/editor" caption="Click the 3rd button to make the fire breath move." %}
 
 Harry Potter
   : Student Y worked on improving Voldermort's death ray. His goal was to make the ray get larger and larger until it turned totally white. We were finally able to create the effect using the brightness and invert effects. When Harry survives the curse, he 
