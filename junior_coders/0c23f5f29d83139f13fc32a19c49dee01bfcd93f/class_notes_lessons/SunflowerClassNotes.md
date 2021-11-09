@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [November 6th](#november-6th)
+  * [Recap for November 6th](#recap-for-november-6th)
 * [October 30th](#october-30th)
   * [Recap for October 30th](#recap-for-october-30th)
 * [October 23rd](#october-23rd)
@@ -99,6 +101,81 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 
 <details markdown=1>
+<summary markdown=1>## November 6th 
+</summary>
+
+## November 6th 
+
+### Recap for November 6th 
+
+
+
+Late Project
+  : First, Student Y I worked on making the clock change every 10 seconds in his project. 
+
+{% include zakviewer.html Name="Sleeping Late" ID="https://scratch.mit.edu/projects/592280068/" caption="" %}
+
+
+Then he made a shooting game that fires. We worked on making the bullets go in teh same direction the character is pointing.
+
+{% include zakviewer.html Name="Untitled\-137 on Scratch" ID="https://scratch.mit.edu/projects/588307124/editor/" caption="Left and right arrow move, space shoots." %}
+
+Fighting Game
+  : Students Y worked on making a fighting game with a character and a sword. Student M also made one, and explored other projects, like a music box project. 
+
+{% include zakviewer.html Name="Student Y sword game" ID="https://scratch.mit.edu/projects/592280068/" caption="" %}
+
+{% include zakviewer.html Name="Student M" ID="https://scratch.mit.edu/projects/596292710/editor/" caption="This is just the character for now." %}
+
+{% include zakviewer.html Name="まいぜん on Scratch" ID="https://scratch.mit.edu/projects/543629972/editor/" caption="" %}
+
+Favorite Character Series 
+  : Student N continues to make projects with his favorite character Abu in them.  This week he made a pong game that has a cheerleading Abu.
+
+{% include zakviewer.html Name="Cheering Abu Pong" ID="https://scratch.mit.edu/projects/543629972/editor/" caption="" %}
+
+Abu moves in a random direction:
+
+{% include zakviewer.html Name="Abu moves in a random direction:" ID="https://scratch.mit.edu/projects/596302339/editor" caption="This project is not quite complete, but pressing the up arrow keeps Abbu flying." %}
+
+
+A jumping Abu meets a bear:
+
+{% include zakviewer.html Name="jumping Abu meets a bear" ID="https://scratch.mit.edu/projects/596302339/editor" caption="" %}
+
+and Flappy Abu: 
+
+{% include zakviewer.html Name="Flappy Abu" ID="https://scratch.mit.edu/projects/571917316/editor" caption="" %}
+
+Robot Jumper 
+  : Student K1 worked on a jumping project with a huge robot jumping over a rabbit.
+
+{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/596291060/editor/" caption="" %}
+
+
+Underwater Penguin and Fish
+  : Student K1 also made an Underwater Penguin and Fish Project. 
+
+{% include zakviewer.html Name="Underwater Penguin and Fish" ID="https://scratch.mit.edu/projects/596286718/editor/" caption="There was a bug in tone of the blocks, which I have fixed. She used japanese characters." %}
+
+Tower Defense
+  : Student K2 continued working on his Battle Cats type Tower Defense project. He a second tower and made it shoot when its store is clicked.
+
+{% include zakviewer.html Name="Untitled\-4 Tank Game on Scratch" ID="https://scratch.mit.edu/projects/589833446/editor/" caption="" %}
+
+Road Crossing
+  : Student H1 took a break from his Mario Project and worked on a Road Crossing game in Scratch Jr. He made the roads and started making cars for it.
+
+Fortnite style
+  : Student H2 explored Scratch looking for  a simple Fortnite game to copy.
+
+
+
+</details>
+
+
+
+<details markdown=1>
 <summary markdown=1>## October 30th
 </summary>
 
@@ -141,9 +218,7 @@ Kanna
 Tank Game
   : Student K2 continued his  Scratch Tank Game. He added Towers, a Shop, and a Man character. I guided him through how to clone the bullets when the shop is clicked, and make bullet fire to the edge.
 
-{% include zakviewer.html Name="Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="Click the small black squares tto shoot." %}
-
-{% include zakviewer.html Name="Untitled\-4 Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="" %}
+{% include zakviewer.html Name="Tank Game" ID="https://scratch.mit.edu/projects/589833446/" caption="Click the small black squares to shoot." %}
 
 ScratchJr. Mario
   : Student H worked on his longform ScratchJr. Mario project as usual. He had some problems making a character repeat an action 3 times, so I showed him how  to use the repeat block and waits to get the effect he wanted. He picked it up quickly.

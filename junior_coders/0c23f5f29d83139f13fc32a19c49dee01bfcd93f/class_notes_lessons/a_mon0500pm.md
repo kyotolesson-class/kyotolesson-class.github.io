@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 8th](#november-8th)
+  * [Recap for November 8th](#recap-for-november-8th)
 * [November 1st](#november-1st)
   * [Recap for November 1st](#recap-for-november-1st)
 * [October 25th](#october-25th)
@@ -97,6 +99,56 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+<details markdown=1>
+<summary markdown=1>## November 8th 
+</summary>
+
+## November 8th 
+
+
+
+### Recap for November 8th 
+
+
+
+Animating a character
+  : Student A added an animation to her Mario Game (Like Grey) character. She stumbled at one point because she made the character change costume twice, which undid the action she wanted. That game being finished, she looked for a new project to do.
+
+{% include zakviewer.html Name="Like Grey copy" ID="https://scratch.mit.edu/projects/593059358/" caption="" %}
+
+
+Ask Block
+  : Student K learned how to use the ask block, make a variable to store the value of the answer, and show the answer on the screen. For a while she worked with a drawing tablet, and explored using the paint area functions.
+
+
+FNF
+  : Student H made his movie stop when it reached a certain size, then continue until it was finished by using a repeat until block. He figured out by himself how to switch to the menu screen when the intro movie was finished and show the first character. Well, almost...
+
+{% include zakviewer.html Name="Like Grey copy" ID="https://scratch.mit.edu/projects/593059358/" caption="" %}
+
+Splatoon
+  : Student M hacked a Splatoon type project by adding more characters and giving them more powers. He did some debugging when the up arrow motion on his characters stopped moving. Student M know alot about how games are played and how to hack them to make them more playable, his challenge will be on taking those skills and making his own games. 
+
+{% include zakviewer.html Name="スプラトゥーン / splatoon remix" ID="https://scratch.mit.edu/projects/596375420/" caption="" %}
+
+
+
+Inventing a new game: Death Ray Variation
+  : Student S started with a death ray 
+  
+{% include zakviewer.html Name="Death Rays" ID="https://scratch.mit.edu/projects/587873991/" caption="This a teacher demo of various rays..." %}
+
+and turned it into a game. He created several "enemy balls" that attack Voldermort by going to edges and gliding towards him. If they touch a death ray, they "die". We did some debugging so that they would return to their original position when hit.
+
+{% include zakviewer.html Name="Death Rays\. copy remix on Scratch" ID="https://scratch.mit.edu/projects/597164047/editor" caption="The return to original position is still unfinished" %}
+
+First Platformer
+  :  Student J wanted to make a Mario type game. He quickly learned how to make backgrounds and his main sprite. He wanted to edit his background, but couldn'T because it was a bitmap, which led to an attempt at a simple explanation of the difference between bitmap and vector drawing. 
+
+{% include zakviewer.html Name="Platformer" ID="https://scratch.mit.edu/projects/593075989/editor/" caption="" %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## November 1st
