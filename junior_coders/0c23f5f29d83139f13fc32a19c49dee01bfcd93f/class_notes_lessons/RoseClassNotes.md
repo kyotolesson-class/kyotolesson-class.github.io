@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [November 12th](#november-12th)
+  * [Recap for November 12th](#recap-for-november-12th)
 * [November 5th](#november-5th)
   * [Recap for November 5th](#recap-for-november-5th)
 * [October 29th](#october-29th)
@@ -137,6 +139,26 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## November 12th
+</summary>
+
+## November 12th
+
+### Recap for November 12th
+
+Flaming sword animation
+  : Student K made a simple animation so that a flame would fly out his sword. We used the onion skin feature of Scratch a little bit more used a repeat loop to cycle the costumes, with a small wait in between. We figured out together how many times we would need to go through the loop based on how many costumes we would need. This is counter-intuitive, because actually you need to step through one less that the number of costumes. This is a good exercise in logical thinking. 
+
+
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 11 12 KEI on Scratch" ID="https://scratch.mit.edu/projects/600495591/" caption="Click the button at the top right to see the effect." %}
+
+
+Student Y worked on making his death ray turn white. He had the right blocks but had to do some work to correct the sequence of actions. In addition we had to figure out exactly how many times to repeat one of the loops. This involved a little bit of  algebra. We had to solve the equation 30 + 15 * x = 5585. The answer, 370, represents the number of times the size needed to be increased before it completely filled the screen. After that, we needed to detect when all the clones have been deleted before transtioning to the next level. We created a variable that added one each time a clone is created and subtracted one each time a clone is deleted. A wait until 1 loop waits until this variable returns to zero before switching to the next level. 
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/test/6184ed36b8e619673c62e17a-231610XjGq8WUhbSaJ5hEmgsSmKrIk" caption="this demonstates how the transition works" %}
+
+</details> 
 
 <details markdown=1>
 <summary markdown=1>## November 5th 
