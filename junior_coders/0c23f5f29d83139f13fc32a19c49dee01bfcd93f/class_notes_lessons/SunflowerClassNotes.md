@@ -13,6 +13,9 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [November 13th](#november-13th)
+  * [Important notice](#important-notice)
+  * [Recap for November 13th](#recap-for-november-13th)
 * [November 6th](#november-6th)
   * [Recap for November 6th](#recap-for-november-6th)
 * [October 30th](#october-30th)
@@ -97,6 +100,50 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## November 13th
+</summary>
+
+## November 13th
+
+### Important notice
+
+It is important for the safety of your children that we have written notice if anyone other than a guardian/parent is to pick up or take responsibility for your child at pickup time. This includes having the child wait with them until you arrive. Please be sure to tell us (in writing, e.g. via line) if you wish to allow someone to pickup or take charge of your child. 
+
+### Recap for November 13th
+
+Mazes
+  : Students K1 and K2 worked on making maze games in Scratch. This is a copy of a project we made in ScratchJr., so it helps them reinforrce prior learning, and also understand the similarities and diffferences between the two platforms. 
+
+ScratchJr. Maze
+  : Student H1 finished his road crossing game and then worked on a harder version of it using roads that crossed. It includes making one character disappear while making another reappear as well as raising the question of how to time the motion of the cars so they don't hit each other (actually impossible in ScratchJr., but we can get close.). He then became interested in making the maze game as well, but in ScratchJr. 
+
+Minecraft
+  : Students Y & M have an idea for using Minecraft Bats and Dragons in a project. They were able to find images for the project, but they were in an unusual format, so it took some time taking screenshots of the images so they could be imported into Scratch.
+
+{% include imgur.html title="" ID="https://i.imgur.com/PB6Swjg.png" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/LTkRDhT.png" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/mkIPE0F.png" caption="" width="" height="" spacer="" %}
+
+
+Jump Jump 
+  : Student N made an platformer project for his Abu character. This was an original project without borrowing code, and demonstrated aan understanding of character movement, user input, conditionals, and broadcasting. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/Y2xdcG6.png" caption=" He learned how to make lava and how to make a game over (backdrop 4) screen when the character hits the lava. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/AdaGrIw.png" caption="We also made it so if the character reaches the other end of the screen (message 1), and new scene appears. " width="" height="" spacer="" %}
+
+Student H2 is focused on Fortnite Projects, but has note decided on his own project yet.
+
+</details>  
+
+
+
+
+
 
 
 
