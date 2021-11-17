@@ -54,6 +54,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 15th](#november-15th)
+  * [General Reminder](#general-reminder)
+  * [Recap for November 15th](#recap-for-november-15th)
 * [November 8th](#november-8th)
   * [Recap for November 8th](#recap-for-november-8th)
 * [November 1st](#november-1st)
@@ -101,6 +104,63 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
 
 <details markdown=1>
+<summary markdown=1>## November 15th
+</summary>
+
+## November 15th
+
+### General Reminder
+
+It is important for the safety of your children that we have written notice if anyone other than a guardian/parent is to pick up or take responsibility for your child at pickup time. This includes having the child wait with them until you arrive. Please be sure to tell us (in writing, e.g. via line) if you need to allow someone to pickup or take charge of your child. 
+
+### Recap for November 15th
+
+Basic Paint Battle Game
+  : Today, some students worked on modifying a basic Paint Battle/Splatton type game.
+
+{% include zakviewer.html Name="PBRR base game 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602449292/editor" caption="If you press space, a number representing the amount of white appears. The lower this number, the better your score." %}
+
+The goal for them was to add their own character, make the character move randomly around the screen. Then, using the brightness effect, the character should stamp a white outline of itself, which erases any paint blobs beneath it. To do this they use blocks like this:
+
+{% include imgur.html title="" ID="https://i.imgur.com/dhcLgZh.png" caption="" width="" height="" spacer="" %}
+
+
+Student S
+  : This version includes two games in one. 
+
+{% include zakviewer.html Name="Student S Paint battle rifle randomized" ID="https://scratch.mit.edu/projects/601619813/editor" caption="In addition to the splatton type game, you have to avoid the squid. If your mouse touches the squid, the game is over." %}
+
+
+Student M 
+  : He used a house for his character. 
+{% include zakviewer.html Name="Paint battle rifle randomized remix on Scratch" ID="https://scratch.mit.edu/projects/601341489/" caption="" %}
+
+Student A
+  : This game uses a star moving in a circle, and another character that says stop.
+{% include zakviewer.html Name="Painter Gun Game on Scratch" ID="https://scratch.mit.edu/projects/601318429/" caption="" %}
+
+Student J
+  : Student J used a Dinosaur for his character
+
+  {% include zakviewer.html Name="Paint battle rifle randomized remix on Scratch" ID="https://scratch.mit.edu/projects/601318434/" caption="" %}
+
+Individual Projects 
+  : Other students worked on individual projects. 
+
+Sea Bun Pet 
+  : Student K is in the process of creating a Sea Bun Pet Game. She is using various when key pressed blocks to do various actions. 
+
+{% include zakviewer.html Name="sea bun pet 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602450233/editor" caption="Today she modified the project design (press space). Press h to see the ball, s to change size of slug. Click the name box to change the name." %}
+
+FNF 
+  : Student H continued working on his FNF project. 
+
+{% include zakviewer.html Name="FNF resources remix 2021 11 15 " ID="https://scratch.mit.edu/projects/602457655/" caption="He added some characters and animated them on the menu screen. Click Story to see them." %}
+
+</details>
+
+
+<details markdown=1>
 <summary markdown=1>## November 8th 
 </summary>
 
@@ -125,13 +185,11 @@ Ask Block
 FNF
   : Student H made his movie stop when it reached a certain size, then continue until it was finished by using a repeat until block. He figured out by himself how to switch to the menu screen when the intro movie was finished and show the first character. Well, almost...
 
-{% include zakviewer.html Name="Like Grey copy" ID="https://scratch.mit.edu/projects/593059358/" caption="" %}
 
 Splatoon
   : Student M hacked a Splatoon type project by adding more characters and giving them more powers. He did some debugging when the up arrow motion on his characters stopped moving. Student M know alot about how games are played and how to hack them to make them more playable, his challenge will be on taking those skills and making his own games. 
 
 {% include zakviewer.html Name="スプラトゥーン / splatoon remix" ID="https://scratch.mit.edu/projects/596375420/" caption="" %}
-
 
 
 Inventing a new game: Death Ray Variation
@@ -141,12 +199,12 @@ Inventing a new game: Death Ray Variation
 
 and turned it into a game. He created several "enemy balls" that attack Voldermort by going to edges and gliding towards him. If they touch a death ray, they "die". We did some debugging so that they would return to their original position when hit.
 
-{% include zakviewer.html Name="Death Rays\. copy remix on Scratch" ID="https://scratch.mit.edu/projects/597164047/editor" caption="The return to original position is still unfinished" %}
+{% include zakviewer.html Name="Death Rays\. copy remix on Scratch" ID="https://scratch.mit.edu/projects/597164047/" caption="The return to original position is still unfinished" %}
 
 First Platformer
   :  Student J wanted to make a Mario type game. He quickly learned how to make backgrounds and his main sprite. He wanted to edit his background, but couldn'T because it was a bitmap, which led to an attempt at a simple explanation of the difference between bitmap and vector drawing. 
 
-{% include zakviewer.html Name="Platformer" ID="https://scratch.mit.edu/projects/593075989/editor/" caption="" %}
+{% include zakviewer.html Name="Platformer" ID="https://scratch.mit.edu/projects/593075989/" caption="" %}
 
 </details>
 
