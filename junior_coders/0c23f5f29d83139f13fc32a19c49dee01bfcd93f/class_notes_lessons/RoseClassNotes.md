@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [November 19th](#november-19th)
+  * [Recap for November 19th](#recap-for-november-19th)
 * [November 12th](#november-12th)
   * [Recap for November 12th](#recap-for-november-12th)
 * [November 5th](#november-5th)
@@ -138,6 +140,23 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## November 19th
+</summary>
+
+## November 19th
+
+### Recap for November 19th
+
+Kimetsu No Yaiba 
+  : Today Student K  made the effects we make in previous weeks be hidden at the start. We make the effects start at tanjiro, even after he has moved using when arrow key is pressed blocks. He modified some of the effects to make them look better. 
+
+{% include zakviewer.html Name="Kimetsu No Yaiba 2021 11 19" ID="https://scratch.mit.edu/projects/604612623/" caption="Press the arrow keys and buttons to see the effects." %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## November 12th

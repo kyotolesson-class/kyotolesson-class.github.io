@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [November 20th](#november-20th)
+  * [Recap for November 20th](#recap-for-november-20th)
 * [November 13th](#november-13th)
   * [Important notice](#important-notice)
   * [Recap for November 13th](#recap-for-november-13th)
@@ -100,6 +102,60 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## November 20th
+</summary>
+
+## November 20th
+
+### Recap for November 20th
+
+Christmas Project 
+  : Today I gave the kids an Christmas project assignment. The project is intended as an assessment of their progress in the class, so it would help me if parents could encourage children to do their best on this project. The project must include the following elements (and related  skills): 
+
+1. - [ ] Must be appropriate to the theme of Christmas and the interesting creative and original
+
+2. - [ ] Include sounds on start and on click (sound block)
+ 
+1. - [ ] Change appearance of characters on events (Looks size and costume block)
+
+3. - [ ] Have sprite speak (Say block)
+
+ 
+2. - [ ] Have a recorded message on key press (record, play, when key pressed)
+
+4. - [ ] Have 2 different Sprites doing 2 different motions at same time (switching sprites)
+ 
+3. - [ ] Change the background and sprites in that background (backdrop change)
+
+ 
+4. - [ ] Have a Sprite jump 5 times using glide (Glide, x and y position, repeat loops)
+
+5. - [ ] Have a drum play 3 different beats and change color each time it changes beats (sound, color effects)
+
+6. - [ ] Pick a dancing sprite and change the costume to make it look like they are dancing (import costumes, change costumes)
+
+Some samples, so far.
+
+{% include zakviewer.html Name="Untitled\-29 on Scratch" ID="https://scratch.mit.edu/projects/604428411/" caption="Student M added sound and edited the characters to remove the backgrounds." %}
+
+{% include zakviewer.html Name="Untitled\-94 on Scratch" ID="https://scratch.mit.edu/projects/604418295/" caption="Student N included text to speech message on start and a Christmas present." %}
+
+{% include zakviewer.html Name="Untitled\-10 on Scratch" ID="https://scratch.mit.edu/projects/604421482/" caption="Student K1 made a hat, and with a little help added some snow." %}
+
+{% include zakviewer.html Name="2021 11 19 ニュース on Scratch" ID="https://scratch.mit.edu/projects/604621438/" caption="Student K2 is making a game with flying horses and a flying Santa who has to avoid them." %}
+
+
+Disappearing Bears
+  : Student N made this project where the main character makes the bears disappear. 
+
+{% include zakviewer.html Name="Untitled\-95 on Scratch" ID="https://scratch.mit.edu/projects/604424736/" caption="" %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## November 13th
