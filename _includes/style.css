@@ -200,6 +200,19 @@ h2 {
             padding: 0px 0px 0px 20px; */
 }
 
+/* removes image from task lists inside ordered lists */
+ol ul li.task-list-item {
+    list-style-type: none;
+    list-style-image: none;
+} 
+/* fixes checkbox margins */
+input[type="checkbox"] {
+margin-right: 10px;}
+/* fixes task lists inside ordered lists */
+ul.task-list {
+    padding-left: 10px;
+}
+
 ul ol {
     list-style-image: url();
 }
