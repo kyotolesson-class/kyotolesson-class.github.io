@@ -144,11 +144,11 @@ Some samples, so far.
 {% include zakviewer.html Name="xmas 2021 11 22 with platformer\. on Scratch" ID="https://scratch.mit.edu/projects/606154777/" caption="This project is intended to be a game. I have added the code for the platformer, and student M is making the characters and other actions." %}
 
 
-{% include zakviewer.html Name="Untitled\-42" ID="https://scratch.mit.edu/projects/605094068/" caption="Student H has agressively tacked the steps one by one, and has finished more than half of them, and taken them farther than specified. He has mastered adding buttons with message blocks to control the appearance of the character and a reset button. " %}
+{% include zakviewer.html Name="Untitled\-42" ID="https://scratch.mit.edu/projects/605094068/" caption="Student H has aggressively tacked the steps one by one, and has finished more than half of them, and taken them farther than specified. He has mastered adding buttons with message blocks to control the appearance of the character and a reset button. " %}
 
-{% include zakviewer.html Name="Untitled\-12 on Scratch" ID="https://scratch.mit.edu/projects/605095720/editor" caption="Student A is doing a project about whether Santa Claus is real or not. She learned how to import gif images and make animations, and used the say blocks to ask a quesion. She has made a good start." %}
+{% include zakviewer.html Name="Untitled\-12 on Scratch" ID="https://scratch.mit.edu/projects/605095720/editor" caption="Student A is doing a project about whether Santa Claus is real or not. She learned how to import gif images and make animations, and used the say blocks to ask a question. She has made a good start." %}
 
-{% include zakviewer.html Name="Untitled\-6 on Scratch" ID="https://scratch.mit.edu/projects/564896942/editor" caption="Student has created a Chrstimas themed platformer project on his own. It is similar to projects we made as a class recently. Though he is often qquiet, it is clear from this project that he has paid close attention. He will have no problem completing the items on the list, and I may add some extra challenges for him. " %}
+{% include zakviewer.html Name="Untitled\-6 on Scratch" ID="https://scratch.mit.edu/projects/564896942/editor" caption="Student has created a Christmas themed platformer project on his own. It is similar to projects we made as a class recently. Though he is often quiet, it is clear from this project that he has paid close attention. He will have no problem completing the items on the list, and I may add some extra challenges for him. " %}
 
 {% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/605094917/editor" caption="Student J is working on what appears to be a platformer project, though he is still just creating his characters." %}
 
