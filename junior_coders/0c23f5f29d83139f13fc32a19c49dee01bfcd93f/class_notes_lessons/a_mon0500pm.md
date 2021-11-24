@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 22nd](#november-22nd)
+  * [Recap for November 22nd](#recap-for-november-22nd)
 * [November 15th](#november-15th)
   * [General Reminder](#general-reminder)
   * [Recap for November 15th](#recap-for-november-15th)
@@ -102,6 +104,58 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+
+
+<details markdown=1>
+<summary markdown=1>## November 22nd
+</summary>
+
+## November 22nd
+
+### Recap for November 22nd
+
+Christmas Project 
+  : Today I gave the kids an Christmas project assignment. The project is intended as an assessment of their progress in the class, and after some initial reluctance, the kids seemed on board with it. The project must include the following elements (and related  skills): 
+
+1. - [ ] Must be appropriate to the theme of Christmas and the interesting creative and original
+
+2. - [ ] Include sounds on start and on click (sound block)
+ 
+1. - [ ] Change appearance of characters on events (Looks size and costume block)
+
+3. - [ ] Have sprite speak (Say block)
+
+ 
+2. - [ ] Have a recorded message on key press (record, play, when key pressed)
+
+4. - [ ] Have 2 different Sprites doing 2 different motions at same time (switching sprites)
+ 
+3. - [ ] Change the background and sprites in that background (backdrop change)
+
+ 
+4. - [ ] Have a Sprite jump 5 times using glide (Glide, x and y position, repeat loops)
+
+5. - [ ] Have a drum play 3 different beats and change color each time it changes beats (sound, color effects)
+
+6. - [ ] Pick a dancing sprite and change the costume to make it look like they are dancing (import costumes, change costumes)
+
+Some samples, so far.
+
+{% include zakviewer.html Name="xmas 2021 11 22 with platformer\. on Scratch" ID="https://scratch.mit.edu/projects/606154777/" caption="This project is intended to be a game. I have added the code for the platformer, and student M is making the characters and other actions." %}
+
+
+{% include zakviewer.html Name="Untitled\-42" ID="https://scratch.mit.edu/projects/605094068/" caption="Student H has agressively tacked the steps one by one, and has finished more than half of them, and taken them farther than specified. He has mastered adding buttons with message blocks to control the appearance of the character and a reset button. " %}
+
+{% include zakviewer.html Name="Untitled\-12 on Scratch" ID="https://scratch.mit.edu/projects/605095720/editor" caption="Student A is doing a project about whether Santa Claus is real or not. She learned how to import gif images and make animations, and used the say blocks to ask a quesion. She has made a good start." %}
+
+{% include zakviewer.html Name="Untitled\-6 on Scratch" ID="https://scratch.mit.edu/projects/564896942/editor" caption="Student has created a Chrstimas themed platformer project on his own. It is similar to projects we made as a class recently. Though he is often qquiet, it is clear from this project that he has paid close attention. He will have no problem completing the items on the list, and I may add some extra challenges for him. " %}
+
+{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/605094917/editor" caption="Student J is working on what appears to be a platformer project, though he is still just creating his characters." %}
+
+{% include zakviewer.html Name="Untitled\-49 on Scratch" ID="https://scratch.mit.edu/projects/605090837/editor" caption="This snowy project by Student K includes a very small duckling. If you can find it, click it to hear it quack." %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## November 15th
