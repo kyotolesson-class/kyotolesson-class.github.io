@@ -178,7 +178,7 @@ Slashnight remod
   : He made one small correction to his attempted remod of Slashknight. 
 
 
-{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/546697575/editor/" caption="We went over how to find the x and y of a point, and he changed the x and y of the ruler, when it appears in level 2, to the position of the arrow below. The arrow is just there to help him find the coordinates he needs. " %}
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/546697575/" caption="We went over how to find the x and y of a point, and he changed the x and y of the ruler, when it appears in level 2, to the position of the arrow below. The arrow is just there to help him find the coordinates he needs. " %}
 
 
 Growing Tynker Platform Collection

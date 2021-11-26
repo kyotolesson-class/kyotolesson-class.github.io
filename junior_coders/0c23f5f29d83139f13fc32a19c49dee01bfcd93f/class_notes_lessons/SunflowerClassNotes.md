@@ -221,50 +221,50 @@ Late Project
 
 Then he made a shooting game that fires. We worked on making the bullets go in teh same direction the character is pointing.
 
-{% include zakviewer.html Name="Untitled\-137 on Scratch" ID="https://scratch.mit.edu/projects/588307124/editor/" caption="Left and right arrow move, space shoots." %}
+{% include zakviewer.html Name="Untitled\-137 on Scratch" ID="https://scratch.mit.edu/projects/588307124/" caption="Left and right arrow move, space shoots." %}
 
 Fighting Game
   : Students Y worked on making a fighting game with a character and a sword. Student M also made one, and explored other projects, like a music box project. 
 
 {% include zakviewer.html Name="Student Y sword game" ID="https://scratch.mit.edu/projects/592280068/" caption="" %}
 
-{% include zakviewer.html Name="Student M" ID="https://scratch.mit.edu/projects/596292710/editor/" caption="This is just the character for now." %}
+{% include zakviewer.html Name="Student M" ID="https://scratch.mit.edu/projects/596292710/" caption="This is just the character for now." %}
 
-{% include zakviewer.html Name="まいぜん on Scratch" ID="https://scratch.mit.edu/projects/543629972/editor/" caption="" %}
+{% include zakviewer.html Name="まいぜん on Scratch" ID="https://scratch.mit.edu/projects/543629972/" caption="" %}
 
 Favorite Character Series 
   : Student N continues to make projects with his favorite character Abu in them.  This week he made a pong game that has a cheerleading Abu.
 
-{% include zakviewer.html Name="Cheering Abu Pong" ID="https://scratch.mit.edu/projects/543629972/editor/" caption="" %}
+{% include zakviewer.html Name="Cheering Abu Pong" ID="https://scratch.mit.edu/projects/543629972/" caption="" %}
 
 Abu moves in a random direction:
 
-{% include zakviewer.html Name="Abu moves in a random direction:" ID="https://scratch.mit.edu/projects/596302339/editor" caption="This project is not quite complete, but pressing the up arrow keeps Abbu flying." %}
+{% include zakviewer.html Name="Abu moves in a random direction:" ID="https://scratch.mit.edu/projects/596302339/" caption="This project is not quite complete, but pressing the up arrow keeps Abbu flying." %}
 
 
 A jumping Abu meets a bear:
 
-{% include zakviewer.html Name="jumping Abu meets a bear" ID="https://scratch.mit.edu/projects/596302339/editor" caption="" %}
+{% include zakviewer.html Name="jumping Abu meets a bear" ID="https://scratch.mit.edu/projects/596302339/" caption="" %}
 
 and Flappy Abu: 
 
-{% include zakviewer.html Name="Flappy Abu" ID="https://scratch.mit.edu/projects/571917316/editor" caption="" %}
+{% include zakviewer.html Name="Flappy Abu" ID="https://scratch.mit.edu/projects/571917316/" caption="" %}
 
 Robot Jumper 
   : Student K1 worked on a jumping project with a huge robot jumping over a rabbit.
 
-{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/596291060/editor/" caption="" %}
+{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/596291060/" caption="" %}
 
 
 Underwater Penguin and Fish
   : Student K1 also made an Underwater Penguin and Fish Project. 
 
-{% include zakviewer.html Name="Underwater Penguin and Fish" ID="https://scratch.mit.edu/projects/596286718/editor/" caption="There was a bug in tone of the blocks, which I have fixed. She used japanese characters." %}
+{% include zakviewer.html Name="Underwater Penguin and Fish" ID="https://scratch.mit.edu/projects/596286718/" caption="There was a bug in tone of the blocks, which I have fixed. She used japanese characters." %}
 
 Tower Defense
   : Student K2 continued working on his Battle Cats type Tower Defense project. He a second tower and made it shoot when its store is clicked.
 
-{% include zakviewer.html Name="Untitled\-4 Tank Game on Scratch" ID="https://scratch.mit.edu/projects/589833446/editor/" caption="" %}
+{% include zakviewer.html Name="Untitled\-4 Tank Game on Scratch" ID="https://scratch.mit.edu/projects/589833446/" caption="" %}
 
 Road Crossing
   : Student H1 took a break from his Mario Project and worked on a Road Crossing game in Scratch Jr. He made the roads and started making cars for it.
@@ -306,7 +306,7 @@ he added his own "death ray" to his project.
 Solar panel 
   : Student R's Solar Panel project now has a shop. In the shop you are able to by more solar panels. He used if blocks and backdrop sensors to control the visibility of the shop and shop items. 
 
-{% include zakviewer.html Name="Solar Panel 2021 10 29 on Scratch" ID="https://scratch.mit.edu/projects/593628239/editor" caption="" %}
+{% include zakviewer.html Name="Solar Panel 2021 10 29 on Scratch" ID="https://scratch.mit.edu/projects/593628239/" caption="" %}
 
 Kanna 
   : Student K1 was very productive working on tutorials in Scratch. She made a Halloween project (with sounds), a Balloon Popping project (with 2 balloons), and an Underwater Starfish Chase (with a score). She needed some encouragement in modifying or going beyond the basic tutorials.
@@ -774,7 +774,7 @@ Student M did a makeup class today. He came up with the idea of making  a roulet
 
 
 
-{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556373760/editor/" caption="To start game press space, then the up arrow, left arrow, and right arrow keys. This starts the wheels turning. Pressing a, b, or c, stops the respective roulette." %}
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556373760/" caption="To start game press space, then the up arrow, left arrow, and right arrow keys. This starts the wheels turning. Pressing a, b, or c, stops the respective roulette." %}
 
 
 </details>
