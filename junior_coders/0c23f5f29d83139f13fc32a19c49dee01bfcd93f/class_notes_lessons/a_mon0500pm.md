@@ -146,13 +146,13 @@ Some samples, so far.
 
 {% include zakviewer.html Name="Untitled\-42" ID="https://scratch.mit.edu/projects/605094068/" caption="Student H has aggressively tacked the steps one by one, and has finished more than half of them, and taken them farther than specified. He has mastered adding buttons with message blocks to control the appearance of the character and a reset button. " %}
 
-{% include zakviewer.html Name="Untitled\-12 on Scratch" ID="https://scratch.mit.edu/projects/605095720/editor" caption="Student A is doing a project about whether Santa Claus is real or not. She learned how to import gif images and make animations, and used the say blocks to ask a question. She has made a good start." %}
+{% include zakviewer.html Name="Untitled\-12 on Scratch" ID="https://scratch.mit.edu/projects/605095720/" caption="Student A is doing a project about whether Santa Claus is real or not. She learned how to import gif images and make animations, and used the say blocks to ask a question. She has made a good start." %}
 
-{% include zakviewer.html Name="Untitled\-6 on Scratch" ID="https://scratch.mit.edu/projects/564896942/editor" caption="Student has created a Christmas themed platformer project on his own. It is similar to projects we made as a class recently. Though he is often quiet, it is clear from this project that he has paid close attention. He will have no problem completing the items on the list, and I may add some extra challenges for him. " %}
+{% include zakviewer.html Name="Untitled\-6 on Scratch" ID="https://scratch.mit.edu/projects/564896942/" caption="Student has created a Christmas themed platformer project on his own. It is similar to projects we made as a class recently. Though he is often quiet, it is clear from this project that he has paid close attention. He will have no problem completing the items on the list, and I may add some extra challenges for him. " %}
 
-{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/605094917/editor" caption="Student J is working on what appears to be a platformer project, though he is still just creating his characters." %}
+{% include zakviewer.html Name="Untitled\-7 on Scratch" ID="https://scratch.mit.edu/projects/605094917/" caption="Student J is working on what appears to be a platformer project, though he is still just creating his characters." %}
 
-{% include zakviewer.html Name="Untitled\-49 on Scratch" ID="https://scratch.mit.edu/projects/605090837/editor" caption="This snowy project by Student K includes a very small duckling. If you can find it, click it to hear it quack." %}
+{% include zakviewer.html Name="Untitled\-49 on Scratch" ID="https://scratch.mit.edu/projects/605090837/" caption="This snowy project by Student K includes a very small duckling. If you can find it, click it to hear it quack." %}
 
 </details>
 
@@ -172,7 +172,7 @@ It is important for the safety of your children that we have written notice if a
 Basic Paint Battle Game
   : Today, some students worked on modifying a basic Paint Battle/Splatton type game.
 
-{% include zakviewer.html Name="PBRR base game 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602449292/editor" caption="If you press space, a number representing the amount of white appears. The lower this number, the better your score." %}
+{% include zakviewer.html Name="PBRR base game 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602449292/" caption="If you press space, a number representing the amount of white appears. The lower this number, the better your score." %}
 
 The goal for them was to add their own character, make the character move randomly around the screen. Then, using the brightness effect, the character should stamp a white outline of itself, which erases any paint blobs beneath it. To do this they use blocks like this:
 
@@ -182,7 +182,7 @@ The goal for them was to add their own character, make the character move random
 Student S
   : This version includes two games in one. 
 
-{% include zakviewer.html Name="Student S Paint battle rifle randomized" ID="https://scratch.mit.edu/projects/601619813/editor" caption="In addition to the splatton type game, you have to avoid the squid. If your mouse touches the squid, the game is over." %}
+{% include zakviewer.html Name="Student S Paint battle rifle randomized" ID="https://scratch.mit.edu/projects/601619813/" caption="In addition to the splatton type game, you have to avoid the squid. If your mouse touches the squid, the game is over." %}
 
 
 Student M 
@@ -204,7 +204,7 @@ Individual Projects
 Sea Bun Pet 
   : Student K is in the process of creating a Sea Bun Pet Game. She is using various when key pressed blocks to do various actions. 
 
-{% include zakviewer.html Name="sea bun pet 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602450233/editor" caption="Today she modified the project design (press space). Press h to see the ball, s to change size of slug. Click the name box to change the name." %}
+{% include zakviewer.html Name="sea bun pet 2021 11 15 on Scratch" ID="https://scratch.mit.edu/projects/602450233/" caption="Today she modified the project design (press space). Press h to see the ball, s to change size of slug. Click the name box to change the name." %}
 
 FNF 
   : Student H continued working on his FNF project. 
@@ -280,7 +280,7 @@ Soccer game
   : Student J made their first Scratch Project, a soccer game project.
 
 
-{% include zakviewer.html Name="Soccer Game 2021 11 01" ID="https://scratch.mit.edu/projects/593083121/editor/" caption="press the green flag to see the player move." %}
+{% include zakviewer.html Name="Soccer Game 2021 11 01" ID="https://scratch.mit.edu/projects/593083121/" caption="press the green flag to see the player move." %}
 
 
 Space Shooter 
@@ -295,7 +295,7 @@ Remix and Hack
 FNF 
   : Student H continues his FNF game. He spent some time collecting and selecting resources for the project. In addition, he developed a plan for the opening sequence, and began walking through coding the initial sequence together. 
 
-{% include zakviewer.html Name="FNF resources remix copy on Scratch" ID="https://scratch.mit.edu/projects/593081941/editor" caption="Press Story to start the opening sequence." %}
+{% include zakviewer.html Name="FNF resources remix copy on Scratch" ID="https://scratch.mit.edu/projects/593081941/" caption="Press Story to start the opening sequence." %}
 
 
 </details>
@@ -724,7 +724,7 @@ Importing GIFs
 Singer
   : For this project, Student H made the singer sing using if key pressed and repeat until not pressed blocks. 
 
-{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556368023/editor/" caption="If the left arrow and up arrow key are pressed, the actor will 'speak' as long as the up arrow key is being pressed." %}
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/556368023/" caption="If the left arrow and up arrow key are pressed, the actor will 'speak' as long as the up arrow key is being pressed." %}
 
 Duck Breaks Egg
   : Student S invented his own Duck Breaks Egg game, where the arrow keys are used to make the Duck break the egg. At first one could only break one egg per game. I challenged him to make it so we could press space button to keep playing. We also displayed the score. Once he managed that I challenged him ot make the game progressively harder, such as by changing the speed of the egg's getaway.
