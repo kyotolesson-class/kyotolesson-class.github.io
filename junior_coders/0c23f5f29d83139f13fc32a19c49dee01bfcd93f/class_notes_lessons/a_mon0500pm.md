@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [November 29th](#november-29th)
+  * [Recap for November 29th](#recap-for-november-29th)
 * [November 22nd](#november-22nd)
   * [Recap for November 22nd](#recap-for-november-22nd)
 * [November 15th](#november-15th)
@@ -104,6 +106,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 **Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+<details markdown=1>
+<summary markdown=1>## November 29th
+</summary>
+
+## November 29th
+
+
+### Recap for November 29th
+
+Today students continued working on their year-end projects.
+
+{% include zakviewer.html Name="Xmas 2021 11 29 H on Scratch" ID="https://scratch.mit.edu/projects/609422750/" caption="Student H worked his way down the list very methodically. I was able to slowly and carefully go over Cartesian coordinates with him and he was able to make a character glide to the appropriate place. We also worked on changing the backdrop." %}
+
+
+
+{% include zakviewer.html Name="Xmas 2021 11 29 K on Scratch" ID="https://scratch.mit.edu/projects/609426041/" caption="Student K added some sounds and also made characters glide and jump when clicked. The next step will be to randomize the recipient of the snowball." %}
+
+
+
+{% include zakviewer.html Name="Xmas 2021 11 29 S on Scratch" ID="https://scratch.mit.edu/projects/609426402/" caption="Student S has made steady progress on this project on their own, aside from some help making the sound button work." %}
+
+
+{% include zakviewer.html Name="Xmas 2021 11 29 J on Scratch" ID="https://scratch.mit.edu/projects/609428830/" caption="Student J added music to the project, and actions for the arrow keys. Despite this being the first original project for Student the structured nature of it and some individual attention is helping his progress greatly and he is keeping up well with the rest of the class." %} 
+
+
+{% include zakviewer.html Name="Xmas 2021 11 29 A on Scratch" ID="https://scratch.mit.edu/projects/609430680/" caption="Student A recorded a message and added a lighting effect to her Xmas tree." %}
+
+
+
+{% include zakviewer.html Name="Xmas 2021 11 29 M on Scratch" ID="https://scratch.mit.edu/projects/609432347/" caption="Student M first learned how to make the costumes for the cat change one by one, and then how to use a repeat loop to automate the process." %}
+
+
+</details>
+
 
 
 <details markdown=1>

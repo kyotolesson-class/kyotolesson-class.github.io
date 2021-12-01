@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [November 27th](#november-27th)
+  * [Recap for November 27th](#recap-for-november-27th)
 * [November 20th](#november-20th)
   * [Recap for November 20th](#recap-for-november-20th)
 * [November 13th](#november-13th)
@@ -102,6 +104,49 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## November 27th
+</summary>
+
+## November 27th
+
+
+### Recap for November 27th
+
+Today students continued working on their end-of-year projects.
+
+Student K1
+
+{% include zakviewer.html Name="XMAS 2021 11 27 K" ID="https://scratch.mit.edu/projects/604421482/" caption="The student practiced uploading a Gif and making music play when clicking a sprite." %}
+
+Student K2
+
+{% include zakviewer.html Name="XMAS 2021 11 27 ニュース" ID="https://scratch.mit.edu/projects/608054677/" caption="Today we made made horse travel in a zig zag forever. We also added a gif and made an animation." %}
+
+Student Y
+
+{% include zakviewer.html Name="XMAS 2021 11 27 Y" ID="https://scratch.mit.edu/projects/600588791/" caption="Student Y was very productive. He made the milk disappear using a broadcast, and using hide, show, and wait. He made Santa appear and disappear, made a present appear, made the cat go to sleep and wake up using a costume change and a position change and waits. He also used text to speech to make the cat speak." %}
+
+Student N 
+  : Student N worked on 2 projects. In one project I taught Student N about how to create clones and make the clones go to random places. They also disappear if they touch Abu.
+
+{% include imgur.html title="Ninja Jr." ID="https://i.imgur.com/EbOD6Gf.png" caption="In this project I taught Student N about how to create clones and make the clones go to random places. They also disappear if they touch Abu." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2021 11 27 ninja JR " ID="https://scratch.mit.edu/projects/608057879/" caption="" %}
+
+In the other he made the cake show, and used the say,  music, and text to speech blocks.
+
+{% include zakviewer.html Name="XMAS 2021 11 27 N" ID="https://scratch.mit.edu/projects/604418295/" caption="" %}
+
+
+Student M 
+  : Student M was notably kind and helpful to another student who was struggling. He also continued his Xmas Music Project.
+
+{% include zakviewer.html Name="XMAS 2021 11 27 M" ID="https://scratch.mit.edu/projects/604428411/" caption="Today he focused on importing gifs." %}
+
+</details>
 
 
 <details markdown=1>
