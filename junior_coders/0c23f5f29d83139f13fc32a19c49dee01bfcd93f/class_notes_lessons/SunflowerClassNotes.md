@@ -118,7 +118,7 @@ Today students continued working on their end-of-year projects.
 
 Student K1
 
-{% include zakviewer.html Name="Untitled\-10" ID="https://scratch.mit.edu/projects/604421482/" caption="The student practiced uploading a Gif and making music play when clicking a sprite." %}
+{% include zakviewer.html Name="XMAS 2021 11 27 K" ID="https://scratch.mit.edu/projects/604421482/" caption="The student practiced uploading a Gif and making music play when clicking a sprite." %}
 
 Student K2
 
@@ -126,7 +126,7 @@ Student K2
 
 Student Y
 
-{% include zakviewer.html Name="Untitled\-144" ID="https://scratch.mit.edu/projects/600588791/" caption="Student Y was very productive. He made the milk disappear using a broadcast, and using hide, show, and wait. He made Santa appear and disappear, made a present appear, made the cat go to sleep and wake up using a costume change and a position change and waits. He also used text to speech to make the cat speak." %}
+{% include zakviewer.html Name="XMAS 2021 11 27 Y" ID="https://scratch.mit.edu/projects/600588791/" caption="Student Y was very productive. He made the milk disappear using a broadcast, and using hide, show, and wait. He made Santa appear and disappear, made a present appear, made the cat go to sleep and wake up using a costume change and a position change and waits. He also used text to speech to make the cat speak." %}
 
 Student N 
   : Student N worked on 2 projects. In one project I taught Student N about how to create clones and make the clones go to random places. They also disappear if they touch Abu.
@@ -134,17 +134,17 @@ Student N
 {% include imgur.html title="Ninja Jr." ID="https://i.imgur.com/EbOD6Gf.png" caption="In this project I taught Student N about how to create clones and make the clones go to random places. They also disappear if they touch Abu." width="" height="" spacer="" %}
 
 
-{% include zakviewer.html Name="2021 11 27 ninja JR NEO on Scratch" ID="https://scratch.mit.edu/projects/608057879/" caption="" %}
+{% include zakviewer.html Name="2021 11 27 ninja JR " ID="https://scratch.mit.edu/projects/608057879/" caption="" %}
 
 In the other he made the cake show, and used the say,  music, and text to speech blocks.
 
-{% include zakviewer.html Name="Xmas Project" ID="https://scratch.mit.edu/projects/604418295/" caption="" %}
+{% include zakviewer.html Name="XMAS 2021 11 27 N" ID="https://scratch.mit.edu/projects/604418295/" caption="" %}
 
 
 Student M 
   : Student M was notably kind and helpful to another student who was struggling. He also continued his Xmas Music Project.
 
-{% include zakviewer.html Name="Xmas Music" ID="https://scratch.mit.edu/projects/604428411/" caption="Today he focused on importing gifs." %}
+{% include zakviewer.html Name="XMAS 2021 11 27 M" ID="https://scratch.mit.edu/projects/604428411/" caption="Today he focused on importing gifs." %}
 
 </details>
 
