@@ -141,6 +141,32 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## November 26th
+</summary>
+
+## November 26th
+
+
+### Recap for November 26th
+
+Good progress today, forward class today, though we started off with a rousing session of a game that I recently made. The kids were nice enough to give it a thorough test run. 
+
+{% include zakviewer.html Name="PBRR Paint Battle Crush on Scratch" ID="https://scratch.mit.edu/projects/601710943/" caption="" %}
+
+
+Then back to work:
+
+Kimetsu no Yaiba 
+
+{% include zakviewer.html Name="Kimetsu no Yaiba" ID="https://scratch.mit.edu/projects/607328364/" caption="Student K made the ball move in a zig zag on key press." %}
+
+Harry Potter
+
+{% include tynkerprojectpage.html Name="Harry Potter" ID="https://www.tynker.com/play/christmas-project/61a360f8e1380855ee2817d4-878417XqWNXzQlrpsQ72WzjKftAdYk" caption="Student Y worked on making buttons and clicking the buttons go to a new level. He also added music" %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## November 19th
