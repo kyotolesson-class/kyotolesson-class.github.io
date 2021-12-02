@@ -2,30 +2,14 @@
 Works with zakviewer since turbowarp stopped working correctly at times.
 uses rstrip to remove spaces to make sure bold works
 uses truncate to shorten the name, and doesn't display the ID(link)
-the ID is actually the link to the project. 
-The name is whatever you want to call it, not the actual project name.
+the ID is aactually the link to the project. 
+THe name is whatever you want to call it, not the actual project name.
 The caption can be blank.
 {% endcomment %}
 <div class="giphycontainer jsgif turbowarp">
-
-{% comment %}
-
-The div below does the lazy loading. The 
-name="insertZak" is linked to a jquery function that generates 
-var domElement = $(
-			'<iframe src="https://scratch-viewer.techlit.app/view#project=' + $(this).attr("ID") + '&backgroundColor=#ffec9f&width=515" width="482" height="393" allowtransparency="true" frameborder="0" scrolling="no" allowfullscreen></iframe>'
-		)
-
-and replaces the div with domElement the first time it is clicked.   
-
-The first div is a dummy that allows the ournav-item styling to be applied ot the second (since first child has "no border/background" set via css.)
-{% endcomment %}
-
-<div class="ournav-item" style="display:none;"></div>
-<div class="ournav-item zakitem" style="border:none;text-align: center;" projectID="{{ include.ID | split: "/" | last }}"  name="insertZak">
-<a><img src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"><br>Click to run project here, or below to open in scratch, or to run the "zakviewer" in a new tab</a>
-</div>
-
+<iframe src="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&backgroundColor=#ffec9f&width=515"
+width="482" height="393" allowtransparency="true" frameborder="0"
+scrolling="no" allowfullscreen></iframe>
 <div class="giphyattribution" style=""><p class="turboattribution"><a title="{{include.Name}}" href="{{ include.ID}}">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}} {%- endif -%} </a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="Name of project: {{include.Name}} Project ID:
 {{include.ID}}" style="text-decoration: none;">&nbsp;*open in* <span style="background: #ff5a5a; color: white; border-bottom: 1px solid #cc3c3c; border-radius: 0px 2px 2px 0px; padding-right: 2px; border-top: .2px solid #ffa785;">*Zakviewer*</span></a></p>
 </div>

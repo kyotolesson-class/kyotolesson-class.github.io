@@ -833,7 +833,7 @@ height: auto;
 
 /* puts the attribution in the right place */
 .giphycontainer .giphyattribution  {
-  opacity: 0;
+  opacity: 1;/* formerly 0, but removed hover */
   float:right;
   height:0px;
   margin:0px;
