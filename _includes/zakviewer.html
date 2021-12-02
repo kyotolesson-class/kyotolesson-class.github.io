@@ -20,16 +20,20 @@ and replaces the div with domElement the first time it is clicked.
 
 The first div is a dummy that allows the ournav-item styling to be applied ot the second (since first child has "no border/background" set via css.)
 
-If images are too slow, use this instead???
+THis gets my user profile pic
 <img height="50px" style="align:left;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png">
 
+TThis should get the project thumbnail but it is often returning the generic scratch cat instead. needs debugging.
+
+<img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
 
 {% endcomment %}
 
 <div class="ournav-item" style="display:none;"></div>
 <div class="ournav-item zakitem" style="border:none;text-align: center;" projectID="{{ include.ID | split: "/" | last }}"  name="insertZak">
 <a>
-<img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
+
+<img height="50px" style="align:left;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png">
 </a>
 
 <br>
