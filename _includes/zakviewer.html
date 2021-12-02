@@ -32,12 +32,12 @@ TThis should get the project thumbnail but it is often returning the generic scr
 <div class="ournav-item" style="display:none;"></div>
 <div class="ournav-item zakitem" style="border:none;text-align: center;" projectID="{{ include.ID | split: "/" | last }}"  name="insertZak">
 <a>
+<img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
 
-<img height="50px" style="align:left;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png">
 </a>
 
 <br>
-Click to run project here, or below to open in scratch, or to run the "zakviewer" in a new tab
+<img height="50px" style="align:left;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"> Click to run project here, or below to open in scratch, or to run the "zakviewer" in a new tab
 </div>
 
 <div class="giphyattribution" style=""><p class="turboattribution"><a title="{{include.Name}}" href="{{ include.ID}}">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}} {%- endif -%} </a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="Name of project: {{include.Name}} Project ID:
