@@ -1,6 +1,12 @@
 $(document).ready(function () {
 
 
+// tooltips
+
+$('.tooltips').tooltip({
+   tooltipClass: "tooltips"
+});
+
 	// implements lazy loading of zak iframes to speed page load.
     $("button[name='insertZak'], div[name='insertZak'], a[name='insertZak']").one("click", function () {
 		var domElement = $(

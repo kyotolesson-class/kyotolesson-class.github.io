@@ -699,6 +699,21 @@ background: var(--menuBG);
 background-color: var(--linkhover);
 }
 
+
+.tooltips {
+ /*    background: #333;
+    color: #fff; */
+    background-color: var(--scrollbarBG);
+    color: var(--ourdarkblue)
+    font-size: 70%;
+    text-align: left;
+     font-family: Cochin, Times, "Times New Roman", serif;
+}
+
+
+}
+
+
 /* this is better */
 
 div.galleryslides::-webkit-scrollbar-track {
