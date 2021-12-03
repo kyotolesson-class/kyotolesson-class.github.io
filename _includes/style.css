@@ -133,6 +133,7 @@ nav ul a:hover {
     border-radius: 12px;*/
 }
 
+
 .ournav-links {
     list-style: none;
     display: flex;
@@ -690,6 +691,13 @@ div.galleryslides::-webkit-scrollbar-thumb,
     height: fit-content;
 }
 
+.ournav-item.zakitem:hover {
+background: var(--menuBG);
+}
+
+.ournav-item.zakitem {
+background-color: var(--linkhover);
+}
 
 /* this is better */
 
