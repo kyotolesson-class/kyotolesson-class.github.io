@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [December 6th](#december-6th)
+  * [Recap for December 6th](#recap-for-december-6th)
 * [November 29th](#november-29th)
   * [Recap for November 29th](#recap-for-november-29th)
 * [November 22nd](#november-22nd)
@@ -105,7 +107,42 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
-**Please note Turbowarp previews may not be working at the moment. Click "open in Turbowarp" link to see the the preview.**
+<details markdown=1>
+<summary markdown=1>## December 6th
+</summary>
+
+## December 6th
+
+### Recap for December 6th
+
+Birthday
+  : Today was Student K's birthday and we celebrated this and another student's recent birthday with a snack and drinks and a toast. 
+
+Scratch Contest
+  : Meanwhile, I have organized a Scratch Contest for Jr. Coders classes Xmas Projects. Scratch Contests are a tradition in Scratch whereby participants to post their projects in a Contest Studio and other guests review them, such as by posting their favorites in a Showcase or winners studio.  [This is the STAGE 1 Jr\. Coders Christmas 2021](https://scratch.mit.edu/studios/30730290), and  [THis is the SHOWCASE for Jr\. Coders Christmas Challenge](https://scratch.mit.edu/studios/30730310)
+
+Recap
+  : Students continued working on the Christmas Project. 
+
+{% include zakviewer.html Name="2021 12 06 Xmas Student M" ID="https://scratch.mit.edu/projects/612142589/" caption="Student H started his Christmas project by adding a Jingle Bells Santa gif and some Christmasy images. This was a good effort on his part." %}
+
+{% include zakviewer.html Name="2021 12 06 Xmas Student H" ID="https://scratch.mit.edu/projects/609422353/" caption="Student H was the first student to complete the Christmas Challenge. He made some progress on working out solutions and directions by himself before asking for help." %}
+
+
+{% include zakviewer.html Name="2021 12 06 Xmas Student S" ID="https://scratch.mit.edu/projects/564896942/" caption="student S's main effort was making the triangle sprite in one of the later screens jump using the glide block. This project is quite playable and represents a lot of careful thought and creativity." %}
+
+{% include zakviewer.html Name="021 12 06 Xmas Student K" ID="https://scratch.mit.edu/projects/605090837/" caption="Student K arrived late but was able to refine the pose of one of players today." %}
+
+
+{% include zakviewer.html Name="021 12 06 Xmas Student A" ID="https://scratch.mit.edu/projects/605095720/" caption="Student A made an intro screen by hiding the characters in the beginning of the game, and showing them when the button is clicked. " %}
+
+
+{% include zakviewer.html Name="021 12 06 Xmas Student J" ID="https://scratch.mit.edu/projects/605094917/" caption="Student J learned how to use the touching color block to make Sanat return home if he touched black, and how to switch to a new screen when he reaches the flag.His next step is to make the red dot swing back and forth. It was good to see this student come up with original ideas for this project." %}
+
+
+
+</details>
+
 <details markdown=1>
 <summary markdown=1>## November 29th
 </summary>

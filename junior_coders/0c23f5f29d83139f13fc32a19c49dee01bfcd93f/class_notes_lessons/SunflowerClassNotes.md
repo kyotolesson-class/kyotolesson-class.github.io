@@ -13,6 +13,10 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [December 6th](#december-6th)
+  * [Recap for December 6th](#recap-for-december-6th)
+* [December 4th](#december-4th)
+  * [Recap for December 4th](#recap-for-december-4th)
 * [November 27th](#november-27th)
   * [Recap for November 27th](#recap-for-november-27th)
 * [November 20th](#november-20th)
@@ -104,6 +108,55 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+<details markdown=1>
+<summary markdown=1>## December 6th Makeup Class
+</summary>
+
+## December 6th
+
+### Recap for December 6th
+
+
+{% include zakviewer.html Name="2021 12 06 Xmas Student H" ID="https://scratch.mit.edu/projects/612142589/" caption="Great effort on music and a cheerful video background on this first step towards a Christmas project for Student H." %}
+
+
+</details>
+
+
+
+<details markdown=1>
+<summary markdown=1>## December 4th
+</summary>
+
+## December 4th
+
+### Recap for December 4th
+
+
+Scratch Contest
+  : Meanwhile, I have organized a Scratch Contest for Jr. Coders classes Xmas Projects. Scratch Contests are a tradition in Scratch whereby participants to post their projects in a Contest Studio and other guests review them, such as by posting their favorites in a Showcase or winners studio.  [This is the STAGE 1 Jr\. Coders Christmas 2021](https://scratch.mit.edu/studios/30730290), and  [THis is the SHOWCASE for Jr\. Coders Christmas Challenge](https://scratch.mit.edu/studios/30730310)
+
+
+ {% include zakviewer.html Name="2021 12 04 Xmas Student M" ID="https://scratch.mit.edu/projects/604428411/" caption="Student M added some music and video to his project." %}
+
+ {% include zakviewer.html Name="2021 12 04 Xmas Student Y" ID="https://scratch.mit.edu/projects/611481362/" caption="Student Y began working on a second Christmas project covering the individual items of the Christmas Challenge checklist off one by one. Pressing the space key makes the Sprite rotate. Pressing the a key makes music play." %}
+
+{% include zakviewer.html Name="2021 12 04 Xmas Student N" ID="https://scratch.mit.edu/projects/611499721/" caption="Silmilarly, Student N's second Christmas project has similar music, but the arrow keys change the costume." %}
+
+{% include zakviewer.html Name="2021 12 04 Xmas Student K1" ID="https://scratch.mit.edu/projects/600576643/" caption="In addition to making some changes to her Christmas project, Student K1 also worked on a maze project." %}
+
+{% include zakviewer.html Name="2021 12 04 Xmas Student K2" ID="https://scratch.mit.edu/projects/600576643/" caption="Student K2 made a very cheerful moving Christmas background as a start on his project." %}
+
+Scratch 
+  : Student H continued to work in ScratchJr.. After completing a basic story about a boy going to sleep on Christmas Eve, I challenged him to extend each part of the story by adding conversations or actions.
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## November 27th

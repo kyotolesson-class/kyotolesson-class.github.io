@@ -12,6 +12,10 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [December 3rd](#december-3rd)
+  * [Recap for December 3rd](#recap-for-december-3rd)
+* [November 26th](#november-26th)
+  * [Recap for November 26th](#recap-for-november-26th)
 * [November 19th](#november-19th)
   * [Recap for November 19th](#recap-for-november-19th)
 * [November 12th](#november-12th)
@@ -140,6 +144,32 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## December 3rd
+</summary>
+
+## December 3rd
+
+### Recap for December 3rd
+
+Scratch Contest
+  : I have organized a Scratch Contest for Jr. Coders classes Xmas Projects. Scratch Contests are a tradition in Scratch whereby participants to post their projects in a Contest Studio and other guests review them, such as by posting their favorites in a Showcase or winners studio.  [This is the STAGE 1 Jr\. Coders Christmas 2021](https://scratch.mit.edu/studios/30730290), and  [THis is the SHOWCASE for Jr\. Coders Christmas Challenge](https://scratch.mit.edu/studios/30730310)
+
+Recap
+  : Students continued working on the Christmas Project. 
+
+{% include zakviewer.html Name="2021 12 03 Xmas Student K" ID="https://scratch.mit.edu/projects/607328364/" caption="Student K created a new motion for the yellow ball that only happens when the up and right arrow keys together are pressed. We reused code from the Kimetsu no Yaiba project that makes a character move in a parabola, and used the 'and' conditional to test for both keys being pressed." %}
+
+{% include tynkerprojectpage.html Name="" ID="https://www.tynker.com/play/christmas-project-2021-12-05/61aef4572688f47da0257ab5-358644XrfEylcNT3w9U,kuAaJ88NQk" caption="This week we added presents that fly out of Santa's sled. To do this we borrowed code that was used to make Voldermort's death ray using clones." %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## November 26th
