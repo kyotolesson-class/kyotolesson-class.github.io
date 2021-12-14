@@ -112,8 +112,9 @@ screen and (max-width: 720px) {
     }
 }
 
+/* underline is for some nonlinks */
 a,
-nav ul a {
+nav ul a, .underline {
     color: var(--borderblue);
 }
 
@@ -257,7 +258,8 @@ a[title] {
 width: auto;
 }
 
-a[title]:not(.external):hover:after {
+
+bba[title]:not(.external):hover:after {
     content: attr(title);
     position: absolute;
     background: beige;
@@ -266,7 +268,7 @@ a[title]:not(.external):hover:after {
     padding: 10px;
     color: navy;
     display: block;
-    max-width: 50%;
+    /*max-width: 50%;*/
     z-index: 100;
 }
 
@@ -700,16 +702,31 @@ background-color: var(--linkhover);
 }
 
 
-.tooltips {
+.tooltipstyle {
  /*    background: #333;
     color: #fff; */
     background-color: var(--scrollbarBG);
-    color: var(--ourdarkblue)
-    font-size: 70%;
+    font-size: 70%; 
     text-align: left;
-     font-family: Cochin, Times, "Times New Roman", serif;
+    font-family: Cochin, Times, "Times New Roman", serif;
 }
 
+.tooltipstyle a {
+    color: var(--ourdarkblue);
+}
+
+.ui-widget-content a {
+color: var(--ourdarkblue);
+}
+
+.zakviewer {
+background: #ff5a5a;
+    color: white;
+    border-bottom: 1px solid #cc3c3c;
+    border-radius: 0px 2px 2px 0px;
+    padding-right: 2px;
+    border-top: 0.2px solid #ffa785;
+}
 
 }
 
@@ -1069,9 +1086,6 @@ margin-bottom: -7px;
     border-width: 25px 0 25px 50px;
     border-color: transparent transparent transparent #ff9900;
 }
-
-
-
 
 
 a.external {

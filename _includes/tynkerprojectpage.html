@@ -6,10 +6,10 @@ to the project page and the fullscreen version. tynker.html only shows the id as
 frameborder="0" allowfullscreen></iframe>
 <div class="giphyattribution" style="">
 <p class="tynkerattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name }}** {% else %}(untitled){%- endif -%}<br>
-<span class="tynkerattributionimagespan"><img class="" style="" src="/assets/tynkerattribution.png" alt="Name of project: {{include.Name}} Project ID: {{include.ID | split: "/" | last}}"></span> 
-<a href="https://www.tynker.com/community/projects/play/{{ include.ID | split: "/" | last }} " title="Name of project: {{include.Name}} Project ID:{{include.ID | split: "/" | last}}" >*Project page*</a> <a
-href="https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false"
-target="_blank" title="Name of project: {{include.Name}} Project ID:{{include.ID }}" style="text-decoration: none;">*fullscreen*</a>
+<span class="tynkerattributionimagespan"><img class="" style="" src="/assets/tynkerattribution.png" alt="Name of project: {{include.Name}} (ID={{include.ID | split: "/" | last}})"></span> 
+<a href="https://www.tynker.com/community/projects/play/{{ include.ID | split: "/" | last }} " title="{{include.Name}} (ID={{include.ID | split: "/" | last}})" class="tooltips">*Project page*</a> <a
+href="https://www.tynker.com/ide/embedded?p={{ include.ID | split: "/" | last | slice: 0, 24 }}&controls=true&autostart=false" 
+target="_blank" title="{{include.Name}} (ID={{ include.ID | split: "/" | last }})" class="tooltips" style="text-decoration: none;">*fullscreen*</a>
 </p>
 </div>
 </div>

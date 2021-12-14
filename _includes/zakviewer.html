@@ -34,12 +34,11 @@ TThis should get the project thumbnail but it is often returning the generic scr
 <p style=" padding:0px;margin-bottom:0px;"><a>
 <img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
 </a></p>
-<p style="font-size: 90%; font-family: Cochin, Times, 'Times New Roman', serif; padding:0px;margin-bottom:15px;"><img height="20px" style="float: left; padding: 10px 5px;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"> 
-Click to run project here, or below to open in scratch, or to run the "zakviewer" in a new tab</p>
+<p  style="font-size: 90%; font-family: Cochin, Times, 'Times New Roman', serif; padding:0px;margin-bottom:15px;"><img height="20px" style="float: left; padding: 0px 5px;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"> 
+Click image to run here. Links below to see in new tab.</p>
 </div>
 
-<div class="giphyattribution" style=""><p class="turboattribution"><a class="tooltips" title="{{include.Name}}" href="{{ include.ID}}">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}} {%- endif -%} </a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="Name of project: {{include.Name}} Project ID:
-{{include.ID}}" class="tooltips" style="text-decoration: none;">&nbsp;*open in* <span style="background: #ff5a5a; color: white; border-bottom: 1px solid #cc3c3c; border-radius: 0px 2px 2px 0px; padding-right: 2px; border-top: .2px solid #ffa785;">*Zakviewer*</span></a></p>
+<div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}}&nbsp;{%- endif -%} &nbsp;&nbsp;&nbsp; <a class="tooltips" title="{{include.Name}} (must be shared or logged in)" href="{{ include.ID}}"><img style="position:relative; top: 2px;" width="55px" src="/assets/ScratchLogo.png"/></a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="{{include.Name}}" class="tooltips" style="text-decoration: none;">&nbsp;<span class="zakviewer">*Zakviewer*</span></a></p>
 </div>
 </div>
 <div class="tynkercaptiondiv">

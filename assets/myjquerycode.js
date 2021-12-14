@@ -1,10 +1,50 @@
 $(document).ready(function () {
 
-
+/* forces click to open tooltip, but not working 
+$(".tooltips").tooltip({disabled:true});
+$(".tooltips").click(function() {
+    if($(this).tooltip("option", "disabled")) {
+        $(this).tooltip("enable");
+        $(this).tooltip("open");
+        $(this).off("mouseleave focusout");
+    } else {
+        $(this).tooltip("close");
+        $(this).tooltip("disable");
+    }
+});
+*/
 // tooltips
 
-$('.tooltips').tooltip({
-   tooltipClass: "tooltips"
+//$('.tooltips').tooltip({
+   //tooltipClass: "tooltips"
+//}); 
+
+// allows tooltip text to be selected and copied
+//  from https://stackoverflow.com/a/15014759https://stackoverflow.com/a/15014759
+$( document ).tooltip({
+  show: null, // null = show immediately 
+  items: '.tooltips',
+  tooltipClass: 'tooltipstyle',
+	content: function () {
+              return "<a class='' target='_blank' href='" + $(this).prop('href')+ "' title='link=" + $(this).prop('href') + "' >" + $(this).prop('title')  + "</a>" ;
+          },
+	hide: {
+    effect: "", // fadeOut
+  },
+  open: function( event, ui ) {
+    ui.tooltip.animate({ left: ui.tooltip.position().left - 25 }, "slow" );
+  },
+  close: function( event, ui ) {
+    ui.tooltip.hover(
+        function () {
+            $(this).stop(true).fadeTo(1600, 3); 
+            //.fadeIn("slow"); // doesn't work because of stop()
+        },
+        function () {
+            $(this).fadeOut("1600", function(){ $(this).remove(); })
+        }
+    );
+  }
 });
 
 	// implements lazy loading of zak iframes to speed page load.
@@ -232,11 +272,11 @@ $('.tooltips').tooltip({
 		.filter(function () {
 			return this.hostname && this.hostname !== location.hostname;
 		})
-		.addClass("external")
+		.addClass("external level3")
 		.attr({
 			target: "_blank",
 			title: function () {
-				return "Open in new window: " + $(this).attr("title");
+				return  $(this).attr("title") + " (opens in new window) ";
 			},
 		});
 	//.append(' [^]');
