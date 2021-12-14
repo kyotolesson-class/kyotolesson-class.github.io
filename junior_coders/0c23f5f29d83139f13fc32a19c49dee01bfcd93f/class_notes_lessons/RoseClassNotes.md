@@ -147,6 +147,26 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 
 
+<details markdown=1>
+<summary markdown=1>## December 10th
+</summary>
+
+## December 10th
+
+### Recap for December 10th
+
+{% include zakviewer.html Name="2021-12-11 Xmas K" ID="https://scratch.mit.edu/projects/607328364/" caption="Student K expanded his previous project so the heart can move left as well as right. The blue ball now moves to the left using move block, and we used forever and if touching loop to make the balls return home if they touch. He also added a background." %}
+
+{% include tynkerprojectpage.html Name="CHRISTMAS PROJECT 2021 12 10" ID="https://www.tynker.com/play/christmas-project-2021-12-10/61b6bbc8b12153553b5862ed-729012XrmFL.yE1MtCcVRDSmqfoEsk" caption="Student Y made several additions to his project today, including making the presents go 'pop' when you click them, adding a final screen, with a message from santa, and some closing music." %}
+
+
+
+</details>
+
+
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## December 3rd

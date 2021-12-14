@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [December 13th](#december-13th)
+  * [Recap for December 13th](#recap-for-december-13th)
 * [December 6th](#december-6th)
   * [Recap for December 6th](#recap-for-december-6th)
 * [November 29th](#november-29th)
@@ -106,6 +108,39 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+
+<details markdown=1>
+<summary markdown=1>## December 13th
+</summary>
+
+## December 13th
+
+Christmas Contest Submissions
+  : Student H was the first to add [his project](https://scratch.mit.edu/projects/609422353) to the [Christmas Competition Studio](https://scratch.mit.edu/studios/30730290). Today I showed him how to [get to the studio and add his project to it](https://scratch.mit.edu/projects/612642387). Some other children are very close to finishing their submissions.
+
+### Recap for December 13th
+
+
+
+{% include zakviewer.html Name="Miki xmas 2021 12 13 modified for M " ID="https://scratch.mit.edu/projects/615928870/" caption="Student M used the sensing 'x position of' and broadcast blocks to make Santa throw snowball at the cat." %}
+
+
+{% include zakviewer.html Name="xmas 2021 12 13 H" ID="https://scratch.mit.edu/projects/615927478/" caption="Student H began his second submission with this project about helping Santa deliver presents. Aside from some help counting clicks up to 15, he made this project independently." %}
+
+{% include zakviewer.html Name="xmas 2021 12 13 K" ID="https://scratch.mit.edu/projects/605090837/" caption="Using the 'x position of' block Student K  moved the snowball to kid 1. Then I showed Student K how to create a variable to store a random number from 1 to 4. We will used that to make the snowball go to a random kid. " %}
+
+{% include zakviewer.html Name="xmas 2021 12 13 S" ID="https://scratch.mit.edu/projects/564896942/" caption="Student  S worked on the last few items on the checklist including adding drum music. He should be finished by next week." %}
+
+{% include zakviewer.html Name="xmas 2021 12 13 J" ID="https://scratch.mit.edu/projects/605094917/" caption="I worked with Student J to make the dinosaur's red dot go back and forth repeatedly (on the second screen. Make santa touch the top flag first.). We used a repeat block inside a forever loop. He began adding more dinosaurs. " %}
+
+{% include zakviewer.html Name="Christmas questions" ID="https://scratch.mit.edu/projects/605095720/" caption="Student A's challenge for next week will be to make the program checks that the players do all the tasks before being able to press go to finish the game." %}
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## December 6th

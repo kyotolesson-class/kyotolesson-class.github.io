@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [December 11th](#december-11th)
+  * [Recap for December 11th](#recap-for-december-11th)
 * [December 6th](#december-6th)
   * [Recap for December 6th](#recap-for-december-6th)
 * [December 4th](#december-4th)
@@ -108,6 +110,45 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+<details markdown=1>
+<summary markdown=1>## December 11th
+</summary>
+
+## December 11th
+
+### Recap for December 11th
+{% include zakviewer.html Name="2021-12-13 Xmas K1" ID="https://scratch.mit.edu/projects/615253604/" caption="Student K1 is making progress on completing all the items on the evaluation sheet. This week she used the glide block to make a sprite go from the center to a corner several times." %}
+
+{% include zakviewer.html Name="2021-12-13 Mouse Project K1" ID="https://scratch.mit.edu/projects/581610847/" caption="Student K1 alsom ade this interesing Mouse Following Project. Click and hold the mouse down to see it work." %}
+
+{% include zakviewer.html Name="2021-12-13 Gifs1 K2" ID="https://scratch.mit.edu/projects/611502400/" caption="Student K2 practiced importing gif files into scratch. " %}
+
+{% include zakviewer.html Name="2021-12-13 Gifs2 K2" ID="https://scratch.mit.edu/projects/615253604/" caption="Another gif import by Student K2" %}
+
+{% include zakviewer.html Name="2021-12-13 Xmas Y" ID="https://scratch.mit.edu/projects/600588791/" caption="Student Y had a lot of fun recording various sounds for this project, though he hasn't settled on the one to use in his final project yet. He also made the radio vibrate when it is playing. " %}
+
+{% include zakviewer.html Name="2021-12-13 Pokemon Y" ID="https://scratch.mit.edu/projects/615247167/" caption="Student Y is also making a Pokemon project. If you click the second pokemon, he disappears. I think the background is going to change as well. " %}
+
+{% include zakviewer.html Name="2021-12-13 Xmas N" ID="https://scratch.mit.edu/projects/604418295/" caption="Student N and I worked on having a conversation between Abu and the Cat. By having him write the script down and then indicating which messages were broadcast after each speech he could keep track of the conversation and make the sprites speak in turn." %}
+
+{% include zakviewer.html Name="2021-12-13 Waving N" ID="https://scratch.mit.edu/projects/611499721/" caption="He also made this simple waving project. Use the left, right arrow space keys to change the sprite." %}
+
+{% include zakviewer.html Name="2021-12-13 Abu Platformer N" ID="https://scratch.mit.edu/projects/584816459/" caption="He was also very proud of this platformer/maze game. Use the arrows to reach the flag and see the win screen." %}
+
+
+{% include zakviewer.html Name="2021-12-13 Crazy Party M" ID="https://scratch.mit.edu/projects/615249793/" caption="Student M made this project where one sprite is having a crazy party (press space) and the other thinks it is too noisy  and they fight (press a) and disappear. That's it." %}
+
+{% include zakviewer.html Name="2021-12-13 Xmas M" ID="https://scratch.mit.edu/projects/604428411/" caption="Student M also continued working on his Christmas Project." %}
+
+Scratch Jr. 
+  : Below is a brief excerpt of Student H's extended ScratchJr. Christmas Project (minus sound). He continues to work on expanding the action in each screen of his project. Today I reviewed with him how to use messages to sequence actions and he seemed to understand it quite readily.
+
+{% include giphy.html link="https://media.giphy.com/media/NMEK2rAzel52HJsjEA/"  %} 
+
+</details>
 
 
 
