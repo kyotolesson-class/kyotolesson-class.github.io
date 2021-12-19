@@ -12,6 +12,10 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [December 17th](#december-17th)
+  * [Recap for December 17th](#recap-for-december-17th)
+* [December 10th](#december-10th)
+  * [Recap for December 10th](#recap-for-december-10th)
 * [December 3rd](#december-3rd)
   * [Recap for December 3rd](#recap-for-december-3rd)
 * [November 26th](#november-26th)
@@ -144,6 +148,26 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## December 17th
+</summary>
+
+## December 17th
+
+
+
+### Recap for December 17th
+
+
+{% include zakviewer.html Name="PBRR Paint Battle Crush 2021-12-17 Student K" ID="https://scratch.mit.edu/projects/618387787/" caption="Students K and Y both remixed this project in a few ways. The favorite was to make the splats so large (10000000000000 pixels) that the game was trivial to play." %}
+
+{% include zakviewer.html Name="PBRR Paint Battle Crush 2021-12-17 Student Y" ID="https://scratch.mit.edu/projects/618362220/" caption="...or make the meanies really small." %}
+
+
+{% include zakviewer.html Name="Xmas Project 2021-12-17" ID="https://scratch.mit.edu/projects/607328364/" caption="Student K also added a flashing Christmas tree to his Christmas Project and text-to-speech when the heart touches the edge." %}
+
+</details>
 
 
 

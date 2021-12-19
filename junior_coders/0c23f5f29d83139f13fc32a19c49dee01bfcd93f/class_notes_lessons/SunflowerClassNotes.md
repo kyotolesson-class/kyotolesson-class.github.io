@@ -13,6 +13,9 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [December 18th](#december-18th)
+* [Reminder](#reminder)
+  * [Recap for December 18th](#recap-for-december-18th)
 * [December 11th](#december-11th)
   * [Recap for December 11th](#recap-for-december-11th)
 * [December 6th](#december-6th)
@@ -111,6 +114,28 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## December 18th
+</summary>
+
+## December 18th
+
+## Reminder
+
+There will be no class for the next two weeks due to the holidays. **The next class date is 
+January 8th, 2021. 良いお年を！
+**
+
+### Recap for December 18th
+
+Today Students all worked on finishing their Christmas Projects. Then we showed them (with the help of a tutorial video how to join the [STAGE 1 Jr\. Coders Christmas Contest 2021](https://scratch.mit.edu/studios/30730290/):
+
+{% include zakviewer.html Name="SUBMISSION instructions for the 2021 JCCC Jr\. Coders Christmas Contest on Scratch" ID="https://scratch.mit.edu/projects/612642387/" caption="In the next few weeks their projects will be review by some guest commenters (some of my Scratch friends) and the kids will get some positive feedback from them, as well as some follows. Some of the best projects will go on to be features in the Jr. Coders 2021 Christmas Showcase.
+" %}
+
+Such competitions are a popular feature in Scratch, and today was a gentle introduction to these and other Scratch social features. The hope is it will motivate them to make better projects by having them think about others looking at their projects. 
+
+</details>
 
 
 <details markdown=1>
