@@ -14,6 +14,7 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 * [December 17th](#december-17th)
   * [Recap for December 17th](#recap-for-december-17th)
+* [Planning for Next year](#planning-for-next-year)
 * [December 10th](#december-10th)
   * [Recap for December 10th](#recap-for-december-10th)
 * [December 3rd](#december-3rd)
@@ -166,6 +167,12 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 
 {% include zakviewer.html Name="Xmas Project 2021-12-17" ID="https://scratch.mit.edu/projects/607328364/" caption="Student K also added a flashing Christmas tree to his Christmas Project and text-to-speech when the heart touches the edge." %}
+
+
+## Planning for Next year
+
+We discussed what our next project will be new year, and the kids came up with an interesting idea based on a Minecraft project. In this simplified version, two players choose weapons from a spinning wheel, and then battle to win using various attacks.
+
 
 </details>
 
