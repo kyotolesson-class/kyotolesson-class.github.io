@@ -48,7 +48,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
     <link class="gf-headline" href='https://fonts.googleapis.com/css?family=Pacifico:400&subset=' rel='stylesheet'
         type='text/css'>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="../style.css">
 
     <!-- preconnect to google map for smoother page loading -->
     <link rel="preconnect" href="https://maps.gstatic.com">
@@ -63,61 +63,55 @@
 
     <br><br>
     <div class="container-fluid">
-        <!-- <div><a href="../index.html">( back )</a></div><br> -->
+        <div><a href="../index.html">( back )</a></div><br>
         <div class="row" id="curriculum">
-            <h2>Linked buttons: quick review of style elements</h2>
-        </div>
-        <div class="row">
-            <pre>
-                <code>
-
-                    /* Style your navbar here! */
-                    /* The most important point here is that we use flex to evenly space the button */
-                    .nav {
-                        width: 100%;
-                        display: flex;
-                        justify-content: space-between;
-                        border-radius: 5px;
-                    }
-                    
-                    /* Style your button here! */
-                    button {
-                        border: none;
-                        border-radius: 5px; /* makes your corners "rounded" */
-                        padding: 10px; /* padding = spaces in 4-directions outside button*/
-                        width: 150px;
-                        transition: .5s;
-                    }
-                    
-                    /* Use :hover to change your button's hover color */
-                    button:hover {
-                        background: orange;
-                    }
-                    
-                    /* Here, we're using "active" as a class name to add style to one button per page */
-                    .active {
-                        background: orange;
-                    }
-                     
-
-                </code>
-            </pre>
+            <h2>December 11th, 2021</h2>
         </div>
 
         <br><br>
-    
-  <!-- Optional JavaScript -->
-  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-    crossorigin="anonymous"></script>
-  <script>$('body').scrollspy({ target: '#navbarscroll' })</script>
+        <p>The students are working on a lot of interesting projects right now:</p>
+        <ul>
+            <li>Arisa, Sumire, and Renge are making their own <a href="../70-new-projects/">character generators</a></li>
+            <li>Masaki is doing incredible work with his galaxy game. He's stuck with this for a LONG time, and it shows.</li>
+            <li>Noémie, as always, is making beautifully animated stories, using the Scratch-like JS API</li>
+            <li>Yehonatan is achieving mastery of the dev tools to "hack" web pages 🧑‍💻</li>
+            <li>Daniel is getting really fast at designing graphic assets</li>
+            <li>Ryunosuke has just started, but he's picking up the fundamentals very fast</li>
+        </ul>
+
+        <h4>For those who'd like to review building a nav system:</h4>
+        <br>
+        <p>
+            Here is a link to the <a href="../../missions/02-linked-buttons/"> NAV mission</a> and to the <a href="../../lessons/02-linked-buttons">key fields</a>. <br><br>
+        </p>
+
+
+
+        <br><br>
+        <style>
+            .code-image {
+                width: min(500px, 70vw);
+                border: 3px dashed orange;
+            }
+        </style>
+
+
+
+
+
+
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+        <script>$('body').scrollspy({ target: '#navbarscroll' })</script>
 
 
 </body>
