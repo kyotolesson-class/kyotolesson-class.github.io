@@ -123,7 +123,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ## Reminder
 
-We will make class available as usual on Dec. 3rd, but would like to know who will be attending. Could you please let us know below if you will be attending or absent.
+We will make class available as usual on Monday, Jan. 3rd, but would like to know who will be attending. Could you please let us know below if you will be attending or absent.
 
 
 I will be absent next week, and Teacher Hadiseh will take my place. 
