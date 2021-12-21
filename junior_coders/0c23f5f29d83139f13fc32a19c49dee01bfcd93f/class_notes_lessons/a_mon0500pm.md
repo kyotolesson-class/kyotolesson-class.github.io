@@ -128,7 +128,7 @@ We will make class available as usual on Dec. 3rd, but would like to know who wi
 
 I will be absent next week, and Teacher Hadiseh will take my place. 
 
-Happy Holidays to All. 良いお年を！
+Happy Holidays to All. **良いお年を！
 **
 
 ### Recap for December 18th
