@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [December 20th](#december-20th)
+  * [Recap for December 20th](#recap-for-december-20th)
+* [Reminder](#reminder)
+  * [Recap for December 18th](#recap-for-december-18th)
 * [December 13th](#december-13th)
   * [Recap for December 13th](#recap-for-december-13th)
 * [December 6th](#december-6th)
@@ -108,6 +112,54 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## December 20th
+</summary>
+
+## December 20th
+
+### Recap for December 20th
+
+## Reminder
+
+We will make class available as usual on Dec. 3rd, but would like to know who will be attending. Could you please let us know below if you will be attending or absent.
+
+
+I will be absent next week, and Teacher Hadiseh will take my place. 
+
+Happy Holidays to All. 良いお年を！
+**
+
+### Recap for December 18th
+
+Today Students all worked on finishing their Christmas Projects. Then we showed them (with the help of a tutorial video) how to join the [STAGE 1 Jr\. Coders Christmas Contest 2021](https://scratch.mit.edu/studios/30730290/):
+
+{% include zakviewer.html Name="SUBMISSION instructions for the 2021 JCCC Jr\. Coders Christmas Contest on Scratch" ID="https://scratch.mit.edu/projects/612642387/" caption="In the next few weeks their projects will be review by some guest commenters (some of my Scratch friends) and the kids will get some positive feedback from them, as well as some follows. Some of the best projects will go on to be features in the Jr. Coders 2021 Christmas Showcase.
+" %}
+
+Such competitions are a popular feature in Scratch, and today was a gentle introduction to these and other Scratch social features. The hope is it will motivate them to make better projects by having them think about others looking at their projects. 
+
+Submitted 
+  : Submitted projects include:
+
+{% include zakviewer.html Name="2021 12 18 Student S" ID="https://scratch.mit.edu/studios/30730290" caption="This is a full fledged platformer game with some interesting effects." %}
+
+{% include zakviewer.html Name="2021 12 18 Christmas questions NEXT STEPS student A" ID="https://scratch.mit.edu/studios/30730290" caption="Today I walked through, step by step, how to test if all the actions were done using variables and a condition to show and hide characters depending on the game state." %}
+
+
+Not Submitted 
+  : Unsubmitted projects include:
+
+
+{% include zakviewer.html Name="2021 12 18 Xmas Student K" ID="https://scratch.mit.edu/projects/605090837/editor" caption="Student K worked on several projects. The Christmas project is coming along nicely, but they chose not to publish it as yet." %}
+
+{% include zakviewer.html Name="2021 12 18 Student J" ID="https://scratch.mit.edu/mystuff/" caption="Student K worked on adding more controlled motions to his red ball on the second screen using more sprites and point, move and repeat blocks." %}
+
+{% include zakviewer.html Name="2021 12 18 Student M" ID="https://scratch.mit.edu/projects/615928870/editor" caption="Student M added more cats by copying the sprites and changing the parameters." %}
+
+</details>
+
 
 
 
@@ -359,7 +411,7 @@ Inventing a new game: Death Ray Variation
   
 {% include zakviewer.html Name="Death Rays" ID="https://scratch.mit.edu/projects/587873991/" caption="This a teacher demo of various rays..." %}
 
-and turned it into a game. He created several "enemy balls" that attack Voldermort by going to edges and gliding towards him. If they touch a death ray, they "die". We did some debugging so that they would return to their original position when hit.
+and turned it into a game. He created several "enemy balls" that attack Voldemort by going to edges and gliding towards him. If they touch a death ray, they "die". We did some debugging so that they would return to their original position when hit.
 
 {% include zakviewer.html Name="Death Rays\. copy remix on Scratch" ID="https://scratch.mit.edu/projects/597164047/" caption="The return to original position is still unfinished" %}
 
