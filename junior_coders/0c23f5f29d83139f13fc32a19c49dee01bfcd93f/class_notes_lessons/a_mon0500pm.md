@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [January 3rd, 2022](#january-3rd-2022)
+  * [Recap for January 3rd, 2022](#recap-for-january-3rd-2022)
 * [December 20th](#december-20th)
   * [Recap for December 20th](#recap-for-december-20th)
 * [Reminder](#reminder)
@@ -112,6 +114,47 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## January 3rd, 2022
+</summary>
+
+## January 3rd, 2022
+
+### Recap for January 3rd, 2022
+
+Today we worked on individual projects, some of which had been ignored since November.
+
+Student H 
+{% include zakviewer.html Name="Untitled-44 Student H " ID="https://scratch.mit.edu/projects/624402480/" caption="Student H worked on transferring the chimney from the background to a separate sprite so he could create the effecct of Santa going into the house. Then we made it so you can push Santa into the chimney by pressing the p key. This introduced teh student to a bunch of new blocks, so it was good practice for him." %}
+
+
+```
+when [p v] key pressed
+if <(backdrop [name v]) = [war]> then
+    change y by (-5)
+    if <(y position) < [-27]> then
+        broadcast [7 v]
+        hide
+    end
+end
+```
+{: .msb}
+
+
+{% include zakviewer.html Name="2022 1 6 Untitled-12 " ID="https://scratch.mit.edu/projects/623257163/" caption="Student A is working on recreating and 'Cone Creator' project from scratch. This week she worked on making the cones, and I taught her how to copy and paste lines and edit control points in the paint editor." %}
+
+{% include zakviewer.html Name="2022 1 6 ೃ⁀➷ ✦ Cat - In - A - Cone Creator ˎˊ- remix" ID="https://scratch.mit.edu/projects/623273919/" caption="This is the project she is trying to create." %}
+
+{% include zakviewer.html Name="2022 1 6 Death Rays. copy remix " ID="https://scratch.mit.edu/projects/597164047/" caption="Student S completed his death ray game this week. It still has some quirks but he turned a simple idea I gave him into a working game. good job!!  " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/j4myu3u.png" caption="He also started working on a game based on a game in Squid game (That's a lot of game!)" width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022 1 6 Miki xmas 2022 1 3 M " ID="https://scratch.mit.edu/projects/624437136/" caption="Student M is making further additions to his Christmas project, including adding a black Santa." %}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## December 20th
