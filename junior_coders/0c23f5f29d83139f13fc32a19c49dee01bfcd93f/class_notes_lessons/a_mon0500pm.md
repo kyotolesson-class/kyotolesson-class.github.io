@@ -126,7 +126,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 Today we worked on individual projects, some of which had been ignored since November.
 
 Student H 
-{% include zakviewer.html Name="Untitled-44 Student H " ID="https://scratch.mit.edu/projects/624402480/" caption="Student H worked on transferring the chimney from the background to a separate sprite so he could create the effecct of Santa going into the house. Then we made it so you can push Santa into the chimney by pressing the p key. This introduced teh student to a bunch of new blocks, so it was good practice for him." %}
+{% include zakviewer.html Name="Untitled-44 Student H" ID="https://scratch.mit.edu/projects/624402480/" caption="Student H worked on transferring the chimney from the background to a separate sprite so he could create the effect of Santa going into the house. Then we made it so you can push Santa into the chimney by pressing the p key. This introduced teh student to a bunch of new blocks, so it was good practice for him." %}
 
 
 ```

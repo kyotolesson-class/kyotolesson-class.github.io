@@ -12,6 +12,12 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 
 <div id="toc">
 
+* [January 7th](#january-7th)
+  * [Recap for January 7th](#recap-for-january-7th)
+* [January 7th](#january-7th-1)
+  * [Recap for January 7th](#recap-for-january-7th-1)
+* [January 7th](#january-7th-2)
+  * [Recap for January 7th](#recap-for-january-7th-2)
 * [December 17th](#december-17th)
   * [Recap for December 17th](#recap-for-december-17th)
 * [Planning for Next year](#planning-for-next-year)
@@ -149,6 +155,49 @@ Proceed to [Archives](./RoseClassNotesArchived.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## January 7th
+</summary>
+
+## January 7th
+
+### Recap for January 7th
+
+Demon Toetation Land
+  : <a class="external" href="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w2400?source=screenshot.guru"  title="Students planned out a new project" caption="Students planned out a new project"> <img class="giphycontainer jsgif turbowarp" src="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w600-h315-p-k" /></a>
+  : The students have decided to work together on an original game Demon Toetation Land. It is loosely based on a minecraft game, but with interesting variations of their own. They drew out a detailed storyboard including characters and character names, a "manga" version of battle mode, a complicated system for the number of enemies and the how they take damage, as well as the motion and actions of the sprites controlled by keypresses. This is a good outline and has potential to be a really fun game. With a few more additions, coding the project will be straightforward.
+  
+</details>
+
+<details markdown=1>
+<summary markdown=1>## January 7th
+</summary>
+
+## January 7th
+
+### Recap for January 7th
+
+Demon Toetation Land
+  : <a class="external" href="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w2400?source=screenshot.guru"  title="Students planned out a new project" caption="Students planned out a new project"> <img class="giphycontainer jsgif turbowarp" src="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w600-h315-p-k" /></a>
+  : The students have decided to work together on an original game Demon Toetation Land. It is loosely based on a minecraft game, but with interesting variations of their own. They drew out a detailed storyboard including characters and character names, a "manga" version of battle mode, a complicated system for the number of enemies and the how they take damage, as well as the motion and actions of the sprites controlled by keypresses. This is a good outline and has potential to be a really fun game. With a few more additions, coding the project will be straightforward.
+  
+</details>
+
+<details markdown=1>
+<summary markdown=1>## January 7th
+</summary>
+
+## January 7th
+
+### Recap for January 7th
+
+Demon Toetation Land
+  : <a class="external" href="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w2400?source=screenshot.guru"  title="Students planned out a new project" caption="Students planned out a new project"> <img class="giphycontainer jsgif turbowarp" src="https://lh3.googleusercontent.com/56ZQryQN814eQ_bZa-A4kTospf8yE4cB8IGrczkt-JNuqF0-IzjF_1Sp3scnXkh2IUqp538uOI5CDvP4hIgs6rrlpyQh_jzEDXtGT72avmGtsYiZg1AKqQcnzhU2dhs0is95s3zobw=w600-h315-p-k" /></a>
+  : The students have decided to work together on an original game Demon Toetation Land. It is loosely based on a Minecraft game, but with interesting variations of their own. They drew out a detailed storyboard including characters and character names, a "manga" version of battle mode, a complicated system for the number of enemies and the how they take damage, as well as the motion and actions of the sprites controlled by keypresses. This is a good outline and has potential to be a really fun game. With a few more additions, coding the project will be straightforward.
+  
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## December 17th
