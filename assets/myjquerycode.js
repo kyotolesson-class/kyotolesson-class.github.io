@@ -29,11 +29,13 @@ $( document ).tooltip({
               return "<a class='' target='_blank' href='" + $(this).prop('href')+ "' title='link=" + $(this).prop('href') + "' >" + $(this).prop('title')  + "</a>" ;
           },
 	hide: {
-    effect: "", // fadeOut
+    effect: "scale", duration: 800,   
   },
   open: function( event, ui ) {
-    ui.tooltip.animate({ left: ui.tooltip.position().left - 25 }, "slow" );
+   // ui.tooltip.animate({ width: "50%" }, "30000" );
   },
+	show: { effect: "slide", direction: "top", duration: 3000 },
+	position: { my: "right top", at: "right bottom", collision: "fit"},
   close: function( event, ui ) {
     ui.tooltip.hover(
         function () {
