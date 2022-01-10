@@ -114,6 +114,53 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+<details markdown=1>
+<summary markdown=1>## January 8th, 2022
+</summary>
+
+## January 8th, 2022
+
+
+### Recap for January 8th, 2022
+
+
+Christmas project
+  : Today, the first thing we did was look at comments other scratchers left on our Christmas Projects page. We helped kids read the comments and post a simple reply, such as thank you.
+
+Individual Projects
+  : Kids then worked on new projects.
+
+
+{% include zakviewer.html Name="2022 1 8 Untitled-98 on Scratch" ID="https://scratch.mit.edu/projects/625373455/" caption="Student Y and student N worked on a knock knock joke project and we focused on how to use the ask block. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/cQBdM4I.png" caption="The code tests the response to see if it matches 'Who's there?' or 'who's there?'." width="" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022 1 8 Ninja run for teaching" ID="https://scratch.mit.edu/projects/625445737/" caption="Student M did some research to try to find a project that he liked and eventually decided on a project called Ninja run which he began to copy. Student Y decide to imitate him and they are going to continue to work on that for next week. This is the project they will try to make." %}
+
+
+{% include zakviewer.html Name="2022 1 8 Untitled-13 on Scratch" ID="https://scratch.mit.edu/projects/625378748/" caption="Student K1 started a falling snow project. She created sprites and began coding the falling objects." %}
+
+
+{% include zakviewer.html Name="2022 1 8 Untitled-12 on Scratch" ID="https://scratch.mit.edu/projects/624020074/" caption="She also made a project about randomly going to new positions.
+" %}
+
+
+Student K2 looked at gifs of minecraft cars and imported and modified them in the paint Editor.
+
+{% include zakviewer.html Name="2022 1 10 Untitled-62 on Scratch" ID="https://scratch.mit.edu/projects/625386184/editor" caption="" %}
+
+{% include zakviewer.html Name="2022 1 10 Untitled-61 on Scratch" ID="https://scratch.mit.edu/projects/625379666/editor" caption="" %}
+
+ScratchJr.
+  : Student H and I worked on a ScratchJr. Breakfast project and we learned how to control message colors so that we can make the actions all happen in sequence. Then the project got wild with flying milk and rockets!
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## December 18th
 </summary>
