@@ -18,7 +18,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 * [January 8th, 2022](#january-8th-2022)
   * [Recap for January 8th, 2022](#recap-for-january-8th-2022)
 * [December 18th](#december-18th)
-* [Reminder](#reminder)
+  * [Reminder](#reminder)
   * [Recap for December 18th](#recap-for-december-18th)
 * [December 11th](#december-11th)
   * [Recap for December 11th](#recap-for-december-11th)
@@ -221,11 +221,10 @@ ScratchJr.
 
 ## December 18th
 
-## Reminder
-
+### Reminder
 There will be no class for the next two weeks due to the holidays. **The next class date is 
 January 8th, 2021. 良いお年を！
-**
+
 
 ### Recap for December 18th
 
