@@ -13,6 +13,10 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [January 15th](#january-15th)
+  * [Recap for January 15th](#recap-for-january-15th)
+* [January 8th, 2022](#january-8th-2022)
+  * [Recap for January 8th, 2022](#recap-for-january-8th-2022)
 * [December 18th](#december-18th)
 * [Reminder](#reminder)
   * [Recap for December 18th](#recap-for-december-18th)
@@ -113,6 +117,56 @@ Proceed to [Archives](./SunflowerClassNotes-Archives.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## January 15th
+</summary>
+
+## January 15th
+
+### Recap for January 15th
+
+I also installed Scratch Addons for some of the students. In addition to an improved user interface it provides useful functions like onion-skinning  for animmation that make Scratch easier to use.
+
+Knock Knock 
+  : Student N completed this Knock Knock Joke project today.
+{% include zakviewer.html Name="2022 1 15 Knock Knock Joke" ID="https://scratch.mit.edu/projects/625373455/" caption="Type 'Who's there?' exactly when prompted." %}
+
+
+Ninja Run
+  : Students Y and M have chosen to make a game based on the game [Ninja Run](https://scratch.mit.edu/projects/625386999/). I created a simplified template for them that would allow them to build the project up module by module. 
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/p6CUNB0.png" caption="Student Y worked on selecting a main character..." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/FzX4Gyw.png" caption="So did Student M" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/hPYAzzV.png" caption="...and copying the framework code into a new project." width="" height="" spacer="" %}
+
+
+Falling Snow Game 
+  : Student K1 finished her Falling Snow Game.  
+
+{% include zakviewer.html Name="2022-01-15 Untitled-13" ID="https://scratch.mit.edu/projects/625378748/" caption="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/4Eow6Gk.png" caption="She had a problem making the paddle detect when it hit the falling objects." width="250px" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/GFipYLA.png" caption="We fixed it by moving the detector to the objects. " width="250px" height="" spacer="" %}
+
+
+Rocket Game 
+  : Student K2 worked on making various simple space themed projects such as this one. He worked mostly on his own, which was progress for him.
+
+{% include zakviewer.html Name="2022-01-15 Rocket game" ID="https://scratch.mit.edu/projects/628822007/" caption="" %}
+
+
+Breakfast project 
+  : Student H finished his breakfast project. In addition to making the action more smooth, he added speech bubbles to help the player know what to do. 
+
+  
+<a href="https://lh3.googleusercontent.com/ap8czen_pfuf6ALcR330CP09qOrWvoe6zvp_8DJEoOlbrHAj1Y-pmEcTXliRz26RVK2SfvNj21NcXFuvBE1XWp6NELG-1_3Z1Cz7GAAgA1P241t8RvAW_TysUDeQBNQhnMptFX8SOg=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/ap8czen_pfuf6ALcR330CP09qOrWvoe6zvp_8DJEoOlbrHAj1Y-pmEcTXliRz26RVK2SfvNj21NcXFuvBE1XWp6NELG-1_3Z1Cz7GAAgA1P241t8RvAW_TysUDeQBNQhnMptFX8SOg=w600-h315-p-k" /> </a>
+</details>
+
 
 
 <details markdown=1>
