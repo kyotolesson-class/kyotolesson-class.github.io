@@ -1018,10 +1018,10 @@ background: #ff5a5a;
   opacity: 1;
   width:70%;
   position: absolute;
-  top: 80%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
+  top: 5%;
+  right: 5%;
+  /* transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);*/
   text-align: center;
   background: var(--linkhover);
 	font-family: Cochin, Times, 'Times New Roman', serif; 
@@ -1032,7 +1032,7 @@ background: #ff5a5a;
 
 /* make it disappear on hover */
 .zakitem:hover .zakoverlay {
-  opacity: 0;
+  top: -20%;
 }
 
 .zak.giphycontainer:hover .giphyattribution {
