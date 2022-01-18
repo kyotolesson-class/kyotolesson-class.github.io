@@ -719,16 +719,6 @@ background-color: var(--linkhover);
 color: var(--ourdarkblue);
 }
 
-.zakviewer {
-background: #ff5a5a;
-    color: white;
-    border-bottom: 1px solid #cc3c3c;
-    border-radius: 0px 2px 2px 0px;
-    padding-right: 2px;
-    border-top: 0.2px solid #ffa785;
-}
-
-}
 
 
 /* this is better */
@@ -988,6 +978,69 @@ text-align: justify;
       background-color: var(--scrollbarBG);
 }
 
+
+
+/* undo giphy attribution */
+.zakattribution {
+    border-radius: 11px 0px 11px 0px;
+    background: var(--scrollbarBG);
+    padding-left: 6px;
+    min-width: 50%;
+    /* float: right; */
+    /* position: relative; */
+    /* right: -1px; */
+    /* top: -6px; */
+    text-align: center;
+    /* display: flex; */
+}
+
+/* undo turbo attribution */
+
+.zak p.turboattribution {
+margin-bottom: auto;
+}
+
+
+.zakviewer {
+background: #ff5a5a;
+    color: white;
+    border-bottom: 1px solid #cc3c3c;
+    border-radius: 0px 2px 2px 0px;
+    padding-right: 2px;
+    border-top: 0.2px solid #ffa785;
+}
+
+
+
+/* This is the message box overlaying the temporary image */
+.zakitem .zakoverlay {
+  transition: .5s ease;
+  opacity: 1;
+  width:70%;
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+  background: var(--linkhover);
+	font-family: Cochin, Times, 'Times New Roman', serif; 
+	padding:0px;
+	margin-bottom:15px;
+}
+
+
+/* make it disappear on hover */
+.zakitem:hover .zakoverlay {
+  opacity: 0;
+}
+
+.zak.giphycontainer:hover .giphyattribution {
+height: 0px;
+}
+.zakoverlay p {
+    margin-bottom: 0px;
+}
 div.imgurdiv iframe {
     max-width: calc(100% - 19px)!important;
     border-color: var(--thumbBG);
