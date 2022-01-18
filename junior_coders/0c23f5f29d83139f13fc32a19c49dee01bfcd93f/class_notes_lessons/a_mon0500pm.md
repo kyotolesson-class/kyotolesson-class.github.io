@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [January 17th](#january-17th)
+  * [Recap for January 17th](#recap-for-january-17th)
 * [January 3rd, 2022](#january-3rd-2022)
   * [Recap for January 3rd, 2022](#recap-for-january-3rd-2022)
 * [December 20th](#december-20th)
@@ -114,6 +116,44 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## January 17th
+</summary>
+
+## January 17th
+
+### Recap for January 17th
+
+Today Students worked on individual projects.
+
+{% include zakviewer.html Name="2022-01-18 Student A" ID="https://scratch.mit.edu/projects/625948442/" caption="Student A completed this story project by herself. I helped her learn how to use the glide button to make bee move away." %}
+
+
+{% include zakviewer.html Name="2022-01-18 madness" ID="https://scratch.mit.edu/projects/629444361/" caption="Student H1 learned how to make animations like this rotating head and walking using onion skinning in the paint editor." %}
+
+{% include zakviewer.html Name="2022-01-18 Untitled-44" ID="https://scratch.mit.edu/projects/615927478/" caption="He also completed the final steps in this Christmas project." %}
+
+
+{% include zakviewer.html Name="2022-01-18 Untitled-7" ID="https://scratch.mit.edu/projects/620964159/" caption="We struggled to fix a nasty bug in Student J's project. It turned out to be a '+' that had taken the place of a '*' in complicated variable blocks." %}
+
+
+{% include zakviewer.html Name="2022-01-18 Total Chaos remix on Scratch" ID="https://scratch.mit.edu/projects/629426879/" caption="This Student  hacked this project to allow him to place more fighters in the playing field. Finding the correct block to modify presented a challenge for him but eventually he found it and change the key value to 211. 
+
+<img src='https://i.imgur.com/BQeDEaS.png' >" %}
+
+
+{% include zakviewer.html Name="2022-01-18 Untitled-9" ID="https://scratch.mit.edu/projects/612052239/" caption="Student S finished his game based on the Korean Dalgona game. When he finished that I suggested it would make a good two person game and he began working on that challenge." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/2p7gGke.png" caption="After some distraction, Student H2 eventually started importing characters for this..." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Ko5Gd0e.png" caption="and this project." width="" height="" spacer="" %}
+
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## January 3rd, 2022

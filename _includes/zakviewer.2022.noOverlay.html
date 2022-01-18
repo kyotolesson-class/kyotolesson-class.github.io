@@ -6,6 +6,7 @@ the ID is actually the link to the project.
 The name is whatever you want to call it, not the actual project name.
 The caption can be blank.
 {% endcomment %}
+<div class="giphycontainer jsgif turbowarp">
 
 {% comment %}
 
@@ -26,23 +27,20 @@ TThis should get the project thumbnail but it is often returning the generic scr
 
 <img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
 
-
-On zakoverlay, the width=50% is to override the jsgif styling.
-
 {% endcomment %}
-<div class="giphycontainer jsgif turbowarp zak">
 
 <div class="ournav-item" style="display:none;"></div>
 <div class="ournav-item zakitem" style="border:none;text-align: center;" projectID="{{ include.ID | split: "/" | last }}"  name="insertZak">
 <p style=" padding:0px;margin-bottom:0px;"><a>
 <img width="100%" src="https://cdn2.scratch.mit.edu/get_image/project/{{ include.ID | split: "/" | last }}_480x360.png">
 </a></p>
-<div class="jsgif zakoverlay" style=""><img height="20px" style="float: left; padding: 0px 5px;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"> Click the image to run here. Click <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAABegAAAXoBMrnI/AAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAACzSURBVBiVY2RAB2l3/2OIYQMsGXd/7r/57T8yYEi7+58JXeGff/9rAqe//P3l5z9UA9CtYmNh+LM+U5yFh52J4evP/wzc7IwIN/3//////pvf/osWP/gPs3b/zW//BQru/9p/8xvC6i8//zGEzXrFUOrGz+Cgxslw4NZ3BveJz/98+Pa32rX/+S+sJnbtfP9ftPjBf0zfQxWiW49X4f////9/+fEPHiSovmZgYGBMv0cwfAHAGJuKineAegAAAABJRU5ErkJggg==" alt=""> links below to see in new tab.
-</div>
+<p  style="font-size: 90%; font-family: Cochin, Times, 'Times New Roman', serif; padding:0px;margin-bottom:15px;"><img height="20px" style="float: left; padding: 0px 5px;" src="https://cdn2.scratch.mit.edu/get_image/user/62997852_100x100.png"> 
+Click image to run here. Links below to see in new tab.</p>
 </div>
 
-<div class="giphyattribution" style="float:none;"><p class="zakattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}}&nbsp;{%- endif -%} &nbsp;&nbsp;&nbsp; <a class="tooltips" title="{{include.Name}} (must be shared or logged in)" href="{{ include.ID}}"><img style="position:relative; top: 2px;" width="55px" src="/assets/ScratchLogo.png"/></a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="{{include.Name}}" class="tooltips" style="text-decoration: none;">&nbsp;<span class="zakviewer">*Zakviewer*</span></a></p>
-</div></div>
+<div class="giphyattribution" style=""><p class="turboattribution">{%- if include.Name != "" and include.Name -%}**{{include.Name | rstrip | truncate: 25 }}** {% else %}{{ include.ID}}&nbsp;{%- endif -%} &nbsp;&nbsp;&nbsp; <a class="tooltips" title="{{include.Name}} (must be shared or logged in)" href="{{ include.ID}}"><img style="position:relative; top: 2px;" width="55px" src="/assets/ScratchLogo.png"/></a> <a href="https://scratch-viewer.techlit.app/view#project={{ include.ID | split: "/" | last }}&title={{ include.Name | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}&backgroundColor=#ffec9f&caption={{ include.caption  | replace: " ", "XXX" | url_encode | replace: "XXX", "%20"}}" target="_blank" title="{{include.Name}}" class="tooltips" style="text-decoration: none;">&nbsp;<span class="zakviewer">*Zakviewer*</span></a></p>
+</div>
+</div>
 <div class="tynkercaptiondiv">
 {%- if include.caption != "" and include.caption -%}
 <blockquote class="tynkercaption"><span>{{- include.caption | default: "" -}}</span>
