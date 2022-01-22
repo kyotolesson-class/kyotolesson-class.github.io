@@ -297,8 +297,7 @@ siteurl: https://kyotolesson-class.github.io
   * [Thank you. Discord.](#thank-you-discord)
 * [March 23rd](#march-23rd)
   * [First Class](#first-class)
-* [2021 Archives (January to June)](#2021-archives-january-to-june)
-* [2020 Archives 0](#2020-archives-0)
+* [Archives](#archives)
 
 </div>
 
@@ -3244,7 +3243,7 @@ This class went very well. The kids were active and eager to participate. Don't 
 
 ## Archives 
 
-* [2021 Archives (January to June)](./a_mon0500pm-Archives2021.html)
+* [2021 Archives ](./a_mon0500pm-Archives2021.html)
 * [2020 Archives ](./a_mon0500pm-Archives2020.html)
 
 <!-- <div class="bottomSpacer">

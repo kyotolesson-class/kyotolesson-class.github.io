@@ -1,7 +1,7 @@
 ---
 layout: junior_coders_default
 title: Getting Started with Scratch Jr.
-title2: Rose Class ARCHIVES
+title2: Rose Class ARCHIVES 2020 
 levelsToTop: "../"
 ---
 
@@ -110,6 +110,7 @@ levelsToTop: "../"
   * [Game Teacher Says](#game-teacher-says)
   * [ScratchJr Intro](#scratchjr-intro)
   * [June 28th homework](#june-28th-homework)
+* [Archives](#archives)
 
 </div>
 
@@ -1144,3 +1145,15 @@ The homework is for kids to teach parents how to play [Black](../lessons/gameBla
 Also kids should play with ScratchJr and try to discover new things about how it works.
 
 </details>
+
+
+
+## Archives 
+
+* [2021 Archives](./RoseClassNotes-Archives2021.html)
+* [2020 Archives ](./RoseClassNotes-Archives2020.html)
+
+
+<!-- <div class="bottomSpacer">
+
+</div> -->
