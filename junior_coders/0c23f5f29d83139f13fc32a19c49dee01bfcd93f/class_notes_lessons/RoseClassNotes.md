@@ -19,6 +19,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 * [January 7th](#january-7th)
   * [Recap for January 7th](#recap-for-january-7th)
 * [Archives](#archives)
+  * [2021 Archives](#2021-archives)
+  * [2020 Archives ](#2020-archives-)
 
 </div>
 
@@ -77,14 +79,17 @@ Demon Toetation Land
 </details>
 
 
+<details markdown=1>
+<summary markdown=1>## Archives
+</summary>
 
 
 ## Archives 
 
-* [2021 Archives](./RoseClassNotes-Archives2021.html)
-* [2020 Archives ](./RoseClassNotes-Archives2020.html)
+### [2021 Archives](./RoseClassNotes-Archives2021.html)
+### [2020 Archives ](./RoseClassNotes-Archives2020.html)
 
-
+</details>
 <!-- <div class="bottomSpacer">
 
 </div> -->

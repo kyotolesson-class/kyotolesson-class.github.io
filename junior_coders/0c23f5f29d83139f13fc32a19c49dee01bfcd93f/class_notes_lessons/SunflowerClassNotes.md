@@ -20,6 +20,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 * [January 8th, 2022](#january-8th-2022)
   * [Recap for January 8th, 2022](#recap-for-january-8th-2022)
 * [Archives](#archives)
+  * [2021 Archives](#2021-archives)
 
 </div>
 
@@ -170,11 +171,16 @@ ScratchJr.
 
 </details>
 
+<details markdown=1>
+<summary markdown=1>## Archives
+</summary>
+
 
 ## Archives 
 
-* [2021 Archives](./SunflowerClassNotes-Archives2021.html)
+### [2021 Archives](./SunflowerClassNotes-Archives2021.html)
 
+</details>
 
 <!-- <div class="bottomSpacer">
 

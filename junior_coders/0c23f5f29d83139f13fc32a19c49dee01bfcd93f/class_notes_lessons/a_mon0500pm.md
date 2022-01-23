@@ -59,6 +59,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * [January 3rd, 2022](#january-3rd-2022)
   * [Recap for January 3rd, 2022](#recap-for-january-3rd-2022)
 * [Archives](#archives)
+  * [2021 Archives](#2021-archives)
+  * [2020 Archives ](#2020-archives-)
 
 </div>
 
@@ -144,14 +146,17 @@ end
 </details>
 
 
+<details markdown=1>
+<summary markdown=1>## Archives
+</summary>
 
 
 ## Archives 
 
-* [2021 Archives](./a_mon0500pm-Archives2021.html)
-* [2020 Archives ](./a_mon0500pm-Archives2020.html)
+### [2021 Archives](./a_mon0500pm-Archives2021.html)
+### [2020 Archives ](./a_mon0500pm-Archives2020.html)
 
-
+</details>
 <!-- <div class="bottomSpacer">
 
 </div> -->
