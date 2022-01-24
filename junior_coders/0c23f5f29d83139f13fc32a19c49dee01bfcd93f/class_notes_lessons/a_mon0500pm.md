@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [January 24th](#january-24th)
+  * [Recap for January 24th](#recap-for-january-24th)
 * [January 17th](#january-17th)
   * [Recap for January 17th](#recap-for-january-17th)
 * [January 3rd, 2022](#january-3rd-2022)
@@ -65,6 +67,38 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## January 24th
+</summary>
+
+## January 24th
+
+### Recap for January 24th
+
+Today kids worked on individual projects
+
+{% include zakviewer.html Name="2022-01-24 Mining Game remix on Scratch" ID="https://scratch.mit.edu/projects/632904253/" caption="Todays's Student M hacks include this project, modifying the $ selectors, adding a change background button,changing the button background on press." %}
+
+
+
+
+{% include zakviewer.html Name="2022-01-25 madness" ID="https://scratch.mit.edu/projects/629444361/" caption="Student H added a new character and removed its head, a good review of previous skills. I explained how to adjust the size of the eraser tool to get fine control of the erasure. Then we worked together on creating a 'computer-generated behavior' (as he called it) for the character. I introduced some new blocks, like the distance from block I demonstrated a code to make the character move towards another if they are close enough. We talked about different rotation styles." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/h9BvlCW.png" caption="This was the final code" width="" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022-01-24 Untitled-16" ID="https://scratch.mit.edu/projects/632897217/" caption="Student A began remixing this project. First she made the four shapes. I showed her how to use bitmaps images to use the fill tool to make it go faster. Then I  helped her be able to copy and reuse costumes to make the buttons and create a consistent look across the project." %}
+
+{% include zakviewer.html Name="2022-01-24 Korean Dalgona game" ID="https://scratch.mit.edu/projects/629470386/" caption="Student S is working on a two person version of the Korean Dalgona game. We had  an interesting bug to fix. He seemed unable to change his pen size. It turned out a missing pen up block in his code allowed the pen to move side to side so it looked like it was thicker than it was. A simple fix (a pen up block) and the pen size is working again." %}
+
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## January 17th
