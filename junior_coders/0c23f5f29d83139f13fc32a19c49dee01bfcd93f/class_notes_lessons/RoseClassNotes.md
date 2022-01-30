@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [January 28th](#january-28th)
+  * [Recap for January 28th](#recap-for-january-28th)
 * [January 21st](#january-21st)
   * [Recap for January 21st](#recap-for-january-21st)
 * [January 14th & 15th](#january-14th--15th)
@@ -25,6 +27,30 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## January 28th
+</summary>
+
+## January 28th
+
+### Recap for January 28th
+
+Only one student today.
+
+Demon Game
+  : Student Y made a big step in hhis the Demon Game. We added a help screen for choosing the level. He learned how to use emoji in text fields.  
+
+{% include imgur.html title="" ID="https://i.imgur.com/qqv4Nfv.png" caption="" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/" caption="We also used a 'wait until mouse down' blocks so the scratch cat says 'Brilliant' when you are done choosing the level." %}
+
+
+
+
+</details>
+
 
 
 <details markdown=1>

@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [January 29th](#january-29th)
+  * [Recap for January 29th](#recap-for-january-29th)
 * [January 22nd](#january-22nd)
   * [Recap for January 22nd](#recap-for-january-22nd)
 * [January 15th](#january-15th)
@@ -29,6 +31,23 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## January 29th
+</summary>
+
+## January 29th
+
+### Recap for January 29th
+
+Today several students were out. One spent his time exploring various projects, which the other worked on a Math Quiz.
+
+{% include zakviewer.html Name="2022 01 29 Quiz Game Student N" ID="https://scratch.mit.edu/projects/636268422/" caption="Student N made this original project mostly by himself. This project relies on  using broadcasts, show and hide, and say blocks. Each question answered correctly moves the Cat to the house." %}
+
+
+</details>
+
 
 
 
