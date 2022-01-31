@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [January 31st](#january-31st)
+  * [Recap for January 31st](#recap-for-january-31st)
 * [January 24th](#january-24th)
   * [Recap for January 24th](#recap-for-january-24th)
 * [January 17th](#january-17th)
@@ -67,6 +69,43 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## January 31st
+</summary>
+
+## January 31st
+
+### Recap for January 31st
+
+Minecraft Travel Game 
+  : Today we started a new class project. It is based on a version of Minecraft that I wrote. 
+
+{% include zakviewer.html Name="2022-02-01 Minecraft Travel game V1" ID="https://scratch.mit.edu/projects/633644256/" caption="The object of the game is to get the player across the screen using only the given blocks." %}
+
+So far we have done  : 
+
+* Making a tile. This involves using the shit key to keep the tile square and careful sizing so the block is 15x15 pixels. We also make sure the costume is centered. 
+* Making a head, body, leg, and arm. This uses the same skills. The arm costume has to be rotated to point forward.
+* Using the point to cursor block to make the head and arm point to the mouse.
+* Using a forever loop and go to and change y blocks to position the body, head, and arm securely. We talked about how much to change y depends on the size of the characters. 
+
+```
+when I receive [start round v]
+forever
+    go to [body v]    
+    change y by ((10) + (12.5))
+    point towards [mouse-pointer v] 
+end
+```
+{: .msb}
+
+{% include zakviewer.html Name="2022-01-31 Minecraft Travel game 2022 01 31 on Scratch" ID="https://scratch.mit.edu/projects/635014728/" caption="Today we made the main character in this project, and we made him point toward the cursor. Next week we will add tiles and a cursor." %}
+
+After the break, kids continued working on their own projects.
+
+</details>
+
 
 
 <details markdown=1>
