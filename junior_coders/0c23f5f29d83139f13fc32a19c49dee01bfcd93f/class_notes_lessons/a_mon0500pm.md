@@ -85,7 +85,7 @@ Minecraft Travel Game
 
 So far we have done  : 
 
-* Making a tile. This involves using the shit key to keep the tile square and careful sizing so the block is 15x15 pixels. We also make sure the costume is centered. 
+* Making a tile. This involves using the shift key to keep the tile square and careful sizing so the block is 15x15 pixels. We also make sure the costume is centered. 
 * Making a head, body, leg, and arm. This uses the same skills. The arm costume has to be rotated to point forward.
 * Using the point to cursor block to make the head and arm point to the mouse.
 * Using a forever loop and go to and change y blocks to position the body, head, and arm securely. We talked about how much to change y depends on the size of the characters. 
