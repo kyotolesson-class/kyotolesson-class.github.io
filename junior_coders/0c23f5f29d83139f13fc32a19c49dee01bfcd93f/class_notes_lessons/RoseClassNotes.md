@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [February 4th](#february-4th)
+  * [Recap for February 4th](#recap-for-february-4th)
 * [January 28th](#january-28th)
   * [Recap for January 28th](#recap-for-january-28th)
 * [January 21st](#january-21st)
@@ -27,6 +29,26 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## February 4th
+</summary>
+
+## February 4th
+
+### Recap for February 4th
+
+{% include zakviewer.html Name="2022-02-04 Demon Game Fixed" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y added buttons and a new background to go to the main screen after selecting the difficulty. This involved telling which sprites to hide, which required some troubleshooting." %}
+
+{% include zakviewer.html Name="2022-02-04 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K cfreated Easy, Normal, and Hard difficulty buttons and made them appear at the right time and place using receive, goto and show blocks." %}
+
+Students also tried out a new Minecraft Travel game. 
+
+{% include zakviewer.html Name="Minecraft Travel v4" ID="https://scratch.mit.edu/projects/633644256/" caption="" %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## January 28th
