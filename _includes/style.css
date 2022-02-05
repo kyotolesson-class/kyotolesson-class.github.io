@@ -941,6 +941,7 @@ blockquote.tynkercaption {
     margin: 0 0 0 0;
     border-left: unset;
     padding: 0px 20px 0px 20px;
+    font-style: unset; /* remove italics from blockquote */
 }
 
 /* if no caption, this is just here to put a margin at the bottom */
