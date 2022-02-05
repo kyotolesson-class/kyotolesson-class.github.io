@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [February 5th](#february-5th)
+  * [Recap for February 5th](#recap-for-february-5th)
 * [January 29th](#january-29th)
   * [Recap for January 29th](#recap-for-january-29th)
 * [January 22nd](#january-22nd)
@@ -31,6 +33,38 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## February 5th
+</summary>
+
+## February 5th
+
+### Recap for February 5th
+
+{% include zakviewer.html Name="2022-02-05 House Student Y" ID="https://scratch.mit.edu/projects/639406892/" caption="Student Y started a Pokemon project on his own, but for some reason after making this initial screen decided to stop." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/f7aqXzc.png" caption="Student Y then decided to make a platformer type game. He chose this character from a project called grey, and in the paint tool I taught him how to used the fill tool, and move layers forward and back. He then made costumes for the character in a variety of positions" width="150px;" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-02-05 Grey Hero Student Y" ID="https://scratch.mit.edu/projects/639424698/" caption=" On his own he made the sprite move up, down, and stand using the up and down arrow and space keys. This is a nice beginning to a project." %}
+
+{% include zakviewer.html Name="2022-02-05 Untitled-99 on Scratch" ID="https://scratch.mit.edu/projects/639406896/" caption="Student N made this Flying ghost project. He created a target, and I showed him how to make the target move with the cursor, and make the ghost disappear when clicked. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/nfAJrvn.png" caption="I showed him a simple routine for jumping using 2 repeat loops." width="150px;" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-02-05 Dancing Dinos" ID="https://scratch.mit.edu/projects/639411610/" caption="In typical music-related style, Student M made this dance video on his own. It's a good beginning but I encouraged him to add more." %}
+</details>
+
+{% include imgur.html title="" ID="https://i.imgur.com/AOxxt7B.png" caption="It uses this simple dance loop." width="150px;" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-02-05 Mouse Chase" ID="https://scratch.mit.edu/projects/639429165/" caption="Student H1 seemed mostly focused on playing games, but at the end of class he announced he had made this fun project while I wasn't looking. Good Job!!" %}
+
+Scratch Jr. Minecraft Travel
+  : Student H2 worked on a Minecraft inspired Travel Game. This game is an intro to the Pull-up technique used in platformer, where one character is falling, but hits a platform that pushes it back up using message blocks. He also learned the hidden sprite technique for detecting the bumps and causing reactions, such as Win Screens appearing. I also taught him how to take pictures using the camera tool so he could make his favorite Octonauts character the hero. He created a story for when the character dies which is his homework to code. 
+</details>
+
 
 
 <details markdown=1>
