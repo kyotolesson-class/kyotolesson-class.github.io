@@ -1030,9 +1030,9 @@ background: #ff5a5a;
 }
 
 
-/* make it disappear on hover */
+/* was used to make it move up on hover but needs improvement so disabled.  */
 .zakitem:hover .zakoverlay {
-  top: -20%;
+  /* top: -20%; */
 }
 
 .zak.giphycontainer:hover .giphyattribution {
