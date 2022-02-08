@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [February 7th](#february-7th)
+  * [Recap for February 7th](#recap-for-february-7th)
 * [January 31st](#january-31st)
   * [Recap for January 31st](#recap-for-january-31st)
 * [January 24th](#january-24th)
@@ -69,6 +71,69 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## February 7th
+</summary>
+
+## February 7th
+
+### Recap for February 7th
+
+Minecraft Travel 
+Several students today continued working on our current class project, Minecraft Travel.
+
+{% include imgur.html title="" ID="https://i.imgur.com/36tKRes.png" caption="This code initializes important variables. Kids learned how to create variables and broadcast messages. Originally the tiles appear in the center and they are moved to the corner by the set x/y blocks." width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/5ObGEmr.png" caption="The tile code creates the first few tiles. " width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/qENRHLO.png" caption="I then showed students how to make a my block to make it easier to add tiles." width="" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022-02-07 Minecraft Travel game Class project" ID="https://scratch.mit.edu/projects/640047228/" caption="This working version shows the tiles correctly placed." %}
+
+
+
+{% include zakviewer.html Name="2022-02-08 Untitled-14" ID="https://scratch.mit.edu/projects/636531968/" caption="Student A " %}
+
+{% include zakviewer.html Name="2022-02-08 Untitled-9" ID="https://scratch.mit.edu/projects/636538976/" caption="Student J" %}
+
+
+Cat and mouse
+  : Student H has made a few projects lately using a forever loop to make a sprite chase the mouse cursor.
+
+{% include imgur.html title="" ID="https://i.imgur.com/6NQob8w.png" caption="" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-02-08 cat" ID="https://scratch.mit.edu/projects/640095582/" caption="Today's variation has the cat move around a room. Press space to start." %}
+
+
+Mario Fun
+  : Student H worked on this funny project.
+
+{% include zakviewer.html Name="2022-02-08 Untitled-46" ID="https://scratch.mit.edu/projects/640056131/" caption="He created this code by himself based on work we have recently done. It was a good application of recent learning." %}
+
+
+Two Person Korean Dalgona Game
+  : Student S continued working independently on his Korean Dalgona game. Today he made You Died and You Survived screens. 
+
+
+{% include zakviewer.html Name="2022-02-08 Untitled-9 copy" ID="https://scratch.mit.edu/projects/629470386/" caption="This project was based on a suggestion by me, but the implementation details are his own. The way the players start the game using the keyboard is a smartly done." %}
+
+Pat The Cat
+  : Student K made this project, and I was asked for instruction on using messages to initiate actions, though it appears in the end this was not used.
+
+{% include zakviewer.html Name="2022-02-08 Untitled-50" ID="https://scratch.mit.edu/projects/640052321/" caption="Click the hand or the cat to pat the cat." %}
+
+
+</details>
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## January 31st
