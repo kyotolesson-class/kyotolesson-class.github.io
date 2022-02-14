@@ -65,7 +65,7 @@ Scratch
 After the break, the students worked on various individual projects of their choice.
 
 2022 Rubric 1 (Sunflower Class)
-  : The first rule is the most important as this particular class has difficulty seeing projects through to the end.
+  : This is an *informal* set of *goals* for this project. The first rule is the most important as this particular class has difficulty seeing projects through to the end.
 
 0.  - [ ] Once you have chosen a project, you may not change projects.
 1.  - [ ] Work on this project from start of class to first break. 
@@ -74,7 +74,10 @@ After the break, the students worked on various individual projects of their cho
 4.  - [ ] Sprites must have meaningful names.  
 5.  - [ ] Must broadcast messages. Messages must have meaningful names. You must have one message that goes to more than one sprite. 
 6.  - [ ] There must be a score. 
-7.  - [ ] You must ALL the blocks given in the sample project.
+7.  - [ ] You must ALL the blocks given in the sample project. 
+
+{% include zakviewer.html Name="2022 Rubric 1" ID="https://scratch.mit.edu/projects/643205095/" caption="the blocks to be used are in this project." %}
+
 8.  - [ ] It must be appropriate.
 9.  - [ ] You must work on it alone. It must be your own work. 
 10. - [ ] I will give Bonus Points for effort, creativity, and completeness. You must collect a least 100 bonus points. I will take points away for lack of effort.
