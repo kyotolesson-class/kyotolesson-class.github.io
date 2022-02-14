@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [February 12th](#february-12th)
+  * [Recap for February 12th](#recap-for-february-12th)
 * [February 5th](#february-5th)
   * [Recap for February 5th](#recap-for-february-5th)
 * [January 29th](#january-29th)
@@ -33,6 +35,59 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## February 12th
+</summary>
+
+## February 12th
+
+### Recap for February 12th
+
+Scratch
+  : Today I assigned students a new assignment. The goal of the project is for student to demonstrate their creativity, skill, and recent progress in learning Scratch. Projects will be collected and showcased in the class notes. The Guidelines for this project (below) are aimed at developing concentration and focus, coding skills, as well as creativity and originality.
+
+  : After reviewing the guidelines, the students began choosing and designing their projects.
+
+{% include zakviewer.html Name="2022-02-12 Untitled-39 Student M" ID="https://scratch.mit.edu/projects/643238190/" caption="Student M chose a basketball project. In addition to procuring images and editing them to remove the backgrounds, he added code to make the basketball appear when the space key is pressed." %}
+
+
+{% include zakviewer.html Name="Soccer Student Y" ID="https://scratch.mit.edu/projects/643221453/" caption="Student Y made great progress on a soccer game (not a baseball game, despite the background). He had a clear idea of how he wanted the game to start.  " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/bNjmORu.png" caption="He made players for both sides, as well as a play button to start the project. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/oGYwfRy.png" caption="This code makes the teams show up," width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/XsxEfrv.png" caption=" and if you click the team, these teams disappear. A very good beginning sequence to a game." width="" height="" spacer="" %}
+
+
+
+After the break, the students worked on various individual projects of their choice.
+
+2022 Rubric 1 (Sunflower Class)
+  : The first rule is the most important as this particular class has difficulty seeing projects through to the end.
+
+0.  - [ ] Once you have chosen a project, you may not change projects.
+1.  - [ ] Work on this project from start of class to first break. 
+2.  - [ ] Add at least  20 blocks each day.
+3.  - [ ] Intro screen with Name of project.
+4.  - [ ] Sprites must have meaningful names.  
+5.  - [ ] Must broadcast messages. Messages must have meaningful names. You must have one message that goes to more than one sprite. 
+6.  - [ ] There must be a score. 
+7.  - [ ] You must ALL the blocks given in the sample project.
+8.  - [ ] It must be appropriate.
+9.  - [ ] You must work on it alone. It must be your own work. 
+10. - [ ] I will give Bonus Points for effort, creativity, and completeness. You must collect a least 100 bonus points. I will take points away for lack of effort.
+11. - [ ] I am the final judge.
+
+
+Scratch Jr. 
+  : Student H showed me his homework, wherein he made the player fall into a lake if he loses the game. Very clever. I showed him some video of projects from the Bootup Curriculum, and he began working on making the "Naughty Wizard" project. 
+
+{% include youtubelazy.html Name="" videoID="VT3h4hkXQPk" %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## February 5th

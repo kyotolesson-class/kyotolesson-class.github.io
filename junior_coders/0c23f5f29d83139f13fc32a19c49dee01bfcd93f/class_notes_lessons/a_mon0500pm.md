@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [February 14th](#february-14th)
+  * [Recap for February 14th](#recap-for-february-14th)
 * [February 7th](#february-7th)
   * [Recap for February 7th](#recap-for-february-7th)
 * [January 31st](#january-31st)
@@ -71,6 +73,59 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## February 14th
+</summary>
+
+## February 14th
+
+### Recap for February 14th
+
+Travel Minecraft
+  : Today Student A and student J continued working on the Minecraft Travel project.
+
+{% include zakviewer.html Name="Minecraft Travel game 2022 02 14" ID="https://scratch.mit.edu/projects/640542562/" caption="Today we worked on the opening title sequence." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/FDQKiHt.png" caption="I introduced them to the online image editor sketchpad, and we made a logo for the game. I showed them how to change the font, colors, and outline." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/3VweIVA.png" caption="We then imported the logo into the game as a new sprite. Then I showed them how to duplicate the logo and delete letters to create the images for a scrolling effect." width="" height="" spacer="" %}
+
+ 
+{% include imgur.html title="" ID="https://i.imgur.com/2rsCyE6.png" caption="Lastly, we added code that made the coding effect. " width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-02-14 Mini Games " ID="https://scratch.mit.edu/projects/636531968/" caption="Student A" %}
+
+{% include zakviewer.html Name="2022-02-14 Minecraft" ID="https://scratch.mit.edu/projects/636538976/" caption="Student J" %}
+
+
+Animation 
+  : Student H made his own independent animation.
+{% include zakviewer.html Name="2022-02-14 Trip to dentist" ID="https://scratch.mit.edu/projects/643932238/" caption="He seems to have understood the basic principle behind stop motion animation, but still needs a little help aligning the sound." %}
+
+
+
+Korean Dalgona
+  : Student S continues to improve his Korean cookie game. 
+
+{% include zakviewer.html Name="2022-02-14 Dalgona" ID="https://scratch.mit.edu/projects/629470386/" caption="He added some instructions to the intro screen and made various other changes to make the game more playable, such as making the paths wider. I showed him how to group elements in the paint tool to make it easier to change their properties." %}
+
+
+Another Bouncing Ball
+  : Student K made another contribution to the bouncing ball/blob series.
+  
+{% include zakviewer.html Name="2022-02-14 blob move to thunderstruck" ID="https://scratch.mit.edu/projects/643922032/" caption="This face that bounces to the music. I helped them find and import the music, Thunderstruck by AC/DC." %}
+ 
+{% include imgur.html title="" ID="https://i.imgur.com/UD9K9TL.png" caption="I showed them how to use repeat blocks instead of copying code." width="" height="" spacer="" %}
+
+Smoke
+I challenged Student M to modify this project to create a moving smoke plume. 
+{% include zakviewer.html Name="2022-02-14 大戦争ゲーム ver2.0 remix on Scratch" ID="https://scratch.mit.edu/projects/638278496/" caption="I helped him create a new sprite with just the smoke, and he created a series of frames for the smoke effect." %}
+
+
+</details>
 
 
 <details markdown=1>
