@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [February 18th](#february-18th)
+  * [Recap for February 18th](#recap-for-february-18th)
 * [February 4th](#february-4th)
   * [Recap for February 4th](#recap-for-february-4th)
 * [January 28th](#january-28th)
@@ -29,6 +31,52 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## February 18th
+</summary>
+
+## February 18th
+
+### Recap for February 18th
+
+This week the kids worked on making an animation using a stock Minecraft character. Thy plan to use this as part of their Demon Games Project. The kids worked very well together and helped each with ideas and learning the steps.
+
+1. They searched google and found the image they wanted. 
+2. They used the [pixlr remove background](https://pixlr.com/remove-background/) removal tool to remove the background. 
+3. They imported the result into their project as a bitmap file. 
+
+    {% include imgur.html title="" ID="https://i.imgur.com/5dU3j4S.png" caption="" width="" height="" spacer="" %}
+
+     <br>
+
+
+
+4. They then sliced the image to separated the arms, legs, and head. 
+
+    {% include imgur.html title="" ID="https://i.imgur.com/Tz4xbyf.png" caption="" width="" height="" spacer="" %}
+
+     <br>
+
+
+5. They copied these parts into separate costumes and converted them into vector images.
+6. They reassembled the body by pasting all these parts into one full vector image, with movable parts.
+
+    {% include imgur.html title="" ID="https://i.imgur.com/HsdkVIU.png" caption="" width="" height="" spacer="" %}
+
+
+     <br>
+  
+7. They created a sequence of animation frames using onion-skinning.
+8. Next week they will code these to create animations.
+
+
+    {% include imgur.html title="" ID="https://i.imgur.com/6fQy55l.gif" caption="" width="" height="" spacer="" %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## February 4th
