@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [February 19th](#february-19th)
+  * [Recap for February 19th](#recap-for-february-19th)
 * [February 12th](#february-12th)
   * [Recap for February 12th](#recap-for-february-12th)
 * [February 5th](#february-5th)
@@ -35,6 +37,28 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## February 19th
+</summary>
+
+## February 19th
+
+### Recap for February 19th
+
+Some absent kids today, but for those that were here: 
+
+
+{% include zakviewer.html Name="2022-02-21 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/editor/" caption="Though he spent most of the class playing Scratch games, in the end Student H1 made this simple program that keeps score of how many times you touch the sunglasses. " %}
+
+{% include zakviewer.html Name="2022-02-21 Untitled-39 on Scratch" ID="https://scratch.mit.edu/projects/643238190/editor" caption="Student M continued his basketball project using glide blocks and various when key pressed blocks (space, up arrow, down arrow, a) to control the baskteball." %}
+
+
+Student H2 finished the first screen of his BootUp "Naughty wizard project". As an exercise in controllin the position of sprite during a screen transition, I then gave him a new situation for the second screen: Some people are on the beach and the wizard makes it become winter. He was able to complete this on his own and will probably go to a new BootUp project next week.
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## February 12th
