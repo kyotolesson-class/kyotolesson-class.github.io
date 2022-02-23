@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [February 21st](#february-21st)
+  * [Recap for February 21st](#recap-for-february-21st)
 * [February 14th](#february-14th)
   * [Recap for February 14th](#recap-for-february-14th)
 * [February 7th](#february-7th)
@@ -73,6 +75,46 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## February 21st
+</summary>
+
+## February 21st
+
+### Recap for February 21st
+
+Clones
+  : Today we worked as a class on how to use clones. I set up a [Death Ray template project](https://scratch.mit.edu/projects/645734480/) that has same rays, and 2 slots for the children to insert their own code.
+
+{% include zakviewer.html Name="2022-02-23 Death Rays Cloner simple" ID="https://scratch.mit.edu/projects/645734480/" caption="I walked through the steps in Ray 2. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/vRcs1Bv.png" caption="" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/OZtk9lS.png" caption="In an extremely simple version, Student K made their clones spawn at the mouse and go to a random position. They also changed the design of the clone. We learned that there is a limit to the number of clones we can have, and that each clone can create its own clones." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-02-23 Death Rays Cloner simple remix-2 on Scratch" ID="https://scratch.mit.edu/projects/647935325/editor/" caption="" %}
+
+
+Afterwards, students worked on their own projects, such as:
+
+{% include zakviewer.html Name="2022-02-23 Death Rays Cloner simple remix-2" ID="https://scratch.mit.edu/projects/647937254/" caption="One example. Student J modfied Voldermort and used the pen tool to draw the ray." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/iiaLs06.png" caption="Student A made her clone go the pointer and then to a fixed position on the screen." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-02-23 madness" ID="https://scratch.mit.edu/projects/629444361/" caption="Student H worked on making the head of one of his characters turn. First we used go to and move blocks to get the hed in the right position, but noticed the position was wrong if he changed direction. Fixing this involved talking about centering costumes and using an if loop to test teh direction the body is facing. I gave him some sample code to use, which he needs to copy." %}
+
+
+{% include zakviewer.html Name="2022-02-23 Untitled-11 on Scratch" ID="https://scratch.mit.edu/projects/646586220/editor/" caption="student S made this project. Using the sliders you can change the number, position, and costume of the created clones. Space clears them. " %}
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## February 14th
