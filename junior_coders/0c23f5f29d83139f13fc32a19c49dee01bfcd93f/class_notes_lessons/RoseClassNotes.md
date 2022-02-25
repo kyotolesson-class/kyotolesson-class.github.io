@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [February 25th](#february-25th)
+  * [Recap for February 25th](#recap-for-february-25th)
 * [February 18th](#february-18th)
   * [Recap for February 18th](#recap-for-february-18th)
 * [February 4th](#february-4th)
@@ -31,6 +33,23 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## February 25th
+</summary>
+
+## February 25th
+
+### Recap for February 25th
+
+[Last week](#february-18th) we turned a bitmap image into a collection of vector pieces that can be used to make an animation. This week the kids repeated the process on their own without my help. This involved taking images, removing the background using pixlr, slicing them into parts and reassembling them into animation frames.
+
+For student K  we also talked about how to create a transition to the main screen using broadcast/receive blocks. He will have to finish this next week.
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## February 18th
