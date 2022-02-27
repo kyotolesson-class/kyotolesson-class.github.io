@@ -39,8 +39,6 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
-
-
 <details markdown=1>
 <summary markdown=1>## February 26th
 </summary>
@@ -57,6 +55,26 @@ then reviewed the Project Checklist/Storyboard." %}
 We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the homework for next week is to think about the storyboard for your project. This is the crucial step and we will work on it slowly next week.
 
 {% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-26/thumbs/" %}
+
+Points awarded
+  : I began awarding bonus points for their work today. All the students, collectively have to get above 70 for the class to win the contest. 
+
+| Student   |  Pts.  | Part | Reason                                           |
+| --------- | ------ | ---- | ------------------------------------------------ |
+| Student H |   3    | 1-3  | Nice goals, good goals and writing, and patience |
+| Student M |   1    | 1    | Nice Name, title, Drawing                        |
+| Student M |   0.5  | 2    | Wrote a lot                                      |
+| Student M |   0.5  | 3    | 3 characters with names                          |
+| Student M |   1    |      | Participation, Listening, Following Directions   |
+| Student N |   1    |      | Participation, Listening, Following Directions   |
+| Student N |   1    | 1    | Nice Title                                       |
+| Student N |   0.5  | 2    | Good English                                     |
+| Student N |   0.5  | 3    | Characters and Objects                           |
+| Student Y |   1    |      | Participation, Listening, Following Directions   |
+| Student Y |   1    | 1    | Nice Title                                       |
+| Student Y |   0.5  | 2    | Clear Goals                                      |
+| Student Y |   0.5  | 3    | Interesting Goals                                |
+
 
 
 </details>
