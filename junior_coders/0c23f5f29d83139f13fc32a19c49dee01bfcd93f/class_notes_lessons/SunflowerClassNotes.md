@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [February 26th](#february-26th)
+  * [Recap for February 26th](#recap-for-february-26th)
 * [February 19th](#february-19th)
   * [Recap for February 19th](#recap-for-february-19th)
 * [February 12th](#february-12th)
@@ -37,6 +39,29 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## February 26th
+</summary>
+
+## February 26th
+
+### Recap for February 26th
+
+Today the class began a new Project Cycle/Contest. We reinforced expectations for class time and looked at the parts of Project Checklist/Storyboard for the Cycle.
+
+{% include zakviewer.html Name="2022-02-27 2022 02 Project Cycle Challenges on Scratch" ID="https://scratch.mit.edu/projects/650291488/" caption="We reviewed the the full project cycle. First we discussed the Cycle Grading Scheme. Next we see how class time will be structured in the Cycle. This is only a slight modification of our current scheme. We
+then reviewed the Project Checklist/Storyboard." %}
+
+We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the homework for next week is to think about the storyboard for your project. This is the crucial step and we will work on it slowly next week.
+
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-26/thumbs/" %}
+
+
+</details>
+
+
 
 
 <details markdown=1>
