@@ -94,8 +94,8 @@ then reviewed the Project Checklist/Storyboard." %}
 
 We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the students started making Storyboards.
 
-Goals, and Stoyboards
-  : &nbsp; 
+* Goals, and Stoyboards
+
 {% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-28/" %}
 
 The homework for next week is to think about the storyboard for your project. This is a crucial step and we will work on it again next week.
