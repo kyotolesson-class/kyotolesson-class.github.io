@@ -177,7 +177,7 @@ Scratch Jr.
 {% include imgur.html title="" ID="https://i.imgur.com/nfAJrvn.png" caption="I showed him a simple routine for jumping using 2 repeat loops." width="150px;" height="" spacer="" %}
 
 {% include zakviewer.html Name="2022-02-05 Dancing Dinos" ID="https://scratch.mit.edu/projects/639411610/" caption="In typical music-related style, Student M made this dance video on his own. It's a good beginning but I encouraged him to add more." %}
-</details>
+
 
 {% include imgur.html title="" ID="https://i.imgur.com/AOxxt7B.png" caption="It uses this simple dance loop." width="150px;" height="" spacer="" %}
 
