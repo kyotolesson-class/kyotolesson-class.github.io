@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [February 28th](#february-28th)
+  * [Recap for February 28th](#recap-for-february-28th)
 * [February 21st](#february-21st)
   * [Recap for February 21st](#recap-for-february-21st)
 * [February 14th](#february-14th)
@@ -75,6 +77,31 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## February 28th
+</summary>
+
+## February 28th
+
+### Recap for February 28th 
+
+Today the class began a new Project Cycle/Contest. We reinforced expectations for class time and looked at the parts of Project Checklist/Storyboard for the Cycle.
+
+{% include zakviewer.html Name="2022-02-27 2022 02 Project Cycle Challenges on Scratch" ID="https://scratch.mit.edu/projects/650291488/" caption="We reviewed the the full project cycle. First we discussed the Cycle Grading Scheme. Next we see how class time will be structured in the Cycle. This is only a slight modification of our current scheme. We
+then reviewed the Project Checklist/Storyboard." %}
+
+We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the students started making Storyboards.
+
+Goals, and Stoyboards
+  : &nbsp; 
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-28/" %}
+
+The homework for next week is to think about the storyboard for your project. This is a crucial step and we will work on it again next week.
+
+</details>
+
 
 
 <details markdown=1>

@@ -54,7 +54,7 @@ then reviewed the Project Checklist/Storyboard." %}
 
 We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the homework for next week is to think about the storyboard for your project. This is the crucial step and we will work on it slowly next week.
 
-{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-26/thumbs/" %}
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-02-26/" %}
 
 Points awarded
   : I began awarding bonus points for their work today. All the students, collectively have to get above 70 for the class to win the contest. 
