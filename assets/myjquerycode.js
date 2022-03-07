@@ -1,6 +1,8 @@
 $(document).ready(function () {
 
-/* forces click to open tooltip, but not working 
+
+
+/* START forces click to open tooltip, but not working 
 $(".tooltips").tooltip({disabled:true});
 $(".tooltips").click(function() {
     if($(this).tooltip("option", "disabled")) {
@@ -12,14 +14,14 @@ $(".tooltips").click(function() {
         $(this).tooltip("disable");
     }
 });
-*/
+END */
 // tooltips
 
 //$('.tooltips').tooltip({
    //tooltipClass: "tooltips"
 //}); 
 
-// allows tooltip text to be selected and copied
+// START allows tooltip text to be selected and copied
 //  from https://stackoverflow.com/a/15014759https://stackoverflow.com/a/15014759
 $( document ).tooltip({
   show: null, // null = show immediately 
@@ -48,6 +50,10 @@ $( document ).tooltip({
     );
   }
 });
+
+
+// END TOOLTIP
+
 
 	// implements lazy loading of zak iframes to speed page load.
     $("button[name='insertZak'], div[name='insertZak'], a[name='insertZak']").one("click", function () {
@@ -297,4 +303,35 @@ $( document ).tooltip({
 		style: "scratch3",
 		languages: ["en"],
 	});
+
+
+	/* 
+this was a fu offsets image gallery links a bit from 
+https://stackoverflow.com/questions/17534661/make-anchor-link-go-some-pixels-above-where-its-linked-to/60975588#60975588
+
+https://jsfiddle.net/ju5xLgkq/
+
+NOTUSED it doesn't work in our case. Just here in case I can figure out how to make it work:
+// The function actually applying the offset
+function offsetAnchor() {
+  if (location.hash.length !== 0) {
+	// set the scrollY offset to zero so it doesn't offset after going to link??
+    window.scrollTo(window.scrollX, window.scrollY + 0);
+  }
+}
+
+// Captures click events of all .slider2 .gallerymenu p a elements with href starting with #
+$(document).on('click', '.slider2 .gallerymenu p a[href^="#"]', function(event) {
+  // Click events are captured before hashchanges. Timeout
+  // causes offsetAnchor to be called after the page jump.
+  window.setTimeout(function() {
+    offsetAnchor();
+  }, 0);
+});
+
+// Set the offset when entering page with hash present in the url
+window.setTimeout(offsetAnchor, 0);
+
+
+/* END unused offset image gallery links */
 });

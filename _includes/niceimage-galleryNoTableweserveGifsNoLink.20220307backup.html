@@ -1,10 +1,7 @@
-{% comment %}  
-from an idea at https://jekyllcodex.org/without-plugin/image-gallery/#
-This version doesn't use tables 
-{% endcomment %}
+<!--  from an idea at https://jekyllcodex.org/without-plugin/image-gallery/#
+This version doesn't use tables -->
 
-
-<div class="slider2" >
+<div class="slider2">
 <!-- These have to be links  -->
 <div class="galleryslides">
 
@@ -33,7 +30,7 @@ This version doesn't use tables
 {% else %}
 
 [![ {{ filename }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io/{{ file.path }}&w=477)]({{ file.path }}){: target="_blank" style="width:auto;"} 
-{: {{ file2 }} }  
+{: {{ file2 }} } 
 
 {% endif %} 
 
@@ -42,16 +39,6 @@ This version doesn't use tables
 
 {% endif %} {% endif %} {% endfor %}
 
-
-{% comment %}  THIS uses images.weserv.nl to reduce image load  / use for production replace above before committing /
-[![ {{ filename }} ](//images.weserv.nl/?url=https://kyotolesson-class.github.io/{{ file.path }}&w=477)]({{ file.path }}){: target="_blank" style="width:auto;"} 
-{: {{ file2 }} }  
-{% endcomment %}
-
-{% comment %}  THIS removes weserv  use above for testing on local machine
-[![ {{ filename }} ]({{ file.path }})]({{ file.path }}){: target="_blank" style="width:auto;"} 
-{: {{ file2 }} }  
-{% endcomment %}
 
 </div>
 <!-- necessary space-->
