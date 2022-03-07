@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [March 4th](#march-4th)
+  * [Recap for March 4th](#recap-for-march-4th)
 * [February 25th](#february-25th)
   * [Recap for February 25th](#recap-for-february-25th)
 * [February 18th](#february-18th)
@@ -33,6 +35,30 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## March 4th 
+</summary>
+
+## March 4th 
+
+### Recap for March 4th 
+
+Students continued working on the Demon Game Prjoect
+
+
+{% include zakviewer.html Name="Demon Game 2022 03 05 Student Y" ID="https://scratch.mit.edu/projects/654133485/" caption="Student Y Animated finished animating two characters using repeat blocks and messages. You can see them dance after choosing the level." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/b6JRXqH.png" caption="Student K added a host of weapons to his project" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/DTWdSAx.png" caption="He also began creating the transition from the level screen to the main game screen using when clicked, broadcast, and received blocks." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-06 Untitled-62 on Scratch" ID="https://scratch.mit.edu/projects/655016688/" caption="This is visible when you click the easy level." %}
+
+
+</details>
 
 
 <details markdown=1>

@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 4th (makeup)](#march-4th-makeup)
+  * [Recap for March 4th](#recap-for-march-4th)
 * [February 28th](#february-28th)
   * [Recap for February 28th](#recap-for-february-28th)
 * [February 21st](#february-21st)
@@ -77,6 +79,25 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## March 4th (makeup)
+</summary>
+
+## March 4th (makeup)
+
+### Recap for March 4th
+
+Student H began the checklist for his Chaos Project, including a title, goals, and a beginning storyboard.
+
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-03-04/" %}
+
+
+
+</details>
+
+
+
 
 
 <details markdown=1>

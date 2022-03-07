@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [March 5th](#march-5th)
+  * [Recap for March 5th](#recap-for-march-5th)
 * [February 26th](#february-26th)
   * [Recap for February 26th](#recap-for-february-26th)
 * [February 19th](#february-19th)
@@ -39,6 +41,44 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## March 5th
+</summary>
+
+## March 5th
+
+### Recap for March 5th
+
+Scratch
+  : Today Students worked on their Storyboards. 
+
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-03-05-Scratch/" %}
+
+When the storyboards were complete enough they began working on the first frames of their storyboards.
+
+
+{% include zakviewer.html Name="2022-03-05 Untitled-196 on Scratch" ID="https://scratch.mit.edu/projects/654710710/" caption="Student Y originally made a background with 4 parts, but to make his game work he needed to make individual sprites that will be clicked to start the game." %}
+
+
+{% include zakviewer.html Name="2022-03-05 Untitled-42" ID="https://scratch.mit.edu/projects/654715137/" caption="Student M began filling out the parts of the first frame of his storyboard." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/oNPFVfK.png" caption="Student H created a routine that made the ghost go to 3 random position, then try to hit Abu with a purple dot." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-05 Untitled-99" ID="https://scratch.mit.edu/projects/654714163/" caption="He also made a target that followed the mouse." %}
+
+ScratchJr.
+  : Student H and I reviewed his homework, the storyboard for his Mario Project. He added some labels to better explain the story.
+
+{% include niceimage-galleryNoTableweserveGifsNoLink.html folder="/images/2022-03-05-ScratchJr/" %}
+
+He began working on the project. I showed him how to change the dimensions of the pistons so they could up and down without showing at the top.Then we used messages to make mario go back when hit by the first piston, but die when hit by the second piston. We tried to hide Mario when he fell, but realized that this would trigger a bump block. ALl in all a great job problem solving and learning about the limitations of SratchJr. 
+
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## February 26th
 </summary>
