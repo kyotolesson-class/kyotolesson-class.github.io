@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 7th](#march-7th)
+  * [Recap for March 7th](#recap-for-march-7th)
 * [March 4th (makeup)](#march-4th-makeup)
   * [Recap for March 4th](#recap-for-march-4th)
 * [February 28th](#february-28th)
@@ -79,7 +81,42 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+<details markdown=1>
+<summary markdown=1>## March 7th
+</summary>
 
+## March 7th
+
+### Recap for March 7th
+ 
+
+Today we started with a simple exercise to demonstrate the concept of Eventts and actions. I went around the room and we created a project where each person would add one event/action pair.  Then I emphasized that each pair becomes a set of blocks in the project.
+
+Our story was: 
+
+1. When the green flag is clicked, The word "Game" and a character appear on teh screen.
+2. When we press the character, he dances.
+3. When he finishes dancing, sharks fly out of the sky and the word game disappears
+4. When they are near the ground, they explode 
+5. After they explode, the character dies.
+6. After that a duck with a person on it pop on the screen.
+7. They swim away.
+8. When they are gone, the entire earth appears and everyone (on the earth) becomes Dwayne "the Rock" Johnson.
+
+{% include zakviewer.html Name="2022-03-08 Man Shark Duck Rock on Scratch" ID="https://scratch.mit.edu/projects/655915522/" caption="" %}
+
+Having done that, the students worked on their projects. Most began making their first sprites, as usual by either by getting them from the internet or drawwing them, removing backgrounds, modifying them, which I helped them do. 
+
+Some reached the point where they were coding their projects as well, and most everyone seemed on track:
+
+{% include zakviewer.html Name="2022-03-08 student M" ID="https://scratch.mit.edu/projects/655392474/" caption="" %}
+
+
+At break the project Sky Island was a big hit.
+
+{% include zakviewer.html Name="2022-03-08 Shootout vs Zombies (ver.2.0) on Scratch" ID="https://scratch.mit.edu/projects/369551424" caption="" %}
+
+</details> 
 <details markdown=1>
 <summary markdown=1>## March 4th (makeup)
 </summary>
