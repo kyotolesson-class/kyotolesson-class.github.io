@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [March 11th](#march-11th)
+  * [Recap for March 11th](#recap-for-march-11th)
 * [March 4th](#march-4th)
   * [Recap for March 4th](#recap-for-march-4th)
 * [February 25th](#february-25th)
@@ -35,6 +37,35 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## March 11th
+</summary>
+
+## March 11th
+
+### Recap for March 11th
+
+
+Both kids made significant progress today.
+
+
+{% include zakviewer.html Name="2022-03-12 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K:
+1. created the background for the main screen. I showed him how to use one sprite for the background, then use a switch costume block to change the background. This is better than using multiple sprites. 
+1. He used when I receive block to change the background once choosing the level. 
+2. He created a spider and I helped him look for Minecraft soundboards to get the sounds for the spider.<span >" %}
+
+{% include zakviewer.html Name="2022-03-12 Demon Game Fixed 2022 02 04 on Scratch" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y:<br>
+1. Learned how to create a variable to track the number of clicks.
+2. Initialized the variable and updated it each click. 
+3. Used an if block to test the number of clicks, and perform an action on the 5th click. <br>
+  ![imgur](https://i.imgur.com/CE35vqH.png)
+4. He began adding swords.
+5. He began designing the next scene on paper.
+<span>" %}
+
+
+</details>
 
 
 <details markdown=1>
