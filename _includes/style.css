@@ -942,6 +942,7 @@ blockquote.tynkercaption {
     border-left: unset;
     padding: 0px 20px 0px 20px;
     font-style: unset; /* remove italics from blockquote */
+    font-family: Cambria; /* slightly nicer font for italics in caption */
 }
 
 /* if no caption, this is just here to put a margin at the bottom */
@@ -960,15 +961,15 @@ div.tynkercaptiondiv:empty {
 background:var(--scrollbarBG);
 }
 
-/* this puts a margin around captions */
+/* this puts a margin around captions. 2022 03 12 removed font to match tynkercaption styling font and size */
 blockquote.tynkercaption p {
 margin-top: 4px;
 margin-bottom: 5px;
-font-size: 90%;
+/* font-size: 90%; */
 text-align: justify;
     line-height: normal;
-    font-style: normal;
-    font-family: Cochin, Times, "Times New Roman", serif;
+    /* font-style: normal;
+    font-family: Cochin, Times, "Times New Roman", serif; */
 }
 
 /* adds the attribution for giphy and other iframes */
