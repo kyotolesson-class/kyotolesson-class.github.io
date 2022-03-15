@@ -124,7 +124,6 @@ Cat Memes
 
 
 {% include zakviewer.html Name="2022-03-15 Student H" ID="https://scratch.mit.edu/projects/659361001/" caption="Student H was inspired by Student K to to make cat memes. I showed him how to find sounds on the internet via soundboards." %}
-</details>
 
 Broadcast and wait
   : I worked one-on-one with some students to reinforce the Broadcast and Wait model.
