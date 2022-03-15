@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [March 12th](#march-12th)
+  * [Recap for March 12th](#recap-for-march-12th)
 * [March 5th](#march-5th)
   * [Recap for March 5th](#recap-for-march-5th)
 * [February 26th](#february-26th)
@@ -41,6 +43,42 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## March 12th
+</summary>
+
+## March 12th
+
+
+
+### Recap for March 12th
+Today I shared with the kids a collaborative project idea made by  the monday group. I shwed them the original collaboration steps, and the final product. Then we quickly make our own collaborative project idea. 
+
+At the end of class, I showed them a quick mockup of how the project would look.
+
+{% include zakviewer.html Name="2022-03-12 Collaborative Project" ID="https://scratch.mit.edu/projects/658675972/" caption="" %}
+
+
+Student Y changed his mind a few times about what project he wanted to make, giving up on the project he storyboard from last week. On the 3rt try he found something he really liked, Blade themed fighter project, and we walked through the storyboard process together. We put labels on the characters, and described the action and I helped him write them as steps in the storyboard. The result is a very detailed description of an interesting project. 
+
+
+Student N ghost project had changed a bit since he storyboarded it, and while his computer was updating we walked through making a new storyboard, emphasizing adding descriptions to each frame for the action. 
+
+Student M continued working on his storyboarded Ghost Bassters project, mostly gathering characters for it. Also, inspired by the class collaborative project, he made this interesting project.
+
+{% include zakviewer.html Name="2022-03-15 CRAZY on Scratch" ID="https://scratch.mit.edu/projects/550356223/" caption="" %}
+
+Student H continued pushing the envelope while working on his excellent Mario/Bowser project. His coding challenge was that he came across a rare situation where a bump block only triggers once. This is because technically you should put a red stop block at the end of stacks, but in most cases scratchJr. runs fine without it. In fact, this is the first time I have ever seen it affect a project. 
+
+
+Today's KID'S FAVORITE:
+
+ {% include zakviewer.html Name="2022-03-13 [GAME] Skiing Panda" ID="https://scratch.mit.edu/projects/655951144" caption="" %} 
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 5th

@@ -54,6 +54,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 14th](#march-14th)
+  * [Recap for March 14th](#recap-for-march-14th)
+  * [Kids worked on their own projects.](#kids-worked-on-their-own-projects)
 * [March 7th](#march-7th)
   * [Recap for March 7th](#recap-for-march-7th)
 * [March 4th (makeup)](#march-4th-makeup)
@@ -84,6 +87,66 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <details markdown=1>
 <summary markdown=1>## March 7th
 </summary>
+<details markdown=1>
+<summary markdown=1>## March 14th
+</summary>
+
+## March 14th
+
+### Recap for March 14th
+
+Broadcast and Wait Model
+  : Today I showed kids a project based on the collaborative exercise from last week. 
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/ZMC2xZr.png" caption="I highlighted how the the 'Broadcast and Wait Model' is used to organize a project. As a class we walked through coding the first few steps in making the project to show how this simplifies writing projects." width="50%" height="" spacer="" %}
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/7jYKdkI.png" caption="We coded the dance" width="50%" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/xS8dj16.png" caption="and the falling and exploding of the sharks " width="50%" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022-03-15 2022 03 04 EZ Man Shark Duck Rock You're Welcome EZ to write copy on Scratch" ID="https://scratch.mit.edu/projects/659819762/" caption="This is the final result" %}
+
+
+### Kids worked on their own projects.
+
+Cat Memes 
+  : Two students were inspired by cat memes today.
+
+{% include zakviewer.html Name="2022-03-15 Cate Meme" ID="https://scratch.mit.edu/projects/659354980/" caption="Student K likes cats" %}
+
+
+{% include zakviewer.html Name="2022-03-15 cursed cat adventure" ID="https://scratch.mit.edu/projects/655407605/" caption="Student K made a cat wedding (unfinished)." %}
+
+
+
+{% include zakviewer.html Name="2022-03-15 Student H" ID="https://scratch.mit.edu/projects/659361001/" caption="Student H was inspired by Student K to to make cat memes. I showed him how to find sounds on the internet via soundboards." %}
+</details>
+
+Broadcast and wait
+  : I worked one-on-one with some students to reinforce the Broadcast and Wait model.
+
+
+{% include zakviewer.html Name="2022-03-15 Student A" ID="https://scratch.mit.edu/projects/636531968/" caption="Student A continued her Travel Minecraft game using broadcast and waits. First we made the cursor follow the mouse with a go to block. Then we worked slowly together on using the brbroadcast and receive blocks to make the cursor click draw a block." %}
+
+
+{% include zakviewer.html Name="2022-03-15 Untitled-12" ID="https://scratch.mit.edu/projects/655390730/" caption="Student J made great progress today. I showed him how to remove backgrounds with pixlr, so his soccer ball and goalie look good. " %} 
+
+{% include imgur.html title="" ID="https://i.imgur.com/iIxGHkU.png" caption="We then used the Broadcast and Wait model to start coding his project. " width="50%" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/C5saQev.png" caption="I also showed him how to use the glide block to make the ball go towards the goal, which he seemed to understand readily." width="50%" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-15 Shooting game" ID="https://scratch.mit.edu/projects/647931749/" caption="Student S added an end screen and other tweaks to his project." %}
+
+</details> 
+
+
+
 
 ## March 7th
 
