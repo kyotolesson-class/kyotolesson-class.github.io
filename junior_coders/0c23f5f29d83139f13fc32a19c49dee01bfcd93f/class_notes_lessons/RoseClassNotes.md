@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [March 18th](#march-18th)
+  * [Recap for March 18th](#recap-for-march-18th)
 * [March 11th](#march-11th)
   * [Recap for March 11th](#recap-for-march-11th)
 * [March 4th](#march-4th)
@@ -37,6 +39,25 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## March 18th
+</summary>
+
+## March 18th
+
+### Recap for March 18th
+
+Student Y started working on the next screen of his Demon Game.  
+
+{% include imgur.html title="" ID="https://i.imgur.com/cyRp0Ck.png" caption="He created a mockup of the screen and collected the blocks that he will used for it. Most of these are derived from Minecraft." width="" height="" spacer="" %}
+
+<br/>
+Student K likewise did the same, though his approach was different. His main focus this week was using broadcast and receive blocks to change the screen. 
+
+{% include zakviewer.html Name="2022-03-20 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="First he added the change of screen when pressing the other level buttons, and then he made all the characters appear and disappear at the right time." %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 11th

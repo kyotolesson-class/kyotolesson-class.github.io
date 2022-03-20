@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [March 19th](#march-19th)
+  * [Recap for March 19th](#recap-for-march-19th)
 * [March 12th](#march-12th)
   * [Recap for March 12th](#recap-for-march-12th)
 * [March 5th](#march-5th)
@@ -45,6 +47,33 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 
+
+<details markdown=1>
+<summary markdown=1>## March 19th
+</summary>
+
+## March 19th
+
+### Recap for March 19th
+
+
+{% include zakviewer.html Name="2022-03-21 Untitled-103 on Scratch" ID="https://scratch.mit.edu/projects/654714163/" caption="Student N continued working on his Ghost Catch Game. He made it so that if you click the ghost, his hands go up and music plays." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/wyNzDIB.png" caption="Today's focus was using conditions, like if distance to abu > 200, or if touching DOT or touching Ghost. His eye lit up when he realized the difference between and and or!" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-03-21 2022 03 15 BEYBELADE" ID="https://scratch.mit.edu/projects/662923239/" caption="Student Y made great progress on his beyblade  project. He got his four blades, and together we coded the opening screen and the transition to the choose blade screen." %}
+
+
+{% include zakviewer.html Name="2022-03-21 Smash Bros" ID="https://scratch.mit.edu/projects/658672335/" caption="Student M completed his array of characters for his Smash Brothers Project, and began making the transition to the main screen." %}
+
+
+</details>
+
+
+
+
+
 <details markdown=1>
 <summary markdown=1>## March 12th
 </summary>
@@ -54,7 +83,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 
 ### Recap for March 12th
-Today I shared with the kids a collaborative project idea made by  the monday group. I shwed them the original collaboration steps, and the final product. Then we quickly make our own collaborative project idea. 
+Today I shared with the kids a collaborative project idea made by  the monday group. I showed them the original collaboration steps, and the final product. Then we quickly make our own collaborative project idea. 
 
 At the end of class, I showed them a quick mockup of how the project would look.
 

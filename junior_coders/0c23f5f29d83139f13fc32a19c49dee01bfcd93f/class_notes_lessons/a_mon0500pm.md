@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 18th Makeup](#march-18th-makeup)
+  * [Recap for March 18th Makeup](#recap-for-march-18th-makeup)
 * [March 14th](#march-14th)
   * [Recap for March 14th](#recap-for-march-14th)
   * [Kids worked on their own projects.](#kids-worked-on-their-own-projects)
@@ -84,6 +86,35 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## March 18th Makeup
+</summary>
+
+## March 18th Makeup
+
+### Recap for March 18th Makeup
+
+
+Student M is very clever at adapting existing games but this time I challenged him to create his own project from scratch. He decided to make his own Cat Owns an Inn project. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/xb0lHjc.png" caption="We used the broadcast and wait model to make the cats appear from the edge and when they hit each other the first cat goes to the hotel room. Some key ideas he learned included how to set the starting position of  a block with a go to block, how to create a condition for a repeat until block. He also learned about layers, to keep the cat in front of the room." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022 3 18 Student M Cat Owns an Inn" ID="https://scratch.mit.edu/projects/661880450/" caption="" %}
+
+
+Student S worked on the first screen of his Shooting game. He did a great job coming up with his own solutions, finding solutions within the knowledge he had. A future task for him would be to learn some new techniques such as repeat while and broadcast and wait.
+
+
+{% include zakviewer.html Name="2022-03-20 2022 03 15 Student S Shooter Game on Scratch" ID="https://scratch.mit.edu/projects/662654680/" caption="He added a show/hide variable screen and made other tweaks. " %}
+
+{% include zakviewer.html Name="2022-03-21 2022 03 15 fixed Shooter Game fixed" ID="https://scratch.mit.edu/projects/662757065/" caption="This is a revised version of his program, using more standard methods, especially broadcast and wait." %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## March 14th
