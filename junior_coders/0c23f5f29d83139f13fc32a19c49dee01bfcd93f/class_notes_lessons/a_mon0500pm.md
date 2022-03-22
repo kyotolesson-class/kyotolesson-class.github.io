@@ -115,7 +115,7 @@ Cat memes
 
 {% include zakviewer.html Name="2022-03-21 big chunges" ID="https://scratch.mit.edu/projects/659361001/" caption="Another Student H cat meme" %}
 
-{% include zakviewer.html Name="2022-03-21 Untitled-59 on Scratch" ID="https://scratch.mit.edu/projects/663086124/editor" caption="Student K also worked on cat memes, with some sophisticated hand drawing. (click on cat)" %}
+{% include zakviewer.html Name="2022-03-21 Untitled-59 on Scratch" ID="https://scratch.mit.edu/projects/663086124/" caption="Student K also worked on cat memes, with some sophisticated hand drawing. (click on cat)" %}
 
 
 
