@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 21st](#march-21st)
+  * [Recap for March 21st](#recap-for-march-21st)
 * [March 18th Makeup](#march-18th-makeup)
   * [Recap for March 18th Makeup](#recap-for-march-18th-makeup)
 * [March 14th](#march-14th)
@@ -88,6 +90,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 
+
+<details markdown=1>
+<summary markdown=1>## March 21st
+</summary>
+
+## March 21st
+
+### Recap for March 21st
+
+{% include zakviewer.html Name="2022-03-21 Shooter Game fixed" ID="https://scratch.mit.edu/projects/662757065/" caption="I reviewed my revision of Student S's Shooter project with him, reinforcing concepts such as using broadcast and wait model, using repeat until blocks and better block placement to eliminate loops and so they act only when and where we need them.." %}
+
+
+{% include zakviewer.html Name="2022-03-21  Mini-games on Scratch" ID="https://scratch.mit.edu/projects/663106092/" caption="Student A worked on having the cursor sprite clones a new tile at the cursor. I explained clones using a mother and her children analogy. We tested the cursor click message by adding a sound when the message is received." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Wh9ejLa.png" caption="We then replaced this with a my block that goes to the position of the cursor block, and creates a clone. " width="" height="" spacer="" %} 
+
+
+Cat memes
+  : Cat "memes" again won the day with two of our pupils.
+
+{% include zakviewer.html Name="2022-03-21 cats do not like pickeles" ID="https://scratch.mit.edu/projects/663077133/" caption="Student H made another cat memes project, and was able to time the sound to the action.
+" %}
+
+{% include zakviewer.html Name="2022-03-21 big chunges" ID="https://scratch.mit.edu/projects/659361001/" caption="Another Student H cat meme" %}
+
+{% include zakviewer.html Name="2022-03-21 Untitled-59 on Scratch" ID="https://scratch.mit.edu/projects/663086124/editor" caption="Student K also worked on cat memes, with some sophisticated hand drawing. (click on cat)" %}
+
+
+
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## March 18th Makeup
 </summary>
@@ -107,9 +143,9 @@ Student M is very clever at adapting existing games but this time I challenged h
 Student S worked on the first screen of his Shooting game. He did a great job coming up with his own solutions, finding solutions within the knowledge he had. A future task for him would be to learn some new techniques such as repeat while and broadcast and wait.
 
 
-{% include zakviewer.html Name="2022-03-20 2022 03 15 Student S Shooter Game on Scratch" ID="https://scratch.mit.edu/projects/662654680/" caption="He added a show/hide variable screen and made other tweaks. " %}
+{% include zakviewer.html Name="03 15 Student S Shooter Game on Scratch" ID="https://scratch.mit.edu/projects/662654680/" caption="He added a show/hide variable screen and made other tweaks. " %}
 
-{% include zakviewer.html Name="2022-03-21 2022 03 15 fixed Shooter Game fixed" ID="https://scratch.mit.edu/projects/662757065/" caption="This is a revised version of his program, using more standard methods, especially broadcast and wait." %}
+{% include zakviewer.html Name="2022 03 15 fixed Shooter Game fixed" ID="https://scratch.mit.edu/projects/662757065/" caption="This is a revised version of his program, using more standard methods, especially broadcast and wait." %}
 
 
 </details>
@@ -183,7 +219,7 @@ Broadcast and wait
 ### Recap for March 7th
  
 
-Today we started with a simple exercise to demonstrate the concept of Eventts and actions. I went around the room and we created a project where each person would add one event/action pair.  Then I emphasized that each pair becomes a set of blocks in the project.
+Today we started with a simple exercise to demonstrate the concept of Events and actions. I went around the room and we created a project where each person would add one event/action pair.  Then I emphasized that each pair becomes a set of blocks in the project.
 
 Our story was: 
 

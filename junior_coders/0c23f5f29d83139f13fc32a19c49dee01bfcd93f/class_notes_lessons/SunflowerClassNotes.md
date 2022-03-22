@@ -200,9 +200,9 @@ Points awarded
 Some absent kids today, but for those that were here: 
 
 
-{% include zakviewer.html Name="2022-02-21 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/editor/" caption="Though he spent most of the class playing Scratch games, in the end Student H1 made this simple program that keeps score of how many times you touch the sunglasses. " %}
+{% include zakviewer.html Name="2022-02-21 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/" caption="Though he spent most of the class playing Scratch games, in the end Student H1 made this simple program that keeps score of how many times you touch the sunglasses. " %}
 
-{% include zakviewer.html Name="2022-02-21 Untitled-39 on Scratch" ID="https://scratch.mit.edu/projects/643238190/editor" caption="Student M continued his basketball project using glide blocks and various when key pressed blocks (space, up arrow, down arrow, a) to control the baskteball." %}
+{% include zakviewer.html Name="2022-02-21 Untitled-39 on Scratch" ID="https://scratch.mit.edu/projects/643238190/" caption="Student M continued his basketball project using glide blocks and various when key pressed blocks (space, up arrow, down arrow, a) to control the baskteball." %}
 
 
 Student H2 finished the first screen of his BootUp "Naughty wizard project". As an exercise in controllin the position of sprite during a screen transition, I then gave him a new situation for the second screen: Some people are on the beach and the wizard makes it become winter. He was able to complete this on his own and will probably go to a new BootUp project next week.
