@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [March 25th](#march-25th)
+  * [Recap for March 25th](#recap-for-march-25th)
 * [March 18th](#march-18th)
   * [Recap for March 18th](#recap-for-march-18th)
 * [March 11th](#march-11th)
@@ -39,6 +41,35 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## March 25th
+</summary>
+
+## March 25th
+
+### Recap for March 25th
+
+{% include zakviewer.html Name="2022-03-25 Student M Cat owns an Inn Revised on Scratch" ID="https://scratch.mit.edu/projects/666047491/" caption="Student M began making the Cat Owns an Inn Project. This project was intended as a quick intro to key concepts that he has identified as needed but has not coded before. Ideas covered included Broadcast Model, Initialization, Creating Clones, Starting a Clone, Creating Variables, Size and Ghost effect, random numbers, glides, and ifs and conditionals." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/beKJV7G.png" caption="Student K created a ground by using eight 'dirt' sprites, and I showed him how to create the same effect with just one sprite using clones." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-25 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="" %}
+
+
+{% include zakviewer.html Name="2022-03-25 Demon Game Fixed 2022 02 04 on Scratch" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y also needed an array of buttons. His main concern was how to make it so that we could click them and know which one was clicked." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/ueR1Jt2.png" caption="First we created the clones by looping over the positions" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/ejuAV4B.png" caption="Then we set the appropriate costume and created a test to see which is clicked. We used a local variable to know which clone is which, and a global variable to know which was clicked. By comparing the two we know which clone is clicked." width="" height="" spacer="" %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## March 18th
