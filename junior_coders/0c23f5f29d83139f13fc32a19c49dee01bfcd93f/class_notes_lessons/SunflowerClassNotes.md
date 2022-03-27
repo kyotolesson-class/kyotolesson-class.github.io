@@ -69,7 +69,7 @@ Demons
 {% include imgur.html title="" ID="https://i.imgur.com/NDT7LgH.png" caption="Given his project goals, it turns out he would have to copy any changes into each of his 9 demons. I gave him a choice of slowly collecting his costumes now, to make his future code easier, or keeping things as they are now, but creating difficulties later. " width="" height="" spacer="" %}
 
 
-{% include imgur.html title="" ID="https://i.imgur.com/2hoYe1g.png" caption="He chose the first and I showed him how to collect his demon costumes into one sprite (Demons), a slightly time consuming process." width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/2hoYe1g.png" caption="He chose the first and I showed him how to collect his demon costumes into one sprite (Demons), a slightly time consuming process." width="100px" height="" spacer="" %}
 
 {% include zakviewer.html Name="2022-03-26 student m 3 26 fixed on Scratch" ID="https://scratch.mit.edu/projects/666229325/" caption="" %}
 
@@ -83,7 +83,7 @@ Bowser
 
 {% include imgur.html title="" ID="https://i.imgur.com/gaBAC3x.png" caption="I helped him make Bowser fall until he hit the platform." width="" height="" spacer="" %}
 
-{% include imgur.html title="" ID="https://i.imgur.com/KcSTS2H.png" caption="  We used a bump block to detect the touch, and a stop block to stop the downward motion and turn it into upward motion. " width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/KcSTS2H.png" caption="We used a bump block to detect the touch, and a stop block to stop the downward motion and turn it into upward motion. " width="" height="" spacer="" %}
 
 In ScratchJr. this is only partly possible, because it only detects it the first time through the loop. In Scratch this can be programmed quite efficiently. He is asking the right kinds of questions to move on to the next level. After that he made Bowser float above a bridge, reusing code from another previous project. 
 
