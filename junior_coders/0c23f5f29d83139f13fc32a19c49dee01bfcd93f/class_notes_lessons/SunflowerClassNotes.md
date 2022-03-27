@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [March 26th](#march-26th)
+  * [Recap for March 26th](#recap-for-march-26th)
 * [March 19th](#march-19th)
   * [Recap for March 19th](#recap-for-march-19th)
 * [March 12th](#march-12th)
@@ -46,6 +48,48 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+
+<details markdown=1>
+<summary markdown=1>## March 26th
+</summary>
+
+## March 26th
+
+### Recap for March 26th
+
+Demons
+  : Today I worked closely with student M to upgrade his Demon project. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/KWPTNuZ.png" caption="First I slightly rewrote his code to use the broadcast and wait model." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/MH4Osip.png" caption="Then we made all the Demons disappear once we have selected one. I also showed him how to use a variable to keep the one we clicked showing. " width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/NDT7LgH.png" caption="Given his project goals, it turns out he would have to copy any changes into each of his 9 demons. I gave him a choice of slowly collecting his costumes now, to make his future code easier, or keeping things as they are now, but creating difficulties later. " width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/2hoYe1g.png" caption="He chose the first and I showed him how to collect his demon costumes into one sprite (Demons), a slightly time consuming process." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-26 student m 3 26 fixed on Scratch" ID="https://scratch.mit.edu/projects/666229325/" caption="" %}
+
+Sunglasses
+  : Student H1 worked independently to create a "Chase the Glasses Game". 
+  
+{% include zakviewer.html Name="2022-03-28 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/" caption="The project uses when arrow clicked blocks to let a funny cat chase a pair of sunglasses.This game showed progress and independent learning compared to his other previous projects. " %}
+  
+Bowser
+  : Student H2 continued working on his Bowser ScratchJr. project. He posed several challenges.
+
+{% include imgur.html title="" ID="https://i.imgur.com/gaBAC3x.png" caption="I helped him make Bowser fall until he hit the platform." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/KcSTS2H.png" caption="  We used a bump block to detect the touch, and a stop block to stop the downward motion and turn it into upward motion. " width="" height="" spacer="" %}
+
+In ScratchJr. this is only partly possible, because it only detects it the first time through the loop. In Scratch this can be programmed quite efficiently. He is asking the right kinds of questions to move on to the next level. After that he made Bowser float above a bridge, reusing code from another previous project. 
+
+
+
+</details>
 
 
 <details markdown=1>

@@ -54,7 +54,7 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 {% include zakviewer.html Name="2022-03-25 Student M Cat owns an Inn Revised on Scratch" ID="https://scratch.mit.edu/projects/666047491/" caption="Student M began making the Cat Owns an Inn Project. This project was intended as a quick intro to key concepts that he has identified as needed but has not coded before. Ideas covered included Broadcast Model, Initialization, Creating Clones, Starting a Clone, Creating Variables, Size and Ghost effect, random numbers, glides, and ifs and conditionals." %}
 
 
-{% include imgur.html title="" ID="https://i.imgur.com/beKJV7G.png" caption="Student K created a ground by using eight 'dirt' sprites, and I showed him how to create the same effect with just one sprite using clones." width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/beKJV7G.png" caption="Student K created a ground by using eight 'dirt' sprites, and I showed him how to create an array of buttons with just one sprite using clones." width="" height="" spacer="" %}
 
 {% include zakviewer.html Name="2022-03-25 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="" %}
 
