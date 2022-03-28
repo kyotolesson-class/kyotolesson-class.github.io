@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [March 28th](#march-28th)
+  * [Recap for March 28th](#recap-for-march-28th)
 * [March 21st](#march-21st)
   * [Recap for March 21st](#recap-for-march-21st)
 * [March 18th Makeup](#march-18th-makeup)
@@ -89,7 +91,37 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## March 28th
+</summary>
 
+## March 28th
+
+### Recap for March 28th
+
+{% include zakviewer.html Name="2022-03-29 2022 03 28 chaos madness on Scratch" ID="https://scratch.mit.edu/projects/667241234/" caption="Student H returned to his Chaos Madness game. We fixed the head of the agent being upside down." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/yThVIDR.jpg" caption="First he updated his storyboard with some new frames" width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/ZPhmET2.png" caption="We made it so that the character stays exactly 300 pixels away using nested if blocks. If the character is exactly 300 away we shoot. I added returning (to 300) variable for him to make sure we only shoot once. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/a4PY04A.png" caption="He also made a bullet, and we used go to and change x/y blocks to move the bullet to the end of the gun." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/CKjBucH.png" caption="Student A: First we detected if the cursor was touching one of the tiles and put that in a variable." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/iFCem22.png" caption="Then we modified the test so that it only adds a tile if it is not touching a tile. If it is touching a tile, it deletes the tile." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-03-29 Mini-games on Scratch" ID="https://scratch.mit.edu/projects/651628244/" caption="works beautifully" %}
+
+{% include zakviewer.html Name="2022-03-28 Rats" ID="https://scratch.mit.edu/projects/667257755/" caption="Student K made an interesting character. Then they animated it." %} 
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/1MGUyvq.jpg" caption="This inspired an excellent project idea and they worked diligently on making a new Storyboard for it." width="" height="" spacer="" %}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## March 21st
