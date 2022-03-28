@@ -99,9 +99,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 ### Recap for March 28th
 
-{% include zakviewer.html Name="2022-03-29 2022 03 28 chaos madness on Scratch" ID="https://scratch.mit.edu/projects/667241234/" caption="Student H returned to his Chaos Madness game. We fixed the head of the agent being upside down." %}
+{% include zakviewer.html Name="2022-03-29 2022 03 28 chaos madness on Scratch" ID="https://scratch.mit.edu/projects/667241234/" caption="Student H returned to his Chaos Madness game. We began by fixing the head of the agent being upside down." %}
 
-{% include imgur.html title="" ID="https://i.imgur.com/yThVIDR.jpg" caption="First he updated his storyboard with some new frames" width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/yThVIDR.jpg" caption="Then he updated his storyboard with some new frames" width="" height="" spacer="" %}
 
 
 {% include imgur.html title="" ID="https://i.imgur.com/ZPhmET2.png" caption="We made it so that the character stays exactly 300 pixels away using nested if blocks. If the character is exactly 300 away we shoot. I added returning (to 300) variable for him to make sure we only shoot once. " width="" height="" spacer="" %}
