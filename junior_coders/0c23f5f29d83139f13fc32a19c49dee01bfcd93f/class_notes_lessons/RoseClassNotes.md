@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [April 1st](#april-1st)
+  * [Recap for April 1st](#recap-for-april-1st)
 * [March 25th](#march-25th)
   * [Recap for March 25th](#recap-for-march-25th)
 * [March 18th](#march-18th)
@@ -41,6 +43,37 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## April 1st
+</summary>
+
+## April 1st
+
+### Recap for April 1st
+
+Countdown Timer
+  : Student K's first task was to create a countdown for the start of the game.
+
+{% include imgur.html title="" ID="https://i.imgur.com/g8SGoDA.png" caption="We showed the sprite for 3 seconds, then waited, then broadcast to sprite 2," width="200px" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Cpyuhb0.png" caption="again, to sprite 1," width="150px" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/NkJTmUD.png" caption="then finally to the start sprite," width="150px" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Ym9PYtw.png" caption="and lastly to where the game begins. This was a good demonstration of how broadcasts can be chained from one into the next to create a sequence of events." width="" height="" spacer="" %}
+
+Using Clones to Choose a Weapon
+  : Both Students today were at a stage in the game where they could use clones to create a series of buttons for choosing a weapon. 
+
+{% include zakviewer.html Name="2022-04-07 Student Y Demon Game Fixed 2022 04 01 fixed on Scratch" ID="https://scratch.mit.edu/projects/672566264/" caption="Student Y learned how to use one sprite to choose a weapon. We created clones, and when the clones are clicked, we set a local variable that tells us which weapon to show." %}
+
+
+{% include zakviewer.html Name="2022-04-08 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K also began working on this stage." %}
+
+
+
+</details>
 
 
 <details markdown=1>

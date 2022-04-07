@@ -941,7 +941,7 @@ blockquote.tynkercaption {
     margin: 0 0 0 0;
     border-left: unset;
     padding: 0px 20px 0px 20px;
-    font-style: unset; /* remove italics from blockquote */
+    /* font-style: unset;  remove italics from blockquote */
     font-family: Cambria; /* slightly nicer font for italics in caption */
 }
 
