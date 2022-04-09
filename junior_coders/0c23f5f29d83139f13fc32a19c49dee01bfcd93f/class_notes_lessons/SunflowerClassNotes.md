@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [April 9th](#april-9th)
+  * [Recap for April 9th](#recap-for-april-9th)
 * [March 26th](#march-26th)
   * [Recap for March 26th](#recap-for-march-26th)
 * [March 19th](#march-19th)
@@ -48,6 +50,32 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## April 9th
+</summary>
+
+## April 9th
+
+### Recap for April 9th
+
+
+{% include zakviewer.html Name="2022-04-10 student m 3 15 fixed remix copy" ID="https://scratch.mit.edu/projects/673737802/" caption="Student M made some adjustments to his game. He centered all the character costumes to make it easier to control the characters. Then I shared some code with him to use clones to make all the buttons appear. This allowed him to delete useless sprites, and it will be easier to code from now on. " %}
+
+{% include zakviewer.html Name="2022-04-10 bakemon" ID="https://scratch.mit.edu/projects/632523768/" caption="Student Y began working on a Pokemon themed game. I helped him use the paint editor to make changes to his sprites." %}
+
+
+{% include zakviewer.html Name="2022-04-10 Untitled-103 " ID="https://scratch.mit.edu/projects/654714163/" caption="studen N posed an interesting problem. He wanted to glide to random positions at least 200 away from Abu. But we can't tell how far away the random position is until we move there. How to solve this problem?" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/AQ5Trpm.png" caption="First we made a ball sprite that finds a new random position that is far away from Abu. This sprite is hidden and can move without us seeing it or the Ghost moving. Once it has found a good position, then the ghost can move there." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/tKI6lhn.png" caption="Thus, in the main game loop (ca), the ghost tells the ball go to a random position far away from Abu, then we glide slowly to this position. Since the ball is hidden, it looks like we are gliding to a random position." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/3rzTR5j.png" caption="Lastly, we added a score and speed control, so the game gets a bit harder as we play." width="" height="" spacer="" %}
+
+
+</details>
+
 
 
 <details markdown=1>
@@ -71,12 +99,12 @@ Demons
 
 {% include imgur.html title="" ID="https://i.imgur.com/2hoYe1g.png" caption="He chose the first and I showed him how to collect his demon costumes into one sprite (Demons), a slightly time consuming process." width="100px" height="" spacer="" %}
 
-{% include zakviewer.html Name="2022-03-26 student m 3 26 fixed on Scratch" ID="https://scratch.mit.edu/projects/666229325/" caption="" %}
+{% include zakviewer.html Name="2022-03-26 student m 3 26 fixed" ID="https://scratch.mit.edu/projects/666229325/" caption="" %}
 
 Sunglasses
   : Student H1 worked independently to create a "Chase the Glasses Game". 
   
-{% include zakviewer.html Name="2022-03-28 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/" caption="The project uses when arrow clicked blocks to let a funny cat chase a pair of sunglasses.This game showed progress and independent learning compared to his other previous projects. " %}
+{% include zakviewer.html Name="2022-03-28 looking for eyeglasses" ID="https://scratch.mit.edu/projects/553913239/" caption="The project uses when arrow clicked blocks to let a funny cat chase a pair of sunglasses.This game showed progress and independent learning compared to his other previous projects. " %}
   
 Bowser
   : Student H2 continued working on his Bowser ScratchJr. project. He posed several challenges.
@@ -101,7 +129,7 @@ In ScratchJr. this is only partly possible, because it only detects it the first
 ### Recap for March 19th
 
 
-{% include zakviewer.html Name="2022-03-21 Untitled-103 on Scratch" ID="https://scratch.mit.edu/projects/654714163/" caption="Student N continued working on his Ghost Catch Game. He made it so that if you click the ghost, his hands go up and music plays." %}
+{% include zakviewer.html Name="2022-03-21 Untitled-103" ID="https://scratch.mit.edu/projects/654714163/" caption="Student N continued working on his Ghost Catch Game. He made it so that if you click the ghost, his hands go up and music plays." %}
 
 {% include imgur.html title="" ID="https://i.imgur.com/wyNzDIB.png" caption="Today's focus was using conditions, like if distance to abu > 200, or if touching DOT or touching Ghost. His eye lit up when he realized the difference between and and or!" width="" height="" spacer="" %}
 
@@ -141,7 +169,7 @@ Student N ghost project had changed a bit since he storyboarded it, and while hi
 
 Student M continued working on his storyboarded Ghost Bassters project, mostly gathering characters for it. Also, inspired by the class collaborative project, he made this interesting project.
 
-{% include zakviewer.html Name="2022-03-15 CRAZY on Scratch" ID="https://scratch.mit.edu/projects/550356223/" caption="" %}
+{% include zakviewer.html Name="2022-03-15 CRAZY" ID="https://scratch.mit.edu/projects/550356223/" caption="" %}
 
 Student H continued pushing the envelope while working on his excellent Mario/Bowser project. His coding challenge was that he came across a rare situation where a bump block only triggers once. This is because technically you should put a red stop block at the end of stacks, but in most cases scratchJr. runs fine without it. In fact, this is the first time I have ever seen it affect a project. 
 
@@ -169,7 +197,7 @@ Scratch
 When the storyboards were complete enough they began working on the first frames of their storyboards.
 
 
-{% include zakviewer.html Name="2022-03-05 Untitled-196 on Scratch" ID="https://scratch.mit.edu/projects/654710710/" caption="Student Y originally made a background with 4 parts, but to make his game work he needed to make individual sprites that will be clicked to start the game." %}
+{% include zakviewer.html Name="2022-03-05 Untitled-196" ID="https://scratch.mit.edu/projects/654710710/" caption="Student Y originally made a background with 4 parts, but to make his game work he needed to make individual sprites that will be clicked to start the game." %}
 
 
 {% include zakviewer.html Name="2022-03-05 Untitled-42" ID="https://scratch.mit.edu/projects/654715137/" caption="Student M began filling out the parts of the first frame of his storyboard." %}
@@ -200,7 +228,7 @@ He began working on the project. I showed him how to change the dimensions of th
 
 Today the class began a new Project Cycle/Contest. We reinforced expectations for class time and looked at the parts of Project Checklist/Storyboard for the Cycle.
 
-{% include zakviewer.html Name="2022-02-27 2022 02 Project Cycle Challenges on Scratch" ID="https://scratch.mit.edu/projects/650291488/" caption="We reviewed the the full project cycle. First we discussed the Cycle Grading Scheme. Next we see how class time will be structured in the Cycle. This is only a slight modification of our current scheme. We
+{% include zakviewer.html Name="2022-02-27 2022 02 Project Cycle Challenges" ID="https://scratch.mit.edu/projects/650291488/" caption="We reviewed the the full project cycle. First we discussed the Cycle Grading Scheme. Next we see how class time will be structured in the Cycle. This is only a slight modification of our current scheme. We
 then reviewed the Project Checklist/Storyboard." %}
 
 We made titles and talked about the goals of our projects. Then we looked at some example [Storyboards](./../lessons/Storyboards.html), and the homework for next week is to think about the storyboard for your project. This is the crucial step and we will work on it slowly next week.
@@ -244,9 +272,9 @@ Points awarded
 Some absent kids today, but for those that were here: 
 
 
-{% include zakviewer.html Name="2022-02-21 looking for eyeglasses on Scratch" ID="https://scratch.mit.edu/projects/553913239/" caption="Though he spent most of the class playing Scratch games, in the end Student H1 made this simple program that keeps score of how many times you touch the sunglasses. " %}
+{% include zakviewer.html Name="2022-02-21 looking for eyeglasses" ID="https://scratch.mit.edu/projects/553913239/" caption="Though he spent most of the class playing Scratch games, in the end Student H1 made this simple program that keeps score of how many times you touch the sunglasses. " %}
 
-{% include zakviewer.html Name="2022-02-21 Untitled-39 on Scratch" ID="https://scratch.mit.edu/projects/643238190/" caption="Student M continued his basketball project using glide blocks and various when key pressed blocks (space, up arrow, down arrow, a) to control the baskteball." %}
+{% include zakviewer.html Name="2022-02-21 Untitled-39" ID="https://scratch.mit.edu/projects/643238190/" caption="Student M continued his basketball project using glide blocks and various when key pressed blocks (space, up arrow, down arrow, a) to control the baskteball." %}
 
 
 Student H2 finished the first screen of his BootUp "Naughty wizard project". As an exercise in controllin the position of sprite during a screen transition, I then gave him a new situation for the second screen: Some people are on the beach and the wizard makes it become winter. He was able to complete this on his own and will probably go to a new BootUp project next week.
@@ -323,7 +351,7 @@ Scratch Jr.
 
 {% include zakviewer.html Name="2022-02-05 Grey Hero Student Y" ID="https://scratch.mit.edu/projects/639424698/" caption=" On his own he made the sprite move up, down, and stand using the up and down arrow and space keys. This is a nice beginning to a project." %}
 
-{% include zakviewer.html Name="2022-02-05 Untitled-99 on Scratch" ID="https://scratch.mit.edu/projects/639406896/" caption="Student N made this Flying ghost project. He created a target, and I showed him how to make the target move with the cursor, and make the ghost disappear when clicked. " %}
+{% include zakviewer.html Name="2022-02-05 Untitled-99" ID="https://scratch.mit.edu/projects/639406896/" caption="Student N made this Flying ghost project. He created a target, and I showed him how to make the target move with the cursor, and make the ghost disappear when clicked. " %}
 
 {% include imgur.html title="" ID="https://i.imgur.com/nfAJrvn.png" caption="I showed him a simple routine for jumping using 2 repeat loops." width="150px;" height="" spacer="" %}
 
@@ -469,7 +497,7 @@ Individual Projects
   : Kids then worked on new projects.
 
 
-{% include zakviewer.html Name="2022 1 8 Untitled-98 on Scratch" ID="https://scratch.mit.edu/projects/625373455/" caption="Student Y and student N worked on a knock knock joke project and we focused on how to use the ask block. " %}
+{% include zakviewer.html Name="2022 1 8 Untitled-98" ID="https://scratch.mit.edu/projects/625373455/" caption="Student Y and student N worked on a knock knock joke project and we focused on how to use the ask block. " %}
 
 {% include imgur.html title="" ID="https://i.imgur.com/cQBdM4I.png" caption="The code tests the response to see if it matches 'Who's there?' or 'who's there?'." width="" height="" spacer="" %}
 
@@ -478,18 +506,18 @@ Individual Projects
 {% include zakviewer.html Name="2022 1 8 Ninja run for teaching" ID="https://scratch.mit.edu/projects/625445737/" caption="Student M did some research to try to find a project that he liked and eventually decided on a project called Ninja run which he began to copy. Student Y decide to imitate him and they are going to continue to work on that for next week. This is the project they will try to make." %}
 
 
-{% include zakviewer.html Name="2022 1 8 Untitled-13 on Scratch" ID="https://scratch.mit.edu/projects/625378748/" caption="Student K1 started a falling snow project. She created sprites and began coding the falling objects." %}
+{% include zakviewer.html Name="2022 1 8 Untitled-13" ID="https://scratch.mit.edu/projects/625378748/" caption="Student K1 started a falling snow project. She created sprites and began coding the falling objects." %}
 
 
-{% include zakviewer.html Name="2022 1 8 Untitled-12 on Scratch" ID="https://scratch.mit.edu/projects/624020074/" caption="She also made a project about randomly going to new positions.
+{% include zakviewer.html Name="2022 1 8 Untitled-12" ID="https://scratch.mit.edu/projects/624020074/" caption="She also made a project about randomly going to new positions.
 " %}
 
 
 Student K2 looked at gifs of minecraft cars and imported and modified them in the paint Editor.
 
-{% include zakviewer.html Name="2022 1 10 Untitled-62 on Scratch" ID="https://scratch.mit.edu/projects/625386184/editor" caption="" %}
+{% include zakviewer.html Name="2022 1 10 Untitled-62" ID="https://scratch.mit.edu/projects/625386184/editor" caption="" %}
 
-{% include zakviewer.html Name="2022 1 10 Untitled-61 on Scratch" ID="https://scratch.mit.edu/projects/625379666/editor" caption="" %}
+{% include zakviewer.html Name="2022 1 10 Untitled-61" ID="https://scratch.mit.edu/projects/625379666/editor" caption="" %}
 
 ScratchJr.
   : Student H and I worked on a ScratchJr. Breakfast project and we learned how to control message colors so that we can make the actions all happen in sequence. Then the project got wild with flying milk and rockets!

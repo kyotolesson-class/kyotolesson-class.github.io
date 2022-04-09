@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [April 8th](#april-8th)
+  * [Recap for April 8th](#recap-for-april-8th)
 * [April 1st](#april-1st)
   * [Recap for April 1st](#recap-for-april-1st)
 * [March 25th](#march-25th)
@@ -44,6 +46,32 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## April 8th
+</summary>
+
+## April 8th
+
+### Recap for April 8th
+
+{% include zakviewer.html Name="2022-04-10 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K continue working on his Demon game. He added some more game elements to his main screen, lik HP and hearts. He also began working on making a key press move the weapon to Mikey." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/7P6sz1j.png" caption="Student M worked on making his cats point in the right direction when they appear. This involved an if test.  We used a set rotation style to keep the cat from rotating upside down, and set the direction to 90 or -90, depending on the variable left or right. The variable left or right is 1 when the character is on the right, and 2 when the character is on the left." width="" height="" spacer="" %}
+
+
+
+Scratch Jr New Students
+  : New student S1 used ScratchJr. to make a maze. We created a sprite with a set of shapes, and then she taught the cat to move around the shapes. We coded it so that if she touched the shapes, she would return to the original position. At the end we added a target sprite and a special effect when we successfullly reach the end of the maze.
+
+  : New Student S2 started off by exploring Scratchjr. on his own. He told me he likes Pokemon characters, and he played with the paint editor. We made the pokemon characters move around the screen. I taught him how to copy code and he discovered that copying the same motion script made the characters move faster and faster. 
+
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## April 1st
 </summary>
@@ -66,10 +94,10 @@ Countdown Timer
 Using Clones to Choose a Weapon
   : Both Students today were at a stage in the game where they could use clones to create a series of buttons for choosing a weapon. 
 
-{% include zakviewer.html Name="2022-04-07 Student Y Demon Game Fixed 2022 04 01 fixed on Scratch" ID="https://scratch.mit.edu/projects/672566264/" caption="Student Y learned how to use one sprite to choose a weapon. We created clones, and when the clones are clicked, we set a local variable that tells us which weapon to show." %}
+{% include zakviewer.html Name="2022-04-07 Student Y Demon Game Fixed 2022 04 01 fixed" ID="https://scratch.mit.edu/projects/672566264/" caption="Student Y learned how to use one sprite to choose a weapon. We created clones, and when the clones are clicked, we set a local variable that tells us which weapon to show." %}
 
 
-{% include zakviewer.html Name="2022-04-08 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K also began working on this stage." %}
+{% include zakviewer.html Name="2022-04-08 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K also began working on this stage." %}
 
 
 
@@ -84,15 +112,15 @@ Using Clones to Choose a Weapon
 
 ### Recap for March 25th
 
-{% include zakviewer.html Name="2022-03-25 Student M Cat owns an Inn Revised on Scratch" ID="https://scratch.mit.edu/projects/666047491/" caption="Student M began making the Cat Owns an Inn Project. This project was intended as a quick intro to key concepts that he has identified as needed but has not coded before. Ideas covered included Broadcast Model, Initialization, Creating Clones, Starting a Clone, Creating Variables, Size and Ghost effect, random numbers, glides, and ifs and conditionals." %}
+{% include zakviewer.html Name="2022-03-25 Student M Cat owns an Inn Revised" ID="https://scratch.mit.edu/projects/666047491/" caption="Student M began making the Cat Owns an Inn Project. This project was intended as a quick intro to key concepts that he has identified as needed but has not coded before. Ideas covered included Broadcast Model, Initialization, Creating Clones, Starting a Clone, Creating Variables, Size and Ghost effect, random numbers, glides, and ifs and conditionals." %}
 
 
 {% include imgur.html title="" ID="https://i.imgur.com/beKJV7G.png" caption="Student K created a ground by using eight 'dirt' sprites, and I showed him how to create an array of buttons with just one sprite using clones." width="" height="" spacer="" %}
 
-{% include zakviewer.html Name="2022-03-25 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="" %}
+{% include zakviewer.html Name="2022-03-25 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="" %}
 
 
-{% include zakviewer.html Name="2022-03-25 Demon Game Fixed 2022 02 04 on Scratch" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y also needed an array of buttons. His main concern was how to make it so that we could click them and know which one was clicked." %}
+{% include zakviewer.html Name="2022-03-25 Demon Game Fixed 2022 02 04" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y also needed an array of buttons. His main concern was how to make it so that we could click them and know which one was clicked." %}
 
 
 {% include imgur.html title="" ID="https://i.imgur.com/ueR1Jt2.png" caption="First we created the clones by looping over the positions" width="" height="" spacer="" %}
@@ -119,7 +147,7 @@ Student Y started working on the next screen of his Demon Game.
 <br/>
 Student K likewise did the same, though his approach was different. His main focus this week was using broadcast and receive blocks to change the screen. 
 
-{% include zakviewer.html Name="2022-03-20 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="First he added the change of screen when pressing the other level buttons, and then he made all the characters appear and disappear at the right time." %}
+{% include zakviewer.html Name="2022-03-20 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="First he added the change of screen when pressing the other level buttons, and then he made all the characters appear and disappear at the right time." %}
 
 </details>
 
@@ -135,12 +163,12 @@ Student K likewise did the same, though his approach was different. His main foc
 Both kids made significant progress today.
 
 
-{% include zakviewer.html Name="2022-03-12 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K:
+{% include zakviewer.html Name="2022-03-12 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K:
 1. created the background for the main screen. I showed him how to use one sprite for the background, then use a switch costume block to change the background. This is better than using multiple sprites. 
-1. He used when I receive block to change the background once choosing the level. 
-2. He created a spider and I helped him look for Minecraft soundboards to get the sounds for the spider.<span >" %}
+2. He used when I receive block to change the background once choosing the level. 
+3. He created a spider and I helped him look for Minecraft soundboards to get the sounds for the spider.<span >" %}
 
-{% include zakviewer.html Name="2022-03-12 Demon Game Fixed 2022 02 04 on Scratch" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y:<br>
+{% include zakviewer.html Name="2022-03-12 Demon Game Fixed 2022 02 04" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y:<br>
 1. Learned how to create a variable to track the number of clicks.
 2. Initialized the variable and updated it each click. 
 3. Used an if block to test the number of clicks, and perform an action on the 5th click. <br>
@@ -171,7 +199,7 @@ Students continued working on the Demon Game Prjoect
 
 {% include imgur.html title="" ID="https://i.imgur.com/DTWdSAx.png" caption="He also began creating the transition from the level screen to the main game screen using when clicked, broadcast, and received blocks." width="" height="" spacer="" %}
 
-{% include zakviewer.html Name="2022-03-06 Untitled-62 on Scratch" ID="https://scratch.mit.edu/projects/655016688/" caption="This is visible when you click the easy level." %}
+{% include zakviewer.html Name="2022-03-06 Untitled-62" ID="https://scratch.mit.edu/projects/655016688/" caption="This is visible when you click the easy level." %}
 
 
 </details>
@@ -249,7 +277,7 @@ This week the kids worked on making an animation using a stock Minecraft charact
 
 {% include zakviewer.html Name="2022-02-04 Demon Game Fixed" ID="https://scratch.mit.edu/projects/639245268/" caption="Student Y added buttons and a new background to go to the main screen after selecting the difficulty. This involved telling which sprites to hide, which required some troubleshooting." %}
 
-{% include zakviewer.html Name="2022-02-04 Demon Game on Scratch" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K cfreated Easy, Normal, and Hard difficulty buttons and made them appear at the right time and place using receive, goto and show blocks." %}
+{% include zakviewer.html Name="2022-02-04 Demon Game" ID="https://scratch.mit.edu/projects/614681649/" caption="Student K cfreated Easy, Normal, and Hard difficulty buttons and made them appear at the right time and place using receive, goto and show blocks." %}
 
 Students also tried out a new Minecraft Travel game. 
 
