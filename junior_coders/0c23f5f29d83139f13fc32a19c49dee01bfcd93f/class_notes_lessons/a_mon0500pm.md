@@ -116,7 +116,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 {% include imgur.html title="" ID="https://i.imgur.com/x0R5Ngv.png" caption="Student H made further progress on his 'Chaos Madness' project. His main goal was to add a sound if the agent was touching the bullet (Sprite1). This only worked when he realized that the block had to be in a forever loop in order to be triggered." width="" height="" spacer="" %}
 
-{% include zakviewer.html Name="2022-04-12 Untitled-14" ID="https://scratch.mit.edu/projects/674338793/" caption="Student J worked on making a maze game, but was disapointed with his result, so he started again. We worked together on aligning a maze he got from the internet so it was centered and the right size." %}
+{% include zakviewer.html Name="2022-04-12 Untitled-14" ID="https://scratch.mit.edu/projects/674338793/" caption="Student J worked on making a maze game, but was disappointed with his result, so he started again. We worked together on aligning a maze he got from the internet so it was centered and the right size." %}
 
 {% include zakviewer.html Name="Owl Love Story" ID="https://scratch.mit.edu/projects/674266079/" caption="Student K, inspired by the fact that owls walk before they fly, made an owl love story project. " %}
 
