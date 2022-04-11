@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 11th](#april-11th)
+  * [Recap for April 11th](#recap-for-april-11th)
 * [March 28th](#march-28th)
   * [Recap for March 28th](#recap-for-march-28th)
 * [March 21st](#march-21st)
@@ -90,6 +92,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+<details markdown=1>
+<summary markdown=1>## April 11th
+</summary>
+
+## April 11th
+
+### Recap for April 11th
+
+
+{% include zakviewer.html Name="2022-04-11 Untitled on Scratch" ID="https://scratch.mit.edu/projects/674342181/" caption="Student T1 was given the challenge to design and completed an original project. On paper she designed the outlines of the project. She signed into her class account and began coding.  " %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/l3cbKud.png" caption="She had to use several concepts today that seemed new or relatively for her. For example, she learned how to use the ask and answer blocks to get user input. She wasn't sure how to take her draft and turn it into an 'if then else' statement, and then I showed her how to create the 'answer = ~' conditional. She as very excited to learn how to duplicate blocks. When we tested her original code, she saw that the 'try again' message only appeared one time. I suggested a 'repeat until block' might help her solve that problem and she quickly realized its potential. I showed her a trick so that the first time the message says 'Type in my code' but if needed the loop repeats with a 'Try again' message until the right answer is provided. Next week she plans to make a parachute game with another student." width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/2GsNcr6.png" caption="Student made  an original maze project for me. She needed a little help counting the number of squares to go each step, and I worked with her quite a bit one on one to count steps at each turn. She was all smiles when the project was finished." width="" height="" spacer="" %}
+
+
+
+{% include imgur.html title="Run Marco Run" ID="https://i.imgur.com/xCok9A3.gif" caption="Student T2 worked on the challenges on [Run Marco Run](http://runmarco.allcancode.com/). This self-guided lesson serves as an ideal first introduction/review for Scratch. It introduces GUI elements like blocks and block manipulation, and emphasizes thinking ahead as students have to  plan their path through the maze in their head. It gives instant feedback, and by becoming progressively harder helps keeps them challenged and learning new tricks. Student T did a great job making his way through almost all the challenges, and will be ready for Scratch next lesson." width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/x0R5Ngv.png" caption="Student H made further progress on his 'Chaos Madness' project. His main goal was to add a sound if the agent was touching the bullet (Sprite1). This only worked when he realized that the block had to be in a forever loop in order to be triggered." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-04-12 Untitled-14" ID="https://scratch.mit.edu/projects/674338793/" caption="Student J worked on making a maze game, but was disapointed with his result, so he started again. We worked together on aligning a maze he got from the internet so it was centered and the right size." %}
+
+{% include zakviewer.html Name="Owl Love Story" ID="https://scratch.mit.edu/projects/674266079/" caption="Student K, inspired by the fact that owls walk before they fly, made an owl love story project. " %}
+
+{% include zakviewer.html Name="2022-04-12 Kitten Parachute! on Scratch" ID="https://scratch.mit.edu/projects/651620613/" caption="Student A began working on a parachute project based on this popular game." %}
+
+</details>
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## March 28th
