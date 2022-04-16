@@ -565,8 +565,6 @@ Today kids worked on individual projects
 {% include zakviewer.html Name="2022-01-24 Mining Game remix on Scratch" ID="https://scratch.mit.edu/projects/632904253/" caption="Todays's Student M hacks include this project, modifying the $ selectors, adding a change background button,changing the button background on press." %}
 
 
-
-
 {% include zakviewer.html Name="2022-01-25 madness" ID="https://scratch.mit.edu/projects/629444361/" caption="Student H added a new character and removed its head, a good review of previous skills. I explained how to adjust the size of the eraser tool to get fine control of the erasure. Then we worked together on creating a 'computer-generated behavior' (as he called it) for the character. I introduced some new blocks, like the distance from block I demonstrated a code to make the character move towards another if they are close enough. We talked about different rotation styles." %}
 
 {% include imgur.html title="" ID="https://i.imgur.com/h9BvlCW.png" caption="This was the final code" width="" height="" spacer="" %}
@@ -615,8 +613,6 @@ Today Students worked on individual projects.
 {% include imgur.html title="" ID="https://i.imgur.com/2p7gGke.png" caption="After some distraction, Student H2 eventually started importing characters for this..." width="" height="" spacer="" %}
 
 {% include imgur.html title="" ID="https://i.imgur.com/Ko5Gd0e.png" caption="and this project." width="" height="" spacer="" %}
-
-
 
 
 </details>

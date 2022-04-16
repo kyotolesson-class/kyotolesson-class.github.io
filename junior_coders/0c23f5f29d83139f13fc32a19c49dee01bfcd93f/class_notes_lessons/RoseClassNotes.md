@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [April 15th](#april-15th)
+  * [Recap for April 15th](#recap-for-april-15th)
 * [April 8th](#april-8th)
   * [Recap for April 8th](#recap-for-april-8th)
 * [April 1st](#april-1st)
@@ -46,6 +48,35 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## April 15th
+</summary>
+
+## April 15th
+
+### Recap for April 15th
+
+Student M worked on developing his Cat Owns an Inn project. His plan is
+* Each cat that goes into Room 1 gives $2
+* A maximum of 5 cats can go into the room
+* If you have more than $10, the maximum goes up by 1
+* If the room is full, the cat goes back and has a worried expression. 
+
+We began to code this, and talked about the variables we would need. 
+
+Students Y and K are both at a stage where their Demon Game programs need to use clones to create multiple copies of a sprite. Today we discussed exactly how they want to use the clones. For example, how to choose weapon randomly or how to create hearts to show character strength. Once it is clear what they want, we will be able to make the clones behave as they should.
+
+Student worked first on making square mazes. In addition to giving practice in using the paint editor to control line thickness and fills, it demonstrates creating buttons that send messages.
+
+![]({{ page.giurl-10}})
+
+
+For a follow-up challenge we then created an Animate My Name project. The special challenge was making the middle letter make the outside letters change places. This involves one message going to two sprites at the same time.
+
+{% include giphy.html link="https://media.giphy.com/media/PUxPUNhdwXulzfL1Za/" %} 
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## April 8th
