@@ -67,7 +67,7 @@ We began to code this, and talked about the variables we would need.
 
 Students Y and K are both at a stage where their Demon Game programs need to use clones to create multiple copies of a sprite. Today we discussed exactly how they want to use the clones. For example, how to choose weapon randomly or how to create hearts to show character strength. Once it is clear what they want, we will be able to make the clones behave as they should.
 
-Student worked first on making square mazes. In addition to giving practice in using the paint editor to control line thickness and fills, it demonstrates creating buttons that send messages.
+Students A and S worked first on making square mazes. In addition to giving practice in using the paint editor to control line thickness and fills, it demonstrates creating buttons that send messages.
 
 ![]({{ page.giurl-10}})
 
@@ -75,6 +75,10 @@ Student worked first on making square mazes. In addition to giving practice in u
 For a follow-up challenge we then created an Animate My Name project. The special challenge was making the middle letter make the outside letters change places. This involves one message going to two sprites at the same time.
 
 {% include giphy.html link="https://media.giphy.com/media/PUxPUNhdwXulzfL1Za/" %} 
+
+
+{% include zakviewer.html Name="2022-04-15 CHristmas Project" ID="https://scratch.mit.edu/projects/676278234/editor/" caption=" He got t gif off the internet and added a modified version of a stock sound. He had a lot of fun showing it off after class to other students and parents." %}
+
 
 </details>
 
