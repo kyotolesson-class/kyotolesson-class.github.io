@@ -77,7 +77,7 @@ For a follow-up challenge we then created an Animate My Name project. The specia
 {% include giphy.html link="https://media.giphy.com/media/PUxPUNhdwXulzfL1Za/" %} 
 
 
-{% include zakviewer.html Name="2022-04-15 CHristmas Project" ID="https://scratch.mit.edu/projects/676278234/editor/" caption=" He got t gif off the internet and added a modified version of a stock sound. He had a lot of fun showing it off after class to other students and parents." %}
+{% include zakviewer.html Name="2022-04-15 CHristmas Project" ID="https://scratch.mit.edu/projects/676278234/editor/" caption=" He got a gif off the internet and added a modified version of a stock sound. He had a lot of fun showing it off after class to other students and parents." %}
 
 
 </details>
