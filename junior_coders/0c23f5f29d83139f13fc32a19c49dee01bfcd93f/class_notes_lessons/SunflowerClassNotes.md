@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [April 16th](#april-16th)
+  * [Recap for April 16th](#recap-for-april-16th)
 * [April 9th](#april-9th)
   * [Recap for April 9th](#recap-for-april-9th)
 * [March 26th](#march-26th)
@@ -49,6 +51,36 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## April 16th
+</summary>
+
+## April 16th
+
+### Recap for April 16th
+
+{% include zakviewer.html Name="2022-04-17 Ghost Catch 2022 04 16" ID="https://scratch.mit.edu/projects/676693100/" caption="Student N added a new section to his Ghost Catch Game. He created a pets button and he added a button that makes a random pet appear from behind a door." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/8FDXN2F.png" caption="I showed him how to make the animal fade in with a ghost effect block" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-04-16 student M Demon Game" ID="https://scratch.mit.edu/projects/676697331/" caption="Student M made a new character appear after the main demon is chosen. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/vTWRL1q.png" caption="He used broadcast and receive blocks, and mastered moving the character into various desired position to automatically create the go to and glide blocks he needed. " width="" height="" spacer="" %}
+
+
+Student Y was unsatisfied with the project he had begun last week. His main task today was to find a project. After considering making a boxing project, then a horse racing project, at the end of class he decided to try making a maze.
+
+{% include imgur.html title="" ID="./../../../junior_coders/Overview/images/DragonMaze.png" caption="I reviewed with him the steps in making a line maze" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/tJykOLL.png" caption="and making a regular maze from a simple line maze." width="" height="" spacer="" %}
+
+Student H said he spent a little time on a project today. He is very eager to make a 3D game, but knows it is difficult. I told him that if he sticks with it and spends a little more project time each week, I will help him make a 3d shooting project. 
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 9th
