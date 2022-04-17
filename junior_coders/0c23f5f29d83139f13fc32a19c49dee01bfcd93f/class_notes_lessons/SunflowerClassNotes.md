@@ -63,7 +63,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 {% include zakviewer.html Name="2022-04-17 Ghost Catch 2022 04 16" ID="https://scratch.mit.edu/projects/676693100/" caption="Student N added a new section to his Ghost Catch Game. He created a pets button and he added a button that makes a random pet appear from behind a door." %}
 
-{% include imgur.html title="" ID="https://i.imgur.com/8FDXN2F.png" caption="I showed him how to make the animal fade in with a ghost effect block" width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/9uolX6J.png" caption="I showed him how to make the animal fade in with a ghost effect block" width="" height="" spacer="" %}
 
 
 {% include zakviewer.html Name="2022-04-16 student M Demon Game" ID="https://scratch.mit.edu/projects/676697331/" caption="Student M made a new character appear after the main demon is chosen. " %}
