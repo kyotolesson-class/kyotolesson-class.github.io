@@ -944,6 +944,15 @@ blockquote.tynkercaption {
     /* font-style: unset;  remove italics from blockquote */
     font-family: Cambria; /* slightly nicer font for italics in caption */
 }
+/* fixes the top margin on small screens */
+@media print,
+screen and (max-width: 720px) {
+    blockquote.tynkercaption {
+    margin-top: 20px;
+    }
+}
+
+
 
 /* if no caption, this is just here to put a margin at the bottom */
 div.tynkercaptiondiv {
