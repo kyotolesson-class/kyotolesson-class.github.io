@@ -129,11 +129,11 @@ Today Students H, J, and T worked on the Parachute Kitty. The steps involved wer
 {% include zakviewer.html Name="2022-04-18 Student J Kitten Parachute" ID="https://scratch.mit.edu/projects/677078790/" caption="" %}
 
 
-Student H fixed a bug in this program that prevented his character from going backwards (de to a duplicated script). In addition , he created a health variable and made the character loose health when the bullet hits him.
+Student H1 fixed a bug in this program that prevented his character from going backwards (de to a duplicated script). In addition , he created a health variable and made the character loose health when the bullet hits him.
 
 {% include zakviewer.html Name="2022-04-8 Face" ID="https://scratch.mit.edu/projects/677086986/" caption="Student K worked on a program where a face makes different expressions when the a, s, w, d keys are pressed." %}
 
-Student H worked on the self-guided challenges on [Run Marco Run](http://runmarco.allcancode.com/).
+Student H2 worked on the self-guided challenges on [Run Marco Run](http://runmarco.allcancode.com/).
 
 {% include imgur.html markdown=1 title="Run Marco Run" ID="https://i.imgur.com/xCok9A3.gif" caption="This serves as introduction/preparation for Scratch. It introduces GUI elements like blocks and block manipulation, and emphasizes thinking ahead as students have to  plan their path through the maze in their head. Student H did a great job making her way through this." width="" height="" spacer="" %}
 
