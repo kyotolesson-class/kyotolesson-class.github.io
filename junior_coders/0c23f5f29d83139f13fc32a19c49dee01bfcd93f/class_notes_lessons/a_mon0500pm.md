@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 18th](#april-18th)
+  * [Recap for April 18th](#recap-for-april-18th)
 * [April 11th](#april-11th)
   * [Recap for April 11th](#recap-for-april-11th)
 * [March 28th](#march-28th)
@@ -92,6 +94,52 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## April 18th
+</summary>
+
+## April 18th
+
+### Recap for April 18th
+
+
+Today Students H, J, and T worked on the Parachute Kitty. The steps involved were many, but everyone managed to get though the first stage. The first step was to create kitty, stars and clouds and a ground. Using clones we created several stars at random places. We also began making the sky change as we fall. 
+
+{% include zakviewer.html Name="2022-04-18 Kitten Parachute! Week 1" ID="https://scratch.mit.edu/projects/675191253" caption="Rubric:
+- Add Kitty
+- Add Skies
+- Add Stars
+- Add Cloud
+
+- Broadcast Initialize and wait
+- Add initialize code (hide all)
+
+- Broadcast start
+  - Broadcast new sky
+      - GROUND: change sky# (+ initialize)
+      - CLOUD: show cloud random, initialize round 
+      - STARS: create stars with clones 
+" %}
+
+{% include zakviewer.html Name="2022-04-18 Student T Kitten Parachute" ID="https://scratch.mit.edu/projects/677075629/" caption="" %}
+
+{% include zakviewer.html Name="2022-04-18 Student A Kitten Parachute" ID="https://scratch.mit.edu/projects/674347002/" caption="" %}
+
+{% include zakviewer.html Name="2022-04-18 Student J Kitten Parachute" ID="https://scratch.mit.edu/projects/677078790/" caption="" %}
+
+
+Student H fixed a bug in this program that prevented his character from going backwards (de to a duplicated script). In addition , he created a health variable and made the character loose health when the bullet hits him.
+
+{% include zakviewer.html Name="2022-04-8 Face" ID="https://scratch.mit.edu/projects/677086986/" caption="Student K worked on a program where a face makes different expressions when the a, s, w, d keys are pressed." %}
+
+Student H worked on the self-guided challenges on [Run Marco Run](http://runmarco.allcancode.com/).
+
+{% include imgur.html markdown=1 title="Run Marco Run" ID="https://i.imgur.com/xCok9A3.gif" caption="This serves as introduction/preparation for Scratch. It introduces GUI elements like blocks and block manipulation, and emphasizes thinking ahead as students have to  plan their path through the maze in their head. Student H did a great job making her way through this." width="" height="" spacer="" %}
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## April 11th
 </summary>
