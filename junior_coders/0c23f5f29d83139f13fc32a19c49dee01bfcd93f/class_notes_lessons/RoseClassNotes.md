@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [April 22nd](#april-22nd)
+  * [Recap for April 22nd](#recap-for-april-22nd)
 * [April 15th](#april-15th)
   * [Recap for April 15th](#recap-for-april-15th)
 * [April 8th](#april-8th)
@@ -47,6 +49,33 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## April 22nd
+</summary>
+
+## April 22nd
+
+### Recap for April 22nd
+
+{% include zakviewer.html Name="2022-04-22 Demon Game using clones on Scratch" ID="https://scratch.mit.edu/projects/679374913/editor" caption="Student K continued trying to understand clones. We talked about how to size the health that make up his health meter. We created a new message to eliminate the need for many individual sprites and go directly to the main health sprite. We struggled to position the hearts at the right location, because it turned out an error elsewhere in his code was hiding the heart." %}
+
+
+Student Y worked on figuring out how his player should choose their costume. Unusually, he dseems to have decided on a mix between randomly and with some user control. Once this is clear, he will be able to code it.
+
+Student S chose to make another square maze like this: 
+
+![](./../../../junior_coders/Overview/images/FollowTheMazeGame.gif)
+
+Her focus was on learning how to use the paint editor to change line shapes, how to use the camera to import Pokemon images (for the buttons) into the paint editor, and then how to create buttons using messages. 
+
+Student D worked on making a simplified Math Quiz. The key point was how to use messages to control the sequence of actions: Question 1 => Answer 1 -> Question 2 => Answer 2 -> Question 3 => Answer 3 -> Game over screen, where each arrow is a send/receive pair of blocks. He also learned how to use the camera to import images, and about using the hide and show blocks.
+
+Students M and H made minor progress on their recent projects.
+
+
+</details>
+
 
 
 <details markdown=1>
