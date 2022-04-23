@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [April 23rd](#april-23rd)
+  * [Recap for April 23rd](#recap-for-april-23rd)
 * [April 16th](#april-16th)
   * [Recap for April 16th](#recap-for-april-16th)
 * [April 9th](#april-9th)
@@ -51,6 +53,27 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## April 23rd
+</summary>
+
+## April 23rd
+
+### Recap for April 23rd
+
+{% include zakviewer.html Name="2022 4 24 Ghost Catch" ID="https://scratch.mit.edu/mystuff/" caption="Student N added another ghost to his Ghost Catch project. He duplicated the ghost and then after a little troubleshooting we figured out he needed too change some of the names of the messages to avoid duplication. He completed his quarterly evaluation." %}
+
+{% include zakviewer.html Name="Explosion" ID="https://scratch.mit.edu/projects/679551875/" caption="Student Y  made tentative drafts of several project ideas, but eventually settled on creating an original animation with several characters and an exploding bomb. " %}
+
+Student N decided to explore minecraft today, and said he would return to his main project next week.
+
+{% include zakviewer.html Name="simple 3D shooter remix remix" ID="https://scratch.mit.edu/projects/679545242/" caption="" %}
+
+
+</details>
+
 
 
 <details markdown=1>
