@@ -63,7 +63,7 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 ### Recap for April 23rd
 
-{% include zakviewer.html Name="2022 4 24 Ghost Catch" ID="https://scratch.mit.edu/mystuff/" caption="Student N added another ghost to his Ghost Catch project. He duplicated the ghost and then after a little troubleshooting we figured out he needed too change some of the names of the messages to avoid duplication. He completed his quarterly evaluation." %}
+{% include zakviewer.html Name="2022 4 24 Ghost Catch" ID="https://scratch.mit.edu/projects/654714163/" caption="Student N added another ghost to his Ghost Catch project. He duplicated the ghost and then after a little troubleshooting we figured out he needed too change some of the names of the messages to avoid duplication. He completed his quarterly evaluation." %}
 
 {% include zakviewer.html Name="Explosion" ID="https://scratch.mit.edu/projects/679551875/" caption="Student Y  made tentative drafts of several project ideas, but eventually settled on creating an original animation with several characters and an exploding bomb. " %}
 
