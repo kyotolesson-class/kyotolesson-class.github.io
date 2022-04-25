@@ -1,0 +1,9 @@
+<div markdown=0 class="giphycontainer" style="width:{{include.width | default: 'fit-content' }}; display: inline; padding-bottom:20px">{{include.spacer | default: "" }}
+
+<video  poster="" class="jsgif giphy" style="margin:0;padding:0;margin:0px;width:calc(100% - 18px);" controls  loop muted playsinline preload="metadata" playsinline preload="metadata">
+<source src="{{ include.link }}" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;">
+ <img src="{{ include.link }}" title="Your browser does not support the mp4 video codec."/>
+</video>
+<a href="{{ include.link }}" title="open on imgur" target="_blank" style="width:{{include.width | default: '-webkit-fill-available' }}; height:{{include.height | default: 'auto' }}; text-decoration: none; margin-bottom: 20px;" class="giphylink tooltips"><img class="giphyattribution" src="/assets/imgurattribution.jpeg" style="height:22px;padding-right: 10px" alt="attribution"></a>
+</div>{%- if include.caption != "" and include.caption -%}
+<div markdown=0 class="imgur jsgif" style="min-width:150px; width:{{include.width | default: '-webkit-fill-available' }}; margin-top: 20px;"><blockquote class="tynkercaption"><span>{{- include.caption | default: "" -}}</span></blockquote></div>{% else %} {%- endif -%} 
