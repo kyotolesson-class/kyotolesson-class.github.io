@@ -96,6 +96,30 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 <details markdown=1>
+<summary markdown=1>## April 25th
+</summary>
+
+## April 25th
+
+### Recap for April 25th
+
+{% include zakviewer.html Name="2022-04-26 Kitten Parachute! Week 2 class version on Scratch" ID="https://scratch.mit.edu/projects/680121399/editor" caption="Students T1, A, J, and T2 moved onto the next stage of the Kitty Parachute game. First we made the kitty fall using a repeat until loop, then which led to a detailed discussion of cartesian coordinates. We added a momentum variable so we could control the rate of fall. We had a little quiz as kids labeled various points on a graph, which the kids did great with. We then made the kitty go back up to the bottom when it reaches the bottom of the screen, using an if conditional. Then we made the kitty swing from side to side using the point in direction block. To complete the game trajectory, we made the sky number change after changing the position. Lastly we began to make a countdown, which we will finish next week." %}
+
+
+{% include imgurmp4Captioned.html title="" link="https://i.imgur.com/rZgzFM6.mp4" caption="Student H2 had some technical difficulties with her computer, but was eventually able to create this  Underwater ScratchJr project." width="" height="" spacer=" " %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/0xcbdhT.png" caption="Student H1 made some minor adjustments to his current project, but ran into some trouble at the end, when his characters reach the edge of the screen. We will have to look into this more next week." width="" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022-04-26 Untitled-64 on Scratch" ID="https://scratch.mit.edu/projects/680144272/editor" caption="Student K worked on an animation, and on modifying a sprite using the pixlr background remover. This required some patient detailed application of the paint brush tool, which I gave some tips on using." %}
+
+
+</details>
+
+
+<details markdown=1>
 <summary markdown=1>## April 18th
 </summary>
 
