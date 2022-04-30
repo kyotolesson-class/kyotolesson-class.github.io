@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [April 30th](#april-30th)
+  * [Recap for April 30th](#recap-for-april-30th)
 * [April 23rd](#april-23rd)
   * [Recap for April 23rd](#recap-for-april-23rd)
 * [April 16th](#april-16th)

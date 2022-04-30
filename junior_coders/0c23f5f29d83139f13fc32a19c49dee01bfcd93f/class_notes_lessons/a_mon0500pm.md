@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [April 25th](#april-25th)
+  * [Recap for April 25th](#recap-for-april-25th)
 * [April 18th](#april-18th)
   * [Recap for April 18th](#recap-for-april-18th)
 * [April 11th](#april-11th)
