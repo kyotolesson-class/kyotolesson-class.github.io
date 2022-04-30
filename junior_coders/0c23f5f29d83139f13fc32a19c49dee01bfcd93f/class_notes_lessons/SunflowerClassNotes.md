@@ -56,6 +56,29 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 
 <details markdown=1>
+<summary markdown=1>## April 30th
+</summary>
+
+## April 30th
+
+### Recap for April 30th
+
+
+{% include zakviewer.html Name="2022-05-01 Demon Clones" ID="https://scratch.mit.edu/projects/666234366/" caption="Student M finished the last steps to converting his project to using clones. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/D7cnKBN.png" caption=" I showed him the code for the top 5 clones, and then I challenged him to make the bottom 4. He needed help understanding how to use the go to block, and we talked about how to figure out the x and y values based onn values we know." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/86TKzM1.png" caption="We still had the old blocks showing, though" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/CiYmCgB.png" caption="So, lastly, we hid the old blocks so they didn't show." width="" height="" spacer="" %}
+
+
+
+
+</details>
+
+
+<details markdown=1>
 <summary markdown=1>## April 23rd
 </summary>
 
