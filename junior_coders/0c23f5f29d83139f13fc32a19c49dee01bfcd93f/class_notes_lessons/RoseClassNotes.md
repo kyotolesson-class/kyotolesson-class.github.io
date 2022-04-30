@@ -50,6 +50,37 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## April 30th Makeup
+</summary>
+
+## April 30th Makeup
+
+### Recap for April 30th
+
+
+
+* Today Student M worked on his **Cat owns a Convenience Store** project. 
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/KZZjj53.png" caption="The first step was to set up 3 variables: room occupants, max in room, money. He then created myblocks (get money, go to room 1, leave room when ready) for the main start as a clone loop. This is the main game loop. We also started making the get money loop." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-04-30 Cat owns a Convenience Store" ID="https://scratch.mit.edu/projects/655392474/" caption="No visible changes as yet..." %}
+
+
+* The other students in the class took turns "tutoring" Student S in using ScratchJr. They began a project with 2 screens, and I challenged her to continue the story on her own.
+
+{% include imgur.html title="" ID="https://i.imgur.com/X6CV8nC.gif" caption=" She created a game where the cat chases the piece of toast. If it touches the toast it shrinks and the user has to touch it to make it bigger again. We talked about how to know when a game is over, and suggested the game end after 25 loops. She worked well on her own, and I gave her some help making the toast say 'ouch' using the bump block, and adding a jump to the fourth screen, by adding a blank screen, returning to screen 3, and then dragging the block. She also learned how to drag a sprite to a screen to make a copy of it in that screen." width="" height="" spacer="" %}
+
+
+
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## April 22nd
 </summary>
