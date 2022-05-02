@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 2nd](#may-2nd)
+  * [Recap for May 2nd](#recap-for-may-2nd)
 * [April 25th](#april-25th)
   * [Recap for April 25th](#recap-for-april-25th)
 * [April 18th](#april-18th)
@@ -96,6 +98,29 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## May 2nd
+</summary>
+
+## May 2nd
+
+### Recap for May 2nd
+
+
+Parachute Game
+  : Students A, T, and J continued working on the Kitten Parachute game. 
+
+{% include zakviewer.html Name="2022 05 02 Kitten Parachute! Week 3 class version" ID="https://scratch.mit.edu/projects/683714915/" caption="They completed the countdown by using wait and switch costume blocks. We used repeat until blocks to make the cloud move from one side of the screen to the other. We learned how to get the x and y values of a spite in a go to by moving the sprite to the appropriate place. We added music and had it play using a broadcast block, demonstrating the difference between broadcast and broadcast and wait." %}
+
+After that we completed evaluations, and Students A and T did brief interview presentations (to be send separately to parents).
+
+{% include zakviewer.html Name="2022-05-02 Man in Park" ID="https://scratch.mit.edu/projects/683711693/" caption="Students H created a new project. A character walks across the screen and changes the background.  He also added some sounds and played with the text to speech." %}
+
+{% include zakviewer.html Name="2022-05-02 Untitled-65" ID="https://scratch.mit.edu/projects/683722172/" caption="Student K worked on a Squirrel project." %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## April 25th
@@ -457,7 +482,7 @@ Clones
 
 Afterwards, students worked on their own projects, such as:
 
-{% include zakviewer.html Name="2022-02-23 Death Rays Cloner simple remix-2" ID="https://scratch.mit.edu/projects/647937254/" caption="One example. Student J modfied Voldermort and used the pen tool to draw the ray." %}
+{% include zakviewer.html Name="2022-02-23 Death Rays Cloner simple remix-2" ID="https://scratch.mit.edu/projects/647937254/" caption="One example. Student J modified Voldermort and used the pen tool to draw the ray." %}
 
 
 {% include imgur.html title="" ID="https://i.imgur.com/iiaLs06.png" caption="Student A made her clone go the pointer and then to a fixed position on the screen." width="" height="" spacer="" %}
@@ -480,7 +505,7 @@ Afterwards, students worked on their own projects, such as:
 
 ### Recap for February 14th
 
-Travel Minecraft
+Travel Add: "Minecraft" to dictionary: custom-dictionary-workspace (Workspace)ecraft
   : Today Student A and student J continued working on the Minecraft Travel project.
 
 {% include zakviewer.html Name="Minecraft Travel game 2022 02 14" ID="https://scratch.mit.edu/projects/640542562/" caption="Today we worked on the opening title sequence." %}
