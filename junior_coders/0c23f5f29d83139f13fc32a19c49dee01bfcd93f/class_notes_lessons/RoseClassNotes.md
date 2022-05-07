@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [May 6th](#may-6th)
+  * [Recap for May 6th](#recap-for-may-6th)
 * [April 30th Makeup](#april-30th-makeup)
   * [Recap for April 30th](#recap-for-april-30th)
 * [April 22nd](#april-22nd)
@@ -51,6 +53,40 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## May 6th
+</summary>
+
+## May 6th
+
+### Recap for May 6th
+
+ScratchJr
+  : Student A decided to review skills by making his own project. It involved characters moving across the screen and bumping into each other. He also greatly enjoyed typing in various emoji. 
+
+  : Student S made a project where the characters move, bump into each other, and can be tapped to do things. This is a review of how to use in the bump, touch and loop blocks.
+{% include giphy.html link="https://media.giphy.com/media/rYHuM5QrTmL50Odcag/" %} 
+
+Scratch
+  : Students K and Y both use clones to show the tools. student M
+{% include imgur.html title="" ID="https://i.imgur.com/tePWjT5.png" caption="When they press the tool number key, it should move to the player. We  learned how to use the join block with a variable to detect different types of key presses with one block. This way we compare the clicked key to the id of the clone and know which clone to activate. This works for clicks too" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-06 Demon Game using clones" ID="https://scratch.mit.edu/projects/679374913/" caption="You can see it here after choosi" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/OUlDgSV.jpg" caption="Student Y worked on making a detailed plan for his project. Many students are reluctant to do this step, but he has embraced it with flair. also needed some instruction on converting webp files to jpg for his project." width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/2804sgk.png" caption="Student M worked on making his cats go to Family Mart when they reach the middle. First we shrink them, increase the number of occupants and go to the room. He used a repeat loop for the shrink routine, and go to and ghost effects to make him disappear and reappear." width="" height="" spacer="" %}
+
+
+First, Student H completed a 5 minute challenge to refactor a shooter game so it worked with the arrow keys instead of the w-a-s-d keys. Then I helped him change a video into a gif to import it into a new project. To help him maintain focus I used a 5 minute timer for him. If he maintained focus for 5 minutes, he would gain some free time. This seemed to be increase the amount of time he could stay on focus.
+
+{% include zakviewer.html Name="2022-05-06 戦え" ID="https://scratch.mit.edu/projects/684157189/" caption="He also made several new mini-projects such as this one, which shows considerable progress." %}
+
+</details>
 
 
 <details markdown=1>

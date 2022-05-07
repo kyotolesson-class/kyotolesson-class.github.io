@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [May 7th](#may-7th)
+  * [Recap for May 7th](#recap-for-may-7th)
 * [April 30th](#april-30th)
   * [Recap for April 30th](#recap-for-april-30th)
 * [April 23rd](#april-23rd)
@@ -55,6 +57,32 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## May 7th
+</summary>
+
+## May 7th
+
+### Recap for May 7th
+
+Today was a fun day. First it was new project day, and each kid came up with their own next project ideas, starting with storyboards. Then the kids were in a playful mood, so we played some blindfold games that teach coding concepts about sending messages, program logic, and sensing.
+
+{% include zakviewer.html Name="2022-05-07 Ghost catch" ID="https://scratch.mit.edu/projects/654714163/" caption="Student N finished this project last week, but today he shared the project, and wrote instructions and project notes for it. This represents the final steps of project completion, and he did a great job with this project. He is really beginning to grasp the full picture. He also began working on his next project, but he has not shared the details with me." %}
+
+
+{% include imgur.html title="Mincraft Clicker" ID="https://i.imgur.com/wgu5Rk2.jpg" caption="Student M is working on a minecraft clicker.In this game, various blocks appear and the player must click them using various tools." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-05-07 Untitled-48" ID="https://scratch.mit.edu/projects/686601606/" caption="He began coding by getting images from the internet, converting webp to jpg files, and initialize them to start at the right size and position. A lot of work and great progress!" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/vhZH79U.jpg" caption="Student Y has a detailed storyboard, including opening screen (top left), choosing a section (middle), and game play areas (bottom)." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-07 Student Y" ID="https://scratch.mit.edu/projects/686601452/" caption="He began his project by getting characters from the internet as well as drawing his own." %}
+
+
+</details>
 
 
 <details markdown=1>
