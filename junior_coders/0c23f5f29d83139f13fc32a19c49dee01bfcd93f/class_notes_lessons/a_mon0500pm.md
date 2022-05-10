@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 9th](#may-9th)
+  * [Recap for May 9th](#recap-for-may-9th)
 * [May 2nd](#may-2nd)
   * [Recap for May 2nd](#recap-for-may-2nd)
 * [April 25th](#april-25th)
@@ -98,6 +100,47 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## May 9th 
+</summary>
+
+## May 9th 
+
+### Recap for May 9th 
+
+Kitten Project 
+  : Students on this project added a choose difficulty screen.
+
+{% include zakviewer.html Name="2022-05-09 Kitten Parachute! Week 4 class version" ID="https://scratch.mit.edu/projects/683714915/" caption=" I explained how to use clones to create several copies of a sprite, and we used this to create several copies of their difficulty sprite, and give a message to the user." %}
+
+Here are their results. Next time we will add more to this, and add a game over screen as well.
+
+{% include zakviewer.html Name="2022-05-09 Student T1" ID="https://scratch.mit.edu/projects/680121378/" caption="Student T1 added a play button as well. She learned how to group and ungroup " %}
+
+{% include zakviewer.html Name="2022-05-09 Student A Lovely Flying Cat " ID="https://scratch.mit.edu/projects/683715126/" caption="Student A learned how to use the shift key to make straight lines for her costume." %}
+
+{% include zakviewer.html Name="2022-05-09 Student T2 Kitten Parachute! " ID="https://scratch.mit.edu/projects/680121628/" caption="Student T2 learned how to control the zoom of the edit window to be able to move small parts of his image." %}
+
+
+{% include zakviewer.html Name="2022-05-09 Student J CAT" ID="https://scratch.mit.edu/projects/683714965/" caption="Student J learned how to remove the background from his bear using pixlr" %}
+
+
+Other projects: 
+  : Other students worked on their own projects.
+
+{% include zakviewer.html Name="2022 5 09 Student H chaos madness simplest " ID="https://scratch.mit.edu/projects/687629307/" caption="Student H added a rifle to his project. WE also discussed a question that his latest version suggested about his concept, specifically whether the head should follow the mouse or follow the body, and how to fix them." %}
+
+{% include zakviewer.html Name="2022-05-09 Student K Walking to music " ID="https://scratch.mit.edu/projects/687233218/" caption="Student K and I talked about what kind of project she  wanted to make. After deciding between a story or a game, she made this simple project with interesting graphics and music. However when we tried to develop this further we got stuck." %}
+
+
+{% include zakviewer.html Name="2022-05-10 Untitled-68" ID="https://scratch.mit.edu/projects/687268524/" caption="After a little more discussion she suddenly became very excited. She had a great idea for a story/game and began working on it. I am looking foward to seeing it." %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## May 2nd
