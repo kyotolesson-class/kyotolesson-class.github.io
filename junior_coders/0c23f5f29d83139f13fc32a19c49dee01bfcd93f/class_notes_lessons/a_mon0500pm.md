@@ -130,7 +130,7 @@ Here are their results. Next time we will add more to this, and add a game over 
 Other projects: 
   : Other students worked on their own projects.
 
-{% include zakviewer.html Name="2022 5 09 Student H chaos madness simplest " ID="https://scratch.mit.edu/projects/687629307/" caption="Student H added a rifle to his project. WE also discussed a question that his latest version suggested about his concept, specifically whether the head should follow the mouse or follow the body, and how to fix them." %}
+{% include zakviewer.html Name="2022 5 09 Student H chaos madness simplest " ID="https://scratch.mit.edu/projects/687629307/" caption="Student H added a rifle to his project. We also discussed a question that his latest version suggested about his concept, specifically whether the head should follow the mouse or follow the body, and how to fix it." %}
 
 {% include zakviewer.html Name="2022-05-09 Student K Walking to music " ID="https://scratch.mit.edu/projects/687233218/" caption="Student K and I talked about what kind of project she  wanted to make. After deciding between a story or a game, she made this simple project with interesting graphics and music. However when we tried to develop this further we got stuck." %}
 
