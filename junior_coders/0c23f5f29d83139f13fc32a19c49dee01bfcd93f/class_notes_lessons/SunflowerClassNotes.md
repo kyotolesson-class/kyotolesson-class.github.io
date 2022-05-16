@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [May 14th](#may-14th)
+  * [Recap for May 14th](#recap-for-may-14th)
 * [May 7th](#may-7th)
   * [Recap for May 7th](#recap-for-may-7th)
 * [April 30th](#april-30th)
@@ -58,6 +60,32 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## May 14th
+</summary>
+
+## May 14th
+
+### Recap for May 14th
+
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/9xBdEHB.png" caption="Students Y and N began work on a restaurant project. They initialized the project, added a list with a menu of the possible orders, and began working on making the customer come out. They stayed focused and soon they will have an initial working project." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-14 Student Y" ID="https://scratch.mit.edu/projects/686601452/" caption="" %}
+
+{% include zakviewer.html Name="2022-05-14 Student N" ID="https://scratch.mit.edu/projects/690420508/" caption="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/hhDt4Ny.png" caption="Using a pick random block, Student M made a different minecraft block appear each time we start the project. " width="" height="" spacer="" %}
+
+
+
+{% include zakviewer.html Name="2022-05-14 Untitled-48 on Scratch" ID="https://scratch.mit.edu/projects/686601606/" caption="This will be the start of a Minecraft Clicker game." %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## May 7th

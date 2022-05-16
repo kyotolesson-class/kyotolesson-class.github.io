@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [May 13th](#may-13th)
+  * [Recap for May 13th](#recap-for-may-13th)
 * [May 6th](#may-6th)
   * [Recap for May 6th](#recap-for-may-6th)
 * [April 30th Makeup](#april-30th-makeup)
@@ -54,6 +56,40 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## May 13th
+</summary>
+
+## May 13th
+
+### Recap for May 13th
+
+
+
+{% include zakviewer.html Name="2022-05-13 Student Y Demon Game " ID="https://scratch.mit.edu/projects/666094890/eitor" caption="Student Y's main objective today was to have a character lose 'power' when clicked. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/l29boIW.png" caption="He tried to figure it out himself, and got very close. The power needed to be multliplied by -1 for the routine to work. When the character runs out of power, he will fall over and dies." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-05-13 Demon Game using clones on Scratch" ID="https://scratch.mit.edu/projects/679374913/" caption="Student K made his Maikey sprite move on arrow presses and made other adjustments to his game." %}
+
+{% include zakviewer.html Name="2022-05-13 Student H looking for eyeglasses " ID="https://scratch.mit.edu/projects/553913239/" caption="Student H came up with 2 projects this week. He made this game that had a crazy cat chaing a pair of sunglasses." %}
+
+
+{% include zakviewer.html Name="2022-05-13 Student H にゃんこ大戦争" ID="https://scratch.mit.edu/projects/689871622/" caption="He also made this cat that fires cats project. Click the bottom cat to see it in action." %}
+
+
+ScratchJr
+  : The ScratchJR kids worked on making a racing game based on this BootupPd project. 
+
+{% include youtubelazy.html  videoID="0QY_rF8h6-Y" %}
+
+First we made the characters move at different speeds, and to return home when they touch another character at the end of the line. Student A had a lot of fun experimenting with the drawing editor. Student S made this into a Mother's Day project, and showed initiative and creativity in choosing characters and in making the course go vertically, which looks very nice. 
+
+{% include giphy.html link="https://media.giphy.com/media/0gu6fdPTswX9AnIkx1/" %} 
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## May 6th

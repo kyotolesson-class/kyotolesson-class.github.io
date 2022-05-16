@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 16th](#may-16th)
+  * [Recap for May 16th](#recap-for-may-16th)
 * [May 9th](#may-9th)
   * [Recap for May 9th](#recap-for-may-9th)
 * [May 2nd](#may-2nd)
@@ -100,6 +102,41 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## May 16th
+</summary>
+
+## May 16th
+
+### Recap for May 16th
+
+
+Students continued working on the Parachute Project. Today we finished the setting difficulty screen and added a opening screen background and play button.
+
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/vcgVV5c.png" caption="We set the difficulty and then I showed how to hide and delete all the difficulty clones at once using a broadcast. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/7HDNYLN.png" caption="We then added an opening background and made the play button detect touches and show the difficulty buttons" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-16 Student A Lovely Flying Cat " ID="https://scratch.mit.edu/projects/683715126/" caption="" %}
+
+{% include zakviewer.html Name="2022-05-16 Student T1" ID="https://scratch.mit.edu/projects/691081064/" caption="" %}
+
+{% include zakviewer.html Name="2022-05-17 Student T2" ID="https://scratch.mit.edu/projects/691081130/" caption="" %}
+
+{% include zakviewer.html Name="2022-05-17 Student J" ID="https://scratch.mit.edu/projects/691081143/" caption="" %}
+
+
+{% include zakviewer.html Name="2022-05-16 Student H" ID="https://scratch.mit.edu/projects/687755672/" caption="Student H removed the background on his rifle, and added a target that moves with the mouse" %}
+
+{% include zakviewer.html Name="2022-05-16 Student K" ID="https://scratch.mit.edu/projects/687268524/" caption="Student K came up with an outline for her project, and continued designing characters for the project." %}
+
+</details>
 
 
 <details markdown=1>
