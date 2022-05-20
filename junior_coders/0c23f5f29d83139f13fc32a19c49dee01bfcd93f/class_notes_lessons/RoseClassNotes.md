@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [May 20th](#may-20th)
+  * [Recap for May 20th](#recap-for-may-20th)
 * [May 13th](#may-13th)
   * [Recap for May 13th](#recap-for-may-13th)
 * [May 6th](#may-6th)
@@ -55,6 +57,40 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## May 20th
+</summary>
+
+## May 20th
+
+### Recap for May 20th
+
+
+{% include zakviewer.html Name="2022-05-21 Cat owns an Family Mart 2022 05 20 with directions for next week on Scratch" ID="https://scratch.mit.edu/projects/694152059/" caption="student M made the cat go back to his original place when the family mart was full. " %}
+
+
+{% include zakviewer.html Name="2022-05-21 Demon Game using clones on Scratch" ID="https://scratch.mit.edu/projects/679374913/" caption="Student K modified his code so that the weapons follow his Maikey sprite. He also added some more sprites." %}
+
+{% include zakviewer.html Name="2022-05-21 Student Y Demon Game Fixed 2022 03 25 on Scratch" ID="https://scratch.mit.edu/projects/666094890/" caption="Student Y added more characters to his game. We discussed how to go about making names for his characters that appear above them." %}
+
+
+{% include zakviewer.html Name="2022-05-21 にゃんこ大戦争 on Scratch" ID="https://scratch.mit.edu/projects/689871622/" caption="Student H began making a battle cats project by using the youtube video below" %}
+
+{% include youtubelazy.html  videoID="-K2T5o0eYbk" %}
+
+
+Student S made another BootupPD project called my family. We then upgraded the project by making the characters speak, and I gave her the challenge of making the characters speak in turn. This is an exercise in using bump blocks, the start block, and message blocks. Next we will continue making the conversation pass from person to person in the project.
+
+Student A worked on a rocket project and played with the costume editor and adding photos.
+
+
+{% include zakviewer.html Name="2022-05-21 Untitled on Scratch" ID="https://scratch.mit.edu/projects/693723636/" caption="Student D worked his first tutorials in scratch. After he had a basic understanding of the layout and how to place blocks I encouraged him to explore the blocks he could. He worked mostly wiht the say and move blocks, but he also discovered the myblock feature. I showed him how to use that to repeat actions several times." %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 13th
