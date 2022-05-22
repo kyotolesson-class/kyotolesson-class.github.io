@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [May 21st](#may-21st)
+  * [Recap for May 21st](#recap-for-may-21st)
 * [May 14th](#may-14th)
   * [Recap for May 14th](#recap-for-may-14th)
 * [May 7th](#may-7th)
@@ -59,6 +61,33 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## May 21st
+</summary>
+
+## May 21st
+
+### Recap for May 21st
+
+Today kids did a great job and made lots of progress, especially in perseverance when faced with challenges or failed attempts. The goal at this point is more to give them basic familiarity with a range of blocks and concepts and finding and setting up blocks, even if they are not fully grasping every concept. They are mostly still following my lead.  That said, they have been moving more quickly lately and are gaining comfort and ease with the scratch user interface. 
+
+Today I showed the students how to resize their costumes. One concept for them to grasp was that dragging a corner/side changes the size keeping the opposite corner/side fixed. Using the alt key keeps the center fixed. I also gave them a first taste of creating and working with lists, and about the difference between for this sprite only and for all sprites for variables and lists.
+
+
+{% include zakviewer.html Name="2022-05-21 Student N" ID="https://scratch.mit.edu/projects/690420508/" caption="Student N was able to reach the stage where his menu items (apple, cake, etc.) appear on the counter." %}
+
+{% include zakviewer.html Name="2022-05-21 Student Y" ID="https://scratch.mit.edu/projects/686601452/" caption="Student Y still needs to fill his lists for the project to work." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/dREL1eR.png" caption="With Student M I gave him a brief description of each block (red), and he filled it in. This method worked well with him, and he was relatively diligent in making progress." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-21 Minecraft Clicker" ID="https://scratch.mit.edu/projects/686601606/" caption="Today he mostly added variables that will be used later." %}
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## May 14th
