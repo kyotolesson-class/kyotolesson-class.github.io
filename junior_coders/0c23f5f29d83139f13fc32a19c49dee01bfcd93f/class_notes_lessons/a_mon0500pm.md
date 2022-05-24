@@ -118,7 +118,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 Individual Projects
   : Some kids worked on their own projects
 
-{% include zakviewer.html Name="2022-05-24 Student K when octopi fly " ID="https://scratch.mit.edu/projects/694965460/editor" caption="Student K created another unique sprite and on mastering the arrow and wasd keys, which are common keys used for gaming." %}
+{% include zakviewer.html Name="2022-05-24 Student K when octopi fly " ID="https://scratch.mit.edu/projects/694965460/" caption="Student K created another unique sprite and on mastering the arrow and wasd keys, which are common keys used for gaming." %}
 
 
 {% include zakviewer.html Name="2022 05 23 McDonald's has raised their prices, say the cats. " ID="https://scratch.mit.edu/projects/695357373/" caption="Student H created a dialogue using wait, say, and text to speech blocks." %}
