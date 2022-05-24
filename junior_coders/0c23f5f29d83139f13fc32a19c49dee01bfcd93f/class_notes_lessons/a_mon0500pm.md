@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 23rd](#may-23rd)
+  * [Recap for May 23rd](#recap-for-may-23rd)
 * [May 16th](#may-16th)
   * [Recap for May 16th](#recap-for-may-16th)
 * [May 9th](#may-9th)
@@ -102,6 +104,43 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+
+<details markdown=1>
+<summary markdown=1>## May 23rd
+</summary>
+
+## May 23rd
+
+### Recap for May 23rd
+
+Individual Projects
+  : Some kids worked on their own projects
+
+{% include zakviewer.html Name="2022-05-24 Student K when octopi fly " ID="https://scratch.mit.edu/projects/694965460/editor" caption="Student K created another unique sprite and on mastering the arrow and wasd keys, which are common keys used for gaming." %}
+
+
+{% include zakviewer.html Name="2022 05 23 McDonald's has raised their prices, say the cats. " ID="https://scratch.mit.edu/projects/695357373/" caption="Student H created a dialogue using wait, say, and text to speech blocks." %}
+
+
+Kitten Parachute
+  : Other kids added a moving title screen and play button to their title screen. We also did individual meetings where I assessed kids' understanding and corrected minor errors in their projects. I showed kids how to create a slightly rounded button in the editor.
+
+
+{% include zakviewer.html Name="2022 05 23 Kitten Parachute! Student T2  " ID="https://scratch.mit.edu/projects/694993111/" caption="Student T2 has an original flying cat. " %}
+
+{% include zakviewer.html Name="2022 05 23 Lovely Flying Cat A " ID="https://scratch.mit.edu/projects/694989875/editor/" caption="Student A used her Cat as the title screen character." %}
+
+
+{% include zakviewer.html Name="2022 05 23 Cat Game Student T1 " ID="https://scratch.mit.edu/projects/695004732/" caption="Student T1 was taught by student A how to make rainbow squares and used them for her title" %}
+
+
+{% include zakviewer.html Name="2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695470274/editor" caption="Student J created his own character as well after a little help using the circle tool to make eyes." %}
+
+
+</details>
+
 
 
 <details markdown=1>
