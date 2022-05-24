@@ -136,7 +136,7 @@ Kitten Parachute
 {% include zakviewer.html Name="2022 05 23 Cat Game Student T1 " ID="https://scratch.mit.edu/projects/695004732/" caption="Student T1 was taught by student A how to make rainbow squares and used them for her title" %}
 
 
-{% include zakviewer.html Name="2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695470274/editor" caption="Student J created his own character as well after a little help using the circle tool to make eyes." %}
+{% include zakviewer.html Name="2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695470274/" caption="Student J created his own character as well after a little help using the circle tool to make eyes." %}
 
 
 </details>
