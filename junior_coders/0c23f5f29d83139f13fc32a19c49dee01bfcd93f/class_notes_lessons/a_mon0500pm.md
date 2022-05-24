@@ -130,7 +130,7 @@ Kitten Parachute
 
 {% include zakviewer.html Name="2022 05 23 Kitten Parachute! Student T2  " ID="https://scratch.mit.edu/projects/694993111/" caption="Student T2 has an original flying cat. " %}
 
-{% include zakviewer.html Name="2022 05 23 Lovely Flying Cat A " ID="https://scratch.mit.edu/projects/694989875/editor/" caption="Student A used her Cat as the title screen character." %}
+{% include zakviewer.html Name="2022 05 23 Lovely Flying Cat A " ID="https://scratch.mit.edu/projects/694989875/" caption="Student A used her Cat as the title screen character." %}
 
 
 {% include zakviewer.html Name="2022 05 23 Cat Game Student T1 " ID="https://scratch.mit.edu/projects/695004732/" caption="Student T1 was taught by student A how to make rainbow squares and used them for her title" %}
