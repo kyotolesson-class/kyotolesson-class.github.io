@@ -118,7 +118,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 Individual Projects
   : Some kids worked on their own projects
 
-{% include zakviewer.html Name="2022-05-24 Student K when octopi fly " ID="https://scratch.mit.edu/projects/694965460/editor" caption="Student K created another unique sprite and on mastering the arrow and wasd keys, which are common keys used for gaming." %}
+{% include zakviewer.html Name="2022-05-24 Student K when octopi fly " ID="https://scratch.mit.edu/projects/694965460/" caption="Student K created another unique sprite and on mastering the arrow and wasd keys, which are common keys used for gaming." %}
 
 
 {% include zakviewer.html Name="2022 05 23 McDonald's has raised their prices, say the cats. " ID="https://scratch.mit.edu/projects/695357373/" caption="Student H created a dialogue using wait, say, and text to speech blocks." %}
@@ -130,13 +130,13 @@ Kitten Parachute
 
 {% include zakviewer.html Name="2022 05 23 Kitten Parachute! Student T2  " ID="https://scratch.mit.edu/projects/694993111/" caption="Student T2 has an original flying cat. " %}
 
-{% include zakviewer.html Name="2022 05 23 Lovely Flying Cat A " ID="https://scratch.mit.edu/projects/694989875/editor/" caption="Student A used her Cat as the title screen character." %}
+{% include zakviewer.html Name="2022 05 23 Lovely Flying Cat A " ID="https://scratch.mit.edu/projects/694989875/" caption="Student A used her Cat as the title screen character." %}
 
 
 {% include zakviewer.html Name="2022 05 23 Cat Game Student T1 " ID="https://scratch.mit.edu/projects/695004732/" caption="Student T1 was taught by student A how to make rainbow squares and used them for her title" %}
 
 
-{% include zakviewer.html Name="2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695470274/editor" caption="Student J created his own character as well after a little help using the circle tool to make eyes." %}
+{% include zakviewer.html Name="2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695470274/" caption="Student J created his own character as well after a little help using the circle tool to make eyes." %}
 
 
 </details>
