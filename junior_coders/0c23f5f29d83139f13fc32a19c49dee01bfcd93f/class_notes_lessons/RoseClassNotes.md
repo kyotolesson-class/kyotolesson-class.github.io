@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [May 27th](#may-27th)
+  * [Recap for May 27th](#recap-for-may-27th)
 * [May 20th](#may-20th)
   * [Recap for May 20th](#recap-for-may-20th)
 * [May 13th](#may-13th)
@@ -57,6 +59,39 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## May 27th
+</summary>
+
+## May 27th
+
+### Recap for May 27th
+
+
+UFO
+  : Student S worked on her own project for a while, and then we worked together on an original project about UFO's. Two cats are speaking. She learned the "bump and step back" trick to activate a bump without getting stuck in a loop. She used wait blocks to make a conversation, and then a UFO appears.
+
+{% include giphy.html link="https://media.giphy.com/media/r2SSTXQWb5kzXQygHu/" %} 
+
+Using Messages and Taps
+  : Student A made a project that used tap blocks and messages and a variety of blocks, including ones he created himself.
+<iframe src="https://www.veed.io/embed/fb341e14-92fd-4afc-9188-b0fe19c93248" width="100%" height="504" frameborder="0" title="pt1-492-unscreen" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .jsgif}
+
+
+ 
+{% include zakviewer.html Name="2022-05-7 Cat owns an Family Mart 2022 05 20 with directions" ID="https://scratch.mit.edu/projects/694152059/" caption="Student M followed a template that I gave him and added code to make his cats return when the family mart is full. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/6PxIh9R.png" caption="He learned how to use the set variable and swich costume blocks to create the effect." width="" height="" spacer="" %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/zjOyaqr.png" caption="Student K worked on carefully redrawing his character so it could be blue. Due to a limitation in Scratch this was necessary. This was a time consuming progress so kudos for sticking with it." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-05-27ß Scratch Project" ID="https://scratch.mit.edu/projects/697370880/" caption="Student D worked on various challenges using the point and move blocks. For example he had to make the 7 sprite move in a square, and then in a larger square. The next challenge, partly completed, is to make the 7 and 9 switch places." %}
+
+
+</details>
 
 
 <details markdown=1>
