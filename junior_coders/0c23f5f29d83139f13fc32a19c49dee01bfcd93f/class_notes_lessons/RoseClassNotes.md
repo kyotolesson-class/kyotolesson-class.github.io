@@ -74,9 +74,8 @@ UFO
 
 {% include giphy.html link="https://media.giphy.com/media/r2SSTXQWb5kzXQygHu/" %} 
 
-Using Messages and Taps
-  : Student A made a project that used tap blocks and messages and a variety of blocks, including ones he created himself.
-<iframe src="https://www.veed.io/embed/fb341e14-92fd-4afc-9188-b0fe19c93248" width="100%" height="504" frameborder="0" title="pt1-492-unscreen" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>{: .jsgif}
+
+{% include veed.html title="" ID="https://www.veed.io/embed/fb341e14-92fd-4afc-9188-b0fe19c93248" caption="Student A made a project that used tap blocks and messages and a variety of blocks, including ones he created himself." width="" height="" spacer="" %}
 
 
  
