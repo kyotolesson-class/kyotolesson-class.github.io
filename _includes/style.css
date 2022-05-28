@@ -18,7 +18,7 @@ html {
 
 body {
     background-color: ivory;
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-family: Cambria, Times, "Times New Roman", serif;
     scroll-padding-top: 170px;
     /* fixes bad scrolling on gallery */
 }
@@ -708,7 +708,7 @@ background-color: var(--linkhover);
     background-color: var(--scrollbarBG);
     font-size: 70%; 
     text-align: left;
-    font-family: Cochin, Times, "Times New Roman", serif;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
 .tooltipstyle a {
@@ -942,7 +942,7 @@ blockquote.tynkercaption {
     border-left: unset;
     padding: 0px 20px 0px 20px;
     /* font-style: unset;  remove italics from blockquote */
-    font-family: Cambria; /* slightly nicer font for italics in caption */
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; /* slightly nicer font for italics in caption */
 }
 /* fixes the top margin on small screens */
 @media print,
@@ -978,7 +978,7 @@ margin-bottom: 5px;
 text-align: justify;
     line-height: normal;
     /* font-style: normal;
-    font-family: Cochin, Times, "Times New Roman", serif; */
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; */
 }
 
 /* adds the attribution for giphy and other iframes */
@@ -1033,7 +1033,7 @@ background: #ff5a5a;
   -ms-transform: translate(-50%, -50%);*/
   text-align: center;
   background: var(--linkhover);
-	font-family: Cochin, Times, 'Times New Roman', serif; 
+	font-family: Cochin, Georgia, Times, "Times New Roman", serif; 
 	padding:0px;
 	margin-bottom:15px;
 }
@@ -1200,11 +1200,11 @@ code.myscratchblocks {
 code {
 font-size: 1.2em;
 line-height: 1.4em;
-font-family: 'FontAwesome';
+font-family: 'FontAwesome', Verdana, Arial, sans-serif;
 }
 
 code0:not(.language-plaintext){
-font-family: 'FontAwesome';
+font-family:  'FontAwesome', Verdana, Arial, sans-serif;
 /* ALTERNATE VERSION uses this trick https://dte.web.id/teknis/css-only-zebra-striped-pre-tag#.UUoV6lugkoM to alternate line colors */
 background: var(--scrollbarBG);
 background-image: -webkit-linear-gradient(var(--scrollbarBG) 50%, var(--ourorange) 50%);
