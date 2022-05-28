@@ -13,6 +13,9 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [May 28th](#may-28th)
+  * [Recap for May 28th](#recap-for-may-28th)
+    * [An example](#an-example)
 * [May 21st](#may-21st)
   * [Recap for May 21st](#recap-for-may-21st)
 * [May 14th](#may-14th)
@@ -61,6 +64,55 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## May 28th
+</summary>
+
+## May 28th
+
+
+
+### Recap for May 28th
+
+Today students continued their projects from last week. Again I provided a template for the kids to follow. One goal was for them to be able to translate the description of the block into the actual block, for example:
+
+* creating the variables (of the right type, for all sprites or this sprite only) when these don't exist
+* using operators to create complex conditionals like `< < (variable) > (0) > or < (variable) < (0) > >`{: .msb} for if, repeat, and wait until blocks
+* creating and calling custom blocks
+
+Using a template allows me to give them a basic familiarity with the form and implemetation of different blocks even as they have yet to fully understand their function.
+
+#### An example
+
+```
+when I start as a clone
+code: [custom: choose, show order and time]::custom
+ choose, show order and time::custom
+code: [glide 2 secs to 0 50]::custom
+glide (2) secs to x: (0) y: (50)
+code: [custom: start clock]::custom
+ start clock::custom
+code: [wait until < < {CLOCK} < 0> or <{order filled} > 0 > >]::custom
+wait until <<(CLOCK) < [0]> or <(order filled) > [0]>>
+code:  [custom:  either time's up or order flled go home]::custom
+  either time's up or order flled go home::custom
+code:  [set {ORDER FINISHED} to 1]::custom
+set [ORDER FINISHED v] to [1]
+code:  [delete this clone]::custom
+delete this clone
+```
+{: .msb}
+
+{% include zakviewer.html Name="Student N Restaurant Game 2022 05 28 on Scratch" ID="https://scratch.mit.edu/projects/690420508/" caption="" %}
+
+{% include zakviewer.html Name="Student Y Restaurant game 2022 05 28" ID="https://scratch.mit.edu/projects/697770006/" caption="" %}
+
+{% include zakviewer.html Name="Student M Minecraft Clicker" ID="https://scratch.mit.edu/projects/686601606/" caption="" %}
+
+</details>
+
 
 
 <details markdown=1>

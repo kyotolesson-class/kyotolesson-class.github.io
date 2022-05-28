@@ -233,7 +233,7 @@ First, Student H completed a 5 minute challenge to refactor a shooter game so it
 
 ### Recap for April 22nd
 
-{% include zakviewer.html Name="2022-04-22 Demon Game using clones on Scratch" ID="https://scratch.mit.edu/projects/679374913/editor" caption="Student K continued trying to understand clones. We talked about how to size the health that make up his health meter. We created a new message to eliminate the need for many individual sprites and go directly to the main health sprite. We struggled to position the hearts at the right location, because it turned out an error elsewhere in his code was hiding the heart." %}
+{% include zakviewer.html Name="2022-04-22 Demon Game using clones on Scratch" ID="https://scratch.mit.edu/projects/679374913/" caption="Student K continued trying to understand clones. We talked about how to size the health that make up his health meter. We created a new message to eliminate the need for many individual sprites and go directly to the main health sprite. We struggled to position the hearts at the right location, because it turned out an error elsewhere in his code was hiding the heart." %}
 
 
 Student Y worked on figuring out how his player should choose their costume. Unusually, he dseems to have decided on a mix between randomly and with some user control. Once this is clear, he will be able to code it.
