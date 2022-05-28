@@ -298,10 +298,12 @@ $( document ).tooltip({
 	scratchblocks.renderMatching(".msb pre", {
 		style: "scratch3",
 		languages: ["en"],
+		scale: .7,
 	});
 	scratchblocks.renderMatching("code.msb", {
 		style: "scratch3",
 		languages: ["en"],
+		scale: .4,
 	});
 
 

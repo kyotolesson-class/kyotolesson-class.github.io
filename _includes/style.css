@@ -1179,14 +1179,14 @@ a.external:not(.giphylink):after {
 code div.scratchblocks {
     display: inline-block;
     position: relative;
-    top: 9px;
+    top: 13px;
 
 }
 
 code div.scratchblocks {
     display: inline-block;
     position: relative;
-    top: 13px;
+    top: 0px;
 }
 
 .scratchblocks svg {
@@ -1234,15 +1234,14 @@ code.language-plaintext:not(.msb) {
 background: transparent;
 background: var(--ourorange);
 color: var(--ourdarkblue);
-font:normal 1em/2.8em 'FontAwesome', Monaco,Monospace !important;
+font:normal 1em/2.8em Arial, Monaco, Monospace !important;
 }
 
 code.language-plaintext.msb {
-/* inline blocks */
+/* inline blocks should be smaller, so line height is same as font */
 background: transparent;
-
 color: var(--ourdarkblue);
-font:normal 1em/2.8em 'FontAwesome', Monaco,Monospace !important;
+font:normal 1em/1em Arial, Monaco, Monospace !important;
 }
 
 
