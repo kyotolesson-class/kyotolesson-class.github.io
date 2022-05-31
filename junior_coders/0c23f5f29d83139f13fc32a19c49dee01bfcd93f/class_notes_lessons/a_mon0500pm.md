@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [May 30th](#may-30th)
+  * [Recap for May 30th](#recap-for-may-30th)
+    * [Kitten Parachute Projects](#kitten-parachute-projects)
+    * [Individual Projects](#individual-projects)
 * [May 23rd](#may-23rd)
   * [Recap for May 23rd](#recap-for-may-23rd)
 * [May 16th](#may-16th)
@@ -105,7 +109,38 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## May 30th
+</summary>
 
+## May 30th
+
+### Recap for May 30th
+
+
+#### Kitten Parachute Projects
+
+We started today with a short tutorial on using the set color effect block. Then we applied this to make the stars change color when they are touched by the Kitty. We also make the ditty change size when it hits the star, using a broadcast block. After the break, some kids then held 1-1 sessions with me.
+
+{% include zakviewer.html Name="2022-05-30 cat game on Scratch" ID="https://scratch.mit.edu/projects/691081064/" caption="In our 1-1, student T1 wanted to make a trampoline that would send the Kitty flying. We talked about what speed/momentum is, and then added some code to set the speed to 15 (jumping up) when the cat hits the trampoline, and then slowly reduce the speed until it returns to -1 (falling)." %}
+
+{% include zakviewer.html Name="2022-05-30 2022 05 23 Student J CAT fixed on Scratch" ID="https://scratch.mit.edu/projects/695476417/" caption="Student J wanted his game to end when the score reached a certain value. I showed him where the game main loop is, and how to use the operator blocks to changed the conditional so that the game stops either when the cat touches the ground OR the score reaches its final value." %}
+
+
+
+{% include zakviewer.html Name="2022-05-30 Kitten Parachute! Week 7 Student T" ID="https://scratch.mit.edu/projects/691081130/" caption="We customized Student T's game so that the stars don't actually disappear when touched by the kitty. I showed him how to use the ghost effect to make a sprite invisible but still able to use speech bubbles (as in the difficulty screen)." %}
+
+{% include zakviewer.html Name="2022-05-30 Lovely Flying Cat on Scratch" ID="https://scratch.mit.edu/projects/683715126/" caption="For Student A's project, shhe made her cat gets very large. We may need to make some adjustments next week." %}
+
+#### Individual Projects 
+
+{% include zakviewer.html Name="2022-05-31 2022 05 24 McDonald's has raised their prices, say the cats. revised on Scratch" ID="https://scratch.mit.edu/projects/695366899/" caption="Student H continued working on his Cat meme, and during the 1-1 seesion, I showed him how to optimize his code using my blocks. I gave him an assignment to rewrite some of his code that way." %}
+
+
+
+{% include zakviewer.html Name="2022-05-30 Untitled-71" ID="https://scratch.mit.edu/projects/698441822/" caption="Student K was offered a few options of projects to work on but chose to focus mainly on drawing this sprite." %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## May 23rd
