@@ -109,6 +109,45 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+
+<details markdown=1>
+<summary markdown=1>## June 6th
+</summary>
+
+## June 6th
+
+### Recap for June 6th
+
+
+Today we played a game. 
+
+
+{% include zakviewer.html Name="2022 06 06 Test Project on Scratch" ID="https://scratch.mit.edu/projects/701427163/" caption="I divided the kids into teams and had them remix this project." %}
+
+Then, I gave them a set of tasks to complete as a team on the project to 'fix' it. 
+
+- The first costume starts too far left. Make it start in the corner.
+
+- We want 7 columns and 5 rows. 
+
+- But, the faces are too big. We can't see them. Make them small enough to fit, but not too small. 
+
+- No more than 20 pixels between each row/column.
+
+
+After some detective work, trial and error, and teamwork, both teams were able to get it and complete the tasks.
+
+{% include zakviewer.html Name="2022 06 06 student A Basic game answers remix" ID="https://scratch.mit.edu/projects/701515190/" caption="Here is an student example" %}
+
+
+{% include zakviewer.html Name="2022-06-07 Pride Month Merger" ID="https://scratch.mit.edu/projects/701241239/" caption="This idea comes from my Pride Month Merger project. Happy Pride month, everyone!!" %}
+
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## May 30th
 </summary>

@@ -60,6 +60,46 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## June 3rd
+</summary>
+
+## June 3rd
+
+### Recap for June 3rd
+
+
+{% include zakviewer.html Name="2022-06-03 COFM " ID="https://scratch.mit.edu/projects/701386865/" caption="Student M and I discussed next steps for his program. He wanted to make it that if you have enough money, the number of people in the Family Mart goes up. I gave him some pseudocode for how to do it, and he made an effort to complete it, to be completed next week." %}
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/tYe4T4M.png" caption="Student A made a multiscreen project. The first has the cat saying something and then goin gto the second dscreen. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Tto3bN2.png" caption="The second used the bump block to play a game of basketball. " width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Tto3bN2.png" caption="The third created a conversation between the cat and the robot using message blocks. Student A is making progress." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-06-03 Student D Pong" ID="https://scratch.mit.edu/projects/700521898/" caption="Student D made the pong tutorial. Then I challenged him to make some modifications. He made the color of the padddle chane when it is hit. He learned how to use the time to limit the game to 3 minutes. We talked about how to calulate how many seconds are in 3 minutes. He added levels, and the speed of the ball changes each level. He added a score." %}
+
+
+Student S made a project describing her day. In addition to using a variety of blocks, I sowed her a trick to make it look as though she is getting dressed and the clothes are following her in the 2nd and 3rd screen.
+{: .jsgif style='margin-bottom:0;'}
+{% include giphy.html link="https://media.giphy.com/media/pbnDkWsoPLAHiGDyke/" %} 
+
+
+Student H was not feeling well and spent most of the class resting.
+{: .jsgif}
+
+{% include zakviewer.html Name="2022-06-03 Student Y Demon Game" ID="https://scratch.mit.edu/projects/666094890/" caption="Student Y wanted to create a minecraft armor table. After a little discussion he understood the basic procedure and he used some initial go to blocks to place each part. When you press 'a'' the table appears." %}
+
+{% include zakviewer.html Name="2022-06-03 Demon Game with instructions" ID="https://scratch.mit.edu/projects/679374913/" caption="Student K continued working on adapting his characters' costumes." %}
+
+</details>
+
+
+
 <details markdown=1>
 <summary markdown=1>## May 27th
 </summary>
