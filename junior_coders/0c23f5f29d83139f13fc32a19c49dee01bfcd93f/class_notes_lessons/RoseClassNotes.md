@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 3rd](#june-3rd)
+  * [Recap for June 3rd](#recap-for-june-3rd)
 * [May 27th](#may-27th)
   * [Recap for May 27th](#recap-for-may-27th)
 * [May 20th](#may-20th)

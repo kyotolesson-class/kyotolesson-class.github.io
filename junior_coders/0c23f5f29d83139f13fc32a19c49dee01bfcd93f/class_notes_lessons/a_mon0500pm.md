@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 6th](#june-6th)
+  * [Recap for June 6th](#recap-for-june-6th)
 * [May 30th](#may-30th)
   * [Recap for May 30th](#recap-for-may-30th)
     * [Kitten Parachute Projects](#kitten-parachute-projects)
