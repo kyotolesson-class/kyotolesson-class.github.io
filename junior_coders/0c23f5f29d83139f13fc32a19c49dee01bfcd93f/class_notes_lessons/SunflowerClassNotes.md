@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [June 11th](#june-11th)
+  * [Recap for June 11th](#recap-for-june-11th)
 * [May 28th](#may-28th)
   * [Recap for May 28th](#recap-for-may-28th)
     * [An example](#an-example)
@@ -64,6 +66,30 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## June 11th
+</summary>
+
+## June 11th
+
+### Recap for June 11th
+
+Student Y and N made a Find the Mistakes project toghether. They made the basic project by themselves, including the play button and creating and showing the basic images. 
+
+
+{% include zakviewer.html Name="2022-06-12 Untitled-221" ID="https://scratch.mit.edu/projects/703961218/" caption="He I showed him how to make separate sprites for the mistakes to detect the clicks. He added text-to-speech effects." %}
+
+{% include zakviewer.html Name="2022-06-12 Untitled-106 on Scratch" ID="https://scratch.mit.edu/projects/703961339/" caption="He also included text to speech." %}
+
+
+
+Student M said he was feeling tired and mostly played games and worked a little on some old projects of his, though I am not sure which.
+
+
+</details>
+
 
 
 <details markdown=1>

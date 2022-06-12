@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 10th](#june-10th)
+  * [Recap for June 10th](#recap-for-june-10th)
 * [June 3rd](#june-3rd)
   * [Recap for June 3rd](#recap-for-june-3rd)
 * [May 27th](#may-27th)
@@ -61,6 +63,39 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## June 10th
+</summary>
+
+## June 10th
+
+### Recap for June 10th
+
+
+{% include zakviewer.html Name="2022-06-10 butter on Scratch" ID="https://scratch.mit.edu/projects/703548222/" caption="Student H made a project devoted to the song Butter. We touched on how to initialize project, how to trigger an action with a click, and how to broadcast a message to all the blocks (so they hide), and included a glide and change size block when BTS is clicked. This project is a step forward for this child." %}
+
+{% include zakviewer.html Name="2022-06-10 Demon Game with instructions" ID="https://scratch.mit.edu/projects/679374913/" caption="Student K worked on making the Spider move when the main game starts. Eventually the spider will deliver damage to Maikey, and the damage will be shown in the hearts. " %}
+
+{% include zakviewer.html Name="2022-06-12 Student Y Demon Game Fixed 2022 03 25 on Scratch" ID="https://scratch.mit.edu/projects/666094890/" caption="Student Y revised his armor selection system. After pressing 'a' the armor selection screen shows. Pressing the random armor button sends a messge to generate a random weapon in the weapon block." %}
+
+
+Student S made a project where a dragon tries to eat Utlraman. She used say, blocks, bump blokcs, visibility blocks, among others. The she began a 'day in the life' project that makes a 4 panel comic. She began by making a conversation bwteen here and her mother.
+
+Student A made project called a sunny day for biking where and airplane and a bicyle walk through a scene with clouds, birds and a jumping basketball.
+
+{% include zakviewer.html Name="2022-06-12 COFM 2022 06 03 with directions for next week on Scratch" ID="https://scratch.mit.edu/projects/701386865/" caption="Student M added some template code that increased the maximum number of occupants if the player has enought money. Then we adjust this in class to happen if the player clicks the family mart." %}
+
+
+
+{% include zakviewer.html Name="2022-06-12 Untitled-3" ID="https://scratch.mit.edu/projects/703546178/" caption="Student D made a balloon popping game from a tutorial. Then we worked together to come up with some improvements such as sounds, setting a score limit of 100, color effects, and a star effect." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/cHmQN3m.png" caption="The star effect uses the mosaid effects." width="" height="" spacer="" %}
+
+
+
+</details>
 
 
 <details markdown=1>
