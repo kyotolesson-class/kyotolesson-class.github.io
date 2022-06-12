@@ -91,7 +91,7 @@ Student A made project called a sunny day for biking where and airplane and a bi
 {% include zakviewer.html Name="2022-06-12 Untitled-3" ID="https://scratch.mit.edu/projects/703546178/" caption="Student D made a balloon popping game from a tutorial. Then we worked together to come up with some improvements such as sounds, setting a score limit of 100, color effects, and a star effect." %}
 
 
-{% include imgur.html title="" ID="https://i.imgur.com/cHmQN3m.png" caption="The star effect uses the mosaid effects." width="" height="" spacer="" %}
+{% include imgur.html title="" ID="https://i.imgur.com/cHmQN3m.png" caption="The star effect uses the mosaic effects." width="" height="" spacer="" %}
 
 
 
