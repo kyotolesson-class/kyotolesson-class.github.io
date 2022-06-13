@@ -942,7 +942,7 @@ blockquote.tynkercaption {
     border-left: unset;
     padding: 0px 20px 0px 20px;
     /* font-style: unset;  remove italics from blockquote */
-    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; /* slightly nicer font for italics in caption */
+    font-family: Georgia, Times, "Times New Roman", serif; /* slightly nicer font for italics in caption */
 }
 /* fixes the top margin on small screens */
 @media print,

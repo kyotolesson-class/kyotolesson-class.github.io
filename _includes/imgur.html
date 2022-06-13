@@ -1,2 +1,10 @@
-<div markdown=0 class="imgurimagediv" style="width:{{include.width | default: 'fit-content' }}; display: inline;">{{include.spacer | default: "" }}<img src="{{include.ID}}" title="{{include.title}}" class="jsgif" style="width:{{include.width | default: '-webkit-fill-available' }}; height:{{include.height | default: 'auto' }}"></div><div class="imgurspacerdiv"></div>{%- if include.caption != "" and include.caption -%}
-<div markdown=0 class="imgur jsgif" style="min-width:150px; width:{{include.width | default: '-webkit-fill-available' }};"><blockquote class="tynkercaption"><span>{{- include.caption | default: "" -}}</span></blockquote></div>{% else %} {%- endif -%} 
+<div markdown=0 class="imgurimagediv" style="width:{{include.width | default: 'fit-content' }};  display: inline;">{{include.spacer | default: "" }}<img src="{{include.ID}}" title="{{include.title}}" class="jsgif" style="width:{{include.width | default: '-webkit-fill-available' }}; height:{{include.height | default: 'auto' }}"></div><div class="imgurspacerdiv"></div>{%- if include.caption != "" and include.caption -%}
+<div markdown=0 class="imgur jsgif" style="min-width:150px; width:{{include.width | default: '-webkit-fill-available' }};"><blockquote markdown=1 class="tynkercaption">
+
+{{- include.caption | default: "" -}}
+{% comment %}
+somehow this comment fixes some kind of problem with the captions appearing correctly. now it allows markdown in the comments! But sometimes I have to put a <span> in the comment itself
+{% endcomment %}
+
+</blockquote></div>{% else %} {%- endif -%} 
+
