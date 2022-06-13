@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 13th](#june-13th)
+  * [Recap for June 13th](#recap-for-june-13th)
 * [June 6th](#june-6th)
   * [Recap for June 6th](#recap-for-june-6th)
 * [May 30th](#may-30th)
@@ -112,6 +114,44 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 
+<details markdown=1>
+<summary markdown=1>## June 13th
+</summary>
+
+## June 13th
+
+### Recap for June 13th
+
+Today we continued working on the challenge from last week. 
+
+{% include zakviewer.html Name="2022 6 13 202 06 06 basic game answers remix on Scratch" ID="https://scratch.mit.edu/projects/704521290/" caption="This was the target for today" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/1DN2wh6.png" caption="Today's challenges: 
+- using `when (t v) key pressed`{: .msb} and `when (x v) key pressed`{: .msb}  to turn 15 degrees
+- center the backdrop using `go to x: (0) y: (0)`{: .msb}  and centering the costume (reinforcing cartesian coordinates)
+- use `when this sprite clicked`{: .msb} to say hello when a face is clicked
+- and the big challenge: use `broadcast ( v) and wait`{: .msb} and `when I receive ( v)`{: .msb} to stop other faces saying hello, then making the first say hello. This was a real challenge, but a good way for them to see how broadcasts work." width="" height="" spacer="" %}
+
+Students were given time to create their own additions. 
+
+{% include zakviewer.html Name="2022-06-13 Student H" ID="https://scratch.mit.edu/projects/704507636/" caption="The space bar initiates a surprise. 'a' resets." %}
+
+{% include zakviewer.html Name="2022-06-13 Student T1" ID="https://scratch.mit.edu/projects/704526946/" caption="He added music, and a special effect with the 'a' key." %}
+
+{% include zakviewer.html Name="2022-06-13 Student A" ID="https://scratch.mit.edu/projects/704506792/" caption="She also added music, and a special effect with the 'space' key." %}
+
+{% include zakviewer.html Name="2022-06-13 student J" ID="https://scratch.mit.edu/projects/704506796/" caption="Student J added music." %}
+
+{% include zakviewer.html Name="2022-06-13 Student T2" ID="https://scratch.mit.edu/projects/704506796/" caption="She started adding some music and sound effects
+
+![sound effects](https://i.imgur.com/L3ARhqb.png){: width='75%' style='margin-left:12.5%'}
+
+though it is not quite working yet...
+<span>
+" %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## June 6th
