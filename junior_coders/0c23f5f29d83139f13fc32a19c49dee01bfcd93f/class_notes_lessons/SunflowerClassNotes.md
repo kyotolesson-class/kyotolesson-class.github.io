@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [July 18th](#july-18th)
+  * [Recap for July 18th](#recap-for-july-18th)
 * [June 11th](#june-11th)
   * [Recap for June 11th](#recap-for-june-11th)
 * [May 28th](#may-28th)
