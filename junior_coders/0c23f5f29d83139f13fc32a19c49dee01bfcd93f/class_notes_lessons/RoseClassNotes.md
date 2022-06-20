@@ -12,6 +12,9 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 17th](#june-17th)
+  * [Welocme Trish](#welocme-trish)
+  * [Recap for June 17th](#recap-for-june-17th)
 * [June 10th](#june-10th)
   * [Recap for June 10th](#recap-for-june-10th)
 * [June 3rd](#june-3rd)
@@ -63,6 +66,55 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## June 17th
+</summary>
+
+## June 17th
+
+### Welocme Trish
+A new assistant, Trish, will be joining our Friday class. She spent most of the class getting to know some of the kids, and having them 'teach her' about Scratch and ScratchJr. Trish is one of our Thursday Emerging Fluency teachers, but she will be coding with us on Fridays, so feel free to introduce yourself to her.
+
+
+### Recap for June 17th
+
+{% include zakviewer.html Name="2022-06-17 Student M COFM " ID="https://scratch.mit.edu/projects/701386865/" caption="First, Student M fixed the routine changes the max in the room when clicked. Then he made a new room for his cars if they get more than 100 pts." %}
+{% include imgur.html title="" ID="https://i.imgur.com/CCH7VkZ.png" caption="He was able to code this mostly on his own, which was a step up for him." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-06-17 Student Y Demon Game Fixed 2022 03 25 on Scratch" ID="https://scratch.mit.edu/projects/666094890/" caption="Student Y first did some housekeepin on his project, such as fixing the initial position of his armor stand, and properly naming his sprites.  " %}
+
+{% include zakviewer.html Name="2022-06-17 Simple broadcast on click demo" ID="https://scratch.mit.edu/projects/706303339/" caption="Then I created him this demo project so he could see how to use broadcasts and randomly generate different armor. He worked on creating more armor for his project." %}
+
+
+{% include zakviewer.html Name="2022-06-17 Student K Demon Game" ID="https://scratch.mit.edu/projects/703632443/" caption="student K created a variable for Health Points and made his character lose HP when attacked by the spider or goblin. I explained to him how to make his heart show health points, but we left coding it until next week. It will eventually look like this: 
+
+```
+define renew health
+show
+if <(id) > (HP)> then
+    switch costume to [black v]
+    if <(id) < ((HP) + (10))> then
+        switch costume to [half v]
+    end
+else
+    switch costume to [red v]
+end
+show
+```
+{: .msb}
+
+<span>" %}
+
+
+{% include imgurmp4Captioned.html title="" link="https://i.imgur.com/GyJP5lm.mp4" caption="
+A new teacher, Trisha, is joining us, and Student A and showed off his latest project to her about a cat and 'letter' M ? having a conversation. This is a good use of message and wait blocks to keep the conversation going." width="" height="" spacer="" %}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## June 10th

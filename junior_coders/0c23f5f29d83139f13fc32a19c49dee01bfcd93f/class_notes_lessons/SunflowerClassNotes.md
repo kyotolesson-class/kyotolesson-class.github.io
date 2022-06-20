@@ -67,6 +67,30 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## July 18th
+</summary>
+
+## July 18th
+
+### Recap for July 18th
+
+The students came in very excited today discussing a new idea for an adventure project. It took on many forms.
+
+{% include zakviewer.html Name="2022 6 18 Student N Super Animals Demo on Scratch" ID="https://scratch.mit.edu/projects/706788481/" caption="Studnet N's version is called 'Sumer Animals Demo'. One area he needed helped with was making the play button flash. After adding waits he spend some time adjusting it to look just right. " %}
+
+{% include zakviewer.html Name="2022-06-18 Student Y" ID="https://scratch.mit.edu/projects/639424698/" caption="StudentY's challenge was making his superhero fly. He added when arrow clicked blocks, but then he found that the costume changed in size in each direction. This was because his sprites were different sizes. I showed him how to resize a sprite: we set up a hit box exactly the size of the superhero's body, and then we used onion-skinning and the alt key to resize each costume so it fit inside the hitbox." %}
+
+{% include zakviewer.html Name="2022-06-17 Student M " ID="https://scratch.mit.edu/projects/706614887/" caption="Student M worked on making the background change when the play key was pressed using the switch backdrop block." %}
+
+{% include zakviewer.html Name="2022-06-19 Untitled-51 on Scratch" ID="https://scratch.mit.edu/projects/706630382/" caption="He also worked on what I believe will be his title screen." %}
+
+
+Student S finished her Mother-Daughter story. She became very good at using the wait block to make events happen at the right time, and also at using the grid to control how far characters move and also and setting up the block sequence so that actions take place in the right order.
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## June 11th
