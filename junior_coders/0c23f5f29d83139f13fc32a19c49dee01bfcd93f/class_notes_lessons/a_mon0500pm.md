@@ -54,6 +54,10 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 20th](#june-20th)
+  * [Recap for June 20th](#recap-for-june-20th)
+* [June 17th Makeup](#june-17th-makeup)
+  * [Recap for June 17th Makeup](#recap-for-june-17th-makeup)
 * [June 13th](#june-13th)
   * [Recap for June 13th](#recap-for-june-13th)
 * [June 6th](#june-6th)
@@ -112,6 +116,77 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+
+<details markdown=1>
+<summary markdown=1>## June 20th
+</summary>
+
+## June 20th
+
+### Recap for June 20th
+
+
+Today we started out with a classwide discussion of file types and extensions, such as .jpg or .svg. This led to me showing them how to convert files to svg files, so that they can be more easily edited in scratch. This is a useful technique for making animations, or just generally creating nice looking 
+
+{% include zakviewer.html Name="2022 6 20 jpg svg demo" ID="https://scratch.mit.edu/projects/707123976/" caption="This project demonstrates a jpg that has been converted to an svg, so that the shark can be modified." %}
+
+Then we continued work on the Parachute game.
+
+
+{% include zakviewer.html Name="2022 6 201 Kitten Parachute! Week 8 class version updraft" ID="https://scratch.mit.edu/projects/707339669/" caption=" Today we added an 'updraft' sprite that causes the kitten to be pushed up if touched. In this version, the updraft appears in a fixed position on the screen. To highlight the role of gravity (momentum), an important concept in platformers and other games, I presented the code in stages. First we tested if touching and set the momentum up. 
+
+```
+if <touching [Updraft v]?> then
+    set [MOMENTUM v] to [15]
+end
+```
+{: .msb}
+
+Students quickly noticed, as intended, that this worked, BUT the kitten wouldn't fall. So, we added gravity, that is a slow downward change in momentum, until we reach a final value, defined by the difficulty of the game.
+
+```
+if <(MOMENTUM) > ((-1) * (DIFFICULTY))> then
+    change [MOMENTUM v] by (-1)
+end
+```
+{: .msb}
+
+In the original project we have only one more feature left, adding meteors. As a group we brainstormed what would be some other things to add to the project. The most popular were making it a two player game, adding a play against the computer mode, and changing the backgrounds.
+
+<span>" %}
+
+
+{% include zakviewer.html Name="2022-06-20 Student A Lovely Flying Cat" ID="https://scratch.mit.edu/projects/683715126/" caption="" %}
+
+{% include zakviewer.html Name="2022-06-20 Student J CAT" ID="https://scratch.mit.edu/projects/695476417/" caption="" %}
+
+{% include zakviewer.html Name="2022-06-20 Student T1 cat game" ID="https://scratch.mit.edu/projects/691081064/" caption="Student T1 got a little bit ahed of the other student, and began working on a meteor. It isn't quite working yet, but I helped her remove the background from the original image." %}
+
+{% include zakviewer.html Name="2022-06-20 Student T2 cat game" ID="https://scratch.mit.edu/projects/691081064/" caption="" %}
+
+
+Student H is working on a keyboard-heavy "Animatronics" game. He was given the assignment to list all the keys and their corresponding actions for his game. He will need to finish this for homework.
+
+Student K made several good contributions to the general discussion, but was mostly occupied with her own projects.
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## June 17th Makeup
+</summary>
+
+## June 17th Makeup
+
+### Recap for June 17th Makeup
+
+{% include zakviewer.html Name="2022-06-11 Student K" ID="https://scratch.mit.edu/projects/706276704/" caption="A new teacher, Trisha, is joining us, and Student K2 rather happily 'taught' her about both Scratch and Scratch Jr., as well as showing off this clever animation. Student K is making progress in using the costume editor to achieve fun effects." %}
+
+
+
+</details>
 
 
 <details markdown=1>
