@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [June 24th](#june-24th)
+  * [Recap for June 24th](#recap-for-june-24th)
 * [June 17th](#june-17th)
   * [Welocme Trish](#welocme-trish)
   * [Recap for June 17th](#recap-for-june-17th)
@@ -66,6 +68,55 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## June 24th
+</summary>
+
+## June 24th
+
+### Recap for June 24th
+
+{% include zakviewer.html Name="2022-06-24 Baseball" ID="https://scratch.mit.edu/projects/708987771/" caption="Student D made a baseball game. I gave him an introduction to a variety or different blocks, for example, the 'key pressed - key pressed' trick:
+
+```
+change y by ((10) * (<key [up arrow v] pressed?> - <key [down arrow v] pressed?>))
+```
+{: .msb} 
+
+makes the batter move. We make the baseball bounce against the ball and edge like this:
+
+```
+if <touching [Ball v]?> then
+	point in direction (180)
+	change [score v] by (-1)
+end
+if on edge, bounce
+```
+{: .msb} 
+
+<span>" %}
+
+{% include zakviewer.html Name="2022-06-24 Student Y Demon Game Fixed 2022 06 18 on Scratch" ID="https://scratch.mit.edu/projects/666094890/" caption="Today was a mostly a cleanup day for Student Y, who cleaned up his code to incorporate his armor selection step into the main flow. " %}
+
+{% include zakviewer.html Name="2022-06-24 Demon Game with instructions cleaned up copy on Scratch" ID="https://scratch.mit.edu/projects/708689193/" caption="Student K also worked on his Demon Game" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/tZPxb7v.png" caption="I gave him a rubric to complete and he make the corresponding code (with one mistake). He was very clever and discovered he could use emoji as costume names." width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-06-29 COFM 2022 06 24 with directions for next week on Scratch" ID="https://scratch.mit.edu/projects/709704281/" caption="Student M began adding a second room to his project. He created new my blocks and used an if block to select which room his sprite will go to. This is still a work in progress." %}
+
+Student S worked on making a simple maze in scratch.
+
+Student A created a game in ScratchJr.: 
+
+{% include giphy.html link="https://media.giphy.com/media/g6hT24RX0z023KDlFE/" %} 
+
+Student H did not do any coding today, but focused on a fortnite scratch game.
+
+
+</details>
 
 
 <details markdown=1>

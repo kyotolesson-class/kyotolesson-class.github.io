@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [June 27th](#june-27th)
+  * [Recap for June 27th](#recap-for-june-27th)
 * [June 20th](#june-20th)
   * [Recap for June 20th](#recap-for-june-20th)
 * [June 17th Makeup](#june-17th-makeup)
@@ -117,7 +119,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## June 27th
+</summary>
 
+## June 27th
+
+### Recap for June 27th
+
+
+{% include zakviewer.html Name="2022 6 27 Kitten Parachute! Week 10 " ID="https://scratch.mit.edu/projects/707339669/" caption=" Today we added meteors to our Parachute game. We reviewed screen coordinates in order to place the meteor at the bottom, and then used a repeat until block to make it move to the top. By putting all of that in a repeat block, the meteor cycles through the sky. Next week we will make it touch the kitty and take away points" %}
+
+{% include zakviewer.html Name="2022-06-27 Student J CAT fixed" ID="https://scratch.mit.edu/projects/695476417/" caption="" %}
+
+{% include zakviewer.html Name="2022-06-27 Student TS cat game" ID="https://scratch.mit.edu/projects/691081064/" caption="" %}
+
+{% include zakviewer.html Name="2022-06-27 Student TA Kitten Parachute! Week 10" ID="https://scratch.mit.edu/projects/691081130/" caption="" %}
+
+{% include zakviewer.html Name="2022-06-27 Student A Lovely Flying Cat" ID="https://scratch.mit.edu/projects/683715126/" caption="" %}
+
+Student H made a gigantic effort to create a detailed storyboard for his project. This is the most complete project he has had to date, and he is approaching the level of detail he will need to code it successfully.
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/cuz9ASU.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/Qi3e2r3.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/bI82xBK.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/jjW4W8A.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/NMOYV5x.jpg" caption="" width="" height="" spacer="" %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## June 20th

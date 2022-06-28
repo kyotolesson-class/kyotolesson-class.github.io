@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [June 25th](#june-25th)
+  * [Recap for June 25th](#recap-for-june-25th)
 * [July 18th](#july-18th)
   * [Recap for July 18th](#recap-for-july-18th)
 * [June 11th](#june-11th)
@@ -68,6 +70,76 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## June 25th
+</summary>
+
+## June 25th
+
+### Recap for June 25th
+
+
+{% include zakviewer.html Name="2022 06 25 Student Y fighting game" ID="https://scratch.mit.edu/projects/709947473/" caption=" Student Y made quite a bit of progress in his fighting game this week. He learned how to use the 'key pressed - key pressed' trick to make characters move:
+
+```
+change y by ((10) * (<key [up arrow v] pressed?> - <key [down arrow v] pressed?>))
+```
+{: .msb} 
+
+
+
+We also added a simple form of gravity.
+
+```
+if <touching [g v]?> then
+    switch costume to [costume1 v]
+    repeat until <not <touching [g v]?>>
+        change y by (1)
+    end
+end
+```
+{: .msb} 
+
+
+```
+if <touching [g v]?> then
+        switch costume to [costume1 v]
+    end
+    pull up ::custom
+end
+```
+{: .msb} 
+
+
+He used traditional when left arrow blocks to change the costumes:
+
+```
+when [left arrow v] key pressed
+switch costume to [costume5 v]
+
+when [up arrow v] key pressed
+switch costume to [costume2 v]
+
+when [down arrow v] key pressed
+switch costume to [costume3 v]
+
+when [right arrow v] key pressed
+switch costume to [costume4 v]
+```
+{: .msb} 
+
+
+<span>" %}
+ 
+
+ {% include zakviewer.html Name="2022-06-29 Untitled-53 on Scratch" ID="https://scratch.mit.edu/projects/708984622/" caption="Student M struggled to come up with a project idea, but in the end settled for modifying an FNF style music game. Hopefully he will continue it next week." %}
+
+ {% include zakviewer.html Name="2022-06-25 Student N Fighting" ID="https://scratch.mit.edu/projects/706614788/" caption="Student N Continued work on his fighting game. He continues to demonstrate mastery of using broadcasts to initiate actions and even chaining broadasts. Interestingly he made one character speak by using the costumes instead of a say block. This allows for more artistic effects." %}
+ 
+ 
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## July 18th
