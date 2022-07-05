@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 1st](#july-1st)
+  * [Recap for July 1st](#recap-for-july-1st)
 * [June 24th](#june-24th)
   * [Recap for June 24th](#recap-for-june-24th)
 * [June 17th](#june-17th)
@@ -68,6 +70,42 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 1st
+</summary>
+
+## July 1st
+
+### Recap for July 1st
+
+Scratch Jr.
+  : Student A made a game about 2 cats fighting each other  
+
+  : Student S maze project: we made a dragon maze game. , using messages to hide another character  
+  
+
+Scratch
+  : Student Y continued working on generating random armor. He added more costumes and the appropriate code in parts of the costume but still has some parts to finish.
+
+
+  : Student K worked on cleaning up his projeect by renaming sprites. I worked with him to learn how to add code from a text template.
+  
+  
+  : Student M worked very hard this week. To create the second room (the family mart) in his project, we first renamed the original mybocks and then created similar myblocks for the second room (the classroom). He has a few more steps before the second room is working.
+
+
+{% include zakviewer.html Name="2022-07-02 bounce game" ID="https://scratch.mit.edu/projects/710787791/" caption="
+Student D worked on his modified Broom Pong game. he wanted the ball to break, so I showed him how to create basic animation frames of the ball breaking using the editor. He made the costumes and next week we will make the broom break when it is hit. 
+" %}
+
+
+Student H did not create any projects today.
+
+
+</details>
 
 
 <details markdown=1>

@@ -13,10 +13,12 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [July 2nd](#july-2nd)
+  * [Recap for July 2nd](#recap-for-july-2nd)
 * [June 25th](#june-25th)
   * [Recap for June 25th](#recap-for-june-25th)
-* [July 18th](#july-18th)
-  * [Recap for July 18th](#recap-for-july-18th)
+* [June 18th](#june-18th)
+  * [Recap for June 18th](#recap-for-june-18th)
 * [June 11th](#june-11th)
   * [Recap for June 11th](#recap-for-june-11th)
 * [May 28th](#may-28th)
@@ -70,6 +72,50 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 2nd
+</summary>
+
+## July 2nd
+
+### Recap for July 2nd
+
+
+  
+{% include zakviewer.html Name="2022-07-04 Scratch Project on Scratch" ID="https://scratch.mit.edu/projects/711043289/" caption="Student M wanted to make a Cannonball remix. and he started to make characters for it. Chose some kimetsu no yaiba characters and removed the background using pixlr. We imported a gif of a 'special technique' for the character to use. To go to the next step, I walked him through the steps of making a storyboard." %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/aGvWbbD.png" caption="I showed him how to create animation using repeat and next costume. " width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022-07-02 Flappy Abu" ID="https://scratch.mit.edu/projects/706813485/" caption="Student N started to make a flappy Abu project. He started to write a storyboard for it and we discussed how the project would behave." %}
+
+{% include zakviewer.html Name="2022-07-04 Untitled-112 on Scratch" ID="https://scratch.mit.edu/projects/711035320/" caption="This is a part of another project He and Student Y both started. I also helped him center his costume so the rotation would work on this project. (press right arrow)" %}
+
+{% include zakviewer.html Name="2022-07-04 Untitled-227 on Scratch" ID="https://scratch.mit.edu/projects/711034916/" caption="This is student Y's version." %}
+
+Student Y made a storyboard for his game
+
+{% include zakviewer.html Name="2022-07-04 rocket on Scratch" ID="https://scratch.mit.edu/projects/694288327/" caption="Student Y made the beginnings of a space shooter game. We also made a storyboard for it." %}
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/zHedVvG.jpg"  caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/hOPrLO2.jpg" caption="" width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/mtlUTND.jpg" caption="" width="" height="" spacer="" %}
+
+
+
+
+</details>
+
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## June 25th
@@ -133,7 +179,7 @@ switch costume to [costume4 v]
 <span>" %}
  
 
- {% include zakviewer.html Name="2022-06-29 Untitled-53 on Scratch" ID="https://scratch.mit.edu/projects/708984622/" caption="Student M struggled to come up with a project idea, but in the end settled for modifying an FNF style music game. Hopefully he will continue it next week." %}
+{% include zakviewer.html Name="2022-06-29 Untitled-53 on Scratch" ID="https://scratch.mit.edu/projects/708984622/" caption="Student M struggled to come up with a project idea, but in the end settled for modifying an FNF style music game. Hopefully he will continue it next week." %}
 
  {% include zakviewer.html Name="2022-06-25 Student N Fighting" ID="https://scratch.mit.edu/projects/706614788/" caption="Student N Continued work on his fighting game. He continues to demonstrate mastery of using broadcasts to initiate actions and even chaining broadasts. Interestingly he made one character speak by using the costumes instead of a say block. This allows for more artistic effects." %}
  
@@ -142,16 +188,16 @@ switch costume to [costume4 v]
 
 
 <details markdown=1>
-<summary markdown=1>## July 18th
+<summary markdown=1>## June 18th
 </summary>
 
-## July 18th
+## June 18th
 
-### Recap for July 18th
+### Recap for June 18th
 
 The students came in very excited today discussing a new idea for an adventure project. It took on many forms.
 
-{% include zakviewer.html Name="2022 6 18 Student N Super Animals Demo on Scratch" ID="https://scratch.mit.edu/projects/706788481/" caption="Studnet N's version is called 'Sumer Animals Demo'. One area he needed helped with was making the play button flash. After adding waits he spend some time adjusting it to look just right. " %}
+{% include zakviewer.html Name="2022 6 18 Student N Super Animals Demo on Scratch" ID="https://scratch.mit.edu/projects/706788481/" caption="Studnet N's version is called 'Super Animals Demo'. One area he needed helped with was making the play button flash. After adding waits he spend some time adjusting it to look just right. " %}
 
 {% include zakviewer.html Name="2022-06-18 Student Y" ID="https://scratch.mit.edu/projects/639424698/" caption="StudentY's challenge was making his superhero fly. He added when arrow clicked blocks, but then he found that the costume changed in size in each direction. This was because his sprites were different sizes. I showed him how to resize a sprite: we set up a hit box exactly the size of the superhero's body, and then we used onion-skinning and the alt key to resize each costume so it fit inside the hitbox." %}
 
@@ -856,9 +902,9 @@ Individual Projects
 
 Student K2 looked at gifs of minecraft cars and imported and modified them in the paint Editor.
 
-{% include zakviewer.html Name="2022 1 10 Untitled-62" ID="https://scratch.mit.edu/projects/625386184/editor" caption="" %}
+{% include zakviewer.html Name="2022 1 10 Untitled-62" ID="https://scratch.mit.edu/projects/625386184/" caption="" %}
 
-{% include zakviewer.html Name="2022 1 10 Untitled-61" ID="https://scratch.mit.edu/projects/625379666/editor" caption="" %}
+{% include zakviewer.html Name="2022 1 10 Untitled-61" ID="https://scratch.mit.edu/projects/625379666/" caption="" %}
 
 ScratchJr.
   : Student H and I worked on a ScratchJr. Breakfast project and we learned how to control message colors so that we can make the actions all happen in sequence. Then the project got wild with flying milk and rockets!

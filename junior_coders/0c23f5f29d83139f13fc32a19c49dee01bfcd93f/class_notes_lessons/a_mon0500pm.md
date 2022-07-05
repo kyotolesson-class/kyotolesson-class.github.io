@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 4th](#july-4th)
+  * [Recap for July 4th](#recap-for-july-4th)
 * [June 27th](#june-27th)
   * [Recap for June 27th](#recap-for-june-27th)
 * [June 20th](#june-20th)
@@ -118,6 +120,39 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+
+
+<details markdown=1>
+<summary markdown=1>##  July 4th
+</summary>
+
+##  July 4th
+
+### Recap for July 4th
+Today we did quite a lot. One goal was to finish making the meteor hit the kitty. We also talked about how to create dynamic backgrounds for the game.
+
+Beforehand, though, we talked about myblocks, and I walked through and example of breaking "getting a glass of milk" down into steps, each a myblock, and then each of those steps has substeps, the content of the myblock.
+
+We then used this concept to add a myblock that finds if we are touching the kitty, and make the kitty jump, and reduces the score.
+
+{% include imgur.html title="" ID="https://i.imgur.com/u1Lwz8x.png" caption="" width="" height="" spacer="" %}
+
+
+We also learned how to find gifs for backgrounds, how to import gifs into our projects, and how to make the gifs play in Scratch.
+
+{% include imgur.html title="" ID="https://i.imgur.com/z59PHKZ.png" caption="" width="" height="" spacer="" %}
+
+
+{% include zakviewer.html Name="2022 7 5 Kitten Parachute! Week 11 class version" ID="https://scratch.mit.edu/projects/711462185/" caption="This is a somewhat garish example" %}
+
+
+Next week we will integrate this properly into the projects...
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## June 27th
