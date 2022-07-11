@@ -13,6 +13,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+* [July 9th](#july-9th)
+  * [Recap for  July 9th](#recap-for--july-9th)
 * [July 2nd](#july-2nd)
   * [Recap for July 2nd](#recap-for-july-2nd)
 * [June 25th](#june-25th)
@@ -72,6 +74,59 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+<details markdown=1>
+<summary markdown=1>## July 9th
+</summary>
+
+## July 9th
+
+### Recap for  July 9th
+
+
+Today students worked on their individual projects.
+
+Templates
+  : After designing their projects last week, this week I gave them text templates to follow. These templates consist of instructions for coding their project, such as: 
+
+```
+when I receive [start v]
+wait (1) seconds
+repeat (10)
+    change size by (-9)
+end
+```
+
+which they read and convert into code:
+
+```
+when I receive [start v]
+wait (1) seconds
+repeat (10)
+    change size by (-9)
+end
+```
+{: .msb}
+
+After some trial and error the kids this week demonstrated that they are beginning to understand this process and are becoming familiar with the various blocks and their locations, even if they don't fully understand how to use them. As the project is further developed though they will begin to understand what the actual function of each block is. 
+
+Demos
+  : The projects are still being finished, but below are samples of the end goal. Student N and A are making essentially the same game, Flappy Bird type games. Their templates are almost identical. Today they coded the up and down movement of their main character, but there are some mistakes we need to fix. Student M is making a "Cannonball" project.
+
+* Student N
+{% include zakviewer.html Name="2022 07 09 Student N Flappy Abu" ID="https://scratch.mit.edu/projects/712796107/" caption="In Student N's case the main character is falling as objects come to him from the right." %}
+
+* Student Y 
+{% include zakviewer.html Name="2022 7 10 rocket with directions" ID="https://scratch.mit.edu/projects/712848890/" caption="Student A is controlling his ship to shoot at objects coming from the left. " %}
+
+* Student M
+{% include zakviewer.html Name="2022 7 10 Cannon" ID="https://scratch.mit.edu/projects/712860478/" caption="Today Student M coded 'markers' that come out of the cannon, showing the path of the cannonball." %}
+
+
+
+
+
+</details>
 
 
 

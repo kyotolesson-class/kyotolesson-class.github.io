@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 8th](#july-8th)
+  * [Recap for July 8th](#recap-for-july-8th)
 * [July 1st](#july-1st)
   * [Recap for July 1st](#recap-for-july-1st)
 * [June 24th](#june-24th)
@@ -71,6 +73,55 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+
+<details markdown=1>
+<summary markdown=1>## July 8th
+</summary>
+
+## July 8th
+
+### Recap for July 8th
+
+Scratch
+  : The scratch group worked on individual projects today.
+
+* Student M continued working on adding a second room to his project, and today his focus was on creating and modifying myblocks.
+
+{% include imgur.html title="" ID="https://i.imgur.com/MeYggxz.png" caption="By renaming and creating new myblocks, he created separate code paths for the Family Mart and Classroom." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/XoBh3y4.png" caption="He began creating the matching code for these myblocks." width="" height="" spacer="" %}
+
+* Student K fixed a mistake he made in copying my template code, and so was finally able to get the hearts to work. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/yEzbdlP.png" caption="He also transcribed another section of code that detects when the player dies. He began working on the 'you die' screen." width="" height="" spacer="" %}
+
+* Pong Game
+
+I prompted Student A to add some new features to his Pong game. He wanted to make the game repeat, so I introduced broadcast and receive blocks and we used them to make his project repeat after the ball breaks. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/XQ9mkZK.png" caption="I briefly explained why we needed a stop this script block here. Then, we used broadcast and receive to add a game over effect. " width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-07-09 bounce game Daifuku 2022 07 01 on Scratch" ID="https://scratch.mit.edu/projects/710787791/" caption="While class finished he was working on adding a cat who comes in at the end of the game to break the broom." %}
+
+* Exploring 
+  
+Student H seemed happy exploring games on his own today.
+
+
+ScratchJr.
+  : The ScratchJr. kids worked with our new teacher Trisha to make several original projects.
+
+* Cat coming out of a shell
+
+Student A made a couple of projects with original ideas. In one of them he cleverly makes a cat come out of a shell by moving the shell out of the way. He also created some clever synchronized motions. Even though he is still getting command of Scratch program logic, he is being very creative with what he can accomplish.
+
+* Racing Game
+
+Student S made a kind of racing game, where you can touch the cars to make them reach the end and go to the next screen. We talked about what a good next project for her would be, and we came up with the idea for a kind of maze where you have to tap the sprites in the right order to get the cat accross the screen. I introduced her to the copy shape tool in the image editor and she explored fun way to make drawings with this. Student S is also showing a lot of creativity and independent learning as well.
+
+
+
+</details>
 
 
 <details markdown=1>
