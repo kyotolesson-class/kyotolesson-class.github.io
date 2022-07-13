@@ -54,6 +54,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 <div id="toc">
 
+* [July 11th](#july-11th)
+  * [Recap for July 11th](#recap-for-july-11th)
 * [July 4th](#july-4th)
   * [Recap for July 4th](#recap-for-july-4th)
 * [June 27th](#june-27th)
@@ -122,6 +124,41 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 
+
+<details markdown=1>
+<summary markdown=1>## July 11th
+</summary>
+
+## July 11th
+
+### Recap for July 11th
+
+Today we started by doing brief introductions to welcome our newest student Loylim. He is from the UK and Thailand and will be with us through the Summer.
+
+In our Kitten Parachute project, we added more dynamic backgrounds to the Kitten Parachute game. We replaced the generic code from last week with code that chooses the right background depending on the sky#. It also stops playing when the round is over. The kids gained experience with new blocks (e.g. mod), creating variables, and getting and importing backgrounds. 
+
+{% include zakviewer.html Name="2022 7 11 Kitten Parachute! Week 12 class version " ID="https://scratch.mit.edu/projects/713318524/" caption="" %}
+
+The kids did a great job, and were able to complete a lot of code in one day, and the following results show the project continues to improve. Some of them still a few modifications left, such as expanding the background.
+
+{% include zakviewer.html Name="2022-07-11 Lovely Flying Cat" ID="https://scratch.mit.edu/projects/683715126/" caption="Student A had a challenge with one of her backgrounds as it didn't fit in the screen. I worked with her to make a second background that would fill in the showing piece." %}
+
+{% include zakviewer.html Name="2022-07-11 cat game on Scratch" ID="https://scratch.mit.edu/projects/691081064/" caption="Student T1 collected 18 different backgrounds, and created an opening display with them." %}
+
+{% include zakviewer.html Name="2022-07-13 Kitten Parachute! Week 1 copy copy copy copy-3 on Scratch" ID="https://scratch.mit.edu/projects/713295572/" caption="Student T2 also had a spectacular array of backgrounds." %}
+
+During break time, this was the popular game of the week.
+
+{% include zakviewer.html Name="Fishing 叫我釣魚俠" ID="https://scratch.mit.edu/projects/713286274/" caption="" %}
+
+{% include zakviewer.html Name="2022-07-11 Kitten Parachute! Week 11 class version remix on Scratch" ID="https://scratch.mit.edu/projects/713285582/" caption="Student L worked very hard to collect backgrounds, but unfortunately some of his code importing them did not get saved. However, it will be fairly easy to reacreate it next week." %}
+
+{% include zakviewer.html Name="2022-07-11 2022 05 23 Student J CAT fixed" ID="https://scratch.mit.edu/projects/695476417/" caption="Student J did a great job following along and his backgrounds are working, though we may want to slow them down a little, and maybe resize them." %}
+
+{% include zakviewer.html Name="2022-07-13 Untitled-52 on Scratch" ID="https://scratch.mit.edu/projects/700545762/" caption="Student H and I discussed some overall design changes to his project, such as which keys will activate which functions. I sent him some template code that will help him actually code it next week." %}
+
+
+</details>
 
 
 <details markdown=1>
