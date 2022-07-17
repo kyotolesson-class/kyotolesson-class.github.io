@@ -12,6 +12,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+* [July 15th](#july-15th)
+  * [Recap for July 15th](#recap-for-july-15th)
 * [July 8th](#july-8th)
   * [Recap for July 8th](#recap-for-july-8th)
 * [July 1st](#july-1st)
@@ -72,6 +74,39 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 15th
+</summary>
+
+## July 15th
+
+### Recap for July 15th
+
+* Demon Game
+
+{% include zakviewer.html Name="2022 7 15 COFM 5" ID="https://scratch.mit.edu/projects/708689193/" caption="Student K first problem was that his You Die screen was showing when the game started. This was a good demonstration of why initialization is importabe. Then he added a return HOME button" %}
+
+{% include zakviewer.html Name="2022 07 15 broadcast demo on Scratch" ID="https://scratch.mit.edu/projects/714399589/" caption="To implement his HOME button I used this basic project to show him how to use broadcasts and receive blocks to control other blocks. Clicking the cat hides the girl and makes the bowtie jump. Hiding the screen and buttons also led into a discussion about layers." %}
+
+* Family Mart
+
+{% include zakviewer.html Name="2022 7 15 COFM 2022 07 15 on Scratch" ID="https://scratch.mit.edu/projects/714407794/editor" caption="Student Y finished putting in the code for his classroom and then he worked on making that classroom only open up once the money is $100. He also changed some variables his names to make them more consistent." %}
+
+Student H all worked on his own.
+
+ScratchJr.
+  : Student A made a project focusing on using a touch block. He made several characters that you could touch to make them say silly sounds. I suggested that he had separate motions that would start and last as long as the sounds. Adjusting it to do that was kind of fun.
+
+  : Student S made a fidget spinner project and then added many characters that also did various turns. At the end of the class we used the camera to make a turning picture fidget.
+
+
+
+
+
+</details>
 
 
 <details markdown=1>
