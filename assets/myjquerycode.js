@@ -37,7 +37,7 @@ $( document ).tooltip({
    // ui.tooltip.animate({ width: "50%" }, "30000" );
   },
 	show: { effect: "slide", direction: "top", duration: 3000 },
-	position: { my: "right top", at: "right bottom", collision: "fit"},
+	position: { my: "right bottom", at: "right top", collision: "fit"},
   close: function( event, ui ) {
     ui.tooltip.hover(
         function () {
