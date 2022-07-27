@@ -123,7 +123,40 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## July 25th
+</summary>
 
+##  July 25th
+
+### Recap for July 25th
+
+
+I gave students some [instructions](https://digitalgardenforjrcoders.netlify.app/prep-notes/2022-07-25-monday-class-instructions/) for the next steps in the Parachute project. This will include adding adding a shadow for the updraft sprite, making the updraft move, and preparing for the game replay and game over routines.
+
+The main goal recently has been to make the kids comfortable with finding the blocks and using the GUI, without stressing comprehension. Today's project involved a lot of code, but the kids were able to move through it quickly and smoothly mostly on their own, and by helping each other. Moreover, it is clear that the kids are understanding quite a bit. Once the GUI becomes second nature, it will be easy to focus specifically on developing understanding. 
+
+I also installed an extension called "Scratch Addons" that will make using the GUI easier. For example it allows us to increase the size of the code area, which is important as some kids have small screens. 
+
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## July 23rd Makeup
+</summary>
+
+##  July 23rd Makeup
+
+###  Recap for July 23rd Makeup
+
+
+{% include zakviewer.html Name="2022-07-25 Student L Kitten Parachute!" ID="https://scratch.mit.edu/projects/713285582/" caption="Student L added a background to his project. He imported a gif and he wrote some basic code for looping the gif, including a wait to adjust the speed. He downloaded some other backgrounds and we walked through the code he will use to switch between the two when the game runs." %}
+
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## July 11th

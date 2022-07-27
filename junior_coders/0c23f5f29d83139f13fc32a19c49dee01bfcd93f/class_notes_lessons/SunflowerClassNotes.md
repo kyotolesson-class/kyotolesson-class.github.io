@@ -13,6 +13,10 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <div id="toc">
 
+<!-- TOC -->
+
+* [July 23rd](#july-23rd)
+  * [Recap for July 23rd](#recap-for-july-23rd)
 * [July 9th](#july-9th)
   * [Recap for  July 9th](#recap-for--july-9th)
 * [July 2nd](#july-2nd)
@@ -67,6 +71,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 * [Archives](#archives)
   * [2021 Archives](#2021-archives)
 
+<!-- /TOC -->
+
 </div>
 
 
@@ -74,6 +80,35 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+
+<details markdown=1>
+<summary markdown=1>## July 23rd
+</summary>
+
+## July 23rd 
+
+### Recap for July 23rd
+
+
+{% include zakviewer.html Name="2022-07-27 Untitled-139 on Scratch" ID="https://scratch.mit.edu/projects/592280068/" caption="Student Y began making project about going to school have haiving to. Cleverly he also added a timer that is triggered my 5 seconds increments the timer." %}
+
+
+{% include zakviewer.html Name="2022-07-27 Untitled-54 on Scratch" ID="https://scratch.mit.edu/projects/716423763/" caption="Student M began working on a Demon Slayer themed fighting game. He imported and drew some characters and we talked about how the game would work." %}
+
+
+{% include zakviewer.html Name="2022-07-27 2022 07 09 Flappy Abu with instructions on Scratch" ID="https://scratch.mit.edu/projects/712848541/" caption="Student N made the moving pipes for his Flappy Abu project based on the template code I gave him. He invented some clever pipes for the project.  " %}
+
+{% include zakviewer.html Name="2022-07-27 Untitled-117 on Scratch" ID="https://scratch.mit.edu/projects/716424622/" caption="Student N also played around with Motion and Looks blocks to make this cute project." %}
+
+
+
+
+</details>
+
+
+
 
 <details markdown=1>
 <summary markdown=1>## July 9th

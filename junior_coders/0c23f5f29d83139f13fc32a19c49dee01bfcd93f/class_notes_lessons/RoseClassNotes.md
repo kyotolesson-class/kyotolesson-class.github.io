@@ -12,6 +12,10 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <div id="toc">
 
+<!-- TOC -->
+
+* [July 22nd](#july-22nd)
+  * [Recap for  July 22nd](#recap-for--july-22nd)
 * [July 15th](#july-15th)
   * [Recap for July 15th](#recap-for-july-15th)
 * [July 8th](#july-8th)
@@ -21,7 +25,7 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 * [June 24th](#june-24th)
   * [Recap for June 24th](#recap-for-june-24th)
 * [June 17th](#june-17th)
-  * [Welocme Trish](#welocme-trish)
+  * [Welcome Trish](#welcome-trish)
   * [Recap for June 17th](#recap-for-june-17th)
 * [June 10th](#june-10th)
   * [Recap for June 10th](#recap-for-june-10th)
@@ -69,11 +73,38 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
   * [Recap for January 7th](#recap-for-january-7th)
 * [Archives](#archives)
   * [2021 Archives](#2021-archives)
-  * [2020 Archives ](#2020-archives-)
+  * [2020 Archives](#2020-archives)
 
+<!-- /TOC -->
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## July 22nd
+</summary>
+
+##  July 22nd
+
+###  Recap for  July 22nd
+
+
+{% include zakviewer.html Name="2022 7 25 COFM" ID="https://scratch.mit.edu/projects/716761149/" caption="
+Student M did some layer adjusting: the room closed sprite covering the classroom has to appear in front of the classroom when the game starts. If the he has enough money, clicking the sprite opens the classroom. We then used some nested ifs: if the cat is assigned to go to the classroom, then if there is enough money, the cat can go to the classroom. 
+
+Student M has definitely improved his skill in the course of this project.  Having done two room with help, I think he might be ready to take on the final 6 rooms by himself. 
+
+<span>" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/XFfxbPF.png" caption="Student D worked on making a project about someone turning on a lightbulb. I gave him some tips on using the costume editor that he used to make this drawing." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-07-25 Untitled-7 on Scratch" ID="https://scratch.mit.edu/projects/716423538/" caption="He also made this project based on a tutorial." %}
+
+Student S made a ScratchJr. maze project similar to a mario platformer. She did a great job using message blocks, and together we added coins that disappear when the player touches them, and even a flashing effect and sound.
+
+Student K continued making his go home button clear all the screens. We are working on adding code that will allow the player to use the weapon to attack the spider and skeleton. 
+
+</details>
 
 
 
@@ -249,7 +280,7 @@ Student H did not do any coding today, but focused on a fortnite scratch game.
 
 ## June 17th
 
-### Welocme Trish
+### Welcome Trish
 A new assistant, Trish, will be joining our Friday class. She spent most of the class getting to know some of the kids, and having them 'teach her' about Scratch and ScratchJr. Trish is one of our Thursday Emerging Fluency teachers, but she will be coding with us on Fridays, so feel free to introduce yourself to her.
 
 
