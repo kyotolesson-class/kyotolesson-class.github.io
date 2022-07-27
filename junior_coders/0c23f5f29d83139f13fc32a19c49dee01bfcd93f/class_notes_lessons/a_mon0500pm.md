@@ -53,7 +53,12 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <br clear="both">
 
 <div id="toc">
+<!-- TOC -->
 
+* [July 25th](#july-25th)
+  * [Recap for July 25th](#recap-for-july-25th)
+* [July 23rd Makeup](#july-23rd-makeup)
+  * [Recap for July 23rd Makeup](#recap-for-july-23rd-makeup)
 * [July 11th](#july-11th)
   * [Recap for July 11th](#recap-for-july-11th)
 * [July 4th](#july-4th)
@@ -97,7 +102,7 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Kids worked on their own projects.](#kids-worked-on-their-own-projects)
 * [March 7th](#march-7th)
   * [Recap for March 7th](#recap-for-march-7th)
-* [March 4th (makeup)](#march-4th-makeup)
+* [March 4th makeup](#march-4th-makeup)
   * [Recap for March 4th](#recap-for-march-4th)
 * [February 28th](#february-28th)
   * [Recap for February 28th](#recap-for-february-28th)
@@ -117,8 +122,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
   * [Recap for January 3rd, 2022](#recap-for-january-3rd-2022)
 * [Archives](#archives)
   * [2021 Archives](#2021-archives)
-  * [2020 Archives ](#2020-archives-)
+  * [2020 Archives](#2020-archives)
 
+<!-- /TOC -->
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
