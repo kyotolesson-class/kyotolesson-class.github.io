@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [July 29th](#july-29th)
+  * [Recap for July 29th](#recap-for-july-29th)
 * [July 22nd](#july-22nd)
   * [Recap for  July 22nd](#recap-for--july-22nd)
 * [July 15th](#july-15th)
@@ -76,9 +78,31 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
   * [2020 Archives](#2020-archives)
 
 <!-- /TOC -->
+
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## July 29th
+</summary>
+
+## July 29th
+
+### Recap for July 29th
+
+
+
+{% include zakviewer.html Name="2022-07-30 Demon Game for 07 29" ID="https://scratch.mit.edu/projects/708689193/" caption="Student K fixed his weapons to show meaningful weapon names when hovering. He added code to attack when the space key is pressed. The coding focus was broadcasts and creating myblocks." %}
+
+
+{% include zakviewer.html Name="2022-07-29 COFM " ID="https://scratch.mit.edu/projects/716775548/" caption="Student M started making the code for his 3rd room. We reviewed the concept of nested ifs, and when he suddenly got it, he was off. He is making great progress and as usual showing great initiative." %}
+
+
+
+{% include imgur.html title="" ID="https://i.imgur.com/M5KIwGR.gif" caption="Student S created a variation of the Animate My Name Bootup Project. We used multiple start blocks to make the letters move at different angles and spin at different speeds." width="" height="" spacer="" %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## July 22nd
