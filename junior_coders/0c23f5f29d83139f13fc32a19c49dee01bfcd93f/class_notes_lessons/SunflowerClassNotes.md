@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [July 30th](#july-30th)
+  * [Recap for July 30th](#recap-for-july-30th)
 * [July 23rd](#july-23rd)
   * [Recap for July 23rd](#recap-for-july-23rd)
 * [July 9th](#july-9th)
@@ -81,6 +83,21 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+<details markdown=1>
+<summary markdown=1>## July 30th
+</summary>
+
+## July 30th
+
+### Recap for July 30th
+
+{% include zakviewer.html Name="2022 8 2 Untitled-55 on Scratch" ID="https://scratch.mit.edu/projects/718111243/" caption="Student M and I discussed his project for the Fall Showcase and he came up with an idea about destroying the Earth with various tools. He then coded a mockup, where you can 'slice' the Earth by pressing the mouse down and dragging across the earth. He worked hard and for him this was a good introduction to using the pen tool." %}
+
+
+
+
+</details>
 
 
 <details markdown=1>

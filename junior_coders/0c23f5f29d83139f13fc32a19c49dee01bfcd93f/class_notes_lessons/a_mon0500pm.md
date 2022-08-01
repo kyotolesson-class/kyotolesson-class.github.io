@@ -55,6 +55,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [August 1st & July 30th](#august-1st--july-30th)
+  * [Recap for August 1st](#recap-for-august-1st)
+  * [Recap for July 30th](#recap-for-july-30th)
 * [July 25th](#july-25th)
   * [Recap for July 25th](#recap-for-july-25th)
 * [July 23rd Makeup](#july-23rd-makeup)
@@ -128,6 +131,57 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## August 1st & July 30th
+</summary>
+
+## August 1st & July 30th
+
+### Recap for August 1st
+
+Today we began our preparation for the Fall Showcase by creating a platformer game. Our project will be based on a tutorial by Griffpatch (a superstar Scratch programmer):
+
+{% include youtubelazy.html  videoID="sebnyhBsXug" %}
+
+This week we completed the following main stack:
+
+```
+when @greenFlag clicked
+set [speed y v] to [0]
+go to x: (-203) y: (100)
+forever
+    change [speed y v] by (-1)
+    change y by (speed y)
+    if <touching color [#ffc1e1]?> then
+        repeat until <not <touching color [#ffc1e1]?>>
+            change y by (1)
+        end
+        set [speed y v] to [0]
+    end
+end
+```
+{: .msb}
+
+This leads to a project that looks like this:
+
+{% include zakviewer.html Name="2022 8 2 2022 Fall Showcase, week 1" ID="https://scratch.mit.edu/projects/718537031/" caption="" %}
+
+The students briefly watched the beginning of the tutorial and chose to run through the tutorial as a class. At this stage the final projects still look very similar, but eventually they will be able to customize the template to make a very large variety of projects. The students did a great job following the steps. At points I highlighted some major Scratch concepts, such as "falling and pulling out" (the `if <touching color [#ffc1e1]?> then`{: .msb} block).
+
+
+### Recap for July 30th Makeup
+
+Today we began preparations for our Fall Showcase. Student T looked at various popular projects on the Scratch website and finally decided she wanted to make a project similar to this one:
+
+{% include zakviewer.html Name="2022 8 2 Level EATEN! - v0.12 on Scratch" ID="https://scratch.mit.edu/projects/704676520" caption="" %}
+
+
+{% include zakviewer.html Name="2022 8 2 Level Eaten" ID="https://scratch.mit.edu/projects/718117018/" caption="To get started she made this project with a main character, and controls for moving left and right. She used pixlr to remove the background of images she got from the internet." %}
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## July 25th
