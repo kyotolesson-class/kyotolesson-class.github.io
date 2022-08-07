@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [August 6th](#august-6th)
+  * [Recap for August 6th](#recap-for-august-6th)
 * [July 30th](#july-30th)
   * [Recap for July 30th](#recap-for-july-30th)
 * [July 23rd](#july-23rd)
@@ -83,6 +85,24 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+<details markdown=1>
+<summary markdown=1>## August 6th
+</summary>
+
+## August 6th
+
+### Recap for August 6th
+
+Student M and I did futher troubleshooting of his Showcase Earth project. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/aNNDuyr.png" caption="His main task today was to break up the earth sprite into sections. I showed him a trick involving covering the earth costume earth in squares (the purple costume) and selectively deleting one part at a time, then using a bitmap fill to erase the squares, leaving only the chosen section behind." width="" height="" spacer="" %}
+
+Student Y started a new potential showcase project. He made a storyboard and we talked about some of the details. He began coding and I showed him how to make the bullets go to the end of the gun and fire in the right direction. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/gsLfkOX.png" caption="This involved learning about rotation styles as well using some go to, sensing, and movement blocks to get them pointing in the right direction." width="" height="" spacer="" %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## July 30th

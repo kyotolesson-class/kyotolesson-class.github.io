@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [August 5th and 6th makeup](#august-5th-and-6th-makeup)
+  * [Recap for August 5th and 6th makeup](#recap-for-august-5th-and-6th-makeup)
 * [July 29th & 30th](#july-29th--30th)
   * [Recap for July 29th](#recap-for-july-29th)
   * [Recap for July 30th Makeup](#recap-for-july-30th-makeup)
@@ -84,7 +86,29 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+<details markdown=1>
+<summary markdown=1>## August 5th and 6th makeup
+</summary>
 
+## August 5th and 6th makeup
+
+### Recap for August 5th and 6th makeup
+
+
+
+This week some of our class joined with the Summer Coding Camp, where they could work with other scratchers. 
+
+{% include zakviewer.html Name="2022 8 5 Student K Roulette Wheel" ID="https://scratch.mit.edu/projects/719581720/" caption="For example, Student K made this project with a start button and a rotationg roulette wheel." %}
+
+{% include zakviewer.html Name="2022 8 5 Student K color effect" ID="https://scratch.mit.edu/projects/614660661/" caption="He also made a series of projects such as this one exploring color effects." %}
+
+{% include zakviewer.html Name="2022 8 5 Student D" ID="https://scratch.mit.edu/projects/718490181/" caption="Student D also joined the Cooding camp and worked on this maze project." %}
+
+{% include zakviewer.html Name="2022 8 5 COFM for 2022 07 29 code with instructions on Scratch" ID="https://scratch.mit.edu/projects/716775548/" caption="Student M finished adding the art gallery for his project and initialized his variables. I can see that he is beginning to understand how to modify the project, and the project is now quite functional." %}
+
+{% include zakviewer.html Name="2022 8 5 Untitled on Scratch" ID="https://scratch.mit.edu/projects/719819301/" caption="Student S is graduating up to scratch, and made this project based on a flying tutorial. She is doing a great job quickly developing mouse and keyboard skills needed for Scratch, and is able to navigate the tutorial almost by herself." %}
+
+</details>
 
 
 <details markdown=1>
@@ -112,7 +136,6 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 
 </details>
-
 
 
 <details markdown=1>
