@@ -55,9 +55,11 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [August 8th](#august-8th)
+  * [Recap for August 8th](#recap-for-august-8th)
 * [August 1st & July 30th](#august-1st--july-30th)
   * [Recap for August 1st](#recap-for-august-1st)
-  * [Recap for July 30th](#recap-for-july-30th)
+  * [Recap for July 30th Makeup](#recap-for-july-30th-makeup)
 * [July 25th](#july-25th)
   * [Recap for July 25th](#recap-for-july-25th)
 * [July 23rd Makeup](#july-23rd-makeup)
@@ -131,6 +133,26 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+<details markdown=1>
+<summary markdown=1>## August 8th
+</summary>
+
+## August 8th
+
+### Recap for August 8th
+
+Today we reconfigured last week's project so that it can be used as a game. This required breaking up the code we did into parts and putting those parts in appropriate "modules" (stacks or myblocks). This was challenging and kids may not have understood all the details, but they were able to get the  following  important main ideas:
+
+- Broadcasts and receives are paired. We did a toy project to practice creating these.
+- Myblocks need to be created and then actually calling my blocks in the code. 
+- The fall and pull up/out algorithm is used to detect platforms and stop on top of them. To make it easier to understand, rather than falling, I used the analogy of walking towards a wall. Speed y  is the size of each step and gravity is the change in step size over time. The pull up works  like stepping past the wall and then pulling out/stepping back one step at a time to just in front of the wall and then stopping (speed = 0).
+- The without screen refresh checkbox hides the pull up/out step so that it looks like the player just stops on the ground. This is a central idea in scratch, and understanding this was important.
+
+
+{% include zakviewer.html Name="2022-08-08 2022 Fall Showcase, week 2" ID="https://scratch.mit.edu/projects/719975010/" caption="" %}
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 1st & July 30th
