@@ -15,6 +15,11 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [August 13th](#august-13th)
+  * [Recap for August 13th](#recap-for-august-13th)
+  * [Student M](#student-m)
+  * [Student N](#student-n)
+  * [Student Y](#student-y)
 * [August 6th](#august-6th)
   * [Recap for August 6th](#recap-for-august-6th)
 * [July 30th](#july-30th)
@@ -85,6 +90,108 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+<details markdown=1>
+<summary markdown=1>## August 13th
+</summary>
+
+## August 13th
+
+### Recap for August 13th
+
+### Student M
+Following code I suggested to him, Student M worked hard on creating his Earth Project. Though he may not understand all of the code, having him put the code in himself familiarizes him with the blocks and GUI, and his understanding is growing.
+
+
+
+* He added broadcast and waits for:
+  * initialize 
+  * get initialize values
+  * show initial game screen
+  * start game
+
+
+```
+when @greenFlag clicked
+broadcast [initialize v] and wait
+broadcast [get initial values v] and wait
+broadcast [show initial game screen v] and wait
+broadcast [start game v] and wait
+```
+{: .msb} 
+
+* He created a new draw routine. This replaces the old one because using if mouse down is better than if not mouse down. We also made it draw only on left part of screen
+
+```
+when I receive [start game v]
+set pen size to (10)
+forever
+    if <(CURRENT BUTTON) = [1]> then
+        if <<mouse down?> and <(mouse x) < [120]>> then
+            go to [mouse-pointer v]
+            pen down
+            repeat until <not <<mouse down?> and <(mouse x) < [120]>>>
+                go to [mouse-pointer v]
+            end
+            pen up
+        end
+    end
+end
+```
+{: .msb} 
+
+
+
+
+* Lastly, we initialized the variables that will store how much drawing has been done in each quadrant of the screen. 
+
+```
+when I receive [initialize v]
+hide variable [CURRENT BUTTON v]
+set [CURRENT BUTTON v] to [0]
+set [DRAWN v] to [0]
+set [QUAD1 v] to [0]
+set [QUAD1 FULL v] to [0]
+set [QUAD2 v] to [0]
+set [QUAD2 FULL v] to [0]
+set [QUAD3 v] to [0]
+set [QUAD3 FULL v] to [0]
+set [QUAD4 v] to [0]
+set [QUAD4 FULL v] to [0]
+set [RESULT v] to [0]
+```
+{: .msb} 
+
+{% include zakviewer.html Name="2022-08-13 Earth" ID="https://scratch.mit.edu/projects/718111243/" caption="" %}
+
+
+### Student N
+
+
+
+
+{% include zakviewer.html Name="2022-08-13 Flappy Abu with instructions" ID="https://scratch.mit.edu/projects/712848541/" caption="Student N finished adding code for his pipes. Now they disappear when we reach the end of the screen. He also added a game over routine." %}
+
+### Student Y
+
+{% include zakviewer.html Name="2022-08-13 Untitled-239" ID="https://scratch.mit.edu/projects/719819087/" caption="
+Student Y was stuck because his bullets wouldn't stop when he stoppped pressing the space bar. We fixed it by adding a wait until not space key pressed, and it worked like a charm. He spend the rest of class looking for and creating characters to add for his project.
+
+```
+when [space v] key pressed
+create clone of [myself v]
+wait until <not <key [space v] pressed?>>
+broadcast [delete clone v]
+
+when I receive [delete clone v]
+delete this clone
+```
+{: .msb}
+
+<span>" %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 6th
