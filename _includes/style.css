@@ -1242,6 +1242,9 @@ code.language-plaintext.msb {
 background: transparent;
 color: var(--ourdarkblue);
 font:normal 1em/1em Arial, Monaco, Monospace !important;
+/* allows them to be strung together better */
+padding: 0px;
+margin: 0px;
 }
 
 

@@ -55,6 +55,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [August 15th & August 13th Makeup](#august-15th--august-13th-makeup)
+  * [Recap for August 15th](#recap-for-august-15th)
+* [August 13th Makeup](#august-13th-makeup)
 * [August 8th](#august-8th)
   * [Recap for August 8th](#recap-for-august-8th)
 * [August 1st & July 30th](#august-1st--july-30th)
@@ -133,6 +136,58 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 </div>
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
+
+
+<details markdown=1>
+<summary markdown=1>## August 15th & August 13th Makeup
+</summary>
+
+## August 15th & August 13th Makeup
+
+### Recap for August 15th
+
+Today the key concept was replacing simple movement blocks (e.g. `go to x: (0) y: (0)`{: .msb}, `move () steps`{: .msb}, `set x to ()`{: .msb}, and `change x by ()`{: .msb}) with variables that "model the motion", and only performing the actual movement block when a screen refresh is needed. This is a standard technique in games that allows fewer screen refreshes so that games can be faster and include more code.
+
+```
+go to x: (0) y: (0)
+```
+{: .msb}
+
+is replaced by
+
+```
+set [x v] to (0)
+set [y v] to (0)
+go to x: (x) y: (y)
+```
+{: .msb}
+
+
+
+Specifically, we started the day by following the [Scrolling Platformer Tutorial](https://youtu.be/sebnyhBsXug?list=PLy4zsTUHwGJIqB6hg-sOxiwsJn7UfuCLw&t=446). We inserted some new blocks that detect left and right arrow clicks and uses this method to update the x and y variables. Then I showed them how to do the same in the "Game On" myblock,  and in one-on-one time we made similar transformations in the rest of the project. 
+
+By the end of the day, our player could move left and right.
+
+{% include zakviewer.html Name="2022-08-15 Student A platformer" ID="https://scratch.mit.edu/projects/718512704/" caption="Student A is making steady progress in understand and skill." %}
+
+{% include zakviewer.html Name="2022-08-15 Student L platformer" ID="https://scratch.mit.edu/projects/718510749/" caption="Student L had to do quite a bit of catchup today but he did a great job and now up to speed." %}
+
+{% include zakviewer.html Name="2022-08-15 Student J" ID="https://scratch.mit.edu/projects/720233953/" caption="Student J was able to pick up quickly what needed to be done. He has a small error in a touching color block we didn't have time to fix." %}
+
+
+## August 13th Makeup
+
+Student L worked on an original project. He created a storyboard for it, and I helped him:
+
+* Structure the project as a series of sequential broadcasts for the major sections of code in his storyboard
+* Create an Intro screen with a 5 second delay
+* Create a Game Start screen, including a play button. 
+* He used sketch.io to create fancy text for the play button
+* Hr used the Scratch editor to add curves and a shadow to his button
+* I showed him how to transfer his costumes from his backdrop into individual sprites, and indicated the initial code he will need to set up in each of these for the choose player screen.
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 8th
