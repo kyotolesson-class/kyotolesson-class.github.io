@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [August 20th](#august-20th)
+  * [Recap for August 20th](#recap-for-august-20th)
 * [August 13th](#august-13th)
   * [Recap for August 13th](#recap-for-august-13th)
   * [Student M](#student-m)
@@ -90,6 +92,31 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+
+
+
+<details markdown=1>
+<summary markdown=1>## August 20th
+</summary>
+
+## August 20th
+
+### Recap for August 20th
+
+We began today by some planning for the September Showcase. I gave the kids an overview of the event, and we went over a worksheet they can use to prepare for the event. We talked about which project kids would demonstrate in the showcase. 
+
+{% include zakviewer.html Name="2022-08-21 Untitled-243 on Scratch" ID="https://scratch.mit.edu/projects/723382654/" caption="Student Y decided he wanted to make a Sonic the Hedgehog Platformer, with a loop de loop. This is an ambitious project, but luckily I have a template for it that he can modify. " %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/HE1NFDS.jpg" caption="During the rest of class he made a storyboard, and chose the primary characters." width="" height="" spacer="" %}
+
+{% include zakviewer.html Name="2022-08-20 Flappy Abu" ID="https://scratch.mit.edu/projects/712848541/" caption="Student N's project will be his recently completed Flappy Abu. He made some small fixes to it, including adding a game over screen. " %}
+
+{% include zakviewer.html Name="2022-08-21 Abu Run on Scratch" ID="https://scratch.mit.edu/projects/723388953/" caption="He decided he also wanted to make a Sonic Platformer, Abu Run, and I showed him a template we would use for it. He started making his first sprite for it." %}
+
+{% include zakviewer.html Name="2022-08-20 Earth" ID="https://scratch.mit.edu/projects/718111243/" caption="Student M continued working on his Earth project. We created the Tester sprite that measures how much of each quadrant has been covered and he began putting in the code for it. We also did some renaming of costumes to make them consistent with the template." %}
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 13th

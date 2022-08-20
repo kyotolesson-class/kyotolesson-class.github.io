@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [August 19th](#august-19th)
+  * [Recap for August 19th](#recap-for-august-19th)
 * [August 5th and 6th makeup](#august-5th-and-6th-makeup)
   * [Recap for August 5th and 6th makeup](#recap-for-august-5th-and-6th-makeup)
 * [July 29th & 30th](#july-29th--30th)
@@ -85,6 +87,65 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## August 19th
+</summary>
+
+## August 19th
+
+### Recap for August 19th
+
+
+{% include zakviewer.html Name="2022 8 19 COFM Final" ID="https://scratch.mit.edu/projects/716775548/" caption="Student M has completed his project. 
+
+His final addition this week was to add a high score variable and show it, just as in [this Jelly Jump project](https://scratch.mit.edu/projects/674006017/). We examined the code, and found and imported the sprite that displays the score, and the code in the project that updates the score:
+
+``` 
+when @greenFlag clicked
+forever
+    set [score v] to (round (((scrollY) + (50)) / (100)))
+    if <(score) > (☁ Actual highscore)> then
+        set [☁ Actual highscore v] to (score)
+    end
+end
+```
+{: .msb}
+
+He then modified this to work in his project.
+
+``` 
+when @greenFlag clicked
+forever
+    if <(MONEY) > (☁ Actual highscore)> then
+        set [☁ Actual highscore v] to (MONEY)
+    end
+end
+```
+{: .msb}
+
+This was a great exercise in hacking and reusing code from one project to another.
+<span>" %}
+
+
+{% include zakviewer.html Name="2022 8 19 Submarine remix on Scratch" ID="https://scratch.mit.edu/projects/593081843/" caption="We then discussed his next project, and he looked through his rather long list of remixes to find one he liked, which turns out to be this submarine game." %}
+
+
+Since Student S is starting Scratch, I suggested she try [Run Marco Run](https://runmarco.allcancode.com/), which is a useful as training for using Scratch. She was able to get through the first few levels very well on her own. 
+
+{% include imgur.html title="" ID="https://i.imgur.com/lyVrsXp.jpg" caption="When she reached the stage of having to repeat a series of blocks we used pen and paper to work out what the repeated sequence should be. After a few tries she seemed to get it." width="" height="300px" spacer="" %}
+
+{% include zakviewer.html Name="2022 8 19 heart, cloud and ballon" ID="https://scratch.mit.edu/projects/719819301/" caption="She also finished the flying tutorial she started last week. I challenged her to add something to the project, and suggested she use a change size block, and this is how it came out." %}
+
+Student H mostly explored on his own. Though he indicated he wanted to make a project, he did not do so in the end.
+
+
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## August 5th and 6th makeup
