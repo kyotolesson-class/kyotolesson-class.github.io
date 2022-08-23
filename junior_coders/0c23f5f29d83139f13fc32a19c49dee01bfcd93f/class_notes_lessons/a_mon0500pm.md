@@ -55,6 +55,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [August 22nd and August 19th Makeup](#august-22nd-and-august-19th-makeup)
+  * [Recap for August 22nd](#recap-for-august-22nd)
+* [August 19th Makeup](#august-19th-makeup)
 * [August 15th & August 13th Makeup](#august-15th--august-13th-makeup)
   * [Recap for August 15th](#recap-for-august-15th)
 * [August 13th Makeup](#august-13th-makeup)
@@ -137,6 +140,38 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+<details markdown=1>
+<summary markdown=1>## August 22nd and August 19th Makeup
+</summary>
+
+## August 22nd and August 19th Makeup
+
+### Recap for August 22nd
+
+The first thing we did today was have some fun with AI.
+
+{% include imgur.html title="" ID="https://i.imgur.com/ZxJgrPi.jpg" caption=" I gave the students links to 2 AI websites that generate random images based on text input, [nightcafe](https://creator.nightcafe.studio/create) and [craiyon](https://www.craiyon.com/), and the kids had fun generating various images such as this one." width="" height="" spacer="" %}
+
+One group then continued working on the scrolling platformer tutorial. 
+
+{% include zakviewer.html Name="2022-08-22 2022 Fall Showcase, week 4" ID="https://scratch.mit.edu/projects/723944825/" caption="Our focus was on understanding how to make the platform scroll in the opposite direction as the perceived player movement, so the player stays in the center of the screen, while our game position changes.
+
+```
+go to x: ((x) - (SCROLL X)) y: ((y ) - (SCROLL Y))
+```
+{: .msb}
+
+<span>" %}
+
+
+Student H meanwhile has made big strides in coding, and made a new sonic project. He made the sprite animate, and I showed him how to make a different sprite appear when the animation stops.  Then, coincidentally also wanted to make his platform scroll, and we began working on that as above.
+
+## August 19th Makeup
+
+Student T did the same work we did on [August 15th](#august-15th--august-13th-makeup), involving "replacing simple movement blocks (e.g. `go to x: (0) y: (0)`{: .msb}, `move () steps`{: .msb}, `set x to ()`{: .msb}, and `change x by ()`{: .msb}) with variables that 'model the motion', and only performing the actual movement block when a screen refresh is needed."
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 15th & August 13th Makeup
