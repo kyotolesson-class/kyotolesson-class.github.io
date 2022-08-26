@@ -107,9 +107,6 @@ Student K and M  wrote short descriptions of their projects as part of their int
 Student S chose some projects for her Showcase and we practiced describing her ScratchJr. projects and how they function. She may also demonstrate a recent Scratch project.
 
 
-{% include zakviewer.html Name="2022-08-27 sonic exe on Scratch" ID="https://scratch.mit.edu/projects/723812768/" caption="Student H completed stage 1 of his scrolling platformer, and succeeded in making an extended background. He learned about local and this sprite only variables, how to move costumes from one sprite to another, how to initialize sprites in terms of position, direction, and layer." %}
-
-
 </details>
 
 
