@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [August 26th](#august-26th)
+  * [Recap for August 26th](#recap-for-august-26th)
 * [August 19th](#august-19th)
   * [Recap for August 19th](#recap-for-august-19th)
 * [August 5th and 6th makeup](#august-5th-and-6th-makeup)
@@ -87,6 +89,28 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+
+<details markdown=1>
+<summary markdown=1>## August 26th
+</summary>
+
+## August 26th
+
+### Recap for August 26th
+
+Today we began with an overview of the upcoming Fall Showcase. (more information about this will be sent to parents soon.) I went over the various elements they will be prepared to talk about, such as giving an introduction, explaining the game play, and so on.
+
+Student K and M  wrote short descriptions of their projects as part of their introductions. This inspired them to make minor improvements to their games, such as adding a game over score or descriptions of the various levels.
+
+Student S chose some projects for her Showcase and we practiced describing her ScratchJr. projects and how they function. She may also demonstrate a recent Scratch project.
+
+
+{% include zakviewer.html Name="2022-08-27 sonic exe on Scratch" ID="https://scratch.mit.edu/projects/723812768/" caption="Student H completed stage 1 of his scrolling platformer, and succeeded in making an extended background. He learned about local and this sprite only variables, how to move costumes from one sprite to another, how to initialize sprites in terms of position, direction, and layer." %}
+
+
+</details>
 
 
 <details markdown=1>
