@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [August 27th](#august-27th)
+  * [Recap for August 27th](#recap-for-august-27th)
 * [August 20th](#august-20th)
   * [Recap for August 20th](#recap-for-august-20th)
 * [August 13th](#august-13th)
@@ -93,7 +95,29 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 
+<details markdown=1>
+<summary markdown=1>## August 27th
+</summary>
 
+## August 27th
+
+### Recap for August 27th
+
+Today we began with an overview of the upcoming Fall Showcase. (more information about this will be sent to parents soon.) I went over the various elements they will be prepared to talk about, such as giving an introduction, explaining the game operations, and so on.
+
+
+Students Y and N worked throught a Scrolling Platformer tutorial that I had prepared. They were given the option to do an easier project, but they are very commited to doing this project.
+
+
+{% include zakviewer.html Name="2022 Scrolling Platformer on Scratch" ID="https://scratch.mit.edu/projects/723944825/" caption="This is actually just the first part of the scroller, but they were very diligent and made it almost the end. Very impressive work." %}
+
+Student N continues to work on his earth project, also working from a template. He has also become increasingly diligent recently, and made a serious effort here. 
+
+{% include zakviewer.html Name="2022-08-27 Earth" ID="https://scratch.mit.edu/projects/725616067/" caption="He did a lot of coding this week and is almost done with the first draft of the button 1 code. Excellent work." %}
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 20th

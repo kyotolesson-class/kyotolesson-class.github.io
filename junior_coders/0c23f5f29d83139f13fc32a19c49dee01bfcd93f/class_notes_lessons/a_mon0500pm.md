@@ -140,6 +140,23 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details markdown=1>
+<summary markdown=1>## August 29th
+</summary>
+
+## August 29th
+
+### Recap for August 29th
+
+### August 26th Makeup
+
+{% include zakviewer.html Name="2022-08-27 sonic exe on Scratch" ID="https://scratch.mit.edu/projects/723812768/" caption="Student H completed stage 1 of his scrolling platformer, and succeeded in making an extended background. He learned about local and this sprite only variables, how to move costumes from one sprite to another, how to initialize sprites in terms of position, direction, and layer." %}
+
+
+</details>
+
+
 <details markdown=1>
 <summary markdown=1>## August 22nd and August 19th Makeup
 </summary>
