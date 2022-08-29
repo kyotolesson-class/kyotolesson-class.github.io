@@ -55,6 +55,9 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [August 29th](#august-29th)
+  * [Recap for August 29th](#recap-for-august-29th)
+  * [August 26th Makeup](#august-26th-makeup)
 * [August 22nd and August 19th Makeup](#august-22nd-and-august-19th-makeup)
   * [Recap for August 22nd](#recap-for-august-22nd)
 * [August 19th Makeup](#august-19th-makeup)
@@ -148,6 +151,20 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 ## August 29th
 
 ### Recap for August 29th
+
+Today kids began making project posters for the showcase. First, I ran over with them what kind of information, such as a project summary, we should include in the posters. Some kids struggled with the difference between information and a summary. We got out the pens and paper, and kids began drafts of their posters individually. We will continue this next week. 
+
+After the break I met one on one with the kids and asked them if there were any areas in the project that they wanted to change or finish, and to name some  specific parts of the code they learned or found interesting. This will be also be used in making the posters. Rather than coding, the kids got a chance to think about the project as a whole, and to reflect back on what they had done and look at the techniques they used in the project.
+
+Most of the kids are using the Parachute Project for their showcase, but Student H is making an original Sonic the Hedgehog themed scroller for his. His first task was to change some of his variables in is project from global to local. We encountered an [counterintuitive behavior/quirk in scratch that prevented us from doing this](https://scratch.mit.edu/discuss/topic/252707/). The good thing about this was it helped make very clear the difference between the two, and why that made a difference in his project. Eventually we got this sorted out and his next goal was to add more screens to his scrolling background. 
+
+{% include zakviewer.html Name="2022-08-29 sonic exe" ID="https://scratch.mit.edu/projects/723812768/" caption="With some help some diagrams on the whiteboard, his net challenge was to figure out what value to give to the local x variable for each sprite to make them touch each other. This depends on the dimensions of the costume and it size in the game, and after a few diagrams it suddenly clicked and he was able to add more to his game." %}
+
+We welcomed back Student K, who has been on vacation. She worked on designing her own project, possibly for the Showcase. She indicated she didn't want to or wasn't ready to make a project poster.
+
+{% include zakviewer.html Name="2022-08-29 Untitled Student S" ID="https://scratch.mit.edu/projects/719307267/" caption="I helped  Student L resize some of his costumes to fill the screen, and remove some backgrounds with pixlr. His project is looking great!" %}
+
+This was also the last day for him, and we will miss him. As we were leaving we sang him a chorus of "For He's a Jolly Good Fellow" to send him off. He jollily, or at least cheerfully, informed us, however, that he does not consider himself Jolly! Nonetheless, we wish him all the best and look forward to seeing him in the future!
 
 ### August 26th Makeup
 
