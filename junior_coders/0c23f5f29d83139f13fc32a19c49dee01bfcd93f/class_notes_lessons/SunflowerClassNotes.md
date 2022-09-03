@@ -108,30 +108,10 @@ Today Students Y and N worked on drawing loops for the Sonic Scroller project. T
 
 I walked them through [the directions](https://digitalgardenforjrcoders.netlify.app/prep-notes/showcase/making-a-loop-de-loop-project/) for these costumes:
 
-* Loop Base
+![Base for Loop De Loop](https://i.imgur.com/XOCMGUC.png){: style="width:45%!important" .jsgif }![](https://i.imgur.com/199xT9m.png){: style="width:45%!important" .jsgif }![Loop Start](https://i.imgur.com/IGxRDRU.png){: style="width:45%!important" .jsgif }
 
-![Base for Loop De Loop](https://i.imgur.com/XOCMGUC.png)
-
-* Loop Return (for Platform Sprite)
-
-![](https://i.imgur.com/199xT9m.png)
-
-
-
-* Loop Start2 (for Platform Sprite)
-
-![Loop Start](https://i.imgur.com/IGxRDRU.png)
-
-They then figured out how to make these on their own. They did a great job with it.
-
-
-* Antiloop Return
-
-![Antiloop Return](https://i.imgur.com/zP2NbbN.png)
-
- * Antiloop Start
-
-![](https://i.imgur.com/2y0ilLK.png)
+Then I gave them the challenge to make these by themselves: 
+![Antiloop Return](https://i.imgur.com/zP2NbbN.png){: style="width:45%!important" .jsgif }![](https://i.imgur.com/2y0ilLK.png){: style="width:45%!important" .jsgif }
 
 This will prepare them for next week. They will create many platforms and other objects for their project. They will use the code to arrange the loops and platforms to make the various levels of their project, as well as adding other game elements.
 
