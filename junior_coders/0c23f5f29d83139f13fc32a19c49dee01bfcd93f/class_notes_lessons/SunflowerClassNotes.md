@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [September 3rd](#september-3rd)
+  * [Recap for September 3rd](#recap-for-september-3rd)
 * [August 27th](#august-27th)
   * [Recap for August 27th](#recap-for-august-27th)
 * [August 20th](#august-20th)
@@ -94,6 +96,54 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
+<details markdown=1>
+<summary markdown=1>## September 3rd
+</summary>
+
+## September 3rd
+
+### Recap for September 3rd
+
+Today Students Y and N worked on drawing loops for the Sonic Scroller project. The goal was to teach them the template so they can change it for their project.
+
+I walked them through [the directions](https://digitalgardenforjrcoders.netlify.app/prep-notes/showcase/making-a-loop-de-loop-project/) for these costumes:
+
+* Loop Base
+
+![Base for Loop De Loop](https://i.imgur.com/XOCMGUC.png)
+
+* Loop Return (for Platform Sprite)
+
+![](https://i.imgur.com/199xT9m.png)
+
+
+
+* Loop Start2 (for Platform Sprite)
+
+![Loop Start](https://i.imgur.com/IGxRDRU.png)
+
+They then figured out how to make these on their own. They did a great job with it.
+
+
+* Antiloop Return
+
+![Antiloop Return](https://i.imgur.com/zP2NbbN.png)
+
+ * Antiloop Start
+
+![](https://i.imgur.com/2y0ilLK.png)
+
+This will prepare them for next week. They will create many platforms and other objects for their project. They will use the code to arrange the loops and platforms to make the various levels of their project, as well as adding other game elements.
+
+Student M continued carefully following the directions in his template and by break time he had finished the first stage of his game. 
+
+In the last part of class student created project summaries for the Coding Showcase on September 24th.
+
+We welcomed two new students to our class. Student C and T worked on a ScratchJr. project based on the theme of the day: Plants. Student T worked mostly in the editor creating interesting plants, while student C began animating the project with various blocks. They also played a couple of fun rounds of hangman and were given instructions for their part of the Coding Showcase.
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 27th
