@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [September 2nd](#september-2nd)
+  * [Recap for September 2nd](#recap-for-september-2nd)
 * [August 26th](#august-26th)
   * [Recap for August 26th](#recap-for-august-26th)
 * [August 19th](#august-19th)
@@ -90,6 +92,33 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
 
+details markdown=1>
+<summary markdown=1>## September 2nd
+</summary>
+
+## September 2nd
+
+### Recap for September 2nd
+
+Today we continued working on preparation for the Fall Showcase. Kids started or continued adding sections to their Poster, including summaries, favorite parts, instructions and game play, details about the code, and fun facts. 
+
+In addition I did a few one-on-one sessions with the kids, including fixing an accidentally deleted sprite, and initializing positions so the sprite would stay in position.
+
+At the end of class I noted with them some of their accomplishments for the day:
+
+- Student M wanted to write in Japanese first and then translate that into English. When he tried to explain the Japanese to me in English, he found he could just say it in English directly.
+
+- Student D worked very steadily and neatly.
+
+- Student S was good at asking for help and being patient about getting answers.
+
+- Student Y was also very organized and worked independently.
+
+- Student K enjoyed collaborating and made a good effort at explaining his questions English.
+
+- Student H was very enthusiastic and showed initiative and creativity. His poster design was a model for the rest of the class. 
+
+</details>
 
 
 <details markdown=1>
