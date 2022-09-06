@@ -55,6 +55,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [September 12th](#september-12th)
+  * [Recap for September 12th](#recap-for-september-12th)
 * [August 29th](#august-29th)
   * [Recap for August 29th](#recap-for-august-29th)
   * [August 26th Makeup](#august-26th-makeup)
@@ -143,6 +145,33 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details markdown=1>
+<summary markdown=1>## September 12th
+</summary>
+
+## September 12th
+
+### Recap for September 12th
+
+Today kids worked on their Posters for the Showcase on the 26th. We reviewed my some possible content to put on the poster:
+
+* Summary
+- Instructions
+- Explain one code point (block or technique)
+- Favorite things
+- My coding experience
+- Why this project is different than other projects
+- These are the things I did myself in this project
+- Create your own topic
+
+After some discussion, especially as to what a "summary" is, the kids finally understood what the goal is, and made a lot of progress, writing at least a few of the sections. One special section is the Code Point, and each child chose a particular coding topic, such as loops, in their game, which they could explain in detail, how it was used in their game. This allowed me to do some on on one work with them to review, reinforce, and test their understanding.
+
+Next class we will put together the final product. There is only more full class until the event as well as make final adjustments to the projects so they can be deomnstrated. 
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## August 29th
