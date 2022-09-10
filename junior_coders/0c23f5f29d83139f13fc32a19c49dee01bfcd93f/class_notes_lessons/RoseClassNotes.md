@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [September 9th](#september-9th)
+  * [Recap for September 9th](#recap-for-september-9th)
 * [September 2nd](#september-2nd)
   * [Recap for September 2nd](#recap-for-september-2nd)
 * [August 26th](#august-26th)
@@ -91,6 +93,33 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+<details markdown=1>
+<summary markdown=1>## September 9th
+</summary>
+
+## September 9th
+
+### Recap for September 9th
+
+Today was an artistic day as kids finished the final version of their Showcase Posters. After fixing the grammar of their drafts, we got out the pens, paper, and scrapbook sheets and created the final mockups, added decorative touches, and put it all together in the scrapbooking sheets. Kids really enjoyed pulling back the cover sheets. The results we quite nice.
+
+{% include imgur.html title="" ID="https://i.imgur.com/RTatZto.jpg" caption="Come to our Showcase on September 30th, after 5PM, to see the rest." width="" height="" spacer="" %}
+
+More than just an art project, this activity is a way of helping kids take pride in their work
+
+It also helps them reflect on questions like:
+- What makes a project great? What are the elements of a good game?
+- What do I like about this project? What do I like? What would other people like?
+- How would I explain this project to someone else? 
+- What is a good set of instructions?  How do I make the game easy to use?
+- How do specific code points work in the game? How do blocks go together to accomplish major and minor tasks?
+
+Working on the text helped me work on and evaluate the kids' English skills as well. The writing and rewriting process helped them learn and reinforce new skills related to spelling, grammar, vocabulary, and so on. After the break we had a group sharing time where kids practice presenting about their project with others in English.
+
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## September 2nd
