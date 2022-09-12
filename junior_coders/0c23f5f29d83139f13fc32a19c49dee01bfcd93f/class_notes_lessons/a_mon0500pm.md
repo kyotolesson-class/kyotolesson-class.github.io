@@ -55,6 +55,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
+* [September 12th](#september-12th)
+  * [Recap for September 12th](#recap-for-september-12th)
 * [September 5th](#september-5th)
   * [Recap for September 5th](#recap-for-september-5th)
 * [August 29th](#august-29th)
@@ -145,6 +147,24 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
+
+<details markdown=1>
+<summary markdown=1>## September 12th
+</summary>
+
+## September 12th
+
+### Recap for September 12th
+
+
+Kids made their final Showcase Posters. I showed them some samples from other classes to give them inspiration.
+
+{% include imgur.html title="" ID="https://i.imgur.com/TO6wk4V.jpg" caption="Kids worked really hard today, right past break time." width="" height="" spacer="" %}
+
+{% include imgur.html title="" ID="https://i.imgur.com/jLiHd8e.jpg" caption="At the end of class we went around and I pointed out some of the outstanding points of their posters, and everyone got a round of applause." width="" height="" spacer="" %}
+
+
+</details>
 
 
 <details markdown=1>
