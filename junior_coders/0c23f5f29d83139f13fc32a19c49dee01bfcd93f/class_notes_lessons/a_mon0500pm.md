@@ -55,17 +55,19 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
-* [September 12th](#september-12th)
-  * [Recap for September 12th](#recap-for-september-12th)
+* [September 10th](#september-10th)
+  * [Recap for September 10th](#recap-for-september-10th)
+* [September 3rd](#september-3rd)
+  * [Recap for September 3rd](#recap-for-september-3rd)
 * [August 29th](#august-29th)
   * [Recap for August 29th](#recap-for-august-29th)
   * [August 26th Makeup](#august-26th-makeup)
 * [August 22nd and August 19th Makeup](#august-22nd-and-august-19th-makeup)
   * [Recap for August 22nd](#recap-for-august-22nd)
-* [August 19th Makeup](#august-19th-makeup)
+  * [August 19th Makeup](#august-19th-makeup)
 * [August 15th & August 13th Makeup](#august-15th--august-13th-makeup)
   * [Recap for August 15th](#recap-for-august-15th)
-* [August 13th Makeup](#august-13th-makeup)
+  * [August 13th Makeup](#august-13th-makeup)
 * [August 8th](#august-8th)
   * [Recap for August 8th](#recap-for-august-8th)
 * [August 1st & July 30th](#august-1st--july-30th)
@@ -145,14 +147,95 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
-
 <details markdown=1>
-<summary markdown=1>## September 12th
+<summary markdown=1>## September 10th
 </summary>
 
-## September 12th
+## September 10th
 
-### Recap for September 12th
+### Recap for September 10th
+
+Student Y worked on final modification to his loop de loop project. He added the new loop costumes to the platform list, and began adjust the other costumes to fit in. 
+
+
+```
+add [ 1 ] to [costume list for all level v] // a straight platform 
+add [ 21 ] to [costume list for all level v] // your new loop  
+add [ 1 ] to [costume list for all level v]  //another straight platform
+
+We also added this code:
+if <(costume [name v]) = [My loop start]> then
+    set [brightness v] effect to (-20)::looks
+    go to [back v] layer
+end
+
+```
+{: .msb}
+
+
+Student N's final game modification was to make the game replay at game over. 
+
+First he used a single green flag broadcast a master message:
+
+```
+when @greenFlag clicked
+broadcast [Master v]
+show
+```
+{: .msb} 
+
+
+Then in each game he converted
+```
+when @greenFlag clicked
+...
+```
+{: .msb} 
+
+
+to
+```
+when I receive [Master v]
+...
+```
+{: .msb} 
+
+
+Then, the key point today was to understand where the code should go in the receive game over stack. We stop the other scripts, and change the backdrop to the Game over screen, wait for the mouse down, and restart the game. We also had to 
+
+```
+when I receive [GAME OVER v]
+stop [other scripts in sprite v]
+next backdrop
+wait until <mouse down?>
+broadcast [start v]
+
+
+```
+{: .msb} 
+
+
+Student M created a game intro. He also did some careful fine tuning with the editor of the the earth costumes to remove gaps and make the border go to the edge.
+
+Game intro and fixing position of costume and copying to add border
+
+* ScratchJr.
+: The ScratchJr. students finished working on the their Plant projects. They also started making their Showcase posters.
+
+Student C focused on using taps, next screen and timer blocks to make a project comparing how one plant grows in the shade with 2 others that grow in sunlight.
+
+Student T made a similar plant project, but discovered that he could loop the screens so the game continues indefinitely. He also used tap blocks to control the change between screens.
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## September 3rd
+</summary>
+
+## September 3rd
+
+### Recap for September 3rd
 
 Today kids worked on their Posters for the Showcase on the 26th. We reviewed my some possible content to put on the poster:
 
@@ -229,7 +312,7 @@ go to x: ((x) - (SCROLL X)) y: ((y ) - (SCROLL Y))
 
 Student H meanwhile has made big strides in coding, and made a new sonic project. He made the sprite animate, and I showed him how to make a different sprite appear when the animation stops.  Then, coincidentally also wanted to make his platform scroll, and we began working on that as above.
 
-## August 19th Makeup
+### August 19th Makeup
 
 Student T did the same work we did on [August 15th](#august-15th--august-13th-makeup), involving "replacing simple movement blocks (e.g. `go to x: (0) y: (0)`{: .msb}, `move () steps`{: .msb}, `set x to ()`{: .msb}, and `change x by ()`{: .msb}) with variables that 'model the motion', and only performing the actual movement block when a screen refresh is needed."
 
@@ -273,7 +356,7 @@ By the end of the day, our player could move left and right.
 {% include zakviewer.html Name="2022-08-15 Student J" ID="https://scratch.mit.edu/projects/720233953/" caption="Student J was able to pick up quickly what needed to be done. He has a small error in a touching color block we didn't have time to fix." %}
 
 
-## August 13th Makeup
+### August 13th Makeup
 
 Student L worked on an original project. He created a storyboard for it, and I helped him:
 
