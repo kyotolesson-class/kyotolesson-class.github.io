@@ -55,10 +55,8 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 <div id="toc">
 <!-- TOC -->
 
-* [September 10th](#september-10th)
-  * [Recap for September 10th](#recap-for-september-10th)
-* [September 3rd](#september-3rd)
-  * [Recap for September 3rd](#recap-for-september-3rd)
+* [September 5th](#september-5th)
+  * [Recap for September 5th](#recap-for-september-5th)
 * [August 29th](#august-29th)
   * [Recap for August 29th](#recap-for-august-29th)
   * [August 26th Makeup](#august-26th-makeup)
@@ -147,95 +145,15 @@ Proceed to [Archives](./a_mon0500pm-Archives.html) 》
 
 * Click on the [> Date]() or <span style="color: var(--borderblue);  border-left: 9px solid var(--borderblue)!important;border-radius: 4px 4px; font-weight: bold; padding-left: 2px;">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid var(--borderblue) !important;border-radius: 4px 4px;"><b>  &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
-<details markdown=1>
-<summary markdown=1>## September 10th
-</summary>
-
-## September 10th
-
-### Recap for September 10th
-
-Student Y worked on final modification to his loop de loop project. He added the new loop costumes to the platform list, and began adjust the other costumes to fit in. 
-
-
-```
-add [ 1 ] to [costume list for all level v] // a straight platform 
-add [ 21 ] to [costume list for all level v] // your new loop  
-add [ 1 ] to [costume list for all level v]  //another straight platform
-
-We also added this code:
-if <(costume [name v]) = [My loop start]> then
-    set [brightness v] effect to (-20)::looks
-    go to [back v] layer
-end
-
-```
-{: .msb}
-
-
-Student N's final game modification was to make the game replay at game over. 
-
-First he used a single green flag broadcast a master message:
-
-```
-when @greenFlag clicked
-broadcast [Master v]
-show
-```
-{: .msb} 
-
-
-Then in each game he converted
-```
-when @greenFlag clicked
-...
-```
-{: .msb} 
-
-
-to
-```
-when I receive [Master v]
-...
-```
-{: .msb} 
-
-
-Then, the key point today was to understand where the code should go in the receive game over stack. We stop the other scripts, and change the backdrop to the Game over screen, wait for the mouse down, and restart the game. We also had to 
-
-```
-when I receive [GAME OVER v]
-stop [other scripts in sprite v]
-next backdrop
-wait until <mouse down?>
-broadcast [start v]
-
-
-```
-{: .msb} 
-
-
-Student M created a game intro. He also did some careful fine tuning with the editor of the the earth costumes to remove gaps and make the border go to the edge.
-
-Game intro and fixing position of costume and copying to add border
-
-* ScratchJr.
-: The ScratchJr. students finished working on the their Plant projects. They also started making their Showcase posters.
-
-Student C focused on using taps, next screen and timer blocks to make a project comparing how one plant grows in the shade with 2 others that grow in sunlight.
-
-Student T made a similar plant project, but discovered that he could loop the screens so the game continues indefinitely. He also used tap blocks to control the change between screens.
-
-</details>
 
 
 <details markdown=1>
-<summary markdown=1>## September 3rd
+<summary markdown=1>## September 5th
 </summary>
 
-## September 3rd
+## September 5th
 
-### Recap for September 3rd
+### Recap for September 5th
 
 Today kids worked on their Posters for the Showcase on the 26th. We reviewed my some possible content to put on the poster:
 
