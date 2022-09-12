@@ -75,7 +75,7 @@ Poster. Her cod point is using timer blocks
 
 ## Friday
 
-
+### **Akihiro**
 
 ### **Daifuku**
 
@@ -86,8 +86,6 @@ Poster. Her cod point is using timer blocks
 ### **Miki**
 
 ### **Saki**
-
-### **Takuhiro**
 
 ### **Yuki**
 
