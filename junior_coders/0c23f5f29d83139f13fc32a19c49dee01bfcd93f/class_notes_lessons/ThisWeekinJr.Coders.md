@@ -57,7 +57,7 @@ He has done quite a bit, so his poster may be ready.
 He should decide when and where to hide/show variables. 
 Possibly add an introduction Screen. 
 If he is ready for showcase, he can begin ot design his next project.
-{% include zakviewer.html Name="2022-09-15 cat city on Scratch" ID="https://scratch.mit.edu/projects/716775548/editor" caption="" %}
+{% include zakviewer.html Name="2022-09-15 cat city on Scratch" ID="https://scratch.mit.edu/projects/716775548/" caption="" %}
 
 
 ### **Saki**
