@@ -15,6 +15,8 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [September 24th](#september-24th)
+  * [Recap for September 24th](#recap-for-september-24th)
 * [September 17th](#september-17th)
   * [Recap for September 17th](#recap-for-september-17th)
 * [September 10th](#september-10th)
@@ -99,6 +101,27 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span>
 
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
+
+
+<details markdown=1>
+<summary markdown=1>## September 24th
+</summary>
+
+## September 24th
+
+### Recap for September 24th
+
+Student M added a game over screen to his project following my example. 
+
+{% include zakviewer.html Name="2022-09-24 Earth (revised student version) " ID="https://scratch.mit.edu/projects/736285807/" caption="He added a heart and start to the end screen, and added template code to make it play the gif at the end." %}
+
+
+Student T added more to a venus fly trap project.  I showed him how to draw triangles and rotate them to make arrows pointing in different directions. He also played around using the fill tool in different shapes. I gave him a stylus to use which he found useful instead of his finger.
+
+
+
+</details>
+
 
 <details markdown=1>
 <summary markdown=1>## September 17th
