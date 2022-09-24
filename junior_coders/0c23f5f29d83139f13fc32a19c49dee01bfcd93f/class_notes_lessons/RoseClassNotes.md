@@ -14,6 +14,8 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [September 23rd](#september-23rd)
+  * [Recap for September 23rd](#recap-for-september-23rd)
 * [September 16th](#september-16th)
   * [Recap for September 16th](#recap-for-september-16th)
 * [September 9th](#september-9th)
@@ -95,6 +97,35 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## September 23rd
+</summary>
+
+## September 23rd
+
+### Recap for September 23rd
+
+- Student M
+Student M began early progress on our next project, a Halloween Project. We talked about different kinds of intro screens, and he found a zombie gif he wanted to use online. Using unscreen, we removed the background. He then added some text and I showed him how to use the option key to enlarge text while keeping the ratio the same. I also showed him how to copy characters from costume to costume. 
+
+
+- Student S
+Student S added information about her Scratch project to her Showcase Poster.
+
+{% include zakviewer.html Name="2022-09-23 ChaseGame" ID="https://scratch.mit.edu/projects/736277625/" caption="This project uses the arrow keys to move the player, and if the player is touching the man with crossed arms, he disappears." %}
+
+
+* Student D
+Student D remade his pong game by completing the tutorial. He added various effects like changing color when the ball hits the padded.  
+
+{% include zakviewer.html Name="2022-09-23 ball bounce" ID="https://scratch.mit.edu/projects/732792226/" caption="I showed him how to use a broadcast to add sound and adjust the volume so the paddle sound and game sound could both be heard." %}
+
+
+</details>
+
+
 
 <details markdown=1>
 <summary markdown=1>## September 16th
