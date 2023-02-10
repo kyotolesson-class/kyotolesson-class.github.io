@@ -14,6 +14,10 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 
 <!-- TOC -->
 
+* [September 23rd](#september-23rd)
+  * [Recap for September 23rd](#recap-for-september-23rd)
+* [September 16th](#september-16th)
+  * [Recap for September 16th](#recap-for-september-16th)
 * [September 9th](#september-9th)
   * [Recap for September 9th](#recap-for-september-9th)
 * [September 2nd](#september-2nd)
@@ -93,6 +97,71 @@ Proceed to [Archives](./RoseClassNotes-Archives.html) 》
 </div>
 
 -   Click on the [> Date]() or <span style="color: #3399cc;  border-left: 9px solid #3399cc!important;border-radius: 4px 4px; font-weight: bold">BLUE</span> borders to toggle the <span style="background-color:#ffeca0; border-left: 10px solid #3399cc !important;border-radius: 4px 4px;"><b> &nbsp;<span style="font-size: 70%">▶︎</span>&nbsp;&nbsp;Details&nbsp;&nbsp;&nbsp;&nbsp;</b></span> 
+
+
+<details markdown=1>
+<summary markdown=1>## September 23rd
+</summary>
+
+## September 23rd
+
+### Recap for September 23rd
+
+- Student M
+Student M began early progress on our next project, a Halloween Project. We talked about different kinds of intro screens, and he found a zombie gif he wanted to use online. Using unscreen, we removed the background. He then added some text and I showed him how to use the option key to enlarge text while keeping the ratio the same. I also showed him how to copy characters from costume to costume. 
+
+
+- Student S
+Student S added information about her Scratch project to her Showcase Poster.
+
+{% include zakviewer.html Name="2022-09-23 ChaseGame" ID="https://scratch.mit.edu/projects/736277625/" caption="This project uses the arrow keys to move the player, and if the player is touching the man with crossed arms, he disappears." %}
+
+
+* Student D
+Student D remade his pong game by completing the tutorial. He added various effects like changing color when the ball hits the padded.  
+
+{% include zakviewer.html Name="2022-09-23 ball bounce" ID="https://scratch.mit.edu/projects/732792226/" caption="I showed him how to use a broadcast to add sound and adjust the volume so the paddle sound and game sound could both be heard." %}
+
+
+</details>
+
+
+
+<details markdown=1>
+<summary markdown=1>## September 16th
+</summary>
+
+## September 16th
+
+### Recap for September 16th
+
+Student Y
+: Student Y finished his Showcase presentation and made final adjustments to his project. He got stuck hiding both a sprite and its clone, and the main concept he needed was that broadcasts are run by both parents and clones. Instead of hiding directly, using a broadcast can hide and show them both at the same time. Working independently he also added a button. 
+
+学生Yはショーケースのプレゼンテーションを終え、プロジェクトの最終調整を行いました。彼はスプライトとそのクローンの両方を隠して立ち往生し、彼が必要としていた主なコンセプトは、放送は両親とクローンの両方によって実行されることでした。直接非表示にする代わりに、ブロードキャストを使用すると、両方を同時に非表示にしたり表示したりできます。独立して作業していた彼は、ボタンも追加しました。
+
+Student K
+: He finished his Showcase poster. In his project, his game replay step was not showing the right  background. The key was to find which sprite had the background he wanted, and then which message should show the background. 
+
+彼はショーケースのポスターを完成させました。彼のプロジェクトでは、ゲームのリプレイステップが適切な背景を表示していませんでした。重要なのは、どのスプライトに彼が望む背景があるか、そしてどのメッセージに背景を表示するべきかを見つけることでした。
+
+Student M
+: Student M made an important realization all by himself. He wanted money to be 10 or more, but was using a test if money > 10. He realized that he should use if money > 8 for the test instead. It is impressive that he figured this out on his own, and shows his capacity for logical thinking and problem solving. 
+
+学生Mは、重要なことをすべて自分で実現しました。彼はお金が10以上になることを望んでいましたが、お金が10>かどうかのテストを使用していました。彼は、代わりにテストにお金が8>場合を使うべきだと気付きました。これを自分で考え出し、論理的思考と問題解決の能力を発揮しているのが印象的です。
+
+Student S
+: She is making a second project for her showcase. In fact, she made a mistake (using y instead of x) following the tutorial, it led to some problem solving. I introduced her to the concept of x and y axes, and she was able to find the mistake. When she finished the tutorial project, she did a great job adding up and down motion to it, and adding sound to her project.
+
+彼女はショーケースのために2番目のプロジェクトを作っています。実際、彼女はチュートリアルに従って(xの代わりにyを使用して)間違いを犯し、それはいくつかの問題解決につながりました。私は彼女にx軸とy軸の概念を紹介し、彼女は間違いを見つけることができました。チュートリアル プロジェクトが終了すると、上下の動きを追加し、プロジェクトにサウンドを追加するのに素晴らしい仕事をしました。
+
+
+Student D
+: Student D  did a lot of work adding a second project to his Showcase, when tragedy struck. His computer crashed unexpectedly, and the project was erased from Scratch (somewhat unexplicably). Luckily we have a little time before the showcase to recreate it.
+
+学生Dは、悲劇が襲ったとき、彼のショーケースに2番目のプロジェクトを追加する多くの仕事をしました。彼のコンピュータは予期せずクラッシュし、プロジェクトはスクラッチから消去されました(やや不可解なことに)。幸いなことに、ショーケースの前にそれを再現する時間があります。
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## September 9th

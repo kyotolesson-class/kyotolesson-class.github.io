@@ -15,6 +15,10 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 
 <!-- TOC -->
 
+* [September 24th](#september-24th)
+  * [Recap for September 24th](#recap-for-september-24th)
+* [September 17th](#september-17th)
+  * [Recap for September 17th](#recap-for-september-17th)
 * [September 10th](#september-10th)
   * [Recap for September 10th](#recap-for-september-10th)
 * [September 3rd](#september-3rd)
@@ -99,6 +103,52 @@ Proceed to [Archives](./SunflowerClassNotes-Archives2021.html) 》
 * **NOTE May 31st**: *Please note that some of the Turbowarp project embeds have stopped appearing. Please use the "open in Turbowarp" links while we work on fixing the problem.*
 
 
+<details markdown=1>
+<summary markdown=1>## September 24th
+</summary>
+
+## September 24th
+
+### Recap for September 24th
+
+Student M added a game over screen to his project following my example. 
+
+{% include zakviewer.html Name="2022-09-24 Earth (revised student version) " ID="https://scratch.mit.edu/projects/736285807/" caption="He added a heart and start to the end screen, and added template code to make it play the gif at the end." %}
+
+
+Student T added more to a venus fly trap project.  I showed him how to draw triangles and rotate them to make arrows pointing in different directions. He also played around using the fill tool in different shapes. I gave him a stylus to use which he found useful instead of his finger.
+
+
+
+</details>
+
+
+<details markdown=1>
+<summary markdown=1>## September 17th
+</summary>
+
+## September 17th
+
+### Recap for September 17th
+
+Today was the deadline for finishing the Showcase Posters. The Showcase is intended as a way to recognize and celebrate the hard work the kids have been putting in over the past few months, and especially recently. 
+
+今日はショーケースポスターの仕上げの締め切りでした。ショーケースは、子供たちが過去数ヶ月、特に最近に費やしてきた努力を認識し、祝う方法として意図されています。
+
+The Posters are a way to help make that tangible, but it can't convey the full extent of the kids' work. The Posters are also a way for kids reflect on and understand their coding, but incidentally also gave us a change to support their English writing. For some kids this was mostly a matter of helping them with spelling, but some kids needed more extensive support with grammar, vocabulary and sentence structure. This was a bit new for them, and it took a while for some to get used to it. We tried to set individual goals appropriate to their level and motivation, and help kids that needed it to overcome a lack of confidence and ease with writing. We modified the expectations to match individual aptitudes, so, for example, some did more drawing, and others did more writing.
+
+ポスターはそれを目に見えるものにするのに役立つ方法ですが、子供たちの仕事の全範囲を伝えることはできません。ポスターは、子供たちがコーディングを熟考し、理解する方法でもありますが、偶然にも、英語のライティングをサポートするための変更も与えてくれました。一部の子供たちにとって、これは主にスペルで彼らを助けることの問題でしたが、何人かの子供たちは文法、語彙、そして文の構造でより広範なサポートを必要としました。これは彼らにとって少し新しいことであり、慣れるまでにしばらく時間がかかりました。私たちは、彼らのレベルとモチベーションに適した個々の目標を設定し、それを必要とする子供たちが自信の欠如と書くことの容易さを克服するのを助けようとしました。個人の適性に合わせて期待値を修正したので、例えば、もっと絵を描いた人もいれば、もっと書く人もいました。
+
+In their own way, each child made progress. By combining art, language, and other "modalities", this activity remained accessible at all levels and aptitudes. Some students showed great creativity and expressiveness in their results, and I am sure this was a valuable of making coding a more vivid and sensory experience for them. Others have less of an artistic inclination, but I think this was still a valuable exercise for them.
+
+それぞれの子供がそれぞれの方法で進歩を遂げました。芸術、言語、その他の「モダリティ」を組み合わせることで、この活動はあらゆるレベルと適性でアクセス可能なままでした。何人かの学生は彼らの結果に素晴らしい創造性と表現力を示しました、そして、私はこれが彼らにとってコーディングをより鮮やかで感覚的な経験にするために貴重だったと確信しています。他の人は芸術的な傾向があまりありませんが、これはまだ彼らにとって貴重な練習だったと思います。
+
+The final results will be available for view at our Showcase, which for our class is October 1st. Parents are invited to come sny time during the 2nd hour of class, **after 4:30PM**. We look forward to seeing you.
+
+最終結果は、私たちのクラスが10月1日であるショーケースで見ることができます。両親は、クラスの2時間目にsny時間に来るように招待されています、皆様のご来場をお待ちしております。
+
+
+</details>
 
 <details markdown=1>
 <summary markdown=1>## September 10th

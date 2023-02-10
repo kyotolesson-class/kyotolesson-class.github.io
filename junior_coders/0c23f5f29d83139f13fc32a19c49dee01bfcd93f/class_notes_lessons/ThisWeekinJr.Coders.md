@@ -7,42 +7,73 @@ tags: []
 ---
 <!-- TOC -->
 
-* [This Week in Jr. Coders](#this-week-in-jr-coders)
-  * [Monday](#monday)
-    * [**Hugh**](#hugh)
-    * [**Parachuters**](#parachuters)
-  * [Saturday](#saturday)
-    * [**Mao**](#mao)
-    * [**Neo**](#neo)
-    * [**Yuma**](#yuma)
-    * [**Takuto**](#takuto)
-    * [**Chiharu**](#chiharu)
-  * [Friday](#friday)
-    * [**Daifuku**](#daifuku)
-    * [**Hiro**](#hiro)
-    * [**Keigo**](#keigo)
-    * [**Miki**](#miki)
-    * [**Saki**](#saki)
-    * [**Takuhiro**](#takuhiro)
-    * [**Yuki**](#yuki)
+* [Friday](#friday)
+  * [Sept 16th](#sept-16th)
+  * [**Daifuku**](#daifuku)
+  * [**Hiro**](#hiro)
+  * [**Keigo**](#keigo)
+  * [**Miki**](#miki)
+  * [**Saki**](#saki)
+  * [**Akihiro**](#akihiro)
+  * [**Yuki**](#yuki)
+* [Saturday](#saturday)
+  * [Sept 17th](#sept-17th)
+  * [**Mao**](#mao)
+  * [**Neo**](#neo)
+  * [**Yuma**](#yuma)
+  * [**Takuto**](#takuto)
+  * [**Chiharu**](#chiharu)
+* [Monday](#monday)
+  * [Sept 26](#sept-26)
+  * [**Hugh**](#hugh)
+  * [**Kris**](#kris)
+  * [**Parachuters**](#parachuters)
 
 <!-- /TOC -->
 
 
+## Friday
+### Sept 16th
 
-<div style="font-size: x-large; font-weight: bold; text-decoration: underline; display:block; margin:auto; width:50%; ">2022 September 11th
-</div>
+Whoever hasn't finished their poster should finish it. Then they should finalize their project. These guys have 2 weeks before showcase, so they may be ready a bit soon, and can start on Hallowe'en Projects if not continuing their current project. 
 
-## Monday
+Hallowe'en Project: 
+Must have Intro and Game Over Screen
+Can be a game or story. Can be scary, but age appropriate.
+Must have Storyboard.
+Will do Posters as well, so they must start on Posters & Storyboard first, before coding. 
 
-### **Hugh** 
-Finish Poster and complete the [instructions here](https://digitalgardenforjrcoders.netlify.app/prep-notes/monday-class/2022-monday-student-h/) to make his scroller scroll correctly. {% include zakviewer.html Name="" ID="https://scratch.mit.edu/projects/727457442/" caption="" %}
+### **Daifuku**
+Maybe do another  poster for a different project?
+### **Hiro**
+???
 
-### **Parachuters**
-Finish posters. As a group we will have a small intro on how to add difficulty levels to the game.
+### **Keigo**
+Finish poster. Clean up project.
+
+
+### **Miki**
+He has done quite a bit, so his poster may be ready.
+He should decide when and where to hide/show variables. 
+Possibly add an introduction Screen. 
+If he is ready for showcase, he can begin ot design his next project.
+{% include zakviewer.html Name="2022-09-15 cat city on Scratch" ID="https://scratch.mit.edu/projects/716775548/" caption="" %}
+
+
+### **Saki**
+She may be ready to go, but could add more to her project.
+
+### **Akihiro**
+will be absent
+### **Yuki**
+Finish Poster, clean up project. What does he want to do???
+
+
+
 
 
 ## Saturday
+### Sept 17th
 
 ### **Mao**
 Poster. His code point is making an intro screen. If he wants, he can add the exploding earth based on [instructions here](https://digitalgardenforjrcoders.netlify.app/prep-notes/friday-class/2022-fri-student-m/)
@@ -70,22 +101,19 @@ Poster. Her cod point is using timer blocks
 
 
 
+## Monday
+### Sept 26
+
+These guys are done. Next class is showcase, and everyone will work on finalizing projects and posters. 
+
+Need to do ranked voting for best project. Once in class, once for all classes.
 
 
 
-## Friday
+### **Hugh** 
 
-### **Akihiro**
+### **Kris** 
+Kris seems to have an idea for a project. Give it to her in steps. Looks like a platformer but become a grab game.
 
-### **Daifuku**
-
-### **Hiro**
-
-### **Keigo**
-
-### **Miki**
-
-### **Saki**
-
-### **Yuki**
+### **Parachuters**
 
