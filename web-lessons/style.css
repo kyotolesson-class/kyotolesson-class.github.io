@@ -1,0 +1,34 @@
+
+
+p {
+    font-weight: bold;
+}
+
+#graph-blue {
+    color: blue;
+}
+
+.font-big {
+    font-size: 30px;
+}
+
+h1 {
+    color: red;
+    font-size: 200px;    
+}
+
+button {
+    background-color: orange;
+    padding: 16px;
+    color: white;
+    border-radius: 15px;
+    transition: 2s;
+}
+
+button:hover {
+    background-color: red;
+}
+
+button:active {
+    background-color: green;
+}

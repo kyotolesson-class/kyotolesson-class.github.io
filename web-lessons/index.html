@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>This is a test</h1>
+
+    <button>Click me!</button>
+
+    <p>This is paragraph one</p>
+    <p id="graph-blue" class="font-big">This is paragraph two</p>
+    <p class="font-big">This is paragraph three</p>
+
+    <video src="video.mov" height="300" controls></video>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/pQN-pnXPaVg" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+    <table>
+        <tr>
+            <td class="cell" id="zero" onclick="myFunctionCell1()">
+                <!-- <svg height="100" width="100">
+                    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+                </svg> -->
+            </td>
+            <td class="cell"></td>
+            <td class="cell"></td>
+        </tr>
+        <tr>
+            <td class="cell"></td>
+            <td class="cell"></td>
+            <td class="cell"></td>
+        </tr>
+        <tr>
+            <td class="cell"></td>
+            <td class="cell"></td>
+            <td class="cell"></td>
+        </tr>
+    </table>
+
+
+
+    <script>
+        let myFunctionCell1 = function () {
+            document.getElementById('zero').innerHTML = "<svg height=\"100\" width=\"100\"><circle cx = \"50\" cy = \"50\" r = \"40\" stroke = \"black\" stroke - width=\"3\" fill = \"red\" /></svg>"
+        }
+
+    </script>
+
+    <script src="script.js"></script>
+
+
+    <style>
+        .cell {
+            height: 100px;
+            width: 100px;
+            border: 1px solid black;
+        }
+    </style>
+</body>
+</html>

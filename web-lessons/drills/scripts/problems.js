@@ -22,6 +22,13 @@ const problems = [
         options: ['a string', 'a number', 'an object'],
         answer: 'an object',
         image: 'test3.jpg'
+    },
+    {
+        type: 'multiple choice',
+        question: "Who's your daddy?",
+        options: ['Steve', 'Alex', 'God'],
+        answer: 'Steve',
+        image: 'pic.png'
     }
 ]
 
