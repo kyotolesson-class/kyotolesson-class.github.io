@@ -92,6 +92,21 @@
     </div>
 
     <style>
+        body {
+            overflow-x: hidden;
+        }
+
+        @media (max-width: 370px) {
+            div.strikes.ml-5.mt-3 {
+                font-size: 36px;
+            }
+
+            div.variables h3 {
+                font-size: 20px;
+                margin-left: 16px;
+            }
+        }
+
         h2 {
             background-color: black;
             color: white;
@@ -104,6 +119,7 @@
         .variables {
             margin: auto;
             width: 630px;
+            font-family: monospace;
         }
 
         #prompt {
