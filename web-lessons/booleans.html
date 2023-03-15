@@ -116,6 +116,10 @@
             -khtml-user-select: none; /* webkit browsers */ 
         }
 
+        #prompt span {
+            font-family: monospace;
+        }
+
         .variables {
             margin: auto;
             width: 630px;
@@ -405,9 +409,28 @@
 
         window.onload = newProblem()
 
+        const prompt = document.querySelector('#prompt');
+
         document.querySelectorAll('.btn-attempt').forEach(button => {
             button.onclick = function () {
                 if (eval(this.dataset.value) === eval(problemRaw)) {
+                    prompt.animate([
+                        {
+                            transform: "scale(1) rotate(-2deg)",
+                            opacity: "100%",
+                        },
+                        {
+                            transform: "scale(1.2) rotate(2deg)",
+                            opacity: "5%"
+                        },
+                        {
+                            transform: "scale(1) rotate(0deg)",
+                            opacity: "100%"
+                        }
+                    ], {
+                        iterations: 1,
+                        duration: 75
+                    })
                     increaseScore()
                     if (Number(scoreCounter.innerText) % 5 === 0) {
                         levelUp()
