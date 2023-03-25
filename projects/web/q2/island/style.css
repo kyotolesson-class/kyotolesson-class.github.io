@@ -1,0 +1,88 @@
+body{
+    background-image:url("umi.jpeg");
+    background-size: cover;
+}
+#shimadiv{
+    width: 100%;
+    position: absolute;
+    top: 330px;
+}
+#shima{
+    margin: auto;
+    display: block;
+    width: 630px;
+}
+#jumpdiv{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    z-index: 90000000000000000000000000000000;
+}
+#jump{z-index: 90000000000000000000000000000000;
+    width: 200px;
+
+}
+
+#airplane{
+    position: absolute;
+    top: -58px;
+    right: 474px;
+    animation-name: flying;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+#hito{
+    position: absolute;
+    top: -30px;
+    right: 474px;
+    opacity:0%;
+    animation-name: flying;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+#over{
+    position: absolute;
+    top: 250px;
+    right: 400px;
+    opacity: 0%;
+}
+
+#clear{
+    position: absolute;
+    top: 250px;
+    right: 400px;
+    opacity: 0%;
+}
+#umi{
+    position: absolute;
+    opacity:0%;
+    left:0px;
+    bottom:0px;
+    height:200px;
+}
+#umi1{
+    position: absolute;
+    opacity:0%;
+    right:0px;
+    bottom:0px;
+    height:200px;
+}
+@keyframes flying {
+    0% {
+        right: 0vw;
+        transform: scaleX(1);
+    }
+  	50% {
+      	right: 100vw;
+        transform: scaleX(1);
+  	}
+    51% {
+        transform: scaleX(-1);
+    }
+    100% {
+        right: 0vw;
+        transform: scaleX(-1);
+    }
+}

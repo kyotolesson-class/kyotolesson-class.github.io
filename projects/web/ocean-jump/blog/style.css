@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    
+}
+
+#Kyoto-Lesson{
+    display: block;
+    margin: auto;
+    width: 30%;
+    left: 35%;
+}
+
+.P-color * {
+    text-align: center;
+}
+
+#title{
+    font-size: 40px;
+    color: white;
+}
+
+#who{
+    display: block;
+    color: white; 
+}
+
+#Blog-content{
+    width: 60%;
+    margin: auto;
+}
+
+#paragraph-1{
+    color: white; 
+}
+
+#paragraph-2{
+    color: white;
+}
+
+#ocean-img{
+    width: 70%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+
+#website{
+    width: 30%;
+    display: block;
+    margin: auto;
+}

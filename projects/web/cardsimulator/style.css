@@ -1,0 +1,82 @@
+.cards{
+    margin-top: 50px;
+    transform: scale(.9);
+}
+
+.card {
+    height:180px ;
+    width:129px ;
+    background-color: white;
+    border-radius:5px;
+    margin-left: -107px;
+}
+
+.card{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    background-image: url("back.jpeg"); 
+    background-size: contain;
+    transition: .3s;
+}
+
+.front {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.cards > *:hover {
+ margin-top: -60px;
+}
+
+.card2 {
+    height:180px ;
+    width:129px ;
+    background-color: white;
+    border-radius:5px;
+    margin-left: -360px;
+}
+
+.card2{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    background-image: url("back.jpeg"); 
+    background-size: contain;
+}
+
+.front {
+    background-color: white;
+    border: 1px solid black;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+
+/* #alex {
+    animation-name: myAnimation;
+    animation-duration: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes myAnimation {
+    0% {
+     
+        transform: scaleX(1);
+    }
+    10% {
+      margin-top: 70px;
+        transform: scaleX(1);
+  }
+    100% {
+      margin-top: 70px;
+        transform: scaleX(-1);
+    }
+} */

@@ -1,0 +1,94 @@
+body {
+    margin: 0px;
+}
+
+table {
+    position: fixed;
+    border-collapse: collapse;
+}
+
+td {
+    height: 6.25vh;
+    width: 6.25vh;
+    padding: 0px;
+    box-shadow: inset 1px 1px 1px black;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#key1 {
+    background-color: red;
+}
+
+#key2{
+background-color: green;
+}
+
+#key3{
+background-color: yellow;
+}
+
+
+#chest1{
+    background-color: red;
+
+}
+
+#chest2{
+    background-color: green;
+}
+
+#chest3{
+    background-color: yellow;
+
+}
+
+.key {
+    background-image: url("./image/room1/key.png");
+    background-size: contain;
+
+}
+
+.chest {
+    background-image: url("./image/room1/chest.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#freddy {
+    height: 6.25vh;
+    width: 6.25vh;
+    transition: 0.2s;
+    position: absolute;
+
+}
+
+#vannessa {
+    height: 6.25vh;
+    width: 6.25vh;
+    transition: 0.2s;
+    position: absolute;
+}
+
+#oof {
+    color: red;
+    font-size: 80px;    
+    position: absolute;
+    left: 78%;
+}
+
+#winner {
+    color: green;
+    font-size: 80px;
+    position: absolute;
+    left: 78%;
+    top: 50%;
+}
+
+#freddyded {
+    height: 6.25vh;
+    width: 6.25;
+    position: absolute;
+}

@@ -1,0 +1,233 @@
+body {
+    /* overflow: ; */
+    background-size: cover;
+    background-image: url("../splatpoo/Images/background.jpg");
+}
+
+#healthbar{
+    left: 1%;
+    top: 1%;
+    width: 30%;
+    position: relative;
+    display: flex;
+}
+
+#score-background{
+    position: absolute;
+    width: 20%;
+    height: 8%;
+    left: 79%;
+    top: 1.3%;
+
+    background: #D9D9D9;
+    border-radius: 17px;
+}
+
+#score{
+    position: absolute;
+    width: 50%;
+    height: 80%;
+    left: 46%;
+    top: 10%;
+    align-items: center;
+
+
+    background: #459844;
+    border-radius: 17px;
+}
+
+#score-number{
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    left: 43%;
+    top: -2%;
+    font-size: 30px;
+    align-items: center;
+}
+
+#word-score{
+    position: absolute;
+    width: 70%;
+    height: 80%;
+    left: 4%;
+    top: 9%;
+    font-size: 30px;
+    align-items: center;
+}
+
+#bird{
+    width: 120px;
+    position: relative;
+    display: block;
+}
+
+#bird-right{
+    width: fit-content;
+    position: absolute;
+}
+
+#poo{
+    display: block;
+    width: 40px;
+    margin: auto;
+    
+}
+
+#div-poo{
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    z-index: -100;
+}
+
+#man{
+    bottom: 10px;
+    position: absolute;
+}
+
+#dead{
+    position: absolute;
+    background-color: black;
+    left: 15%;
+    top: 15%;
+    width: 70%;
+    height: 70%;
+    display: none;
+    align-items: center;
+    border-radius: 15px;
+}
+
+#gameOver-font{
+    position: absolute;
+    font-size: 50px;
+    color: red;
+    width: 30%;
+    left: 35%;
+    top: 10%;
+    display: none;
+    background-color: white;
+    
+}
+
+#deadBird1{
+    position: absolute;
+    width: 15%;
+    left: 2%;
+    top: 5%;
+}
+
+#deadBird2{
+    position: absolute;
+    width: 15%;
+    right: 2%;
+    top: 5%;
+}
+
+#deadBird3{
+    position: absolute;
+    width: 15%;
+    right: 2%;
+    bottom: 5%;
+}
+
+#deadBird4{
+    position: absolute;
+    width: 15%;
+    left: 2%;
+    bottom: 5%;
+}
+
+.muteButton{
+    position: absolute;
+    left: 390px;
+    top: 13px;
+}
+
+#mute{
+    width: 50px;
+}
+
+#unmute{
+    width: 50px;
+    display: none;
+}
+
+#StartGame{
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    left: 1px;
+    top: 25%;
+    height: 14%;
+    position: absolute;
+    font-size: 60px;
+
+}
+
+#return{
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    left: 1px;
+    top: 45%;
+    height: 7%;
+    position: absolute;
+    font-size: 30px;
+}
+
+#return:hover{
+    background-color: yellow;
+    width: 100%;
+    text-align: center;
+    left: 1px;
+    top: 45%;
+    height: 10%;
+    position: absolute;
+    font-size: 45px;
+}
+
+#New{
+    background-color: white;
+    width: 100%;
+    text-align: center;
+    left: 1px;
+    top: 60%;
+    height: 7%;
+    position: absolute;
+    font-size: 30px;
+}
+
+#New:hover{
+    background-color: yellow;
+    width: 100%;
+    text-align: center;
+    left: 1px;
+    top: 60%;
+    height: 10%;
+    position: absolute;
+    font-size: 45px;
+}
+
+#Controls{
+    background-color: yellow;
+    width: 30%;
+    margin: auto;
+    display: block;
+    left: 500px;
+    height: 10%;
+    font-size: 45px;
+    position: absolute;
+}
+
+#Controls-1{
+    background-color: yellow;
+    width: 30%;
+    margin: auto;
+    display: block;
+    left: 500px;
+    height: 10%;
+    font-size: 45px;
+    position: absolute;
+    display: none;
+}

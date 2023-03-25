@@ -1,0 +1,33 @@
+#stage {
+    background-size: cover;
+    /* background-image: url('bg_house_kitchen.jpg'); */
+    background-color: white;
+}
+
+
+
+/* other styles -- you can ignore these */
+.message {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #d0d0d0b0;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: max-content;
+    background-color: white;
+    z-index: -1;
+}
+
+#mom {
+    display: block;
+    bottom: 100px;
+    left: 200px;
+    transform: scale(5);
+}
+
+#girl {
+    display: block;
+    bottom: 100px;
+    left: 800px;
+    transform: scale(5);
+
+}

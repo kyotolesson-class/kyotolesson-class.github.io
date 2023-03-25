@@ -1,0 +1,53 @@
+.pixel {
+    height: 10px;
+    width: 10px;
+    background: chocolate;
+    position: absolute;
+    border-radius: 50%;
+}
+
+#stage {
+    width: 90vw;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+    aspect-ratio: 16 / 9;
+}
+
+#bu {
+    font-size: 35px;
+    background-color:black ;
+    color: red;    
+}
+#but {
+    font-size: 35px;
+    background-color:black ;
+    color: red;    
+}
+
+
+/* other styles -- you can ignore these */
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    background-size: cover;
+    background: url('./backdrops/noir.png');
+}
+
+.message {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #d0d0d0b0;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: max-content;
+    background-color: white;
+    z-index: 1;
+}
+
+#sa {
+    background-color:black ;
+    color: red;   
+    font-size: 50px;
+
+}

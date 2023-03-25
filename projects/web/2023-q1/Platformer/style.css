@@ -1,0 +1,28 @@
+body{
+    background-image: url("./background0.png");
+}
+
+img {
+    position: absolute;
+    bottom: 0px;
+  	position:absolute;
+  }
+
+  .jumping {
+    animation-name: jump;
+    animation-duration: 1.5s;
+    animation-timing-function:cubic-bezier(0.42, 0, 0.58, 1.0);
+    animation-iteration-count: 1;
+  }
+
+  @keyframes jump {
+    0% {
+      bottom:0px;
+    }
+    50% {
+      bottom: 700px;
+    }
+    100%{
+        bottom:0px;
+    }
+  }

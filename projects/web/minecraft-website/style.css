@@ -1,0 +1,40 @@
+h1{
+    color:rgb(223, 22, 22);
+    font-family:CustomFont ;
+}
+
+@font-face {
+    font-family: "CustomFont";
+    src: url("MinecraftTen-VGORe.ttf");
+}
+body{
+    background: url('../minecraft-website/171177.jpeg');
+    background-attachment: fixed;
+    font-family:CustomFont ;
+}
+p{
+    color: lawngreen;
+}
+h3{
+    color: dodgerblue;
+}
+h2{
+    color: gold;
+}
+img.center{
+    margin: auto;
+    display: block;
+}
+span{
+    color:aqua;
+    font-size: 150px;
+}
+#nav{
+    width: 100vw;
+    height: fit-content;
+    background-color: mediumblue;
+    position: fixed;
+    top: 0px;
+    color: aqua;
+    font-size: 83px;
+}

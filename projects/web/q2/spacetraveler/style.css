@@ -1,0 +1,176 @@
+body{
+    background-image: url("Space.webp");
+    background-size: cover;
+    overflow: hidden;
+    animation-duration: 1s;
+}
+
+.spaceship{           
+    position: absolute;
+    /* transform: rotate(180deg); */
+    /* /* width: 270px; */
+    height: 500px;
+    left: 730px ;
+    top: 200px;            
+    animation-name: orbit; 
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes orbit{
+    from{
+transform: rotate(0deg);
+    }
+    to{
+transform: rotate(359deg);  
+    }
+}
+
+@keyframes fly{
+    from{ 
+        top: 370px;
+        left: 930px;
+    }
+    to{
+        top: 60px;
+        left: 30px;
+    }
+}
+
+#earth {
+    animation-duration: 70s;
+    animation-name: earthShiftSlow;
+}
+
+@keyframes earthShiftSlow {
+    0% {
+        margin-left: 0px;
+    }
+
+    100% {
+        margin-left: -800px;
+    }
+}
+
+@keyframes earthShift {
+    from {
+        margin-left: -100px;
+        transform: scale(1);
+    }
+
+    to {
+        margin-left: -3000px;
+        transform: scale(0);
+    }
+}
+
+#moon {
+    animation-duration: 1s;
+}
+
+.moon {
+    animation-duration: 1s;
+    position: absolute;
+}
+
+@keyframes zoomout {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(0);
+    }
+}
+
+@keyframes reset {
+    from {
+        top: 0px;
+        left: -1000px;
+    }
+
+    to {
+        top: 364px;
+        left: 670px;
+    }
+}
+
+@keyframes shift {
+    from {
+        background-position-y: 0px;
+    }
+    to {
+        background-position-y: -300px;
+    }
+}
+
+
+.moon{
+    width: 50px;
+    position: absolute;
+    left: 670px;
+    top: 364px;
+}
+
+#Jupiter{
+    position: absolute;
+    animation-duration: 1s;
+    top: 2000px;
+}
+
+@keyframes zoomin{
+    from {
+        top: 2000px;
+        left: 1000px;
+    }
+    to {
+        top: 364px;
+        left: 670px;
+    }
+}
+
+#Jupiter2 {
+    position: absolute;
+    animation-duration: 1s;
+    top: -2000px;
+}
+
+@keyframes zoomin2 {
+    from {
+        top: -2000px;
+        left: 1000px;
+    }
+
+    to {
+        top: 364px;
+        left: 670px;
+    }
+}
+
+@keyframes shift2 {
+    from {
+        background-position-y: -300px;
+    }
+
+    to {
+        background-position-y: 0px;
+    }
+}
+
+#Jupiter3 {
+    position: absolute;
+    animation-duration: 1s;
+    top: 2000px;
+}
+
+@keyframes zoomin3 {
+    from {
+        top: 1000px;
+        left: -1000px;
+    }
+
+    to {
+        top: 364px;
+        left: 670px;
+    }
+}

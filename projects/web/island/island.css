@@ -1,0 +1,110 @@
+body{
+    background-image: url("./images/island.png");
+    background-size: cover;
+}
+
+.spearguy{
+    left: 250px;
+    position: absolute;
+    top: 500px;
+} 
+
+
+.spearguy #guy {
+    position: relative;
+}
+
+.spearguy #guyded {
+    position: relative;
+    transform: rotate(90deg);
+}
+
+.spearguy #spear{
+    position: relative;
+    bottom: 205px;
+    left: -190px;
+}
+
+#fish {
+    position: absolute;
+    animation-name: swim;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    height: 60px;
+}
+
+@keyframes swim {
+    0% {
+        left: 10px;
+        bottom: 30px;
+        transform: scaleX(-1);
+    }
+    50% {
+        left:1900px;
+        bottom: 30px;
+        transform: scaleX(-1);
+    }
+    50.1%{
+        transform: scaleX(1);
+    }
+    100% {
+        left: 10px;
+        bottom: 30px;
+        transform: scaleX(1);
+    }
+}
+
+#crow{
+    width: 250px;
+    position: absolute;
+    top: 0px;
+    left: 1000px;
+    position: absolute;
+    animation-name: fly;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@keyframes fly {
+    0% {
+        left: -500px;
+        bottom: 30px;
+        transform: scaleX(-1);
+    }
+    50% {
+        left:1900px;
+        bottom: 30px;
+        transform: scaleX(-1);
+    }
+    50.1%{
+        transform: scaleX(1);
+    }
+    100% {
+        left: -500px;
+        bottom: 30px;
+        transform: scaleX(1);
+    }
+}
+
+h1{
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+} 
+
+#hunger1 #hunger2{
+    width: 100%;
+    border: 10px solid greenyellow;
+    background-color: greenyellow;
+}
+
+#hunger1{
+    border: 10px solid greenyellow;
+}
+
+#hunger1 #hunger2 h5{
+    color: greenyellow;
+}

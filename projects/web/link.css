@@ -1,0 +1,16 @@
+.project-link {
+    display: block;
+    margin: auto;
+    background-color: rgb(231, 245, 250);
+    text-transform: uppercase;
+    width: max-content;
+    padding: 18px;
+    margin-top: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    transition: .2s;
+}
+
+.project-link:hover {
+    transform: scale(1.03);
+}

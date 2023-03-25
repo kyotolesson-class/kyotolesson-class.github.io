@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWARDS 🎉🎉🎉</title>
+</head>
+<body>
+    
+    <canvas id="my-canvas"></canvas>
+
+    <div id="content">
+        <h2 id="award-name">WEB APP AWARDS 🏆</h1>
+        <h1 id="student-name"></h2>
+        <img src="./media/giphy.webp" alt="" id="drumroll" style="display: none;">
+    </div>
+
+    <style>
+
+        body {
+            overflow: hidden;
+            font-family: Arial, Helvetica, sans-serif;
+            animation-name: rainbow;
+            animation-duration: 60s;
+            animation-iteration-count: infinite;
+        }
+
+        #content {
+            position: absolute;
+            top: 30%;
+            left: 40%;
+            transform: scale(2.5);
+        }
+
+        #student-name {
+            animation-name: pulsate;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+        }
+
+        canvas {
+            width: 100vw;
+            height: 100vh;
+        }
+
+        @keyframes rainbow {
+            0% {
+                background-color: rgba(255, 0, 0, 0.406);
+            }
+            14% {
+                background-color: rgba(255, 166, 0, 0.475);
+            }
+            21% {
+                background-color: rgba(255, 255, 0, 0.415);
+            }
+            28% {
+                background-color: rgba(0, 128, 0, 0.434);
+            }
+            35% {
+                background-color: rgba(0, 0, 255, 0.427);
+            }
+            42% {
+                background-color: rgba(76, 0, 130, 0.401);
+            }
+            49% {
+                background-color: rgba(238, 130, 238, 0.413);
+            }
+            56% {
+                background-color: rgba(76, 0, 130, 0.413);
+            }
+            63% {
+                background-color: rgba(0, 0, 255, 0.457);
+            }
+            70% {
+                background-color: rgba(0, 128, 0, 0.443);
+            }
+            77% {
+                background-color: rgba(255, 255, 0, 0.459);
+            }
+            84% {
+                background-color: rgba(255, 166, 0, 0.475);
+            }
+            100% {
+                background-color: rgba(255, 0, 0, 0.468);
+            }
+        }
+
+        @keyframes pulsate {
+            0% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.3);
+            }
+            100% {
+                transform: scale(1);
+            }
+        }
+    </style>
+
+    <script src="confetti-js/dist/index.min.js"></script>
+    <script>
+
+        let index = -1;
+
+        let awards = [
+            'Game Master Award',
+            'Coolest Animations',
+            'Biggest Leap Forward',
+            'Best Storytelling',
+            'Best use of HTML',
+            'Funniest Idea',
+            'Student Choice - THIRD PLACE 🥉',
+            'Student Choice - SECOND PLACE 🥈',
+            'Student Choice - FIRST PLACE 🥇'
+        ]
+
+        let studentAwards = {
+            'Game Master Award': 'Masaki (Splatpoo!)',
+            'Coolest Animations': 'Yehonatan (Space Traveler)',
+            'Biggest Leap Forward': 'Arisa (Island Game)',
+            'Best Storytelling': 'Noémie (Climate Change)',
+            'Best use of HTML': 'Sumire (Trash Game)',
+            'Funniest Idea': 'Renge (Stop Smoking!)',
+            'Student Choice - THIRD PLACE 🥉': 'Arisa (Island Game)',
+            'Student Choice - SECOND PLACE 🥈': 'Masaki (Splatpoo!)',
+            'Student Choice - FIRST PLACE 🥇': 'Noémie (Climate Change)'
+        }
+
+        let awardName = document.getElementById('award-name')
+        let studentName = document.getElementById('student-name')
+
+        let drumroll = new Audio('./media/drumroll.wav')
+
+
+        var confettiSettings = { target: 'my-canvas' };
+        var confetti = new ConfettiGenerator(confettiSettings);
+        confettiOn = false
+
+        document.addEventListener('keyup', e => {
+            if (e.key == ' ' && !confettiOn) {
+                confetti = new ConfettiGenerator(confettiSettings);
+                confetti.render(); 
+                confettiOn = true;
+                studentName.innerText = studentAwards[awards[index]];
+            }
+        })
+
+        document.addEventListener('keyup', e => {
+            if (e.key == 'ArrowRight') {
+                awardName.innerText = ''
+                studentName.innerText = ''
+                confetti.clear();
+                confettiOn = false;
+                index++;
+                awardName.innerText = awards[index]
+            }
+
+            if (e.key == 'ArrowDown' && !confettiOn) {
+                drumroll.play()
+                document.getElementById('drumroll').style.display = 'block'
+                setTimeout(() => {
+                    document.getElementById('drumroll').style.display = 'none'
+                    confetti = new ConfettiGenerator(confettiSettings);
+                    confetti.render();
+                    confettiOn = true;
+                    studentName.innerText = studentAwards[awards[index]];
+                }, 4200)
+            }
+        })
+    </script>
+</body>
+</html>

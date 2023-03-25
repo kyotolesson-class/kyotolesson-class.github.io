@@ -1,0 +1,44 @@
+#stage {
+    background-size: cover;
+    background-image: url('./backdrops/house_kitchen.jpeg');
+}
+
+
+#cupcake1{
+    width: 260px;
+}
+#cupcake2{
+    width: 160px;
+}
+#cupcake3{
+    width: 140px;
+}
+#deco{
+    width: 300px;
+}
+
+#wrong-4.png{
+    width: 20px;
+}
+#chocopen{
+    width: 100px;
+    z-index: 5;
+}
+/* other styles -- you can ignore these */
+.message {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #d0d0d0b0;
+    padding: 10px 15px;
+    border-radius: 20px;
+    width: max-content;
+    background-color: white;
+    z-index: 1;
+}
+.pixel {
+    height: 10px;
+    width: 10px;
+    background: palevioletred;
+    position: absolute;
+    border-radius: 50%;
+    z-index: 1;
+}

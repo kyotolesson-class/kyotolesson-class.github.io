@@ -1,0 +1,63 @@
+#supa {
+    width: 1500px;
+}
+
+#ayashi {
+    width: 500px; ;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+#moteru {
+    display: none;
+}
+
+#bare {
+    display: none;
+}
+
+#deme {
+    display: none;
+}
+
+#chikusho{
+    display: none;
+}
+
+button{
+    width: 150px;
+    height: 70px;
+    font-size: 20px;
+    background-color: yellow;
+}
+
+img.level2 {
+    width: 1200px;
+    height: auto;
+}
+
+#nusumu {
+    width: 100vw;
+}
+
+#tanaka-stage {
+    background: url("./sprites/suap.jpg");
+    background-size: cover;
+}
+
+#tanaka {
+    position:absolute;
+    left: 0vw;
+    animation: walk 5s infinite linear;
+    width: 800px;
+}
+
+@keyframes walk {
+    from {
+        left: 0vw;
+    }
+    to {
+        left: 90vw;
+    }
+}
