@@ -1,0 +1,28 @@
+body{
+    background-image: url("./intro\ background.jpg");
+    background-size: cover;
+    background-position-y: -100px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+p{
+    color: aliceblue;
+
+
+}
+.Welcome{
+    color: aqua;
+    text-align: center
+
+}
+
+.Warning{
+    color: wheat;
+    text-align: center;
+}

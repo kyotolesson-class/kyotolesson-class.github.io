@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="shortcut icon" href="">
+    <link rel="stylesheet" href="intro.css">
+    
+</head> 
+
+  <body>
+    <div class = "myDiv zoom">
+    <h1>Welcome to <br> Spooky Horror Game</h1>
+  </div>
+
+  <div class = "warning" style="visibility:hidden">
+
+    <p> Are you ready to be scared? In this game, you will explore a haunted house and try to survive the terrors that lurk within. From jump scares to puzzles, this game will keep you on the edge of your seat.</p>
+    <p >But be warned, the house is full of secrets, and you never know what you might find. Will you make it out alive?</p>
+  </div>
+
+  <!-- <a class = ”StartButton” href="./room.html" target="_blank">Play Now</a> -->
+  <img class = "smokeScreen" src="smoke.gif" width="200" height="600">
+  <img class = "smokeScreen1" src="smoke.gif" width="200" height="600">
+  <a href="./room.html" class="StartButton">Link Button</a>
+
+  <p></p>
+
+
+  <script>
+    let myDiv = document.querySelector('.myDiv')
+    let warning = document.querySelector('.warning')
+
+    document.body.onanimationend = () => {
+      document.body.style.background = 'black'
+    }
+
+    myDiv.onanimationend = () => {
+      myDiv.style.fontSize = '60px'
+      myDiv.style.marginTop = '200px'
+
+      warning.classList.add('zoom')
+      warning.style.visibility = "visible";
+
+      setTimeout(() => {
+        myDiv.innerHTML = "";
+        document.body.style.backgroundImage = "url(11.gif)";
+        document.body.style.width ;
+
+      }, 1000)
+      
+    }
+      document.body.onanimationend = () => {
+      document.body.style.background = 'black'
+    }
+
+    warning.onanimationend = () => {
+    warning.style.fontSize = '60px'
+    warning.style.top= '20px'
+      
+    }
+
+
+
+
+  </script>
+
+
+    <script src = "script.js" > </script>
+  </body>
+</html> 
+
