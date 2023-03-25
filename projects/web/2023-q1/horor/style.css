@@ -1,0 +1,149 @@
+body {
+    background: black;
+}
+
+#fill {
+    width: 100%;
+    max-height: 1000px;
+}
+
+.startbtn {
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    position: fixed;
+    top: 50%;
+    left: 40%;
+    color: white;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pg2img {
+    width: 900px;
+    height: auto;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    left: 30%;
+}
+
+.catchbtn {
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    top: 75%;
+    right: 45%;
+    float: right;
+    color: white;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#choice {
+    width: 900px; 
+    height: auto;
+    position: fixed;
+    top: 0%;
+    left: 20%;
+
+}
+#schoolbg {
+    width: 100%;
+}
+
+.schoolbtn {
+    background-color: cadetblue;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 75%;
+    left: 0%;
+    color: aliceblue;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.huntedbtn {
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 75%;
+    right: 0%;
+    color: aliceblue;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#girl {
+    width: 300px;
+    height: auto;
+    padding-top: 200px;
+}
+
+
+
+#ghost {
+    width: 300px;
+    height: auto;
+    position:absolute;
+    left: 0px;
+    top: 100px;
+}
+
+#ghostzone {
+    width: 1000px; 
+    float: left;
+
+}
+#instr {
+    width: 1000px;
+    height: auto;
+    position: absolute;
+    top: 40px;
+    left: 30%;
+}
+#story {
+    width: 200px; 
+    height: 200px;
+    float: left; 
+    color: white;
+    font-size: 36px;
+}
+#win {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+
+.trybtn {
+    background-color:rgb(78, 78, 223);
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    top: 75%;
+    right: 15%;
+    float: right;
+    color: white;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sed {
+    color: antiquewhite;
+}
+
+#countdown {
+    color: white;
+    font-size: 32px;
+    width: 200px;
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+}

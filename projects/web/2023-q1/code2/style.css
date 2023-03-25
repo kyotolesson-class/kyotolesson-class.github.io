@@ -1,0 +1,44 @@
+p {
+    font-size: 35px;
+}
+#text {
+    width: 300px; 
+    height:auto;
+    position: fixed;
+    top:50px;
+    left:0px;
+}
+
+#clown {
+    width: auto;
+    height: auto;
+    padding-top: 100px;
+}
+
+#clownhp {
+    position: fixed;
+    top: 0px;
+    left: 20px;
+}
+
+#girl {
+    width: 450px;
+    height: auto;
+    padding-top: 240px;
+}
+
+#girlhp {
+    position: fixed;
+    top: 0px;
+    right: 30px;
+}
+
+#instr {
+    width:850px;
+    height:auto;
+    position: absolute;
+    top: 0px;
+    left: 28%;
+}
+#goback {
+    background-color:royalblue;
