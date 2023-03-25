@@ -1,0 +1,28 @@
+h1 {
+    font-family: arial;
+}
+body {
+    cursor: url("maues2.0.png"), auto;
+    background-color: rgba(25, 0, 43, 0.895);     
+    font-family:neon;
+font-size: 20px;
+color: rgb(39, 236, 25);
+}
+a {
+    color: rgb(226, 238, 7) ;
+    text-decoration: overline;
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(8, 116, 240);
+}
+
+#tall{
+    color: rgb(5, 218, 255);   
+}
+#IO{
+    color: rgb(114, 6, 239);
+}
+#G{
+color: rgb(247, 7, 7);
+}
