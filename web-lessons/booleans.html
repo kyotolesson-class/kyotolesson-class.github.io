@@ -417,11 +417,12 @@
                     prompt.animate([
                         {
                             transform: "scale(1) rotate(-2deg)",
-                            opacity: "100%",
+                            opacity: "100%"
                         },
                         {
-                            transform: "scale(1.2) rotate(2deg)",
-                            opacity: "5%"
+                            transform: "scale(1.2) rotate(3deg)",
+                            opacity: "5%",
+                            backgroundColor: "lime"
                         },
                         {
                             transform: "scale(1) rotate(0deg)",
@@ -429,7 +430,7 @@
                         }
                     ], {
                         iterations: 1,
-                        duration: 75
+                        duration: 150
                     })
                     increaseScore()
                     if (Number(scoreCounter.innerText) % 5 === 0) {
